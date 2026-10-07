@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NBA Core Plays</title>
+<style>
+  :root {
+    --bg: #ffffff; --panel: #f6f7f9; --line: #e3e6eb; --ink: #14181f; --muted: #667085;
+    --navy: #1a2744; --accent: #e8590c;
+    --core: #1a2744; --strong: #0f766e; --large: #7c3aed;
+    --good: #15803d; --warn: #b45309; --bad: #b91c1c;
+    --radius: 10px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #12151c; --panel: #1b202a; --line: #2a303c; --ink: #e8eaf0; --muted: #97a0b3;
+      --core: #3b5bdb; --strong: #14b8a6; --large: #a78bfa;
+      --good: #4ade80; --warn: #fbbf24; --bad: #f87171;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #12151c; --panel: #1b202a; --line: #2a303c; --ink: #e8eaf0; --muted: #97a0b3;
+    --core: #3b5bdb; --strong: #14b8a6; --large: #a78bfa;
+    --good: #4ade80; --warn: #fbbf24; --bad: #f87171;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--ink);
+    font: 14px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 14px 16px 18px; }
+
+  header { display: flex; align-items: flex-end; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }
+  h1 { margin: 0; font-size: 22px; letter-spacing: -0.2px; }
+  .sub { color: var(--muted); font-size: 12.5px; margin-top: 2px; }
+  .sample { background: #fff7ed; color: #9a3412; border: 1px solid #fed7aa; border-radius: 8px; padding: 6px 10px; font-size: 12px; margin-bottom: 10px; }
+  :root[data-theme="dark"] .sample { background: #3a2412; color: #fdba74; border-color: #7c3f12; }
+
+  .controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 10px; }
+  .tabs { display: flex; gap: 4px; background: var(--panel); border: 1px solid var(--line); border-radius: 999px; padding: 3px; overflow-x: auto; max-width: 100%; }
+  .tab, .seg button { border: 0; background: transparent; color: var(--muted); font: inherit; font-weight: 600; padding: 6px 14px; border-radius: 999px; cursor: pointer; white-space: nowrap; }
+  .tab.on, .seg button.on { background: var(--navy); color: #fff; }
+  :root[data-theme="dark"] .tab.on, :root[data-theme="dark"] .seg button.on { background: #3b5bdb; }
+  .seg { display: flex; background: var(--panel); border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
+  .grow { flex: 1; }
+  #sort { display: none; }
+  select, input[type=search] { font: inherit; color: var(--ink); background: var(--panel); border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px; }
+  input[type=search] { width: 150px; }
+  label.chk { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 12.5px; cursor: pointer; }
+
+  .group-h { display: flex; align-items: baseline; gap: 8px; margin: 18px 0 6px; padding-bottom: 5px; border-bottom: 2px solid var(--accent); }
+  .group-h h2 { margin: 0; font-size: 15px; color: var(--navy); letter-spacing: .4px; }
+  :root[data-theme="dark"] .group-h h2 { color: #e8eaf0; }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .group-h h2 { color: #e8eaf0; } }
+  .group-h span { color: var(--muted); font-size: 12px; }
+
+  .cols { display: grid; grid-template-columns: 28px minmax(170px, 1.1fr) 92px 84px 58px 58px 2.4fr; gap: 10px; padding: 6px 10px; color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: .5px; }
+  .row { display: grid; grid-template-columns: 28px minmax(170px, 1.1fr) 92px 84px 58px 58px 2.4fr; gap: 10px; align-items: start; padding: 10px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg); margin-bottom: 6px; }
+  .row:hover { background: var(--panel); }
+  .row.core { border-left: 4px solid var(--core); }
+  .rank { color: var(--muted); font-weight: 700; padding-top: 2px; }
+  .who { display: flex; gap: 9px; align-items: center; min-width: 0; }
+  .av { flex: 0 0 38px; width: 38px; height: 38px; border-radius: 50%; background: var(--panel); border: 1px solid var(--line); display: grid; place-items: center; font-weight: 700; font-size: 12px; color: var(--muted); overflow: hidden; }
+  .av img { width: 100%; height: 100%; object-fit: cover; object-position: top; }
+  .nm { font-weight: 700; line-height: 1.2; }
+  .mt { color: var(--muted); font-size: 12px; }
+  .pill { display: inline-block; font-size: 10.5px; font-weight: 700; padding: 1px 7px; border-radius: 999px; color: #fff; letter-spacing: .3px; vertical-align: 1px; }
+  .t-Core { background: var(--core); } .t-Strong { background: var(--strong); } .t-Large-Field { background: var(--large); }
+  .typecell { padding-top: 1px; }
+  .mtype { display: none; }
+  .cols .s { cursor: pointer; user-select: none; }
+  .cols .s:hover, .cols .s.on { color: var(--ink); }
+  .cols .s .ar { display: inline-block; width: 10px; font-size: 9px; }
+  .st { margin-left: 4px; background: transparent; border: 1px solid currentColor; }
+  .st.good { color: var(--good); } .st.warn { color: var(--warn); } .st.bad { color: var(--bad); } .st.neutral { color: var(--muted); }
+  .num { font-variant-numeric: tabular-nums; text-align: right; padding-top: 2px; }
+  .num small { display: none; color: var(--muted); font-size: 10.5px; }
+  .val-hi { color: var(--good); font-weight: 700; }
+  .blurb { color: var(--ink); opacity: .92; }
+  .blurb strong { font-weight: 700; }
+  .empty { padding: 28px; text-align: center; color: var(--muted); }
+  footer { margin-top: 14px; color: var(--muted); font-size: 11.5px; }
+
+  @media (max-width: 700px) {
+    .cols { display: none; }
+    .row { grid-template-columns: 24px 1fr auto auto auto; row-gap: 6px; }
+    .typecell { display: none; }
+    .mtype { display: inline-block; }
+    #sort { display: block; }
+    .who { grid-column: 2 / 3; }
+    .blurb { grid-column: 1 / -1; }
+    .num { text-align: right; }
+    .num small { display: block; }
+    input[type=search] { width: 110px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1 id="title">Core Plays</h1>
+      <div class="sub" id="sub"></div>
+    </div>
+  </header>
+  <div class="sample" id="sampleNote" style="display:none"></div>
+
+  <div class="controls">
+    <div class="tabs" id="tabs"></div>
+    <div class="seg" id="siteSeg">
+      <button data-site="dk" class="on">DK</button><button data-site="fd">FD</button>
+    </div>
+    <select id="sort" aria-label="Sort">
+      <option value="rank">Our order</option>
+      <option value="proj">Projection</option>
+      <option value="value">Value</option>
+    </select>
+    <span class="grow"></span>
+    <select id="typeSel" aria-label="Play type">
+      <option value="">All types</option>
+      <option value="Core">Core</option>
+      <option value="Strong">Strong</option>
+      <option value="Large-Field">Large-Field</option>
+    </select>
+    <input type="search" id="q" placeholder="Search…">
+  </div>
+
+  <div id="list"></div>
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const params = new URLSearchParams(location.search);
+if (params.get("theme")) document.documentElement.dataset.theme = params.get("theme");
+
+const state = { pos: "ALL", site: params.get("site") === "fd" ? "fd" : "dk", sort: "rank", dir: "desc", q: "", type: "" };
+let DATA = null;
+
+const $ = id => document.getElementById(id);
+const fmtMoney = n => n ? "$" + Number(n).toLocaleString() : "–";
+const initials = n => n.split(/\s+/).map(w => w[0]).slice(0, 2).join("").toUpperCase();
+
+function esc(s) { return String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+// Blurb markup: **bold** only. Everything else is escaped.
+function blurbHtml(s) { return esc(s).replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>"); }
+
+function statusClass(s) {
+  const u = String(s).toUpperCase();
+  if (/^(OUT|DOUBT|IR)/.test(u)) return "bad";
+  if (/^(Q|GTD|DTD|PROB)/.test(u)) return "warn";
+  if (/^(BOOST|UP|▲|START)/.test(u)) return "good";
+  return "neutral";
+}
+
+function salary(p) { return Number(state.site === "dk" ? p.dk : p.fd) || 0; }
+function valueOf(p) { const s = salary(p); return s ? Number(p.proj) / (s / 1000) : 0; }
+
+function rowEl(p, rank, valCut) {
+  const el = document.createElement("div");
+  const type = p.type || p.tier || "";
+  el.className = "row" + (type === "Core" ? " core" : "");
+  const av = p.id
+    ? `<img src="https://cdn.nba.com/headshots/nba/latest/1040x760/${esc(p.id)}.png" alt="" loading="lazy" onerror="this.replaceWith(document.createTextNode('${esc(initials(p.player))}'))">`
+    : esc(initials(p.player));
+  const st = p.status ? `<span class="pill st ${statusClass(p.status)}">${esc(p.status)}</span>` : "";
+  const tier = type ? `<span class="pill t-${esc(type)}">${esc(type)}</span>` : "";
+  const v = valueOf(p);
+  el.innerHTML = `
+    <div class="rank">${rank}</div>
+    <div class="who">
+      <div class="av">${av}</div>
+      <div>
+        <div class="nm">${esc(p.player)}</div>
+        <div class="mt">${esc(p.pos)} · ${esc(p.team)} ${esc(p.opp)} <span class="mtype">${tier}</span>${st}</div>
+      </div>
+    </div>
+    <div class="typecell">${tier}</div>
+    <div class="num"><small>Salary</small>${fmtMoney(salary(p))}</div>
+    <div class="num"><small>Proj</small>${p.proj ? Number(p.proj).toFixed(1) : "–"}</div>
+    <div class="num ${v >= valCut ? "val-hi" : ""}"><small>Value</small>${v ? v.toFixed(2) + "x" : "–"}</div>
+    <div class="blurb">${blurbHtml(p.blurb)}</div>`;
+  return el;
+}
+
+function sorted(list) {
+  const idx = new Map(DATA.plays.map((p, i) => [p, i]));
+  const m = state.dir === "asc" ? 1 : -1;
+  const by = {
+    rank: (a, b) => idx.get(a) - idx.get(b),
+    proj: (a, b) => m * (a.proj - b.proj),
+    value: (a, b) => m * (valueOf(a) - valueOf(b))
+  }[state.sort];
+  return [...list].sort(by);
+}
+
+function setSort(k) {
+  if (k === "rank") { state.sort = "rank"; state.dir = "desc"; }
+  else if (state.sort === k) state.dir = state.dir === "desc" ? "asc" : "desc";
+  else { state.sort = k; state.dir = "desc"; }
+  $("sort").value = state.sort;
+  render();
+}
+
+function render() {
+  const q = state.q.trim().toLowerCase();
+  let plays = DATA.plays.filter(p =>
+    (state.pos === "ALL" || p.pos === state.pos) &&
+    (!state.type || (p.type || p.tier) === state.type) &&
+    (!q || (p.player + " " + p.team + " " + p.opp + " " + p.blurb).toLowerCase().includes(q)));
+  const vals = DATA.plays.map(valueOf).filter(Boolean).sort((a, b) => b - a);
+  const valCut = vals[Math.floor(vals.length * 0.2)] || Infinity; // top 20% highlighted
+
+  const list = $("list");
+  list.innerHTML = "";
+  if (!plays.length) { list.innerHTML = '<div class="empty">No plays match.</div>'; return; }
+
+  const header = () => {
+    const h = document.createElement("div");
+    h.className = "cols";
+    const ar = k => `<span class="ar">${state.sort === k ? (state.dir === "asc" ? "▲" : "▼") : ""}</span>`;
+    const on = k => state.sort === k ? " on" : "";
+    h.innerHTML = `<div class="s${on("rank")}" data-k="rank" title="Back to our order">#</div><div>Player</div><div>Type</div><div style="text-align:right">Salary</div>` +
+      `<div class="s${on("proj")}" data-k="proj" style="text-align:right" title="Sort by projection">Proj${ar("proj")}</div>` +
+      `<div class="s${on("value")}" data-k="value" style="text-align:right" title="Sort by value">Value${ar("value")}</div><div>Why we like him</div>`;
+    h.querySelectorAll(".s").forEach(el => el.onclick = () => setSort(el.dataset.k));
+    return h;
+  };
+
+  const groups = state.pos === "ALL" ? DATA.positions : [state.pos];
+  for (const g of groups) {
+    const items = sorted(plays.filter(p => p.pos === g));
+    if (!items.length) continue;
+    if (state.pos === "ALL") {
+      const h = document.createElement("div");
+      h.className = "group-h";
+      h.innerHTML = `<h2>${esc(g)}</h2><span>${items.length} play${items.length > 1 ? "s" : ""}</span>`;
+      list.appendChild(h);
+    }
+    list.appendChild(header());
+    items.forEach((p, i) => list.appendChild(rowEl(p, i + 1, valCut)));
+  }
+  postHeight();
+}
+
+function buildTabs() {
+  const tabs = $("tabs");
+  tabs.innerHTML = "";
+  ["ALL", ...DATA.positions].forEach(p => {
+    const b = document.createElement("button");
+    b.className = "tab" + (state.pos === p ? " on" : "");
+    b.textContent = p === "ALL" ? "All" : p;
+    b.onclick = () => { state.pos = p; buildTabs(); render(); };
+    tabs.appendChild(b);
+  });
+}
+
+function postHeight() {
+  const h = document.documentElement.scrollHeight;
+  try { parent.postMessage({ type: "core-plays-height", height: h }, "*"); } catch (e) {}
+}
+
+fetch("data.json?v=" + Date.now()).then(r => r.json()).then(d => {
+  DATA = d;
+  if (!DATA.positions || !DATA.positions.length) DATA.positions = [...new Set(DATA.plays.map(p => p.pos))];
+  $("title").textContent = d.title || "Core Plays";
+  const upd = d.updated ? new Date(d.updated) : null;
+  $("sub").textContent = [d.date, d.slate].filter(Boolean).join(" · ") +
+    (upd && !isNaN(upd) ? " · Updated " + upd.toLocaleTimeString([], { hour: "numeric", minute: "2-digit" }) : "");
+  if (d.note && /sample/i.test(d.note)) { $("sampleNote").textContent = d.note; $("sampleNote").style.display = "block"; }
+  document.querySelectorAll("#siteSeg button").forEach(b => b.classList.toggle("on", b.dataset.site === state.site));
+  $("foot").textContent = "Value = projected points per $1K of salary. Top 20% of the pool highlighted.";
+  buildTabs(); render();
+}).catch(e => { $("list").innerHTML = '<div class="empty">Could not load data.json.</div>'; });
+
+document.querySelectorAll("#siteSeg button").forEach(b => b.onclick = () => {
+  state.site = b.dataset.site;
+  document.querySelectorAll("#siteSeg button").forEach(x => x.classList.toggle("on", x === b));
+  render();
+});
+$("sort").onchange = e => { state.sort = e.target.value; state.dir = "desc"; render(); };
+$("q").oninput = e => { state.q = e.target.value; render(); };
+$("typeSel").onchange = e => { state.type = e.target.value; render(); };
+new ResizeObserver(postHeight).observe(document.body);
+</script>
+</body>
+</html>
