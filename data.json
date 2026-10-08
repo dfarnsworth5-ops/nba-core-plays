@@ -3,7 +3,7 @@
  "date": "",
  "slate": "",
  "note": "",
- "updated": "2026-10-07T21:56:42",
+ "updated": "2026-10-07T22:05:27",
  "positions": [
   "PG",
   "SG",
@@ -11,6 +11,22 @@
   "PF",
   "C"
  ],
- "plays": [],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "SG",
+   "fdPos": "PG/SG",
+   "player": "Stephon Castle",
+   "team": "SAS",
+   "opp": "NYK",
+   "dk": 13200,
+   "fd": 10000,
+   "proj": 55,
+   "type": "Core",
+   "status": "",
+   "blurb": "Elite matchup vs. WAS, has averaged 54 FPs over the last 7 games",
+   "url": ""
+  }
+ ],
  "injuries": []
 }
