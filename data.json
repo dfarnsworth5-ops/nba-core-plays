@@ -3,7 +3,7 @@
  "date": "Tuesday, April 7th",
  "slate": "10 games · 6:30 PM ET lock",
  "note": "Optional line shown above the table",
- "updated": "2026-10-12T13:21:13",
+ "updated": "2026-10-12T13:21:50",
  "positions": [
   "PG",
   "SG",
@@ -193,5 +193,14 @@
    "url": ""
   }
  ],
- "injuries": []
+ "injuries": [
+  {
+   "player": "Julian Reese",
+   "team": "WAS",
+   "status": "Q",
+   "note": "Boost to other centers if out",
+   "updated": "",
+   "boost": ""
+  }
+ ]
 }
