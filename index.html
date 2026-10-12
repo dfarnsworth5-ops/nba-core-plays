@@ -466,7 +466,7 @@ fetch("players.json?v=" + Date.now()).then(r => r.ok ? r.json() : {}).catch(() =
   buildTabs(); render();
   // "Past slates" menu, built from data/index.json (hidden if there's only one slate)
   fetch("data/index.json?v=" + Date.now()).then(r => r.ok ? r.json() : []).catch(() => []).then(list => {
-    if (!Array.isArray(list) || list.length < 2) return;
+    if (!Array.isArray(list) || list.length < 2 || params.get("menu") !== "1") return;
     const cur = reqDate || d.iso || list[0].date;
     const sel = $("dateSel");
     sel.innerHTML = list.map(e => '<option value="' + esc(e.date) + '"' + (e.date === cur ? " selected" : "") + ">" + esc(e.label || e.date) + "</option>").join("");
