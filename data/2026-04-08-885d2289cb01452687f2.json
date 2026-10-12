@@ -4,13 +4,93 @@
  "slate": "7 games · 6:30 PM ET lock",
  "note": "",
  "iso": "2026-04-08",
- "updated": "2026-10-12T14:26:08",
+ "updated": "2026-10-12T14:50:11",
  "positions": [
   "PG",
   "SG",
   "SF",
   "PF",
   "C"
+ ],
+ "tz": "ET",
+ "games": [
+  {
+   "away": "ATLANTA HAWKS",
+   "home": "CLEVELAND CAVALIERS",
+   "time": "8:30 PM",
+   "min": 1230,
+   "fav": "CLE",
+   "spread": 0,
+   "total": 0,
+   "dk": "",
+   "fd": "Y"
+  },
+  {
+   "away": "MINNESOTA TIMBERWOLVES",
+   "home": "ORLANDO MAGIC",
+   "time": "8:30 PM",
+   "min": 1230,
+   "fav": "ORL",
+   "spread": 0,
+   "total": 0,
+   "dk": "",
+   "fd": "Y"
+  },
+  {
+   "away": "MILWAUKEE BUCKS",
+   "home": "DETROIT PISTONS",
+   "time": "8:30 PM",
+   "min": 1230,
+   "fav": "DET",
+   "spread": 0,
+   "total": 0,
+   "dk": "Y",
+   "fd": "Y"
+  },
+  {
+   "away": "MEMPHIS GRIZZLIES",
+   "home": "DENVER NUGGETS",
+   "time": "8:30 PM",
+   "min": 1230,
+   "fav": "DEN",
+   "spread": 0,
+   "total": 0,
+   "dk": "Y",
+   "fd": "Y"
+  },
+  {
+   "away": "PORTLAND TRAIL BLAZERS",
+   "home": "SAN ANTONIO SPURS",
+   "time": "8:30 PM",
+   "min": 1230,
+   "fav": "SAS",
+   "spread": 0,
+   "total": 0,
+   "dk": "Y",
+   "fd": "Y"
+  },
+  {
+   "away": "DALLAS MAVERICKS",
+   "home": "PHOENIX SUNS",
+   "time": "8:30 PM",
+   "min": 1230,
+   "fav": "PHO",
+   "spread": 0,
+   "total": 0,
+   "dk": "Y",
+   "fd": "Y"
+  },
+  {
+   "away": "OKLAHOMA CITY THUNDER",
+   "home": "LOS ANGELES CLIPPERS",
+   "time": "8:30 PM",
+   "min": 1230,
+   "fav": "LAC",
+   "spread": 0,
+   "total": 0,
+   "dk": "Y",
+   "fd": "Y"
+  }
  ],
  "plays": [
   {
@@ -169,7 +249,7 @@
    "player": "Luke Kornet",
    "team": "SAS",
    "status": "Q",
-   "note": "Boost to other centers if out",
+   "note": "Illness",
    "updated": "",
    "boost": ""
   }
