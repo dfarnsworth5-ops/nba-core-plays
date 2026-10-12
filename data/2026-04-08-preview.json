@@ -1,0 +1,99 @@
+{
+ "title": "NBA Core Plays",
+ "date": "Wednesday, April 8th",
+ "slate": "7 games · 6:30 PM ET lock",
+ "note": "",
+ "iso": "2026-04-08",
+ "updated": "2026-10-12T14:07:09",
+ "positions": [
+  "PG",
+  "SG",
+  "SF",
+  "PF",
+  "C"
+ ],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "James Harden",
+   "team": "CLE",
+   "opp": "ATL",
+   "dk": 8800,
+   "fd": 8800,
+   "proj": 55,
+   "type": "Core",
+   "status": "",
+   "blurb": "Elite matchup vs. WAS, has averaged 54 FPs over the last 7 games",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Donovan Mitchell",
+   "team": "CLE",
+   "opp": "ATL",
+   "dk": 9000,
+   "fd": 9000,
+   "proj": 54,
+   "type": "",
+   "status": "",
+   "blurb": "",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Donte DiVincenzo",
+   "team": "MIN",
+   "opp": "ORL",
+   "dk": 5200,
+   "fd": 5200,
+   "proj": 18,
+   "type": "Core",
+   "status": "",
+   "blurb": "",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG/SF",
+   "player": "Joe Ingles",
+   "team": "MIN",
+   "opp": "ORL",
+   "dk": 3000,
+   "fd": 3000,
+   "proj": 19,
+   "type": "Core",
+   "status": "",
+   "blurb": "",
+   "url": ""
+  }
+ ],
+ "injuries": [
+  {
+   "player": "Luke Kornet",
+   "team": "SAS",
+   "status": "Q",
+   "note": "Boost to other centers if out",
+   "updated": "",
+   "boost": ""
+  }
+ ],
+ "preview": {
+  "locked": {
+   "PG": 3,
+   "SG": 3,
+   "SF": 0,
+   "PF": 0,
+   "C": 0
+  },
+  "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
+  "ctaLabel": "Unlock every Core Play with RG MVP",
+  "ctaBlurb": "See the full slate of Core Plays, projections and notes at every position."
+ }
+}
