@@ -1,10 +1,10 @@
 {
  "title": "NBA Core Plays",
  "date": "Wednesday, April 8th",
- "slate": "7 games · 6:30 PM ET lock",
+ "slate": "7 games · 8:30 PM ET lock",
  "note": "",
  "iso": "2026-04-08",
- "updated": "2026-10-12T14:50:11",
+ "updated": "2026-10-13T14:39:59-06:00",
  "positions": [
   "PG",
   "SG",
@@ -15,8 +15,8 @@
  "tz": "ET",
  "games": [
   {
-   "away": "ATLANTA HAWKS",
-   "home": "CLEVELAND CAVALIERS",
+   "away": "Atlanta Hawks",
+   "home": "Cleveland Cavaliers",
    "time": "8:30 PM",
    "min": 1230,
    "fav": "CLE",
@@ -26,8 +26,8 @@
    "fd": "Y"
   },
   {
-   "away": "MINNESOTA TIMBERWOLVES",
-   "home": "ORLANDO MAGIC",
+   "away": "Minnesota Timberwolves",
+   "home": "Orlando Magic",
    "time": "8:30 PM",
    "min": 1230,
    "fav": "ORL",
@@ -37,8 +37,8 @@
    "fd": "Y"
   },
   {
-   "away": "MILWAUKEE BUCKS",
-   "home": "DETROIT PISTONS",
+   "away": "Milwaukee Bucks",
+   "home": "Detroit Pistons",
    "time": "8:30 PM",
    "min": 1230,
    "fav": "DET",
@@ -48,8 +48,8 @@
    "fd": "Y"
   },
   {
-   "away": "MEMPHIS GRIZZLIES",
-   "home": "DENVER NUGGETS",
+   "away": "Memphis Grizzlies",
+   "home": "Denver Nuggets",
    "time": "8:30 PM",
    "min": 1230,
    "fav": "DEN",
@@ -59,8 +59,8 @@
    "fd": "Y"
   },
   {
-   "away": "PORTLAND TRAIL BLAZERS",
-   "home": "SAN ANTONIO SPURS",
+   "away": "Portland Trail Blazers",
+   "home": "San Antonio Spurs",
    "time": "8:30 PM",
    "min": 1230,
    "fav": "SAS",
@@ -70,8 +70,8 @@
    "fd": "Y"
   },
   {
-   "away": "DALLAS MAVERICKS",
-   "home": "PHOENIX SUNS",
+   "away": "Dallas Mavericks",
+   "home": "Phoenix Suns",
    "time": "8:30 PM",
    "min": 1230,
    "fav": "PHO",
@@ -81,8 +81,8 @@
    "fd": "Y"
   },
   {
-   "away": "OKLAHOMA CITY THUNDER",
-   "home": "LOS ANGELES CLIPPERS",
+   "away": "Oklahoma City Thunder",
+   "home": "Los Angeles Clippers",
    "time": "8:30 PM",
    "min": 1230,
    "fav": "LAC",
