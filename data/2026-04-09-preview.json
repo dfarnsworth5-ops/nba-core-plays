@@ -1,0 +1,168 @@
+{
+ "title": "NBA Core Plays",
+ "date": "Thursday, April 9th",
+ "slate": "6 games · 7:30 PM ET lock",
+ "note": "",
+ "iso": "2026-04-09",
+ "updated": "2026-10-13T15:02:37-06:00",
+ "positions": [
+  "PG",
+  "SG",
+  "SF",
+  "PF",
+  "C"
+ ],
+ "tz": "ET",
+ "games": [
+  {
+   "away": "Chicago Bulls",
+   "home": "Washington Wizards",
+   "time": "8:30 PM",
+   "min": 1230,
+   "fav": "WAS",
+   "spread": 0,
+   "total": 0,
+   "dk": "",
+   "fd": "Y"
+  },
+  {
+   "away": "Miami Heat",
+   "home": "Toronto Raptors",
+   "time": "7:30 PM",
+   "min": 1170,
+   "fav": "TOR",
+   "spread": 0,
+   "total": 0,
+   "dk": "",
+   "fd": "Y"
+  },
+  {
+   "away": "Boston Celtics",
+   "home": "New York Knicks",
+   "time": "8:30 PM",
+   "min": 1230,
+   "fav": "NYK",
+   "spread": 0,
+   "total": 0,
+   "dk": "Y",
+   "fd": "Y"
+  },
+  {
+   "away": "Indiana Pacers",
+   "home": "Brooklyn Nets",
+   "time": "8:30 PM",
+   "min": 1230,
+   "fav": "BKN",
+   "spread": 0,
+   "total": 0,
+   "dk": "Y",
+   "fd": "Y"
+  },
+  {
+   "away": "Philadelphia 76ers",
+   "home": "Houston Rockets",
+   "time": "8:30 PM",
+   "min": 1230,
+   "fav": "HOU",
+   "spread": 0,
+   "total": 0,
+   "dk": "Y",
+   "fd": "Y"
+  },
+  {
+   "away": "Los Angeles Lakers",
+   "home": "Golden State Warriors",
+   "time": "8:30 PM",
+   "min": 1230,
+   "fav": "GSW",
+   "spread": 0,
+   "total": 0,
+   "dk": "Y",
+   "fd": "Y"
+  }
+ ],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "#N/A",
+   "fdPos": "#N/A",
+   "player": "James Harden",
+   "team": "#N/A",
+   "opp": "#N/A",
+   "dk": 0,
+   "fd": 0,
+   "proj": 55,
+   "type": "Core",
+   "status": "",
+   "blurb": "Elite matchup vs. WAS, has averaged 54 FPs over the last 7 games",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "#N/A",
+   "fdPos": "#N/A",
+   "player": "Donovan Mitchell",
+   "team": "#N/A",
+   "opp": "#N/A",
+   "dk": 0,
+   "fd": 0,
+   "proj": 54,
+   "type": "",
+   "status": "",
+   "blurb": "",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "#N/A",
+   "fdPos": "#N/A",
+   "player": "Donte DiVincenzo",
+   "team": "#N/A",
+   "opp": "#N/A",
+   "dk": 0,
+   "fd": 0,
+   "proj": 18,
+   "type": "Core",
+   "status": "",
+   "blurb": "",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "#N/A",
+   "fdPos": "#N/A",
+   "player": "Joe Ingles",
+   "team": "#N/A",
+   "opp": "#N/A",
+   "dk": 0,
+   "fd": 0,
+   "proj": 19,
+   "type": "Core",
+   "status": "",
+   "blurb": "",
+   "url": ""
+  }
+ ],
+ "injuries": [
+  {
+   "player": "Luke Kornet",
+   "team": "SAS",
+   "status": "Q",
+   "note": "Illness",
+   "updated": "",
+   "boost": ""
+  }
+ ],
+ "preview": {
+  "locked": {
+   "PG": 4,
+   "SG": 3,
+   "SF": 0,
+   "PF": 0,
+   "C": 0
+  },
+  "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
+  "ctaLabel": "Unlock every Core Play with RG MVP",
+  "ctaBlurb": "See the full slate of Core Plays, projections and notes at every position."
+ }
+}
