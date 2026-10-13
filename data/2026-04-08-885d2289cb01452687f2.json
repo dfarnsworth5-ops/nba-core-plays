@@ -4,7 +4,7 @@
  "slate": "7 games · 8:30 PM ET lock",
  "note": "",
  "iso": "2026-04-08",
- "updated": "2026-10-13T14:39:59-06:00",
+ "updated": "2026-10-13T14:57:42-06:00",
  "positions": [
   "PG",
   "SG",
@@ -165,6 +165,21 @@
    "proj": 51,
    "type": "",
    "status": "",
+   "blurb": "",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Luke Kornet",
+   "team": "SAS",
+   "opp": "POR",
+   "dk": 4400,
+   "fd": 4400,
+   "proj": 50,
+   "type": "",
+   "status": "Q",
    "blurb": "",
    "url": ""
   },
