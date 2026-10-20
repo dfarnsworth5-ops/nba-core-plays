@@ -4,7 +4,7 @@
  "slate": "3 games · 3:00 PM ET lock",
  "note": "",
  "iso": "2026-10-20",
- "updated": "2026-10-20T10:25:25-06:00",
+ "updated": "2026-10-20T10:36:28-06:00",
  "positions": [
   "PG",
   "SG",
@@ -215,6 +215,21 @@
    "status": "",
    "blurb": "Incredible rookie season and was even more efficient in the preseason (1.25 DK / 1.22 FD). Should have a bigger role this season. Too cheap on both sites.",
    "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Jalen Brunson",
+   "team": "NYK",
+   "opp": "PHI",
+   "dk": 0,
+   "fd": 8000,
+   "proj": 40.56,
+   "type": "Core",
+   "status": "",
+   "blurb": "Coming off a season where he averaged 42 fantasy points per game and won the Finals MVP. Averaged 1.30 DK / 1.27 FD points per minute in the preseason.",
+   "url": ""
   }
  ],
  "injuries": [
@@ -332,7 +347,7 @@
    "C": 6
   },
   "lockedFd": {
-   "PG": 0,
+   "PG": 5,
    "SG": 0,
    "SF": 0,
    "PF": 0,
