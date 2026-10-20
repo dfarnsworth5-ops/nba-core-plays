@@ -4,7 +4,7 @@
  "slate": "3 games · 3:00 PM ET lock",
  "note": "",
  "iso": "2026-10-20",
- "updated": "2026-10-20T13:09:17-06:00",
+ "updated": "2026-10-20T16:36:20-06:00",
  "positions": [
   "PG",
   "SG",
@@ -358,40 +358,24 @@
    "team": "SAS",
    "status": "O",
    "note": "Calf",
-   "updated": "10 AM ET",
-   "boost": "Not ready for his Spurs debut. We should see a standard Spurs' rotation."
-  },
-  {
-   "player": "Anfernee Simons",
-   "team": "PHI",
-   "status": "Q",
-   "note": "Hamstring",
-   "updated": "10 AM ET",
-   "boost": "Few extra minutes for Edgecomb and KCP"
+   "updated": "",
+   "boost": ""
   },
   {
    "player": "Dean Wade",
    "team": "PHI",
-   "status": "Q",
+   "status": "O",
    "note": "Ankle",
-   "updated": "10 AM ET",
-   "boost": "Small boost to Edwards and maybe Walker"
-  },
-  {
-   "player": "Adem Bona",
-   "team": "PHI",
-   "status": "Q",
-   "note": "Foot",
-   "updated": "10 AM ET",
-   "boost": "Backup center minutes would go to Wade or Edwards"
+   "updated": "",
+   "boost": ""
   },
   {
    "player": "Taurean Prince",
    "team": "DET",
    "status": "O",
    "note": "Personal",
-   "updated": "10:30 AM ET",
-   "boost": "Not a major part of the rotation"
+   "updated": "",
+   "boost": ""
   },
   {
    "player": "Dominick Barlow",
