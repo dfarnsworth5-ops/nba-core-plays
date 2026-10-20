@@ -1,0 +1,170 @@
+{
+ "title": "NBA Core Plays",
+ "date": "Tuesday, October 20th",
+ "slate": "3 games · 3:00 PM ET lock",
+ "note": "",
+ "iso": "2026-10-20",
+ "updated": "2026-10-19T22:58:47-06:00",
+ "positions": [
+  "PG",
+  "SG",
+  "SF",
+  "PF",
+  "C"
+ ],
+ "tz": "ET",
+ "games": [
+  {
+   "away": "Boston Celtics",
+   "home": "Detroit Pistons",
+   "time": "3:00 PM",
+   "min": 900,
+   "fav": "DET",
+   "spread": -1.5,
+   "total": 222.5,
+   "dk": "",
+   "fd": "Y"
+  },
+  {
+   "away": "Philadelphia 76ers",
+   "home": "New York Knicks",
+   "time": "7:00 PM",
+   "min": 1140,
+   "fav": "NYK",
+   "spread": -5.5,
+   "total": 231.5,
+   "dk": "",
+   "fd": "Y"
+  },
+  {
+   "away": "Oklahoma City Thunder",
+   "home": "San Antonio Spurs",
+   "time": "9:30 PM",
+   "min": 1290,
+   "fav": "SAS",
+   "spread": -2.5,
+   "total": 231.5,
+   "dk": "Y",
+   "fd": "Y"
+  }
+ ],
+ "plays": [],
+ "injuries": [
+  {
+   "player": "Tobias Harris",
+   "team": "SAS",
+   "status": "O",
+   "note": "Calf",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Anfernee Simons",
+   "team": "PHI",
+   "status": "Q",
+   "note": "Hamstring",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Dean Wade",
+   "team": "PHI",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Adem Bona",
+   "team": "PHI",
+   "status": "Q",
+   "note": "Foot",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Taurean Prince",
+   "team": "DET",
+   "status": "Q",
+   "note": "Personal",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Dominick Barlow",
+   "team": "PHI",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Thomas Sorber",
+   "team": "OKC",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Nikola Topic",
+   "team": "OKC",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Ariel Hukporti",
+   "team": "PHI",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Tacko Fall",
+   "team": "PHI",
+   "status": "O",
+   "note": "Hip",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Devin Carter",
+   "team": "BOS",
+   "status": "O",
+   "note": "Illness",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Jayden Quaintance",
+   "team": "SAS",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Otega Oweh",
+   "team": "OKC",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "boost": ""
+  }
+ ],
+ "preview": {
+  "locked": {
+   "PG": 0,
+   "SG": 0,
+   "SF": 0,
+   "PF": 0,
+   "C": 0
+  },
+  "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
+  "ctaLabel": "Unlock every Core Play with RG MVP",
+  "ctaBlurb": "See the full slate of Core Plays, projections and notes at every position."
+ }
+}
