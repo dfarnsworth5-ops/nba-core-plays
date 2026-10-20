@@ -4,7 +4,7 @@
  "slate": "3 games · 3:00 PM ET lock",
  "note": "",
  "iso": "2026-10-20",
- "updated": "2026-10-20T12:25:42-06:00",
+ "updated": "2026-10-20T12:38:12-06:00",
  "positions": [
   "PG",
   "SG",
@@ -548,6 +548,21 @@
    "pos": "C",
    "dkPos": "C",
    "fdPos": "C",
+   "player": "Paul Reed",
+   "team": "DET",
+   "opp": "BOS",
+   "dk": 3800,
+   "fd": 0,
+   "proj": 20.33,
+   "type": "",
+   "status": "",
+   "blurb": "Could see around 20 minutes off the bench. Elite value on a short slate.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
    "player": "Jalen Duren",
    "team": "DET",
    "opp": "BOS",
@@ -632,21 +647,6 @@
    "type": "",
    "status": "",
    "blurb": "Should see minutes in the mid-20s at low projected ownership.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Mitchell Robinson",
-   "team": "BOS",
-   "opp": "DET",
-   "dk": 4500,
-   "fd": 0,
-   "proj": 21.85,
-   "type": "",
-   "status": "",
-   "blurb": "Solid per-minute producer. Could be an interesting option on his new team.",
    "url": ""
   }
  ],
