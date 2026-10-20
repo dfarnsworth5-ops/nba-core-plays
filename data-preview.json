@@ -4,7 +4,7 @@
  "slate": "3 games · 3:00 PM ET lock",
  "note": "",
  "iso": "2026-10-20",
- "updated": "2026-10-20T12:25:42-06:00",
+ "updated": "2026-10-20T12:38:12-06:00",
  "positions": [
   "PG",
   "SG",
@@ -188,15 +188,15 @@
    "pos": "C",
    "dkPos": "C",
    "fdPos": "C",
-   "player": "Jalen Duren",
+   "player": "Paul Reed",
    "team": "DET",
    "opp": "BOS",
-   "dk": 6500,
+   "dk": 3800,
    "fd": 0,
-   "proj": 32.31,
+   "proj": 20.33,
    "type": "",
    "status": "",
-   "blurb": "Struggled in the second half of last season, but opens with a nice matchup vs. BOS. Averaged a ridiculous 1.61 DK / 1.68 FD points per minute in the preseason. Duren is back (hopefully).",
+   "blurb": "Could see around 20 minutes off the bench. Elite value on a short slate.",
    "url": ""
   }
  ],
