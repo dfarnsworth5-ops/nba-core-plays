@@ -1,10 +1,10 @@
 {
  "title": "NBA Core Plays",
- "date": "Thursday, April 9th",
- "slate": "6 games · 7:30 PM ET lock",
+ "date": "Tuesday, October 20th",
+ "slate": "3 games · 3:00 PM ET lock",
  "note": "",
- "iso": "2026-04-09",
- "updated": "2026-10-13T15:02:37-06:00",
+ "iso": "2026-10-20",
+ "updated": "2026-10-19T22:58:47-06:00",
  "positions": [
   "PG",
   "SG",
@@ -15,148 +15,150 @@
  "tz": "ET",
  "games": [
   {
-   "away": "Chicago Bulls",
-   "home": "Washington Wizards",
-   "time": "8:30 PM",
-   "min": 1230,
-   "fav": "WAS",
-   "spread": 0,
-   "total": 0,
-   "dk": "",
-   "fd": "Y"
-  },
-  {
-   "away": "Miami Heat",
-   "home": "Toronto Raptors",
-   "time": "7:30 PM",
-   "min": 1170,
-   "fav": "TOR",
-   "spread": 0,
-   "total": 0,
-   "dk": "",
-   "fd": "Y"
-  },
-  {
    "away": "Boston Celtics",
-   "home": "New York Knicks",
-   "time": "8:30 PM",
-   "min": 1230,
-   "fav": "NYK",
-   "spread": 0,
-   "total": 0,
-   "dk": "Y",
-   "fd": "Y"
-  },
-  {
-   "away": "Indiana Pacers",
-   "home": "Brooklyn Nets",
-   "time": "8:30 PM",
-   "min": 1230,
-   "fav": "BKN",
-   "spread": 0,
-   "total": 0,
-   "dk": "Y",
+   "home": "Detroit Pistons",
+   "time": "3:00 PM",
+   "min": 900,
+   "fav": "DET",
+   "spread": -1.5,
+   "total": 222.5,
+   "dk": "",
    "fd": "Y"
   },
   {
    "away": "Philadelphia 76ers",
-   "home": "Houston Rockets",
-   "time": "8:30 PM",
-   "min": 1230,
-   "fav": "HOU",
-   "spread": 0,
-   "total": 0,
-   "dk": "Y",
+   "home": "New York Knicks",
+   "time": "7:00 PM",
+   "min": 1140,
+   "fav": "NYK",
+   "spread": -5.5,
+   "total": 231.5,
+   "dk": "",
    "fd": "Y"
   },
   {
-   "away": "Los Angeles Lakers",
-   "home": "Golden State Warriors",
-   "time": "8:30 PM",
-   "min": 1230,
-   "fav": "GSW",
-   "spread": 0,
-   "total": 0,
+   "away": "Oklahoma City Thunder",
+   "home": "San Antonio Spurs",
+   "time": "9:30 PM",
+   "min": 1290,
+   "fav": "SAS",
+   "spread": -2.5,
+   "total": 231.5,
    "dk": "Y",
    "fd": "Y"
   }
  ],
- "plays": [
-  {
-   "pos": "PG",
-   "dkPos": "#N/A",
-   "fdPos": "#N/A",
-   "player": "James Harden",
-   "team": "#N/A",
-   "opp": "#N/A",
-   "dk": 0,
-   "fd": 0,
-   "proj": 55,
-   "type": "Core",
-   "status": "",
-   "blurb": "Elite matchup vs. WAS, has averaged 54 FPs over the last 7 games",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "#N/A",
-   "fdPos": "#N/A",
-   "player": "Donovan Mitchell",
-   "team": "#N/A",
-   "opp": "#N/A",
-   "dk": 0,
-   "fd": 0,
-   "proj": 54,
-   "type": "",
-   "status": "",
-   "blurb": "",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "#N/A",
-   "fdPos": "#N/A",
-   "player": "Donte DiVincenzo",
-   "team": "#N/A",
-   "opp": "#N/A",
-   "dk": 0,
-   "fd": 0,
-   "proj": 18,
-   "type": "Core",
-   "status": "",
-   "blurb": "",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "#N/A",
-   "fdPos": "#N/A",
-   "player": "Joe Ingles",
-   "team": "#N/A",
-   "opp": "#N/A",
-   "dk": 0,
-   "fd": 0,
-   "proj": 19,
-   "type": "Core",
-   "status": "",
-   "blurb": "",
-   "url": ""
-  }
- ],
+ "plays": [],
  "injuries": [
   {
-   "player": "Luke Kornet",
+   "player": "Tobias Harris",
    "team": "SAS",
+   "status": "O",
+   "note": "Calf",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Anfernee Simons",
+   "team": "PHI",
    "status": "Q",
+   "note": "Hamstring",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Dean Wade",
+   "team": "PHI",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Adem Bona",
+   "team": "PHI",
+   "status": "Q",
+   "note": "Foot",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Taurean Prince",
+   "team": "DET",
+   "status": "Q",
+   "note": "Personal",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Dominick Barlow",
+   "team": "PHI",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Thomas Sorber",
+   "team": "OKC",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Nikola Topic",
+   "team": "OKC",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Ariel Hukporti",
+   "team": "PHI",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Tacko Fall",
+   "team": "PHI",
+   "status": "O",
+   "note": "Hip",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Devin Carter",
+   "team": "BOS",
+   "status": "O",
    "note": "Illness",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Jayden Quaintance",
+   "team": "SAS",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "boost": ""
+  },
+  {
+   "player": "Otega Oweh",
+   "team": "OKC",
+   "status": "O",
+   "note": "Achilles",
    "updated": "",
    "boost": ""
   }
  ],
  "preview": {
   "locked": {
-   "PG": 4,
-   "SG": 3,
+   "PG": 0,
+   "SG": 0,
    "SF": 0,
    "PF": 0,
    "C": 0
