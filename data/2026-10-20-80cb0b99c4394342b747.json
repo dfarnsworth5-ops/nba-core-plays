@@ -4,7 +4,7 @@
  "slate": "3 games · 3:00 PM ET lock",
  "note": "",
  "iso": "2026-10-20",
- "updated": "2026-10-20T08:52:49-06:00",
+ "updated": "2026-10-20T09:37:55-06:00",
  "positions": [
   "PG",
   "SG",
@@ -48,7 +48,55 @@
    "fd": "Y"
   }
  ],
- "plays": [],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Dylan Harper",
+   "team": "SAS",
+   "opp": "OKC",
+   "dk": 5100,
+   "fd": 0,
+   "proj": 30.23,
+   "type": "Core",
+   "status": "",
+   "blurb": "Incredible rookie season and was even more efficient in the preseason (1.25 DK / 1.22 FD). Should have a bigger role this season. Too cheap on both sites.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Jalen Brunson",
+   "team": "NYK",
+   "opp": "PHI",
+   "dk": 7600,
+   "fd": 0,
+   "proj": 42.18,
+   "type": "",
+   "status": "",
+   "blurb": "",
+   "url": ""
+  }
+ ],
+ "playsFd": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "SG/PG",
+   "player": "Dylan Harper",
+   "team": "SAS",
+   "opp": "OKC",
+   "dk": 0,
+   "fd": 5200,
+   "proj": 28.8,
+   "type": "Core",
+   "status": "",
+   "blurb": "Incredible rookie season and was even more efficient in the preseason (1.25 DK / 1.22 FD). Should have a bigger role this season. Too cheap on both sites.",
+   "url": ""
+  }
+ ],
  "injuries": [
   {
    "player": "Tobias Harris",
