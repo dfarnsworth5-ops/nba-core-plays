@@ -4,7 +4,7 @@
  "slate": "3 games · 3:00 PM ET lock",
  "note": "",
  "iso": "2026-10-20",
- "updated": "2026-10-19T22:58:47-06:00",
+ "updated": "2026-10-20T08:52:49-06:00",
  "positions": [
   "PG",
   "SG",
@@ -22,8 +22,8 @@
    "fav": "DET",
    "spread": -1.5,
    "total": 222.5,
-   "dk": "",
-   "fd": "Y"
+   "dk": "Y",
+   "fd": ""
   },
   {
    "away": "Philadelphia 76ers",
@@ -33,7 +33,7 @@
    "fav": "NYK",
    "spread": -5.5,
    "total": 231.5,
-   "dk": "",
+   "dk": "Y",
    "fd": "Y"
   },
   {
@@ -63,32 +63,32 @@
    "team": "PHI",
    "status": "Q",
    "note": "Hamstring",
-   "updated": "",
-   "boost": ""
+   "updated": "10 AM ET",
+   "boost": "Few extra minutes for Edgecomb and KCP"
   },
   {
    "player": "Dean Wade",
    "team": "PHI",
    "status": "Q",
    "note": "Ankle",
-   "updated": "",
-   "boost": ""
+   "updated": "10 AM ET",
+   "boost": "Small boost to Edwards and maybe Walker"
   },
   {
    "player": "Adem Bona",
    "team": "PHI",
    "status": "Q",
    "note": "Foot",
-   "updated": "",
-   "boost": ""
+   "updated": "10 AM ET",
+   "boost": "Backup center minutes would go to Wade or Edwards"
   },
   {
    "player": "Taurean Prince",
    "team": "DET",
-   "status": "Q",
+   "status": "O",
    "note": "Personal",
-   "updated": "",
-   "boost": ""
+   "updated": "10 AM ET",
+   "boost": "Not a major part of the rotation"
   },
   {
    "player": "Dominick Barlow",
