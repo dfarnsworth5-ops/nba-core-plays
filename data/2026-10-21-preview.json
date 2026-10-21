@@ -4,7 +4,7 @@
  "slate": "11 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-21",
- "updated": "2026-10-21T11:06:32-06:00",
+ "updated": "2026-10-21T11:35:27-06:00",
  "positions": [
   "PG",
   "SG",
@@ -254,7 +254,7 @@
    "proj": 54.15,
    "type": "",
    "status": "",
-   "blurb": "Will be weird to see him in a Heat uniform. This lineup doesn't have many high usage players. He could have a huge fantasy season.",
+   "blurb": "Will be weird to see him in a Heat uniform. This lineup doesn't have many high-usage players. He could have a huge fantasy season.",
    "url": ""
   },
   {
@@ -288,7 +288,68 @@
    "url": ""
   }
  ],
- "playsFd": [],
+ "playsFd": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Darius Garland",
+   "team": "LAC",
+   "opp": "SAC",
+   "dk": 0,
+   "fd": 7400,
+   "proj": 43.11,
+   "type": "Core",
+   "status": "",
+   "blurb": "Should dominate usage with Kawhi Leonard now in Toronto. Averaged 1.28 DK / 1.20 FD points per minute in the preseason.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Trae Young",
+   "team": "WAS",
+   "opp": "MIL",
+   "dk": 0,
+   "fd": 7300,
+   "proj": 41.34,
+   "type": "",
+   "status": "",
+   "blurb": "The Wizards gave up a lot to acquire him. The per-minute production has always been solid. Very affordable on FD.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Ty Jerome",
+   "team": "MEM",
+   "opp": "UTA",
+   "dk": 0,
+   "fd": 6800,
+   "proj": 36.93,
+   "type": "",
+   "status": "",
+   "blurb": "Averaged a ridiculous 1.55 DK / 1.51 FD points per minute last season. Expected to have a bigger role with Ja Morant now in Portland.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Jalen Green",
+   "team": "PHO",
+   "opp": "POR",
+   "dk": 0,
+   "fd": 6700,
+   "proj": 35.02,
+   "type": "",
+   "status": "",
+   "blurb": "Should be the 2nd option offensively for the Suns this season. Capable of a big fantasy outing at what should be low ownership.",
+   "url": ""
+  }
+ ],
  "injuries": [
   {
    "player": "Brandon Ingram",
@@ -781,8 +842,8 @@
    "C": 6
   },
   "lockedFd": {
-   "PG": 0,
-   "SG": 0,
+   "PG": 6,
+   "SG": 6,
    "SF": 0,
    "PF": 0,
    "C": 0
