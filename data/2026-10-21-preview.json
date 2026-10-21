@@ -4,7 +4,7 @@
  "slate": "11 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-21",
- "updated": "2026-10-21T09:57:12-06:00",
+ "updated": "2026-10-21T10:52:18-06:00",
  "positions": [
   "PG",
   "SG",
@@ -136,7 +136,128 @@
    "fd": "Y"
   }
  ],
- "plays": [],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Darius Garland",
+   "team": "LAC",
+   "opp": "SAC",
+   "dk": 7000,
+   "fd": 0,
+   "proj": 45.01,
+   "type": "",
+   "status": "",
+   "blurb": "Should dominate usage with Kawhi Leonard now in Toronto. Averaged 1.28 DK / 1.20 FD points per minute in the preseason.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Dennis Schroder",
+   "team": "CHA",
+   "opp": "BKN",
+   "dk": 3700,
+   "fd": 0,
+   "proj": 26.93,
+   "type": "",
+   "status": "",
+   "blurb": "Only $3,700 on DK and expected to start for the Hornets. Projected for 30+ minutes with LaMelo Ball now in Minnesota.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Ty Jerome",
+   "team": "MEM",
+   "opp": "UTA",
+   "dk": 6100,
+   "fd": 0,
+   "proj": 38.1,
+   "type": "",
+   "status": "",
+   "blurb": "Averaged a ridiculous 1.55 DK / 1.51 FD points per minute last season. Expected to have a bigger role with Ja Morant now in Portland.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Damian Lillard",
+   "team": "POR",
+   "opp": "PHO",
+   "dk": 6500,
+   "fd": 0,
+   "proj": 37.65,
+   "type": "",
+   "status": "",
+   "blurb": "Will be good to see him back on the floor, especially in a Blazers uniform. The price is good, and he's projected for 30+ minutes.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SG/SF",
+   "fdPos": "SF",
+   "player": "Grayson Allen",
+   "team": "CHA",
+   "opp": "BKN",
+   "dk": 4300,
+   "fd": 0,
+   "proj": 28.18,
+   "type": "",
+   "status": "",
+   "blurb": "Good source of value tonight. He's only $4,300 and projected for 28 minutes against the Nets.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF/PF",
+   "fdPos": "SF",
+   "player": "Gui Santos",
+   "team": "GSW",
+   "opp": "LAL",
+   "dk": 4900,
+   "fd": 0,
+   "proj": 28.61,
+   "type": "",
+   "status": "",
+   "blurb": "Cheap and projected for 30 minutes tonight against the Lakers. One of the easiest point-per-dollar clicks on the slate.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Anthony Davis",
+   "team": "WAS",
+   "opp": "MIL",
+   "dk": 7600,
+   "fd": 0,
+   "proj": 43.26,
+   "type": "",
+   "status": "",
+   "blurb": "When healthy, he's one of the best per-minute producers in the league. Feels like we are getting a nice discount in the first game of the season.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Giannis Antetokounmpo",
+   "team": "MIA",
+   "opp": "MIN",
+   "dk": 10000,
+   "fd": 0,
+   "proj": 54.15,
+   "type": "",
+   "status": "",
+   "blurb": "Will be weird to see him in a Heat uniform. This lineup doesn't have many high usage players. He could have a huge fantasy season.",
+   "url": ""
+  }
+ ],
  "playsFd": [],
  "injuries": [
   {
@@ -612,21 +733,13 @@
    "impact": 1
   }
  ],
- "news": [
-  {
-   "player": "Bobby Portis",
-   "team": "MIA",
-   "status": "Q",
-   "note": "Portis is now questionable. If he's out, more minutes will open up in the frontcourt for players like Bam Adebayo and Kel'el Ware.",
-   "time": "11:50 AM"
-  }
- ],
+ "news": [],
  "preview": {
   "locked": {
-   "PG": 0,
-   "SG": 0,
-   "SF": 0,
-   "PF": 0,
+   "PG": 6,
+   "SG": 6,
+   "SF": 6,
+   "PF": 6,
    "C": 0
   },
   "lockedFd": {
