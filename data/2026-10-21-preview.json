@@ -4,7 +4,7 @@
  "slate": "11 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-21",
- "updated": "2026-10-21T10:52:18-06:00",
+ "updated": "2026-10-21T10:59:04-06:00",
  "positions": [
   "PG",
   "SG",
@@ -147,7 +147,7 @@
    "dk": 7000,
    "fd": 0,
    "proj": 45.01,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Should dominate usage with Kawhi Leonard now in Toronto. Averaged 1.28 DK / 1.20 FD points per minute in the preseason.",
    "url": ""
@@ -162,7 +162,7 @@
    "dk": 3700,
    "fd": 0,
    "proj": 26.93,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Only $3,700 on DK and expected to start for the Hornets. Projected for 30+ minutes with LaMelo Ball now in Minnesota.",
    "url": ""
@@ -237,7 +237,7 @@
    "dk": 7600,
    "fd": 0,
    "proj": 43.26,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "When healthy, he's one of the best per-minute producers in the league. Feels like we are getting a nice discount in the first game of the season.",
    "url": ""
@@ -255,6 +255,36 @@
    "type": "",
    "status": "",
    "blurb": "Will be weird to see him in a Heat uniform. This lineup doesn't have many high usage players. He could have a huge fantasy season.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Domantas Sabonis",
+   "team": "SAC",
+   "opp": "LAC",
+   "dk": 7700,
+   "fd": 0,
+   "proj": 42.28,
+   "type": "",
+   "status": "",
+   "blurb": "Should be healthy entering the season. Has always been a per-minute monster in NBA DFS.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "PF/C",
+   "fdPos": "C",
+   "player": "Jaren Jackson",
+   "team": "UTA",
+   "opp": "MEM",
+   "dk": 6400,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Extremely volatile, but we know the ceiling is there. Opens up with an elite matchup against the Jazz, who were the best matchup for fantasy production last season.",
    "url": ""
   }
  ],
@@ -740,7 +770,7 @@
    "SG": 6,
    "SF": 6,
    "PF": 6,
-   "C": 0
+   "C": 6
   },
   "lockedFd": {
    "PG": 0,
