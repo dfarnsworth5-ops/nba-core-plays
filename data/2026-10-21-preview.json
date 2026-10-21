@@ -4,7 +4,7 @@
  "slate": "11 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-21",
- "updated": "2026-10-21T09:02:41-06:00",
+ "updated": "2026-10-21T09:57:12-06:00",
  "positions": [
   "PG",
   "SG",
@@ -145,7 +145,7 @@
    "status": "O",
    "note": "Heel",
    "updated": "",
-   "boost": ""
+   "impact": 10
   },
   {
    "player": "Deni Avdija",
@@ -153,7 +153,7 @@
    "status": "Q",
    "note": "Ankle",
    "updated": "",
-   "boost": ""
+   "impact": 10
   },
   {
    "player": "Jimmy Butler",
@@ -161,7 +161,7 @@
    "status": "O",
    "note": "Knee",
    "updated": "",
-   "boost": ""
+   "impact": 10
   },
   {
    "player": "AJ Dybantsa",
@@ -169,7 +169,7 @@
    "status": "O",
    "note": "Ankle",
    "updated": "",
-   "boost": ""
+   "impact": 9
   },
   {
    "player": "Kon Knueppel",
@@ -177,7 +177,7 @@
    "status": "O",
    "note": "Hamstring",
    "updated": "",
-   "boost": ""
+   "impact": 9
   },
   {
    "player": "Aaron Nesmith",
@@ -185,7 +185,7 @@
    "status": "O",
    "note": "Hamstring",
    "updated": "",
-   "boost": ""
+   "impact": 9
   },
   {
    "player": "Bradley Beal",
@@ -193,7 +193,7 @@
    "status": "O",
    "note": "Knee",
    "updated": "",
-   "boost": ""
+   "impact": 9
   },
   {
    "player": "Mark Williams",
@@ -201,7 +201,7 @@
    "status": "O",
    "note": "Shoulder",
    "updated": "",
-   "boost": ""
+   "impact": 9
   },
   {
    "player": "Brandin Podziemski",
@@ -209,7 +209,7 @@
    "status": "O",
    "note": "Back",
    "updated": "",
-   "boost": ""
+   "impact": 9
   },
   {
    "player": "Kristaps Porzingis",
@@ -217,7 +217,7 @@
    "status": "O",
    "note": "NWT",
    "updated": "",
-   "boost": ""
+   "impact": 9
   },
   {
    "player": "Nicolas Claxton",
@@ -225,7 +225,7 @@
    "status": "O",
    "note": "Hamstring",
    "updated": "",
-   "boost": ""
+   "impact": 8
   },
   {
    "player": "Anthony Black",
@@ -233,7 +233,7 @@
    "status": "O",
    "note": "Ankle",
    "updated": "",
-   "boost": ""
+   "impact": 8
   },
   {
    "player": "Coby White",
@@ -241,7 +241,7 @@
    "status": "O",
    "note": "Calf",
    "updated": "",
-   "boost": ""
+   "impact": 8
   },
   {
    "player": "Ben Simmons",
@@ -249,7 +249,7 @@
    "status": "O",
    "note": "Achilles",
    "updated": "",
-   "boost": ""
+   "impact": 8
   },
   {
    "player": "Steven Adams",
@@ -257,7 +257,7 @@
    "status": "Q",
    "note": "Calf",
    "updated": "",
-   "boost": ""
+   "impact": 7
   },
   {
    "player": "T.J. McConnell",
@@ -265,7 +265,7 @@
    "status": "O",
    "note": "Hamstring",
    "updated": "",
-   "boost": ""
+   "impact": 7
   },
   {
    "player": "Santi Aldama",
@@ -273,7 +273,7 @@
    "status": "O",
    "note": "Knee",
    "updated": "",
-   "boost": ""
+   "impact": 7
   },
   {
    "player": "Malik Monk",
@@ -281,7 +281,7 @@
    "status": "Q",
    "note": "Ankle",
    "updated": "",
-   "boost": ""
+   "impact": 7
   },
   {
    "player": "Shaedon Sharpe",
@@ -289,7 +289,7 @@
    "status": "O",
    "note": "Knee",
    "updated": "",
-   "boost": ""
+   "impact": 7
   },
   {
    "player": "Collin Sexton",
@@ -297,7 +297,7 @@
    "status": "Q",
    "note": "Calf",
    "updated": "",
-   "boost": ""
+   "impact": 7
   },
   {
    "player": "Moses Moody",
@@ -305,7 +305,7 @@
    "status": "O",
    "note": "Knee",
    "updated": "",
-   "boost": ""
+   "impact": 7
   },
   {
    "player": "Jusuf Nurkic",
@@ -313,7 +313,7 @@
    "status": "O",
    "note": "Foot",
    "updated": "",
-   "boost": ""
+   "impact": 6
   },
   {
    "player": "Isaiah Stewart",
@@ -321,7 +321,7 @@
    "status": "D",
    "note": "Ankle",
    "updated": "",
-   "boost": ""
+   "impact": 6
   },
   {
    "player": "Luke Kennard",
@@ -329,7 +329,7 @@
    "status": "Q",
    "note": "Knee",
    "updated": "",
-   "boost": ""
+   "impact": 6
   },
   {
    "player": "Donte DiVincenzo",
@@ -337,7 +337,7 @@
    "status": "O",
    "note": "Achilles",
    "updated": "",
-   "boost": ""
+   "impact": 5
   },
   {
    "player": "Grant Williams",
@@ -345,7 +345,7 @@
    "status": "O",
    "note": "Hamstring",
    "updated": "",
-   "boost": ""
+   "impact": 5
   },
   {
    "player": "Dereck Lively II",
@@ -353,7 +353,7 @@
    "status": "O",
    "note": "Foot",
    "updated": "",
-   "boost": ""
+   "impact": 5
   },
   {
    "player": "Max Strus",
@@ -361,7 +361,7 @@
    "status": "O",
    "note": "Foot",
    "updated": "",
-   "boost": ""
+   "impact": 5
   },
   {
    "player": "Dylan Cardwell",
@@ -369,7 +369,7 @@
    "status": "O",
    "note": "Calf",
    "updated": "",
-   "boost": ""
+   "impact": 5
   },
   {
    "player": "Charles Bassey",
@@ -377,7 +377,7 @@
    "status": "Q",
    "note": "Knee",
    "updated": "",
-   "boost": ""
+   "impact": 5
   },
   {
    "player": "Julian Phillips",
@@ -385,7 +385,7 @@
    "status": "Q",
    "note": "Illness",
    "updated": "",
-   "boost": ""
+   "impact": 4
   },
   {
    "player": "Jonathan Isaac",
@@ -393,7 +393,7 @@
    "status": "O",
    "note": "Knee",
    "updated": "",
-   "boost": ""
+   "impact": 4
   },
   {
    "player": "Caleb Martin",
@@ -401,7 +401,7 @@
    "status": "O",
    "note": "Thumb",
    "updated": "",
-   "boost": ""
+   "impact": 4
   },
   {
    "player": "Maxime Raynaud",
@@ -409,7 +409,7 @@
    "status": "O",
    "note": "Knee",
    "updated": "",
-   "boost": ""
+   "impact": 4
   },
   {
    "player": "Micah Potter",
@@ -417,7 +417,7 @@
    "status": "Q",
    "note": "Illness",
    "updated": "",
-   "boost": ""
+   "impact": 4
   },
   {
    "player": "Jordan Hawkins",
@@ -425,7 +425,7 @@
    "status": "D",
    "note": "Illness",
    "updated": "",
-   "boost": ""
+   "impact": 3
   },
   {
    "player": "Trey Alexander",
@@ -433,7 +433,7 @@
    "status": "O",
    "note": "Knee",
    "updated": "",
-   "boost": ""
+   "impact": 3
   },
   {
    "player": "Tarik Biberovic",
@@ -441,7 +441,7 @@
    "status": "O",
    "note": "Heel",
    "updated": "",
-   "boost": ""
+   "impact": 3
   },
   {
    "player": "Jordan Miller",
@@ -449,7 +449,7 @@
    "status": "O",
    "note": "Shoulder",
    "updated": "",
-   "boost": ""
+   "impact": 3
   },
   {
    "player": "Yanic Konan NIederhauser",
@@ -457,7 +457,7 @@
    "status": "O",
    "note": "Foot",
    "updated": "",
-   "boost": ""
+   "impact": 3
   },
   {
    "player": "Branden Carlson",
@@ -465,7 +465,7 @@
    "status": "O",
    "note": "Concussion",
    "updated": "",
-   "boost": ""
+   "impact": 3
   },
   {
    "player": "Chris Youngblood",
@@ -473,7 +473,7 @@
    "status": "O",
    "note": "Ankle",
    "updated": "",
-   "boost": ""
+   "impact": 3
   },
   {
    "player": "Tristan Vukcevic",
@@ -481,7 +481,7 @@
    "status": "O",
    "note": "Hip",
    "updated": "",
-   "boost": ""
+   "impact": 2
   },
   {
    "player": "Dailyn Swain",
@@ -489,7 +489,7 @@
    "status": "D",
    "note": "Illness",
    "updated": "",
-   "boost": ""
+   "impact": 2
   },
   {
    "player": "Nate Bittle",
@@ -497,7 +497,7 @@
    "status": "O",
    "note": "Foot",
    "updated": "",
-   "boost": ""
+   "impact": 2
   },
   {
    "player": "Vladislav Goldin",
@@ -505,7 +505,7 @@
    "status": "Q",
    "note": "Ankle",
    "updated": "",
-   "boost": ""
+   "impact": 2
   },
   {
    "player": "Noah Penda",
@@ -513,7 +513,7 @@
    "status": "O",
    "note": "Hamstring",
    "updated": "",
-   "boost": ""
+   "impact": 2
   },
   {
    "player": "Tyler Bilodeau",
@@ -521,7 +521,7 @@
    "status": "O",
    "note": "Shoulder",
    "updated": "",
-   "boost": ""
+   "impact": 2
   },
   {
    "player": "Tony Bradley",
@@ -529,7 +529,7 @@
    "status": "O",
    "note": "Quad",
    "updated": "",
-   "boost": ""
+   "impact": 2
   },
   {
    "player": "Blake Hinson",
@@ -537,7 +537,7 @@
    "status": "O",
    "note": "Hamstring",
    "updated": "",
-   "boost": ""
+   "impact": 2
   },
   {
    "player": "Cameron Carr",
@@ -545,7 +545,7 @@
    "status": "O",
    "note": "Oblique",
    "updated": "",
-   "boost": ""
+   "impact": 2
   },
   {
    "player": "Adou Thiero",
@@ -553,7 +553,7 @@
    "status": "O",
    "note": "Knee",
    "updated": "",
-   "boost": ""
+   "impact": 2
   },
   {
    "player": "Jett Howard",
@@ -561,7 +561,7 @@
    "status": "Q",
    "note": "Calf",
    "updated": "",
-   "boost": ""
+   "impact": 2
   },
   {
    "player": "Jamir Watkins",
@@ -569,7 +569,7 @@
    "status": "O",
    "note": "Knee",
    "updated": "",
-   "boost": ""
+   "impact": 1
   },
   {
    "player": "Izaiyah Nelson",
@@ -577,7 +577,7 @@
    "status": "O",
    "note": "Ankle",
    "updated": "",
-   "boost": ""
+   "impact": 1
   },
   {
    "player": "Kylan Boswell",
@@ -585,7 +585,7 @@
    "status": "O",
    "note": "Knee",
    "updated": "",
-   "boost": ""
+   "impact": 1
   },
   {
    "player": "Mouhamed Gueye",
@@ -593,7 +593,7 @@
    "status": "O",
    "note": "Foot",
    "updated": "",
-   "boost": ""
+   "impact": 1
   },
   {
    "player": "Henri Veesaar",
@@ -601,7 +601,7 @@
    "status": "O",
    "note": "Knee",
    "updated": "",
-   "boost": ""
+   "impact": 1
   },
   {
    "player": "Johnny Furphy",
@@ -609,7 +609,16 @@
    "status": "O",
    "note": "Knee",
    "updated": "",
-   "boost": ""
+   "impact": 1
+  }
+ ],
+ "news": [
+  {
+   "player": "Bobby Portis",
+   "team": "MIA",
+   "status": "Q",
+   "note": "Portis is now questionable. If he's out, more minutes will open up in the frontcourt for players like Bam Adebayo and Kel'el Ware.",
+   "time": "11:50 AM"
   }
  ],
  "preview": {
