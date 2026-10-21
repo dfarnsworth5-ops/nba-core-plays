@@ -4,7 +4,7 @@
  "slate": "11 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-21",
- "updated": "2026-10-21T12:02:54-06:00",
+ "updated": "2026-10-21T15:16:30-06:00",
  "positions": [
   "PG",
   "SG",
@@ -989,7 +989,7 @@
    "dk": 0,
    "fd": 4600,
    "proj": 27.79,
-   "type": "Core",
+   "type": "",
    "status": "",
    "blurb": "Cheap and projected for 30 minutes tonight against the Lakers. One of the easiest point-per-dollar clicks on the slate.",
    "url": ""
@@ -1496,7 +1496,7 @@
   {
    "player": "Collin Sexton",
    "team": "LAL",
-   "status": "Q",
+   "status": "O",
    "note": "Calf",
    "updated": "",
    "impact": 7
@@ -1576,7 +1576,7 @@
   {
    "player": "Charles Bassey",
    "team": "GSW",
-   "status": "Q",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 5
@@ -1614,17 +1614,9 @@
    "impact": 4
   },
   {
-   "player": "Micah Potter",
-   "team": "POR",
-   "status": "Q",
-   "note": "Illness",
-   "updated": "",
-   "impact": 4
-  },
-  {
    "player": "Jordan Hawkins",
    "team": "CHI",
-   "status": "D",
+   "status": "O",
    "note": "Illness",
    "updated": "",
    "impact": 3
@@ -1688,7 +1680,7 @@
   {
    "player": "Dailyn Swain",
    "team": "CHI",
-   "status": "D",
+   "status": "O",
    "note": "Illness",
    "updated": "",
    "impact": 2
@@ -1760,7 +1752,7 @@
   {
    "player": "Jett Howard",
    "team": "DAL",
-   "status": "Q",
+   "status": "O",
    "note": "Calf",
    "updated": "",
    "impact": 2
@@ -1818,9 +1810,9 @@
   {
    "player": "Collin Sexton",
    "team": "",
-   "status": "Q",
-   "note": "Sexton is now questionable. If he's out, even more usage will open up for Luka Doncic and Austin Reaves.",
-   "time": "11:00 AM"
+   "status": "O",
+   "note": "Sexton has been ruled out. The offense will flow through Luka Doncic and Austin Reaves.",
+   "time": "4:00 AM"
   }
  ]
 }
