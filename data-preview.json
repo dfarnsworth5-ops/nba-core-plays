@@ -4,7 +4,7 @@
  "slate": "2 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-22",
- "updated": "2026-10-21T20:54:49-06:00",
+ "updated": "2026-10-22T11:47:04-06:00",
  "positions": [
   "PG",
   "SG",
@@ -37,7 +37,38 @@
    "fd": "Y"
   }
  ],
- "plays": [],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Tyrese Maxey",
+   "team": "PHI",
+   "opp": "CLE",
+   "dk": 8000,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "I'm encouraged by his 39 minutes and 26% usage rate on Tuesday night. He grades out as a tremendous play at this price point.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Ajay Mitchell",
+   "team": "OKC",
+   "opp": "DEN",
+   "dk": 4400,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "",
+   "url": ""
+  }
+ ],
  "playsFd": [],
  "injuries": [
   {
@@ -140,7 +171,7 @@
  "news": [],
  "preview": {
   "locked": {
-   "PG": 0,
+   "PG": 5,
    "SG": 0,
    "SF": 0,
    "PF": 0,
