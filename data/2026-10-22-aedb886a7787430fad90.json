@@ -4,7 +4,7 @@
  "slate": "2 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-22",
- "updated": "2026-10-22T16:28:56-06:00",
+ "updated": "2026-10-22T16:35:27-06:00",
  "positions": [
   "PG",
   "SG",
@@ -1112,6 +1112,13 @@
    "status": "A",
    "note": "Allen will play tonight. I am going to play some of the cheap Cavaliers, but I'm happy to be underweight on Donovan Mitchell, James Harden, and Evan Mobley.",
    "time": "6:25 PM"
+  },
+  {
+   "player": "Dean Wade",
+   "team": "",
+   "status": "O",
+   "note": "Wade has been ruled out. This tightens an already tight rotation even more.",
+   "time": "6:35 PM"
   }
  ]
 }
