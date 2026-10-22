@@ -4,7 +4,7 @@
  "slate": "2 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-22",
- "updated": "2026-10-22T13:14:18-06:00",
+ "updated": "2026-10-22T13:20:58-06:00",
  "positions": [
   "PG",
   "SG",
@@ -439,7 +439,29 @@
    "impact": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "player": "Jarrett Allen",
+   "team": "",
+   "status": "Q",
+   "note": "If Allen is out, Evan Mobley will see a small uptick in FP/min production. Sam Merrill, Jaylon Tyson, and Thomas Bryant are all candidates to start.",
+   "time": "3:15 PM"
+  },
+  {
+   "player": "Dean Wade",
+   "team": "",
+   "status": "Q",
+   "note": "Didn't play in the season opener. We can expect a similar rotation from the Sixers if he's out again. Even if he plays, we only have him projected for 17 minutes.",
+   "time": "3:15 PM"
+  },
+  {
+   "player": "Spencer Jones",
+   "team": "",
+   "status": "Q",
+   "note": "Only projected for 18 minutes, but his absence would open up minutes for the Nuggets on the wing.",
+   "time": "3:15 PM"
+  }
+ ],
  "preview": {
   "locked": {
    "PG": 5,
