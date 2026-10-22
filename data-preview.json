@@ -1,10 +1,10 @@
 {
  "title": "NBA Core Plays",
  "date": "Wednesday, October 21st",
- "slate": "11 games · 7:00 PM ET lock",
+ "slate": "#N/A",
  "note": "",
  "iso": "2026-10-21",
- "updated": "2026-10-21T15:55:08-06:00",
+ "updated": "2026-10-21T20:48:18-06:00",
  "positions": [
   "PG",
   "SG",
@@ -17,918 +17,240 @@
   {
    "away": "Atlanta Hawks",
    "home": "Orlando Magic",
-   "time": "7:00 PM",
-   "min": 1140,
+   "time": "#N/A",
+   "min": 9999,
    "fav": "ORL",
-   "spread": -3.5,
-   "total": 235.5,
+   "spread": 0,
+   "total": 0,
    "dk": "Y",
    "fd": "Y"
   },
   {
    "away": "Milwaukee Bucks",
    "home": "Washington Wizards",
-   "time": "7:00 PM",
-   "min": 1140,
+   "time": "#N/A",
+   "min": 9999,
    "fav": "WAS",
-   "spread": -4.5,
-   "total": 239.5,
+   "spread": 0,
+   "total": 0,
    "dk": "Y",
    "fd": "Y"
   },
   {
    "away": "Charlotte Hornets",
    "home": "Brooklyn Nets",
-   "time": "7:30 PM",
-   "min": 1170,
+   "time": "#N/A",
+   "min": 9999,
    "fav": "BKN",
-   "spread": -2.5,
-   "total": 219.5,
-   "dk": "Y",
-   "fd": "Y"
+   "spread": 0,
+   "total": 0,
+   "dk": "",
+   "fd": ""
   },
   {
    "away": "Minnesota Timberwolves",
    "home": "Miami Heat",
-   "time": "7:30 PM",
-   "min": 1170,
+   "time": "#N/A",
+   "min": 9999,
    "fav": "MIA",
-   "spread": -1.5,
-   "total": 243.5,
-   "dk": "Y",
-   "fd": "Y"
+   "spread": 0,
+   "total": 0,
+   "dk": "",
+   "fd": ""
   },
   {
    "away": "Chicago Bulls",
    "home": "Toronto Raptors",
-   "time": "7:30 PM",
-   "min": 1170,
+   "time": "#N/A",
+   "min": 9999,
    "fav": "TOR",
-   "spread": -9.5,
-   "total": 236.5,
-   "dk": "Y",
-   "fd": "Y"
+   "spread": 0,
+   "total": 0,
+   "dk": "",
+   "fd": ""
   },
   {
    "away": "Utah Jazz",
    "home": "Memphis Grizzlies",
-   "time": "8:00 PM",
-   "min": 1200,
+   "time": "#N/A",
+   "min": 9999,
    "fav": "MEM",
-   "spread": -1.5,
-   "total": 240.5,
-   "dk": "Y",
-   "fd": "Y"
+   "spread": 0,
+   "total": 0,
+   "dk": "",
+   "fd": ""
   },
   {
    "away": "Indiana Pacers",
    "home": "New Orleans Pelicans",
-   "time": "8:00 PM",
-   "min": 1200,
-   "fav": "IND",
-   "spread": -3.5,
-   "total": 239.5,
-   "dk": "Y",
-   "fd": "Y"
+   "time": "#N/A",
+   "min": 9999,
+   "fav": "NOP",
+   "spread": 0,
+   "total": 0,
+   "dk": "",
+   "fd": ""
   },
   {
    "away": "Dallas Mavericks",
    "home": "Houston Rockets",
-   "time": "8:30 PM",
-   "min": 1230,
+   "time": "#N/A",
+   "min": 9999,
    "fav": "HOU",
-   "spread": -8.5,
-   "total": 230.5,
-   "dk": "Y",
-   "fd": "Y"
+   "spread": 0,
+   "total": 0,
+   "dk": "",
+   "fd": ""
   },
   {
    "away": "Golden State Warriors",
    "home": "Los Angeles Lakers",
-   "time": "10:00 PM",
-   "min": 1320,
+   "time": "#N/A",
+   "min": 9999,
    "fav": "LAL",
-   "spread": -6.5,
-   "total": 233.5,
-   "dk": "Y",
-   "fd": "Y"
+   "spread": 0,
+   "total": 0,
+   "dk": "",
+   "fd": ""
   },
   {
    "away": "Phoenix Suns",
    "home": "Portland Trail Blazers",
-   "time": "10:00 PM",
-   "min": 1320,
+   "time": "#N/A",
+   "min": 9999,
    "fav": "POR",
-   "spread": -3.5,
-   "total": 231.5,
-   "dk": "Y",
-   "fd": "Y"
+   "spread": 0,
+   "total": 0,
+   "dk": "",
+   "fd": ""
   },
   {
    "away": "Sacramento Kings",
    "home": "Los Angeles Clippers",
-   "time": "10:30 PM",
-   "min": 1350,
+   "time": "#N/A",
+   "min": 9999,
    "fav": "LAC",
-   "spread": -4.5,
-   "total": 227.5,
-   "dk": "Y",
-   "fd": "Y"
+   "spread": 0,
+   "total": 0,
+   "dk": "",
+   "fd": ""
   }
  ],
- "plays": [
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Darius Garland",
-   "team": "LAC",
-   "opp": "SAC",
-   "dk": 7000,
-   "fd": 0,
-   "proj": 45.01,
-   "type": "Core",
-   "status": "",
-   "blurb": "Should dominate usage with Kawhi Leonard now in Toronto. Averaged 1.28 DK / 1.20 FD points per minute in the preseason.",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Dennis Schroder",
-   "team": "CHA",
-   "opp": "BKN",
-   "dk": 3700,
-   "fd": 0,
-   "proj": 26.93,
-   "type": "Core",
-   "status": "",
-   "blurb": "Only $3,700 on DK and expected to start for the Hornets. Projected for 30+ minutes with LaMelo Ball now in Minnesota.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "PG/SG",
-   "fdPos": "SG",
-   "player": "Ty Jerome",
-   "team": "MEM",
-   "opp": "UTA",
-   "dk": 6100,
-   "fd": 0,
-   "proj": 38.1,
-   "type": "",
-   "status": "",
-   "blurb": "Averaged a ridiculous 1.55 DK / 1.51 FD points per minute last season. Expected to have a bigger role with Ja Morant now in Portland.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "PG/SG",
-   "fdPos": "SG",
-   "player": "Damian Lillard",
-   "team": "POR",
-   "opp": "PHO",
-   "dk": 6500,
-   "fd": 0,
-   "proj": 37.65,
-   "type": "",
-   "status": "",
-   "blurb": "Will be good to see him back on the floor, especially in a Blazers uniform. The price is good, and he's projected for 30+ minutes.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SG/SF",
-   "fdPos": "SF",
-   "player": "Grayson Allen",
-   "team": "CHA",
-   "opp": "BKN",
-   "dk": 4300,
-   "fd": 0,
-   "proj": 28.18,
-   "type": "",
-   "status": "",
-   "blurb": "Good source of value tonight. He's only $4,300 and projected for 28 minutes against the Nets.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF/PF",
-   "fdPos": "SF",
-   "player": "Gui Santos",
-   "team": "GSW",
-   "opp": "LAL",
-   "dk": 4900,
-   "fd": 0,
-   "proj": 28.61,
-   "type": "",
-   "status": "",
-   "blurb": "Cheap and projected for 30 minutes tonight against the Lakers. One of the easiest point-per-dollar clicks on the slate.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "Anthony Davis",
-   "team": "WAS",
-   "opp": "MIL",
-   "dk": 7600,
-   "fd": 0,
-   "proj": 43.26,
-   "type": "Core",
-   "status": "",
-   "blurb": "When healthy, he's one of the best per-minute producers in the league. Feels like we are getting a nice discount in the first game of the season.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "Giannis Antetokounmpo",
-   "team": "MIA",
-   "opp": "MIN",
-   "dk": 10000,
-   "fd": 0,
-   "proj": 54.15,
-   "type": "",
-   "status": "",
-   "blurb": "Will be weird to see him in a Heat uniform. This lineup doesn't have many high-usage players. He could have a huge fantasy season.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Domantas Sabonis",
-   "team": "SAC",
-   "opp": "LAC",
-   "dk": 7700,
-   "fd": 0,
-   "proj": 42.28,
-   "type": "",
-   "status": "",
-   "blurb": "Should be healthy entering the season. Has always been a per-minute monster in NBA DFS.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "PF/C",
-   "fdPos": "C",
-   "player": "Jaren Jackson",
-   "team": "UTA",
-   "opp": "MEM",
-   "dk": 6400,
-   "fd": 0,
-   "proj": 38.65,
-   "type": "",
-   "status": "",
-   "blurb": "Extremely volatile, but we know the ceiling is there. Opens up with an elite matchup against the Jazz, who were the best matchup for fantasy production last season.",
-   "url": ""
-  }
- ],
- "playsFd": [
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Darius Garland",
-   "team": "LAC",
-   "opp": "SAC",
-   "dk": 0,
-   "fd": 7400,
-   "proj": 43.11,
-   "type": "Core",
-   "status": "",
-   "blurb": "Should dominate usage with Kawhi Leonard now in Toronto. Averaged 1.28 DK / 1.20 FD points per minute in the preseason.",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Trae Young",
-   "team": "WAS",
-   "opp": "MIL",
-   "dk": 0,
-   "fd": 7300,
-   "proj": 41.34,
-   "type": "",
-   "status": "",
-   "blurb": "The Wizards gave up a lot to acquire him. The per-minute production has always been solid. Very affordable on FD.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG",
-   "player": "Ty Jerome",
-   "team": "MEM",
-   "opp": "UTA",
-   "dk": 0,
-   "fd": 6800,
-   "proj": 36.93,
-   "type": "",
-   "status": "",
-   "blurb": "Averaged a ridiculous 1.55 DK / 1.51 FD points per minute last season. Expected to have a bigger role with Ja Morant now in Portland.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG",
-   "player": "Jalen Green",
-   "team": "PHO",
-   "opp": "POR",
-   "dk": 0,
-   "fd": 6700,
-   "proj": 35.02,
-   "type": "",
-   "status": "",
-   "blurb": "Should be the 2nd option offensively for the Suns this season. Capable of a big fantasy outing at what should be low ownership.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "SF",
-   "player": "Gui Santos",
-   "team": "GSW",
-   "opp": "LAL",
-   "dk": 0,
-   "fd": 4600,
-   "proj": 27.79,
-   "type": "",
-   "status": "",
-   "blurb": "Cheap and projected for 30 minutes tonight against the Lakers. One of the easiest point-per-dollar clicks on the slate.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "SF",
-   "player": "Yaxel Lendeborg",
-   "team": "GSW",
-   "opp": "LAL",
-   "dk": 0,
-   "fd": 5100,
-   "proj": 29.15,
-   "type": "",
-   "status": "",
-   "blurb": "Was tremendous in the preseason. We have him projected for 31 minutes in his first NBA game.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF/C",
-   "player": "Isaiah Jackson",
-   "team": "LAC",
-   "opp": "SAC",
-   "dk": 0,
-   "fd": 4300,
-   "proj": 27.65,
-   "type": "Core",
-   "status": "",
-   "blurb": "Expected to start at center for the Clippers. Good per-minute producer, and he's only $4,300 on FD.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF/C",
-   "player": "Jaren Jackson",
-   "team": "UTA",
-   "opp": "MEM",
-   "dk": 0,
-   "fd": 7000,
-   "proj": 39.28,
-   "type": "",
-   "status": "",
-   "blurb": "Extremely volatile, but we know the ceiling is there. Opens up with an elite matchup against the Jazz, who were the best matchup for fantasy production last season.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "PF/C",
-   "player": "Isaiah Jackson",
-   "team": "LAC",
-   "opp": "SAC",
-   "dk": 0,
-   "fd": 4300,
-   "proj": 27.65,
-   "type": "Core",
-   "status": "",
-   "blurb": "Expected to start at center for the Clippers. Good per-minute producer, and he's only $4,300 on FD.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Ivica Zubac",
-   "team": "IND",
-   "opp": "NOP",
-   "dk": 0,
-   "fd": 6100,
-   "proj": 36.38,
-   "type": "",
-   "status": "",
-   "blurb": "Feels overpriced for Zubac, but I like the fit on the Pacers. He averaged 1.47 DK / 1.54 FD points per minute in the preseason.",
-   "url": ""
-  }
- ],
+ "plays": [],
+ "playsFd": [],
  "injuries": [
   {
-   "player": "Brandon Ingram",
-   "team": "LAC",
-   "status": "O",
-   "note": "Heel",
+   "player": "Jarrett Allen",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Knee",
    "updated": "",
-   "impact": 10
+   "impact": 9
   },
   {
-   "player": "Deni Avdija",
-   "team": "POR",
+   "player": "Spencer Jones",
+   "team": "DEN",
+   "status": "Q",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Dean Wade",
+   "team": "PHI",
    "status": "Q",
    "note": "Ankle",
    "updated": "",
-   "impact": 10
+   "impact": 5
   },
   {
-   "player": "Jimmy Butler",
-   "team": "GSW",
+   "player": "Julian Strawther",
+   "team": "DEN",
    "status": "O",
    "note": "Knee",
    "updated": "",
-   "impact": 10
+   "impact": 5
   },
   {
-   "player": "AJ Dybantsa",
-   "team": "WAS",
-   "status": "O",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 9
-  },
-  {
-   "player": "Kon Knueppel",
-   "team": "CHA",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 9
-  },
-  {
-   "player": "Aaron Nesmith",
-   "team": "IND",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 9
-  },
-  {
-   "player": "Bradley Beal",
-   "team": "LAC",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 9
-  },
-  {
-   "player": "Mark Williams",
-   "team": "PHO",
-   "status": "O",
-   "note": "Shoulder",
-   "updated": "",
-   "impact": 9
-  },
-  {
-   "player": "Brandin Podziemski",
-   "team": "GSW",
+   "player": "Nae'Qwan Tomlin",
+   "team": "CLE",
    "status": "O",
    "note": "Back",
    "updated": "",
-   "impact": 9
+   "impact": 3
   },
   {
-   "player": "Kristaps Porzingis",
-   "team": "GSW",
+   "player": "Dominick Barlow",
+   "team": "PHI",
    "status": "O",
-   "note": "NWT",
-   "updated": "",
-   "impact": 9
-  },
-  {
-   "player": "Nicolas Claxton",
-   "team": "CHI",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 8
-  },
-  {
-   "player": "Anthony Black",
-   "team": "ORL",
-   "status": "O",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 8
-  },
-  {
-   "player": "Coby White",
-   "team": "CHA",
-   "status": "O",
-   "note": "Calf",
-   "updated": "",
-   "impact": 8
-  },
-  {
-   "player": "Ben Simmons",
-   "team": "SAC",
-   "status": "O",
-   "note": "Achilles",
-   "updated": "",
-   "impact": 8
-  },
-  {
-   "player": "Steven Adams",
-   "team": "HOU",
-   "status": "Q",
-   "note": "Calf",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "T.J. McConnell",
-   "team": "IND",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Santi Aldama",
-   "team": "DAL",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Malik Monk",
-   "team": "SAC",
-   "status": "Q",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Shaedon Sharpe",
-   "team": "POR",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Collin Sexton",
-   "team": "LAL",
-   "status": "O",
-   "note": "Calf",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Moses Moody",
-   "team": "GSW",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Jusuf Nurkic",
-   "team": "UTA",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 6
-  },
-  {
-   "player": "Isaiah Stewart",
-   "team": "MEM",
-   "status": "D",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 6
-  },
-  {
-   "player": "Luke Kennard",
-   "team": "PHO",
-   "status": "Q",
-   "note": "Knee",
-   "updated": "",
-   "impact": 6
-  },
-  {
-   "player": "Donte DiVincenzo",
-   "team": "MIN",
-   "status": "O",
-   "note": "Achilles",
-   "updated": "",
-   "impact": 5
-  },
-  {
-   "player": "Grant Williams",
-   "team": "CHA",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 5
-  },
-  {
-   "player": "Dereck Lively II",
-   "team": "DAL",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 5
-  },
-  {
-   "player": "Max Strus",
-   "team": "LAC",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 5
-  },
-  {
-   "player": "Dylan Cardwell",
-   "team": "SAC",
-   "status": "O",
-   "note": "Calf",
-   "updated": "",
-   "impact": 5
-  },
-  {
-   "player": "Charles Bassey",
-   "team": "GSW",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 5
-  },
-  {
-   "player": "Julian Phillips",
-   "team": "HOU",
-   "status": "Q",
-   "note": "Illness",
-   "updated": "",
-   "impact": 4
-  },
-  {
-   "player": "Jonathan Isaac",
-   "team": "ORL",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 4
-  },
-  {
-   "player": "Caleb Martin",
-   "team": "DAL",
-   "status": "O",
-   "note": "Thumb",
-   "updated": "",
-   "impact": 4
-  },
-  {
-   "player": "Maxime Raynaud",
-   "team": "SAC",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 4
-  },
-  {
-   "player": "Jordan Hawkins",
-   "team": "CHI",
-   "status": "O",
-   "note": "Illness",
+   "note": "Back",
    "updated": "",
    "impact": 3
   },
   {
-   "player": "Trey Alexander",
-   "team": "UTA",
+   "player": "Khalifa Diop",
+   "team": "CLE",
    "status": "O",
    "note": "Knee",
    "updated": "",
-   "impact": 3
+   "impact": 1
   },
   {
-   "player": "Tarik Biberovic",
-   "team": "DAL",
-   "status": "O",
-   "note": "Heel",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Jordan Miller",
-   "team": "LAC",
-   "status": "O",
-   "note": "Shoulder",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Yanic Konan NIederhauser",
-   "team": "LAC",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Branden Carlson",
-   "team": "POR",
-   "status": "O",
-   "note": "Concussion",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Chris Youngblood",
-   "team": "POR",
-   "status": "O",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Tristan Vukcevic",
-   "team": "WAS",
-   "status": "O",
-   "note": "Hip",
-   "updated": "",
-   "impact": 2
-  },
-  {
-   "player": "Dailyn Swain",
-   "team": "CHI",
-   "status": "O",
-   "note": "Illness",
-   "updated": "",
-   "impact": 2
-  },
-  {
-   "player": "Nate Bittle",
-   "team": "TOR",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 2
-  },
-  {
-   "player": "Vladislav Goldin",
-   "team": "MIA",
-   "status": "Q",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 2
-  },
-  {
-   "player": "Noah Penda",
-   "team": "ORL",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 2
-  },
-  {
-   "player": "Tyler Bilodeau",
-   "team": "BKN",
-   "status": "O",
-   "note": "Shoulder",
-   "updated": "",
-   "impact": 2
-  },
-  {
-   "player": "Tony Bradley",
-   "team": "UTA",
+   "player": "Tacko Fall",
+   "team": "PHI",
    "status": "O",
    "note": "Quad",
    "updated": "",
-   "impact": 2
+   "impact": 1
   },
   {
-   "player": "Blake Hinson",
-   "team": "UTA",
+   "player": "Ariel Hukporti",
+   "team": "PHI",
    "status": "O",
-   "note": "Hamstring",
+   "note": "Achilles",
    "updated": "",
-   "impact": 2
+   "impact": 1
   },
   {
-   "player": "Cameron Carr",
-   "team": "LAL",
+   "player": "Otega Oweh",
+   "team": "OKC",
    "status": "O",
-   "note": "Oblique",
+   "note": "Achilles",
    "updated": "",
-   "impact": 2
+   "impact": 1
   },
   {
-   "player": "Adou Thiero",
-   "team": "LAL",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 2
-  },
-  {
-   "player": "Jett Howard",
-   "team": "DAL",
-   "status": "O",
-   "note": "Calf",
-   "updated": "",
-   "impact": 2
-  },
-  {
-   "player": "Jamir Watkins",
-   "team": "WAS",
+   "player": "Thomas Sorber",
+   "team": "OKC",
    "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Izaiyah Nelson",
-   "team": "ORL",
+   "player": "Nikola Topic",
+   "team": "OKC",
    "status": "O",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Kylan Boswell",
-   "team": "CHA",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Mouhamed Gueye",
-   "team": "ATL",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Henri Veesaar",
-   "team": "ATL",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Johnny Furphy",
-   "team": "IND",
-   "status": "O",
-   "note": "Knee",
+   "note": "Back",
    "updated": "",
    "impact": 1
   }
  ],
- "news": [
-  {
-   "player": "Collin Sexton",
-   "team": "",
-   "status": "O",
-   "note": "Sexton has been ruled out. The offense will flow through Luka Doncic and Austin Reaves.",
-   "time": "4:00 PM"
-  }
- ],
+ "news": [],
  "preview": {
   "locked": {
-   "PG": 6,
-   "SG": 6,
-   "SF": 6,
-   "PF": 6,
-   "C": 6
+   "PG": 0,
+   "SG": 0,
+   "SF": 0,
+   "PF": 0,
+   "C": 0
   },
   "lockedFd": {
-   "PG": 6,
-   "SG": 6,
-   "SF": 6,
-   "PF": 6,
-   "C": 6
+   "PG": 0,
+   "SG": 0,
+   "SF": 0,
+   "PF": 0,
+   "C": 0
   },
   "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
   "ctaLabel": "Unlock every Core Play with RG MVP",
