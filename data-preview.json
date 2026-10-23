@@ -4,7 +4,7 @@
  "slate": "12 games · 4:00 PM ET lock",
  "note": "",
  "iso": "2026-10-23",
- "updated": "2026-10-22T21:59:48-06:00",
+ "updated": "2026-10-23T11:39:33-06:00",
  "positions": [
   "PG",
   "SG",
@@ -147,7 +147,158 @@
    "fd": "L"
   }
  ],
- "plays": [],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Tyrese Haliburton",
+   "team": "IND",
+   "opp": "DAL",
+   "dk": 8000,
+   "fd": 0,
+   "proj": 45.45,
+   "type": "Core",
+   "status": "",
+   "blurb": "33 minutes with a 29% usage rate in the opener. His price will likely go up from here.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Trae Young",
+   "team": "WAS",
+   "opp": "TOR",
+   "dk": 7900,
+   "fd": 0,
+   "proj": 41.29,
+   "type": "",
+   "status": "",
+   "blurb": "Put up 45 fantasy points in the opener despite shooting 4-for-13 from the field.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
+   "player": "Grayson Allen",
+   "team": "CHA",
+   "opp": "ATL",
+   "dk": 4800,
+   "fd": 0,
+   "proj": 27.45,
+   "type": "",
+   "status": "",
+   "blurb": "Came off the bench in the opener but scored 31 fantasy points in 28 minues of action.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Desmond Bane",
+   "team": "ORL",
+   "opp": "MIN",
+   "dk": 6100,
+   "fd": 0,
+   "proj": 34.57,
+   "type": "",
+   "status": "",
+   "blurb": "Should see minutes in the mid-30s with a high usage rate. This is no longer an elite Minnesota defense.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF/PF",
+   "fdPos": "SF",
+   "player": "Jayson Tatum",
+   "team": "BOS",
+   "opp": "NYK",
+   "dk": 9200,
+   "fd": 0,
+   "proj": 52.17,
+   "type": "Core",
+   "status": "",
+   "blurb": "Awful game in the opener, but the minutes (38) and usage (31%) were both there. My favorite spend on the slate.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Franz Wagner",
+   "team": "ORL",
+   "opp": "MIN",
+   "dk": 7000,
+   "fd": 0,
+   "proj": 37.43,
+   "type": "Core",
+   "status": "",
+   "blurb": "Despite playing 8 minutes in the first half due to foul trouble, he still scored 39 fantasy points against the Hawks. One of my favorite plays on the slate.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "SF/PF",
+   "fdPos": "PF",
+   "player": "Jayson Tatum",
+   "team": "BOS",
+   "opp": "NYK",
+   "dk": 9200,
+   "fd": 0,
+   "proj": 52.17,
+   "type": "Core",
+   "status": "",
+   "blurb": "Awful game in the opener, but the minutes (38) and usage (31%) were both there. My favorite spend on the slate.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Anthony Davis",
+   "team": "WAS",
+   "opp": "TOR",
+   "dk": 8600,
+   "fd": 0,
+   "proj": 45.28,
+   "type": "",
+   "status": "",
+   "blurb": "61 fantasy points in the opener, should be in store for a monster season with the Wizards if he can stay healthy.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Ivica Zubac",
+   "team": "IND",
+   "opp": "DAL",
+   "dk": 6900,
+   "fd": 0,
+   "proj": 40.06,
+   "type": "",
+   "status": "",
+   "blurb": "Massive per-minute numbers in the preseason. I really like his fit with the Pacers.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "PF/C",
+   "fdPos": "C",
+   "player": "Naz Reid",
+   "team": "CHA",
+   "opp": "ATL",
+   "dk": 6600,
+   "fd": 0,
+   "proj": 34.88,
+   "type": "",
+   "status": "",
+   "blurb": "32 minutes in his first game with the Hornets, has always been a stellar per-minute producer.",
+   "url": ""
+  }
+ ],
  "playsFd": [],
  "injuries": [
   {
@@ -376,7 +527,7 @@
   },
   {
    "player": "Maxime Raynaud",
-   "team": "",
+   "team": "SAC",
    "status": "O",
    "note": "Knee",
    "updated": "",
@@ -453,22 +604,6 @@
    "note": "Knee",
    "updated": "",
    "impact": 3
-  },
-  {
-   "player": "Jordan Hawkins",
-   "team": "CHI",
-   "status": "Q",
-   "note": "Illness",
-   "updated": "",
-   "impact": 2
-  },
-  {
-   "player": "Dailyn Swain",
-   "team": "CHI",
-   "status": "Q",
-   "note": "Illness",
-   "updated": "",
-   "impact": 2
   },
   {
    "player": "Felix Okpara",
@@ -618,11 +753,11 @@
  "news": [],
  "preview": {
   "locked": {
-   "PG": 0,
-   "SG": 0,
-   "SF": 0,
-   "PF": 0,
-   "C": 0
+   "PG": 6,
+   "SG": 6,
+   "SF": 6,
+   "PF": 6,
+   "C": 6
   },
   "lockedFd": {
    "PG": 0,
