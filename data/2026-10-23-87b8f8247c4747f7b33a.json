@@ -4,7 +4,7 @@
  "slate": "12 games · 4:00 PM ET lock",
  "note": "",
  "iso": "2026-10-23",
- "updated": "2026-10-23T15:25:10-06:00",
+ "updated": "2026-10-23T15:44:22-06:00",
  "positions": [
   "PG",
   "SG",
@@ -1841,6 +1841,13 @@
    "status": "A",
    "note": "Podz will play tonight.",
    "time": "5:00 PM"
+  },
+  {
+   "player": "Aaron Nesmith",
+   "team": "",
+   "status": "A",
+   "note": "Nesmith will play tonight.",
+   "time": "5:40 PM"
   }
  ]
 }
