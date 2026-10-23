@@ -4,7 +4,7 @@
  "slate": "12 games · 4:00 PM ET lock",
  "note": "",
  "iso": "2026-10-23",
- "updated": "2026-10-23T12:28:38-06:00",
+ "updated": "2026-10-23T15:25:10-06:00",
  "positions": [
   "PG",
   "SG",
@@ -1417,14 +1417,6 @@
    "impact": 9
   },
   {
-   "player": "Brandin Podziemski",
-   "team": "GSW",
-   "status": "Q",
-   "note": "Back",
-   "updated": "",
-   "impact": 9
-  },
-  {
    "player": "Kristaps Porzingis",
    "team": "GSW",
    "status": "O",
@@ -1643,7 +1635,7 @@
   {
    "player": "Jake LaRavia",
    "team": "LAL",
-   "status": "Q",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 3
@@ -1651,7 +1643,7 @@
   {
    "player": "Charles Bassey",
    "team": "GSW",
-   "status": "Q",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 3
@@ -1661,14 +1653,6 @@
    "team": "WAS",
    "status": "Q",
    "note": "Illness",
-   "updated": "",
-   "impact": 2
-  },
-  {
-   "player": "Tony Bradley",
-   "team": "UTA",
-   "status": "Q",
-   "note": "Quad",
    "updated": "",
    "impact": 2
   },
@@ -1850,6 +1834,13 @@
    "status": "Q",
    "note": "Limited role off the bench, but his absence would open up usage in the second unit.",
    "time": "1:40 PM"
+  },
+  {
+   "player": "Brandin Podziemski",
+   "team": "",
+   "status": "A",
+   "note": "Podz will play tonight.",
+   "time": "5:00 PM"
   }
  ]
 }
