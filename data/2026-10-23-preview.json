@@ -4,7 +4,7 @@
  "slate": "12 games · 4:00 PM ET lock",
  "note": "",
  "iso": "2026-10-23",
- "updated": "2026-10-23T11:46:38-06:00",
+ "updated": "2026-10-23T12:12:27-06:00",
  "positions": [
   "PG",
   "SG",
@@ -190,7 +190,7 @@
    "proj": 27.45,
    "type": "",
    "status": "",
-   "blurb": "Came off the bench in the opener but scored 31 fantasy points in 28 minues of action.",
+   "blurb": "Came off the bench in the opener but scored 31 fantasy points in 28 minutes of action.",
    "url": ""
   },
   {
@@ -265,7 +265,7 @@
    "proj": 45.28,
    "type": "",
    "status": "",
-   "blurb": "61 fantasy points in the opener, should be in store for a monster season with the Wizards if he can stay healthy.",
+   "blurb": "61 fantasy points in the opener and should be in store for a monster season with the Wizards if he can stay healthy.",
    "url": ""
   },
   {
@@ -299,7 +299,68 @@
    "url": ""
   }
  ],
- "playsFd": [],
+ "playsFd": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Tyrese Haliburton",
+   "team": "IND",
+   "opp": "DAL",
+   "dk": 0,
+   "fd": 8200,
+   "proj": 44.23,
+   "type": "Core",
+   "status": "",
+   "blurb": "33 minutes with a 29% usage rate in the opener. His price will likely go up from here.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Darius Garland",
+   "team": "LAC",
+   "opp": "LAL",
+   "dk": 0,
+   "fd": 7700,
+   "proj": 41.27,
+   "type": "",
+   "status": "",
+   "blurb": "Scored a lot of points in the opener, but the fantasy production was middling. Still want to buy in early at this price point.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Ty Jerome",
+   "team": "MEM",
+   "opp": "GSW",
+   "dk": 0,
+   "fd": 7500,
+   "proj": 44.06,
+   "type": "",
+   "status": "",
+   "blurb": "His per-minute numbers are truly elite. Could see minutes in the high 20s each game this season.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SF/SG",
+   "player": "Ausar Thompson",
+   "team": "DET",
+   "opp": "MIA",
+   "dk": 0,
+   "fd": 6100,
+   "proj": 32.88,
+   "type": "",
+   "status": "",
+   "blurb": "With Tobias Harris gone, he has an easier path to minutes in the low 30s each night.",
+   "url": ""
+  }
+ ],
  "injuries": [
   {
    "player": "De'Aaron Fox",
@@ -810,8 +871,8 @@
    "C": 6
   },
   "lockedFd": {
-   "PG": 0,
-   "SG": 0,
+   "PG": 6,
+   "SG": 6,
    "SF": 0,
    "PF": 0,
    "C": 0
