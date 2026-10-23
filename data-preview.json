@@ -4,7 +4,7 @@
  "slate": "12 games · 4:00 PM ET lock",
  "note": "",
  "iso": "2026-10-23",
- "updated": "2026-10-23T11:39:33-06:00",
+ "updated": "2026-10-23T11:46:38-06:00",
  "positions": [
   "PG",
   "SG",
@@ -750,7 +750,57 @@
    "impact": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "player": "De'Aaron Fox",
+   "team": "",
+   "status": "Q",
+   "note": "If he's out, give sizable boosts to Dylan Harper, Devin Vassell, and Julian Champagnie.",
+   "time": "1:40 PM"
+  },
+  {
+   "player": "Aaron Nesmith",
+   "team": "",
+   "status": "Q",
+   "note": "Projected for 28 minutes, so his absence would open up minutes on the wing for the Pacers.",
+   "time": "1:40 PM"
+  },
+  {
+   "player": "Brandin Podziemski",
+   "team": "",
+   "status": "Q",
+   "note": "Didn't play in the opener, so we can expect a similar rotation for the Warriors if he's out again.",
+   "time": "1:40 PM"
+  },
+  {
+   "player": "Ben Sheppard",
+   "team": "",
+   "status": "Q",
+   "note": "Not a major part of the rotation. We have him projected for 8 minutes.",
+   "time": "1:40 PM"
+  },
+  {
+   "player": "Reed Sheppard",
+   "team": "",
+   "status": "Q",
+   "note": "More usage and minutes to go around for the backcourt and wings on the Rockets if he's out.",
+   "time": "1:40 PM"
+  },
+  {
+   "player": "Steven Adams",
+   "team": "",
+   "status": "Q",
+   "note": "Only projected for 15 minutes, but his absence would open up minutes in the frontcourt for the Rockets.",
+   "time": "1:40 PM"
+  },
+  {
+   "player": "Keldon Johnson",
+   "team": "",
+   "status": "Q",
+   "note": "Limited role off the bench, but his absence would open up usage in the second unit.",
+   "time": "1:40 PM"
+  }
+ ],
  "preview": {
   "locked": {
    "PG": 6,
