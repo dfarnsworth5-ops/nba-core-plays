@@ -4,7 +4,7 @@
  "slate": "8 games · 6:00 PM ET lock",
  "note": "",
  "iso": "2026-10-24",
- "updated": "2026-10-24T15:46:08-06:00",
+ "updated": "2026-10-24T16:16:51-06:00",
  "positions": [
   "PG",
   "SG",
@@ -160,7 +160,7 @@
    "fd": 0,
    "proj": 28.42,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Projected for 33 minutes off the bench with Flagg and Irving not expected to play",
    "url": ""
   },
@@ -190,7 +190,7 @@
    "fd": 0,
    "proj": 28.42,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Projected for 33 minutes off the bench with Flagg and Irving not expected to play",
    "url": ""
   },
@@ -457,14 +457,6 @@
    "impact": 10
   },
   {
-   "player": "Zion Williamson",
-   "team": "NOP",
-   "status": "Q",
-   "note": "Rest",
-   "updated": "",
-   "impact": 10
-  },
-  {
    "player": "AJ Dybantsa",
    "team": "WAS",
    "status": "O",
@@ -513,6 +505,14 @@
    "impact": 9
   },
   {
+   "player": "Marcus Smart",
+   "team": "HOU",
+   "status": "Q",
+   "note": "Arm",
+   "updated": "",
+   "impact": 9
+  },
+  {
    "player": "Nicolas Claxton",
    "team": "CHI",
    "status": "O",
@@ -553,14 +553,6 @@
    "impact": 7
   },
   {
-   "player": "Anthony Black",
-   "team": "ORL",
-   "status": "Q",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 7
-  },
-  {
    "player": "Steven Adams",
    "team": "HOU",
    "status": "O",
@@ -597,14 +589,6 @@
    "team": "DAL",
    "status": "Q",
    "note": "Shin",
-   "updated": "",
-   "impact": 6
-  },
-  {
-   "player": "Zaccharie Risacher",
-   "team": "DAL",
-   "status": "Q",
-   "note": "Hip",
    "updated": "",
    "impact": 6
   },
@@ -697,17 +681,9 @@
    "impact": 4
   },
   {
-   "player": "Morez Johnson",
-   "team": "DAL",
-   "status": "Q",
-   "note": "Shin",
-   "updated": "",
-   "impact": 4
-  },
-  {
    "player": "Charles Bassey",
    "team": "GSW",
-   "status": "O",
+   "status": "Q",
    "note": "Knee",
    "updated": "",
    "impact": 3
@@ -717,6 +693,14 @@
    "team": "DEN",
    "status": "Q",
    "note": "Wrist",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Jett Howard",
+   "team": "DAL",
+   "status": "Q",
+   "note": "Calf",
    "updated": "",
    "impact": 3
   },
@@ -737,18 +721,26 @@
    "impact": 2
   },
   {
+   "player": "Noa Essengue",
+   "team": "CHI",
+   "status": "Q",
+   "note": "Head",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Patrick Williams",
+   "team": "CHI",
+   "status": "Q",
+   "note": "Groin",
+   "updated": "",
+   "impact": 2
+  },
+  {
    "player": "Tarik Biberovic",
    "team": "DAL",
    "status": "O",
    "note": "Heel",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Jett Howard",
-   "team": "DAL",
-   "status": "O",
-   "note": "Calf",
    "updated": "",
    "impact": 1
   },
@@ -842,9 +834,9 @@
   {
    "player": "Kyrie Irving",
    "team": "",
-   "status": "D",
+   "status": "O",
    "note": "Sasser and Marshall should do most of the ball-handling with Flagg out",
-   "time": "5:45 PM"
+   "time": "6:16 PM"
   },
   {
    "player": "Stephen Curry",
