@@ -4,7 +4,7 @@
  "slate": "8 games · 6:00 PM ET lock",
  "note": "",
  "iso": "2026-10-24",
- "updated": "2026-10-24T10:32:06-06:00",
+ "updated": "2026-10-24T11:27:42-06:00",
  "positions": [
   "PG",
   "SG",
@@ -781,16 +781,16 @@
   {
    "player": "LeBron James",
    "team": "",
-   "status": "Q",
-   "note": "Usage boosts for Maxey, Embiid, Brown, and Edgecombe if he's out",
-   "time": "11:20 AM"
+   "status": "O",
+   "note": "Usage boosts for Maxey, Embiid, Brown, and Edgecombe",
+   "time": "1:26 AM"
   },
   {
    "player": "Fred VanVleet",
    "team": "",
    "status": "O",
    "note": "Smart or Sheppard likely moves into the starting role; Sheppard also Q",
-   "time": "11:20 AM"
+   "time": "1:26 AM"
   },
   {
    "player": "Cooper Flagg",
@@ -846,7 +846,7 @@
    "team": "",
    "status": "Q",
    "note": "Could start if he plays with VanVleet out; Smart likely starts if Sheppard sits",
-   "time": "11:20 AM"
+   "time": "1:26 AM"
   },
   {
    "player": "Cameron Johnson",
@@ -861,6 +861,13 @@
    "status": "D",
    "note": "Queen projected to start at center",
    "time": "11:20 AM"
+  },
+  {
+   "player": "Steven Adams",
+   "team": "",
+   "status": "O",
+   "note": "Backup minutes for Clint Capela",
+   "time": "1:26 AM"
   }
  ],
  "preview": {
