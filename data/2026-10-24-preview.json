@@ -1,0 +1,458 @@
+{
+ "title": "NBA Core Plays",
+ "date": "Saturday, October 24th",
+ "slate": "8 games · 6:00 PM ET lock",
+ "note": "",
+ "iso": "2026-10-24",
+ "updated": "2026-10-23T22:17:41-06:00",
+ "positions": [
+  "PG",
+  "SG",
+  "SF",
+  "PF",
+  "C"
+ ],
+ "tz": "ET",
+ "games": [
+  {
+   "away": "Miami Heat",
+   "home": "Charlotte Hornets",
+   "time": "6:00 PM",
+   "min": 1080,
+   "fav": "MIA",
+   "spread": -3.5,
+   "total": 232.5,
+   "dk": "S",
+   "fd": "S"
+  },
+  {
+   "away": "Brooklyn Nets",
+   "home": "Cleveland Cavaliers",
+   "time": "7:30 PM",
+   "min": 1170,
+   "fav": "CLE",
+   "spread": -10.5,
+   "total": 231.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Milwaukee Bucks",
+   "home": "Philadelphia 76ers",
+   "time": "7:30 PM",
+   "min": 1170,
+   "fav": "PHI",
+   "spread": -12.5,
+   "total": 232.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "San Antonio Spurs",
+   "home": "Dallas Mavericks",
+   "time": "8:00 PM",
+   "min": 1200,
+   "fav": "SAS",
+   "spread": -11.5,
+   "total": 231.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Washington Wizards",
+   "home": "Chicago Bulls",
+   "time": "8:00 PM",
+   "min": 1200,
+   "fav": "WAS",
+   "spread": -1.5,
+   "total": 243.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Houston Rockets",
+   "home": "Atlanta Hawks",
+   "time": "8:30 PM",
+   "min": 1230,
+   "fav": "ATL",
+   "spread": -2.5,
+   "total": 230.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "New Orleans Pelicans",
+   "home": "Denver Nuggets",
+   "time": "9:00 PM",
+   "min": 1260,
+   "fav": "DEN",
+   "spread": -11.5,
+   "total": 237.5,
+   "dk": "L",
+   "fd": "M"
+  },
+  {
+   "away": "Golden State Warriors",
+   "home": "Phoenix Suns",
+   "time": "10:00 PM",
+   "min": 1320,
+   "fav": "PHO",
+   "spread": -7.5,
+   "total": 224.5,
+   "dk": "L",
+   "fd": "M"
+  }
+ ],
+ "plays": [],
+ "playsFd": [],
+ "injuries": [
+  {
+   "player": "Jimmy Butler",
+   "team": "GSW",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Fred VanVleet",
+   "team": "HOU",
+   "status": "O",
+   "note": "Rest",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "LeBron James",
+   "team": "PHI",
+   "status": "Q",
+   "note": "Back",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Cooper Flagg",
+   "team": "DAL",
+   "status": "D",
+   "note": "Shoulder",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "AJ Dybantsa",
+   "team": "WAS",
+   "status": "D",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Kon Knueppel",
+   "team": "CHA",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Coby White",
+   "team": "CHA",
+   "status": "O",
+   "note": "Calf",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Kristaps Porzingis",
+   "team": "GSW",
+   "status": "O",
+   "note": "NWT",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Nicolas Claxton",
+   "team": "CHI",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "Tobias Harris",
+   "team": "SAS",
+   "status": "O",
+   "note": "Calf",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "Cameron Johnson",
+   "team": "DEN",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "Reed Sheppard",
+   "team": "HOU",
+   "status": "Q",
+   "note": "Knee",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "Steven Adams",
+   "team": "HOU",
+   "status": "O",
+   "note": "Rest",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Oso Ighodaro",
+   "team": "PHO",
+   "status": "O",
+   "note": "Oblique",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Spencer Jones",
+   "team": "DEN",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Mark Williams",
+   "team": "PHO",
+   "status": "O",
+   "note": "Shoulder",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Santi Aldama",
+   "team": "DAL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Grant Williams",
+   "team": "CHA",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Moses Moody",
+   "team": "GSW",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Dean Wade",
+   "team": "PHI",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Luke Kennard",
+   "team": "PHO",
+   "status": "Q",
+   "note": "Knee",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Dereck Lively II",
+   "team": "DAL",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Caleb Martin",
+   "team": "DAL",
+   "status": "O",
+   "note": "Thumb",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Tristan Vukcevic",
+   "team": "WAS",
+   "status": "O",
+   "note": "Hip",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Nae'Qwan Tomlin",
+   "team": "CLE",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Dominick Barlow",
+   "team": "PHI",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Al Horford",
+   "team": "GSW",
+   "status": "D",
+   "note": "Rest",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Charles Bassey",
+   "team": "GSW",
+   "status": "Q",
+   "note": "Knee",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Alpha Diallo",
+   "team": "DEN",
+   "status": "Q",
+   "note": "Wrist",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Tyler Bilodeau",
+   "team": "BKN",
+   "status": "O",
+   "note": "Shoulder",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Julian Strawther",
+   "team": "DEN",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Tarik Biberovic",
+   "team": "DAL",
+   "status": "O",
+   "note": "Heel",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jett Howard",
+   "team": "DAL",
+   "status": "O",
+   "note": "Calf",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jamir Watkins",
+   "team": "WAS",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Mouhamed Gueye",
+   "team": "ATL",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Henri Veesaar",
+   "team": "ATL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Kylan Boswell",
+   "team": "CHA",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jayden Quaintance",
+   "team": "SAS",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Khalifa Diop",
+   "team": "CLE",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Tacko Fall",
+   "team": "PHI",
+   "status": "O",
+   "note": "Quad",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Ariel Hukporti",
+   "team": "PHI",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "impact": 1
+  }
+ ],
+ "news": [],
+ "preview": {
+  "locked": {
+   "PG": 0,
+   "SG": 0,
+   "SF": 0,
+   "PF": 0,
+   "C": 0
+  },
+  "lockedFd": {
+   "PG": 0,
+   "SG": 0,
+   "SF": 0,
+   "PF": 0,
+   "C": 0
+  },
+  "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
+  "ctaLabel": "Unlock every Core Play with RG MVP",
+  "ctaBlurb": "See the full slate of Core Plays, projections and notes at every position."
+ }
+}
