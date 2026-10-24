@@ -4,7 +4,7 @@
  "slate": "8 games · 6:00 PM ET lock",
  "note": "",
  "iso": "2026-10-24",
- "updated": "2026-10-24T13:14:38-06:00",
+ "updated": "2026-10-24T14:40:05-06:00",
  "positions": [
   "PG",
   "SG",
@@ -507,7 +507,7 @@
   {
    "player": "Yves Missi",
    "team": "NOP",
-   "status": "D",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 9
@@ -841,9 +841,9 @@
   {
    "player": "Stephen Curry",
    "team": "",
-   "status": "D",
+   "status": "O",
    "note": "Brandon Williams likely starts with a path to 30-plus minutes if Curry and Podz are out",
-   "time": "11:20 AM"
+   "time": "4:37 PM"
   },
   {
    "player": "Zion Williamson",
@@ -921,6 +921,34 @@
    "status": "Q",
    "note": "Washington, Gafford, Cisse, and Lawal may have to handle all of the Mavs' frontcourt minutes",
    "time": "2:16 PM"
+  },
+  {
+   "player": "Draymond Green",
+   "team": "",
+   "status": "D",
+   "note": "Lendeborg, Ike, Niang, and Santos should handle most of the frontcourt minutes",
+   "time": "4:37 PM"
+  },
+  {
+   "player": "Al Horford",
+   "team": "",
+   "status": "O",
+   "note": "Lendeborg, Ike, Niang, and Santos should handle most of the frontcourt minutes",
+   "time": "4:37 PM"
+  },
+  {
+   "player": "Charles Bassey",
+   "team": "",
+   "status": "Q",
+   "note": "Lendeborg, Ike, Niang, and Santos should handle most of the frontcourt minutes",
+   "time": "4:37 PM"
+  },
+  {
+   "player": "Marcus Smart",
+   "team": "",
+   "status": "Q",
+   "note": "Rockets will be down to Thompson and Thornton as available PGs if Sheppard is also out",
+   "time": "4:37 PM"
   }
  ],
  "preview": {
