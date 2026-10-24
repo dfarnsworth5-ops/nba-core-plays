@@ -4,7 +4,7 @@
  "slate": "8 games · 6:00 PM ET lock",
  "note": "",
  "iso": "2026-10-24",
- "updated": "2026-10-24T11:50:56-06:00",
+ "updated": "2026-10-24T12:19:41-06:00",
  "positions": [
   "PG",
   "SG",
@@ -427,7 +427,7 @@
   {
    "player": "LeBron James",
    "team": "PHI",
-   "status": "Q",
+   "status": "O",
    "note": "Back",
    "updated": "",
    "impact": 10
@@ -435,7 +435,7 @@
   {
    "player": "Cooper Flagg",
    "team": "DAL",
-   "status": "D",
+   "status": "O",
    "note": "Shoulder",
    "updated": "",
    "impact": 10
@@ -467,7 +467,7 @@
   {
    "player": "AJ Dybantsa",
    "team": "WAS",
-   "status": "D",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 9
@@ -796,15 +796,15 @@
    "player": "Cooper Flagg",
    "team": "",
    "status": "O",
-   "note": "Sasser and Marshall should do most of the ball-handling with Flagg and Kyrie likely out",
+   "note": "Sasser and Marshall should do most of the ball-handling with Flagg out",
    "time": "1:50 PM"
   },
   {
    "player": "Kyrie Irving",
    "team": "",
-   "status": "D",
-   "note": "Sasser and Marshall should do most of the ball-handling with Flagg and Kyrie likely out",
-   "time": "11:20 AM"
+   "status": "Q",
+   "note": "Sasser and Marshall should do most of the ball-handling with Flagg out",
+   "time": "2:16 PM"
   },
   {
    "player": "Stephen Curry",
@@ -868,6 +868,27 @@
    "status": "O",
    "note": "Backup minutes for Clint Capela",
    "time": "1:26 PM"
+  },
+  {
+   "player": "Zaccharie Risacher",
+   "team": "",
+   "status": "Q",
+   "note": "Decent punt if he suits up amid other DAL injuries",
+   "time": "2:16 PM"
+  },
+  {
+   "player": "Max Christie",
+   "team": "",
+   "status": "Q",
+   "note": "Decent punt if he suits up amid other DAL injuries",
+   "time": "2:16 PM"
+  },
+  {
+   "player": "Morez Johnson",
+   "team": "",
+   "status": "Q",
+   "note": "Washington, Gafford, Cisse, and Lawal may have to handle all of the Mavs' frontcourt minutes",
+   "time": "2:16 PM"
   }
  ],
  "preview": {
