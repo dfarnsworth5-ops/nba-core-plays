@@ -4,7 +4,7 @@
  "slate": "8 games · 6:00 PM ET lock",
  "note": "",
  "iso": "2026-10-24",
- "updated": "2026-10-23T22:17:41-06:00",
+ "updated": "2026-10-24T09:02:53-06:00",
  "positions": [
   "PG",
   "SG",
@@ -104,7 +104,83 @@
   }
  ],
  "plays": [],
- "playsFd": [],
+ "playsFd": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Brandon Williams",
+   "team": "GSW",
+   "opp": "PHO",
+   "dk": 0,
+   "fd": 4000,
+   "proj": 32.81,
+   "type": "Core",
+   "status": "",
+   "blurb": "Curry and Podziemski expected to sit for GSW; Williams is $4,000 and projected to start",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Marcus Sasser",
+   "team": "DAL",
+   "opp": "SAS",
+   "dk": 0,
+   "fd": 3900,
+   "proj": 28.3,
+   "type": "",
+   "status": "",
+   "blurb": "Flagg and Irving are doubtful for DAL; Sasser could start with a path to 25-30 minutes",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "PG/SG",
+   "player": "De'Anthony Melton",
+   "team": "GSW",
+   "opp": "PHO",
+   "dk": 0,
+   "fd": 4500,
+   "proj": 29.33,
+   "type": "",
+   "status": "",
+   "blurb": "Melton averaged 1.05 FD FP/minute with Curry and Podziemski off the floor last season",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Jalen Green",
+   "team": "PHO",
+   "opp": "GSW",
+   "dk": 0,
+   "fd": 6100,
+   "proj": 37.3,
+   "type": "",
+   "status": "",
+   "blurb": "Erratic shooting gives him a low floor, but GSW looks like a very poor defense this year",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Naji Marshall",
+   "team": "DAL",
+   "opp": "SAS",
+   "dk": 0,
+   "fd": 5000,
+   "proj": 34.68,
+   "type": "Core",
+   "status": "",
+   "blurb": "1.04 FP/minute this season; should be the Mavs' initiator offensively without Flagg or Kyrie",
+   "url": ""
+  }
+ ],
  "injuries": [
   {
    "player": "Jimmy Butler",
@@ -139,6 +215,30 @@
    "impact": 10
   },
   {
+   "player": "Stephen Curry",
+   "team": "GSW",
+   "status": "D",
+   "note": "Rest",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Kyrie Irving",
+   "team": "DAL",
+   "status": "D",
+   "note": "Rest",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Zion Williamson",
+   "team": "NOP",
+   "status": "Q",
+   "note": "Rest",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "AJ Dybantsa",
    "team": "WAS",
    "status": "D",
@@ -167,6 +267,22 @@
    "team": "GSW",
    "status": "O",
    "note": "NWT",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Brandin Podziemski",
+   "team": "GSW",
+   "status": "O",
+   "note": "Rest",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Yves Missi",
+   "team": "NOP",
+   "status": "D",
+   "note": "Knee",
    "updated": "",
    "impact": 9
   },
@@ -445,8 +561,8 @@
    "C": 0
   },
   "lockedFd": {
-   "PG": 0,
-   "SG": 0,
+   "PG": 6,
+   "SG": 6,
    "SF": 0,
    "PF": 0,
    "C": 0
