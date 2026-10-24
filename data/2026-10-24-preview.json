@@ -4,7 +4,7 @@
  "slate": "8 games · 6:00 PM ET lock",
  "note": "",
  "iso": "2026-10-24",
- "updated": "2026-10-24T14:40:05-06:00",
+ "updated": "2026-10-24T15:46:08-06:00",
  "positions": [
   "PG",
   "SG",
@@ -443,7 +443,7 @@
   {
    "player": "Stephen Curry",
    "team": "GSW",
-   "status": "D",
+   "status": "O",
    "note": "Rest",
    "updated": "",
    "impact": 10
@@ -537,6 +537,14 @@
    "impact": 8
   },
   {
+   "player": "Draymond Green",
+   "team": "GSW",
+   "status": "D",
+   "note": "Rest",
+   "updated": "",
+   "impact": 8
+  },
+  {
    "player": "Reed Sheppard",
    "team": "HOU",
    "status": "Q",
@@ -589,6 +597,14 @@
    "team": "DAL",
    "status": "Q",
    "note": "Shin",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Zaccharie Risacher",
+   "team": "DAL",
+   "status": "Q",
+   "note": "Hip",
    "updated": "",
    "impact": 6
   },
@@ -675,7 +691,7 @@
   {
    "player": "Al Horford",
    "team": "GSW",
-   "status": "D",
+   "status": "O",
    "note": "Rest",
    "updated": "",
    "impact": 4
@@ -691,7 +707,7 @@
   {
    "player": "Charles Bassey",
    "team": "GSW",
-   "status": "Q",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 3
@@ -799,14 +815,6 @@
    "note": "Achilles",
    "updated": "",
    "impact": 1
-  },
-  {
-   "player": "Zaccharie Risacher",
-   "team": "DAL",
-   "status": "Q",
-   "note": "Hip",
-   "updated": "",
-   "impact": 6
   }
  ],
  "news": [
@@ -834,9 +842,9 @@
   {
    "player": "Kyrie Irving",
    "team": "",
-   "status": "Q",
+   "status": "D",
    "note": "Sasser and Marshall should do most of the ball-handling with Flagg out",
-   "time": "2:16 PM"
+   "time": "5:45 PM"
   },
   {
    "player": "Stephen Curry",
@@ -904,9 +912,9 @@
   {
    "player": "Zaccharie Risacher",
    "team": "",
-   "status": "Q",
+   "status": "P",
    "note": "Decent punt if he suits up amid other DAL injuries",
-   "time": "2:16 PM"
+   "time": "5:45 PM"
   },
   {
    "player": "Max Christie",
@@ -918,9 +926,9 @@
   {
    "player": "Morez Johnson",
    "team": "",
-   "status": "Q",
+   "status": "P",
    "note": "Washington, Gafford, Cisse, and Lawal may have to handle all of the Mavs' frontcourt minutes",
-   "time": "2:16 PM"
+   "time": "5:45 PM"
   },
   {
    "player": "Draymond Green",
