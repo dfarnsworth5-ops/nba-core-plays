@@ -4,7 +4,7 @@
  "slate": "8 games · 6:00 PM ET lock",
  "note": "",
  "iso": "2026-10-24",
- "updated": "2026-10-24T12:28:31-06:00",
+ "updated": "2026-10-24T13:14:38-06:00",
  "positions": [
   "PG",
   "SG",
@@ -160,7 +160,7 @@
    "fd": 0,
    "proj": 28.42,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Projected for 33 minutes off the bench with Flagg and Irving not expected to play",
    "url": ""
   },
@@ -190,7 +190,7 @@
    "fd": 0,
    "proj": 28.42,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Projected for 33 minutes off the bench with Flagg and Irving not expected to play",
    "url": ""
   },
@@ -545,6 +545,14 @@
    "impact": 7
   },
   {
+   "player": "Anthony Black",
+   "team": "ORL",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 7
+  },
+  {
    "player": "Steven Adams",
    "team": "HOU",
    "status": "O",
@@ -573,6 +581,14 @@
    "team": "PHO",
    "status": "O",
    "note": "Shoulder",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Max Christie",
+   "team": "DAL",
+   "status": "Q",
+   "note": "Shin",
    "updated": "",
    "impact": 6
   },
@@ -661,6 +677,14 @@
    "team": "GSW",
    "status": "D",
    "note": "Rest",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Morez Johnson",
+   "team": "DAL",
+   "status": "Q",
+   "note": "Shin",
    "updated": "",
    "impact": 4
   },
@@ -775,6 +799,14 @@
    "note": "Achilles",
    "updated": "",
    "impact": 1
+  },
+  {
+   "player": "Zaccharie Risacher",
+   "team": "DAL",
+   "status": "Q",
+   "note": "Hip",
+   "updated": "",
+   "impact": 6
   }
  ],
  "news": [
@@ -858,9 +890,9 @@
   {
    "player": "Yves Missi",
    "team": "",
-   "status": "D",
+   "status": "O",
    "note": "Queen projected to start at center",
-   "time": "11:20 AM"
+   "time": "3:14 PM"
   },
   {
    "player": "Steven Adams",
