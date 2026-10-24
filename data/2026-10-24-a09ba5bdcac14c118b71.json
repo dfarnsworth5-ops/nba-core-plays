@@ -4,7 +4,7 @@
  "slate": "8 games · 6:00 PM ET lock",
  "note": "",
  "iso": "2026-10-24",
- "updated": "2026-10-24T11:29:46-06:00",
+ "updated": "2026-10-24T11:40:20-06:00",
  "positions": [
   "PG",
   "SG",
@@ -468,21 +468,6 @@
    "pos": "PF",
    "dkPos": "PF",
    "fdPos": "PF",
-   "player": "PJ Washington",
-   "team": "DAL",
-   "opp": "SAS",
-   "dk": 5300,
-   "fd": 0,
-   "proj": 31.3,
-   "type": "",
-   "status": "",
-   "blurb": "Could lead the Mavs in usage with Flagg and Kyrie likely out",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
    "player": "Anthony Davis",
    "team": "WAS",
    "opp": "CHI",
@@ -492,6 +477,21 @@
    "type": "",
    "status": "",
    "blurb": "CHI looks like the worst defense in the league; elite bounce-back spot",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "PJ Washington",
+   "team": "DAL",
+   "opp": "SAS",
+   "dk": 5300,
+   "fd": 0,
+   "proj": 31.3,
+   "type": "",
+   "status": "",
+   "blurb": "Could lead the Mavs in usage with Flagg and Kyrie likely out",
    "url": ""
   },
   {
