@@ -4,7 +4,7 @@
  "slate": "8 games · 6:00 PM ET lock",
  "note": "",
  "iso": "2026-10-24",
- "updated": "2026-10-24T09:23:16-06:00",
+ "updated": "2026-10-24T09:30:15-06:00",
  "positions": [
   "PG",
   "SG",
@@ -777,7 +777,92 @@
    "impact": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "player": "LeBron James",
+   "team": "",
+   "status": "Q",
+   "note": "Usage boosts for Maxey, Embiid, Brown, and Edgecombe if he's out",
+   "time": "11:20 AM"
+  },
+  {
+   "player": "Fred VanVleet",
+   "team": "",
+   "status": "O",
+   "note": "Smart or Sheppard likely moves into the starting role; Sheppard also Q",
+   "time": "11:20 AM"
+  },
+  {
+   "player": "Cooper Flagg",
+   "team": "",
+   "status": "D",
+   "note": "Sasser and Marshall should do most of the ball-handling with Flagg and Kyrie likely out",
+   "time": "11:20 AM"
+  },
+  {
+   "player": "Kyrie Irving",
+   "team": "",
+   "status": "D",
+   "note": "Sasser and Marshall should do most of the ball-handling with Flagg and Kyrie likely out",
+   "time": "11:20 AM"
+  },
+  {
+   "player": "Stephen Curry",
+   "team": "",
+   "status": "D",
+   "note": "Brandon Williams likely starts with a path to 30-plus minutes if Curry and Podz are out",
+   "time": "11:20 AM"
+  },
+  {
+   "player": "Zion Williamson",
+   "team": "",
+   "status": "Q",
+   "note": "More usage for Murphy and Murray if he's out; Bey or Jones could start",
+   "time": "11:20 AM"
+  },
+  {
+   "player": "AJ Dybantsa",
+   "team": "",
+   "status": "D",
+   "note": "Usage should continue to flow through AD and Young",
+   "time": "11:20 AM"
+  },
+  {
+   "player": "Brandin Podziemski",
+   "team": "",
+   "status": "O",
+   "note": "Brandon Williams likely starts with a path to 30-plus minutes if Curry and Podz are out",
+   "time": "11:20 AM"
+  },
+  {
+   "player": "Nic Claxton",
+   "team": "",
+   "status": "O",
+   "note": "Jalen Smith continues to start at center",
+   "time": "11:20 AM"
+  },
+  {
+   "player": "Reed Sheppard",
+   "team": "",
+   "status": "Q",
+   "note": "Could start if he plays with VanVleet out; Smart likely starts if Sheppard sits",
+   "time": "11:20 AM"
+  },
+  {
+   "player": "Cameron Johnson",
+   "team": "",
+   "status": "O",
+   "note": "DeRozan likely slides into starting role",
+   "time": "11:20 AM"
+  },
+  {
+   "player": "Yves Missi",
+   "team": "",
+   "status": "D",
+   "note": "Queen projected to start at center",
+   "time": "11:20 AM"
+  }
+ ],
  "preview": {
   "locked": {
    "PG": 6,
