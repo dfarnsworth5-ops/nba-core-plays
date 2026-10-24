@@ -4,7 +4,7 @@
  "slate": "8 games · 6:00 PM ET lock",
  "note": "",
  "iso": "2026-10-24",
- "updated": "2026-10-24T11:40:20-06:00",
+ "updated": "2026-10-24T11:41:24-06:00",
  "positions": [
   "PG",
   "SG",
@@ -204,7 +204,7 @@
    "dk": 8700,
    "fd": 0,
    "proj": 46.31,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "CHI looks like the worst defense in the league; elite bounce-back spot",
    "url": ""
