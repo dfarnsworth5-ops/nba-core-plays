@@ -4,7 +4,7 @@
  "slate": "7 games · 5:00 PM ET lock",
  "note": "",
  "iso": "2026-10-25",
- "updated": "2026-10-25T09:35:50-06:00",
+ "updated": "2026-10-25T12:37:12-06:00",
  "positions": [
   "PG",
   "SG",
@@ -425,16 +425,16 @@
   },
   {
    "pos": "SF",
-   "dkPos": "SF",
+   "dkPos": "#N/A",
    "fdPos": "SF",
    "player": "Ausar Thompson",
-   "team": "DET",
-   "opp": "PHI",
-   "dk": 6200,
+   "team": "#N/A",
+   "opp": "#N/A",
+   "dk": 0,
    "fd": 0,
    "proj": 30.08,
    "type": "",
-   "status": "Q",
+   "status": "D",
    "blurb": "1.01 DK FP/minute a season ago with Duren off the court",
    "url": ""
   },
@@ -863,15 +863,15 @@
   {
    "pos": "SG",
    "dkPos": "SG",
-   "fdPos": "SF/SG",
+   "fdPos": "#N/A",
    "player": "Ausar Thompson",
-   "team": "DET",
-   "opp": "PHI",
+   "team": "#N/A",
+   "opp": "#N/A",
    "dk": 0,
-   "fd": 6000,
+   "fd": 0,
    "proj": 0,
    "type": "",
-   "status": "Q",
+   "status": "D",
    "blurb": "1.08 FD FP/minute a season ago with Duren off the court",
    "url": ""
   },
@@ -998,15 +998,15 @@
   {
    "pos": "SF",
    "dkPos": "SF",
-   "fdPos": "SF/SG",
+   "fdPos": "#N/A",
    "player": "Ausar Thompson",
-   "team": "DET",
-   "opp": "PHI",
+   "team": "#N/A",
+   "opp": "#N/A",
    "dk": 0,
-   "fd": 6000,
+   "fd": 0,
    "proj": 0,
    "type": "",
-   "status": "Q",
+   "status": "D",
    "blurb": "1.08 FD FP/minute a season ago with Duren off the court",
    "url": ""
   },
@@ -1324,7 +1324,7 @@
   {
    "player": "Ausar Thompson",
    "team": "DET",
-   "status": "Q",
+   "status": "D",
    "note": "Ankle",
    "updated": "",
    "impact": 9
@@ -1633,9 +1633,9 @@
   {
    "player": "Keegan Murray",
    "team": "",
-   "status": "Q",
+   "status": "D",
    "note": "Daeqwon Plowden would be a candidate to start",
-   "time": "10:48 AM"
+   "time": "2:37 PM"
   },
   {
    "player": "Anthony Black",
