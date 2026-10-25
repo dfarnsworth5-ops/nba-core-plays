@@ -4,7 +4,7 @@
  "slate": "7 games · 5:00 PM ET lock",
  "note": "",
  "iso": "2026-10-25",
- "updated": "2026-10-25T15:01:33-06:00",
+ "updated": "2026-10-25T15:51:41-06:00",
  "positions": [
   "PG",
   "SG",
@@ -179,7 +179,7 @@
    "fd": 0,
    "proj": 29.62,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Usage jumped by 2.8% with Embiid off the court last season",
    "url": ""
   },
@@ -299,7 +299,7 @@
    "fd": 0,
    "proj": 29.62,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Usage jumped by 2.8% with Embiid off the court last season",
    "url": ""
   },
@@ -931,7 +931,7 @@
    "fd": 6000,
    "proj": 29.06,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Usage jumped by 2.8% with Embiid off the court last season",
    "url": ""
   },
@@ -1362,12 +1362,12 @@
    "impact": 8
   },
   {
-   "player": "Anthony Black",
-   "team": "ORL",
+   "player": "VJ Edgecombe",
+   "team": "PHI",
    "status": "Q",
-   "note": "Ankle",
+   "note": "Abdominal",
    "updated": "",
-   "impact": 7
+   "impact": 8
   },
   {
    "player": "T.J. McConnell",
@@ -1412,7 +1412,7 @@
   {
    "player": "Jose Alvarado",
    "team": "NYK",
-   "status": "Q",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 5
@@ -1650,6 +1650,13 @@
    "status": "Q",
    "note": "Usage concentrates further between Maxey, LeBron, Brown; KCP could start if VJ out",
    "time": "5:00 PM"
+  },
+  {
+   "player": "Jase Richardson",
+   "team": "",
+   "status": "A",
+   "note": "Expected to start in place of Banchero",
+   "time": "5:51 PM"
   }
  ]
 }
