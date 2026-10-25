@@ -4,7 +4,7 @@
  "slate": "7 games · 5:00 PM ET lock",
  "note": "",
  "iso": "2026-10-25",
- "updated": "2026-10-25T15:51:41-06:00",
+ "updated": "2026-10-25T16:01:50-06:00",
  "positions": [
   "PG",
   "SG",
@@ -1657,6 +1657,13 @@
    "status": "A",
    "note": "Expected to start in place of Banchero",
    "time": "5:51 PM"
+  },
+  {
+   "player": "Kawhi Leonard",
+   "team": "",
+   "status": "O",
+   "note": "Usage boosts for Barnes, Barrett, and Quickley; Murray-Boyles or Walter could start",
+   "time": "6:00 PM"
   }
  ]
 }
