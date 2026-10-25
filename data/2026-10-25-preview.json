@@ -1,0 +1,767 @@
+{
+ "title": "NBA Core Plays",
+ "date": "Sunday, October 25th",
+ "slate": "7 games · 5:00 PM ET lock",
+ "note": "",
+ "iso": "2026-10-25",
+ "updated": "2026-10-25T08:54:37-06:00",
+ "positions": [
+  "PG",
+  "SG",
+  "SF",
+  "PF",
+  "C"
+ ],
+ "tz": "ET",
+ "games": [
+  {
+   "away": "Los Angeles Lakers",
+   "home": "Utah Jazz",
+   "time": "5:00 PM",
+   "min": 1020,
+   "fav": "LAL",
+   "spread": -6.5,
+   "total": 237.5,
+   "dk": "E",
+   "fd": ""
+  },
+  {
+   "away": "Indiana Pacers",
+   "home": "Brooklyn Nets",
+   "time": "6:00 PM",
+   "min": 1080,
+   "fav": "IND",
+   "spread": -7.5,
+   "total": 231.5,
+   "dk": "E",
+   "fd": "M"
+  },
+  {
+   "away": "Orlando Magic",
+   "home": "New York Knicks",
+   "time": "7:00 PM",
+   "min": 1140,
+   "fav": "NYK",
+   "spread": -7.5,
+   "total": 224.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Los Angeles Clippers",
+   "home": "Oklahoma City Thunder",
+   "time": "7:00 PM",
+   "min": 1140,
+   "fav": "OKC",
+   "spread": -15.5,
+   "total": 223.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Toronto Raptors",
+   "home": "Minnesota Timberwolves",
+   "time": "7:00 PM",
+   "min": 1140,
+   "fav": "MIN",
+   "spread": -1.5,
+   "total": 230.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Detroit Pistons",
+   "home": "Philadelphia 76ers",
+   "time": "7:30 PM",
+   "min": 1170,
+   "fav": "DET",
+   "spread": -1.5,
+   "total": 226.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Memphis Grizzlies",
+   "home": "Sacramento Kings",
+   "time": "9:00 PM",
+   "min": 1260,
+   "fav": "MEM",
+   "spread": -4.5,
+   "total": 235.5,
+   "dk": "S",
+   "fd": "M"
+  }
+ ],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Tyrese Maxey",
+   "team": "PHI",
+   "opp": "DET",
+   "dk": 8800,
+   "fd": 0,
+   "proj": 45.76,
+   "type": "Core",
+   "status": "",
+   "blurb": "32% usage, 1.34 DK FP/minute with Embiid off the floor last season",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Kris Dunn",
+   "team": "LAC",
+   "opp": "OKC",
+   "dk": 4400,
+   "fd": 0,
+   "proj": 23.12,
+   "type": "",
+   "status": "",
+   "blurb": "Off to a solid start (1.00 FP/minute); path to 30 minutes at a cheap price point",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
+   "player": "Josh Hart",
+   "team": "NYK",
+   "opp": "ORL",
+   "dk": 6200,
+   "fd": 0,
+   "proj": 33.66,
+   "type": "Core",
+   "status": "",
+   "blurb": "Doing his usual stat stuffing (1.04 FP/minute) despite sub-20% usage rate",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
+   "player": "Ayo Dosunmu",
+   "team": "MIN",
+   "opp": "TOR",
+   "dk": 5000,
+   "fd": 0,
+   "proj": 26.17,
+   "type": "",
+   "status": "",
+   "blurb": "Similar to Hart; doing the little things and stuffing the stat sheet",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SG/SF",
+   "fdPos": "SF",
+   "player": "Josh Hart",
+   "team": "NYK",
+   "opp": "ORL",
+   "dk": 6200,
+   "fd": 0,
+   "proj": 33.66,
+   "type": "Core",
+   "status": "",
+   "blurb": "Doing his usual stat stuffing (1.04 FP/minute) despite sub-20% usage rate",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF/PF",
+   "fdPos": "SF",
+   "player": "Scottie Barnes",
+   "team": "TOR",
+   "opp": "MIN",
+   "dk": 7800,
+   "fd": 0,
+   "proj": 42.24,
+   "type": "",
+   "status": "",
+   "blurb": "Don't expect the 33.5% usage rate to last, but $7,800 looks like a bargain",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF/C",
+   "fdPos": "PF",
+   "player": "John Collins",
+   "team": "DET",
+   "opp": "PHI",
+   "dk": 5300,
+   "fd": 0,
+   "proj": 27.62,
+   "type": "",
+   "status": "",
+   "blurb": "Could play a few extra minutes at the 5 with Duren sidelined",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "SF/PF",
+   "fdPos": "PF",
+   "player": "Scottie Barnes",
+   "team": "TOR",
+   "opp": "MIN",
+   "dk": 7800,
+   "fd": 0,
+   "proj": 42.24,
+   "type": "",
+   "status": "",
+   "blurb": "Don't expect the 33.5% usage rate to last, but $7,800 looks like a bargain",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Paul Reed",
+   "team": "DET",
+   "opp": "PHI",
+   "dk": 4300,
+   "fd": 0,
+   "proj": 37.23,
+   "type": "Core",
+   "status": "",
+   "blurb": "Consistently elite production (1.25 FP/minute); projected to start with Duren out",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "PF/C",
+   "fdPos": "C",
+   "player": "John Collins",
+   "team": "DET",
+   "opp": "PHI",
+   "dk": 5300,
+   "fd": 0,
+   "proj": 27.62,
+   "type": "",
+   "status": "",
+   "blurb": "Could play a few extra minutes at the 5 with Duren sidelined",
+   "url": ""
+  }
+ ],
+ "playsFd": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG/SG",
+   "player": "Ty Jerome",
+   "team": "MEM",
+   "opp": "SAC",
+   "dk": 0,
+   "fd": 7900,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "36% usage, 1.6 FD FP/minute so far; is apparently Luka Doncic now",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Darius Acuff",
+   "team": "SAC",
+   "opp": "MEM",
+   "dk": 0,
+   "fd": 6100,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Rookie leading the Kings in usage (36.5%) by a huge margin",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "PG/SG",
+   "player": "Ty Jerome",
+   "team": "MEM",
+   "opp": "SAC",
+   "dk": 0,
+   "fd": 7900,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "36% usage, 1.6 FD FP/minute so far; is apparently Luka Doncic now",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Zach LaVine",
+   "team": "SAC",
+   "opp": "MEM",
+   "dk": 0,
+   "fd": 6000,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Second-highest usage on the team (26%); some upside for $6,000",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SG/SF",
+   "player": "Cedric Coward",
+   "team": "MEM",
+   "opp": "SAC",
+   "dk": 0,
+   "fd": 4800,
+   "proj": 0,
+   "type": "",
+   "status": "Q",
+   "blurb": "Should be one of the Grizzlies' primary sources of usage if he suits up",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "PF/SF",
+   "player": "OG Anunoby",
+   "team": "NYK",
+   "opp": "ORL",
+   "dk": 0,
+   "fd": 6200,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Bounced back nicely in the last game after struggling on opening night",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Cameron Boozer",
+   "team": "MEM",
+   "opp": "SAC",
+   "dk": 0,
+   "fd": 7000,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "1.08 FD FP/minute; 4 assists shy of a triple-double in the last game",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF/SF",
+   "player": "OG Anunoby",
+   "team": "NYK",
+   "opp": "ORL",
+   "dk": 0,
+   "fd": 6200,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Bounced back nicely in the last game after struggling on opening night",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Paul Reed",
+   "team": "DET",
+   "opp": "PHI",
+   "dk": 0,
+   "fd": 5900,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Consistently elite production (1.25 FP/minute); projected to start with Duren out",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Karl-Anthony Towns",
+   "team": "NYK",
+   "opp": "ORL",
+   "dk": 0,
+   "fd": 7800,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Sneaky-good matchup against a Magic team ranked second in pace early on",
+   "url": ""
+  }
+ ],
+ "injuries": [
+  {
+   "player": "Joel Embiid",
+   "team": "PHI",
+   "status": "O",
+   "note": "Rest",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Paolo Banchero",
+   "team": "ORL",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Jalen Duren",
+   "team": "DET",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Ausar Thompson",
+   "team": "DET",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Brandon Ingram",
+   "team": "LAC",
+   "status": "O",
+   "note": "Heel",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Zach Edey",
+   "team": "MEM",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Cedric Coward",
+   "team": "MEM",
+   "status": "Q",
+   "note": "Wrist",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "Keegan Murray",
+   "team": "SAC",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "Anthony Black",
+   "team": "ORL",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "T.J. McConnell",
+   "team": "IND",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Bradley Beal",
+   "team": "LAC",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Mikel Brown",
+   "team": "BKN",
+   "status": "O",
+   "note": "Rest",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Dean Wade",
+   "team": "PHI",
+   "status": "",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Ben Sheppard",
+   "team": "IND",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Jose Alvarado",
+   "team": "NYK",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Dominick Barlow",
+   "team": "PHI",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Jordan Miller",
+   "team": "LAC",
+   "status": "O",
+   "note": "Shoulder",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Max Strus",
+   "team": "LAC",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Dylan Cardwell",
+   "team": "SAC",
+   "status": "O",
+   "note": "Calf",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Tyler Bilodeau",
+   "team": "BKN",
+   "status": "O",
+   "note": "Shoulder",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Jonathan Isaac",
+   "team": "ORL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Yanic Konan Niederhauser",
+   "team": "LAC",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Maxime Raynaud",
+   "team": "SAC",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Ben Simmons",
+   "team": "SAC",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Tacko Fall",
+   "team": "PHI",
+   "status": "O",
+   "note": "Quad",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Ariel Hukporti",
+   "team": "PHI",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Johnny Furphy",
+   "team": "IND",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Izaiyah Nelson",
+   "team": "ORL",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Noah Penda",
+   "team": "ORL",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Nate Bittle",
+   "team": "TOR",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Donte DiVincenzo",
+   "team": "MIN",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Otega Oweh",
+   "team": "OKC",
+   "status": "O",
+   "note": "NWT",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Thomas Sorber",
+   "team": "OKC",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Nikola Topic",
+   "team": "OKC",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Cameron Carr",
+   "team": "LAL",
+   "status": "O",
+   "note": "Oblique",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Adou Thiero",
+   "team": "LAL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jusuf Nurkic",
+   "team": "UTA",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  }
+ ],
+ "news": [
+  {
+   "player": "Joel Embiid",
+   "team": "",
+   "status": "O",
+   "note": "Bona may start, but extra usage for Maxey, LeBron, Brown, & Edgecombe",
+   "time": "10:48 AM"
+  },
+  {
+   "player": "Paolo Banchero",
+   "team": "",
+   "status": "O",
+   "note": "Bane (+3.4%), Wagner (+2.8%), and Suggs (+1.5%) all see elevated usage",
+   "time": "10:48 AM"
+  },
+  {
+   "player": "Jalen Duren",
+   "team": "",
+   "status": "O",
+   "note": "Reed likely starts and becomes a smash play",
+   "time": "10:48 AM"
+  },
+  {
+   "player": "Ausar Thompson",
+   "team": "",
+   "status": "Q",
+   "note": "Joe, Robinson, Huerter, Holland, and Green all capable of helping to fill vacated minutes",
+   "time": "10:48 AM"
+  },
+  {
+   "player": "Cedric Coward",
+   "team": "",
+   "status": "Q",
+   "note": "Usage would be further concentrated between Jerome and Boozer",
+   "time": "10:48 AM"
+  },
+  {
+   "player": "Keegan Murray",
+   "team": "",
+   "status": "Q",
+   "note": "Daeqwon Plowden would be a candidate to start",
+   "time": "10:48 AM"
+  },
+  {
+   "player": "Anthony Black",
+   "team": "",
+   "status": "Q",
+   "note": "Da Silva's minutes would be more solidified with Banchero already out",
+   "time": "10:48 AM"
+  }
+ ],
+ "preview": {
+  "locked": {
+   "PG": 6,
+   "SG": 6,
+   "SF": 6,
+   "PF": 6,
+   "C": 6
+  },
+  "lockedFd": {
+   "PG": 6,
+   "SG": 6,
+   "SF": 6,
+   "PF": 6,
+   "C": 6
+  },
+  "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
+  "ctaLabel": "Unlock every Core Play with RG MVP",
+  "ctaBlurb": "See the full slate of Core Plays, projections and notes at every position."
+ }
+}
