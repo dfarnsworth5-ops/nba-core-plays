@@ -4,7 +4,7 @@
  "slate": "7 games · 5:00 PM ET lock",
  "note": "",
  "iso": "2026-10-25",
- "updated": "2026-10-25T16:02:51-06:00",
+ "updated": "2026-10-25T16:12:16-06:00",
  "positions": [
   "PG",
   "SG",
@@ -285,7 +285,7 @@
    "proj": 33.73,
    "type": "",
    "status": "",
-   "blurb": "Fitting in nicely (22% usage, 1.18 FP/minute) as the No. 3 option offensively",
+   "blurb": "Fitting in nicely (22% usage, 1.18 FP/minute); boost with Kawhi out",
    "url": ""
   },
   {
@@ -360,7 +360,7 @@
    "proj": 42.24,
    "type": "",
    "status": "",
-   "blurb": "Don't expect the 33.5% usage rate to last, but $7,800 looks like a bargain",
+   "blurb": "Don't expect the 33.5% usage rate to last, big role without Kawhi",
    "url": ""
   },
   {
@@ -442,15 +442,15 @@
    "pos": "SF",
    "dkPos": "SF",
    "fdPos": "SF",
-   "player": "Kawhi Leonard",
-   "team": "TOR",
-   "opp": "MIN",
-   "dk": 8000,
+   "player": "Jalen Williams",
+   "team": "OKC",
+   "opp": "LAC",
+   "dk": 6700,
    "fd": 0,
-   "proj": 37.42,
+   "proj": 32.23,
    "type": "",
    "status": "",
-   "blurb": "1.58 FP/minute and 31% usage through his first 2 games back in Toronto",
+   "blurb": "Just a matter of time until we see the triple-double upside",
    "url": ""
   },
   {
@@ -570,7 +570,7 @@
    "proj": 22.28,
    "type": "",
    "status": "",
-   "blurb": "Limited role so far, but still productive (1.23 FP/minute)",
+   "blurb": "Could see a boosted role with Kawhi out",
    "url": ""
   },
   {
@@ -1157,7 +1157,7 @@
    "proj": 0,
    "type": "",
    "status": "",
-   "blurb": "Limited role so far, but still productive (1.23 FP/minute)",
+   "blurb": "Should see a boosted role with Kawhi out",
    "url": ""
   },
   {
