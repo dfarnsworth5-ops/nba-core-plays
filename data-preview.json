@@ -4,7 +4,7 @@
  "slate": "7 games · 5:00 PM ET lock",
  "note": "",
  "iso": "2026-10-25",
- "updated": "2026-10-25T12:37:12-06:00",
+ "updated": "2026-10-25T15:01:33-06:00",
  "positions": [
   "PG",
   "SG",
@@ -456,7 +456,7 @@
   {
    "player": "Keegan Murray",
    "team": "SAC",
-   "status": "Q",
+   "status": "D",
    "note": "Ankle",
    "updated": "",
    "impact": 8
@@ -494,10 +494,10 @@
    "impact": 6
   },
   {
-   "player": "Dean Wade",
+   "player": "Jabari Walker",
    "team": "PHI",
-   "status": "",
-   "note": "Ankle",
+   "status": "O",
+   "note": "Knee",
    "updated": "",
    "impact": 5
   },
@@ -743,6 +743,13 @@
    "status": "Q",
    "note": "Da Silva's minutes would be more solidified with Banchero already out",
    "time": "10:48 AM"
+  },
+  {
+   "player": "VJ Edgecombe",
+   "team": "",
+   "status": "Q",
+   "note": "Usage concentrates further between Maxey, LeBron, Brown; KCP could start if VJ out",
+   "time": "5:00 PM"
   }
  ],
  "preview": {
