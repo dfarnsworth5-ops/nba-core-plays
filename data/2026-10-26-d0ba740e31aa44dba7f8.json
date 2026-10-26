@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-26",
- "updated": "2026-10-26T13:16:26-06:00",
+ "updated": "2026-10-26T13:43:31-06:00",
  "positions": [
   "PG",
   "SG",
@@ -1666,7 +1666,7 @@
   },
   {
    "player": "Cooper Flagg",
-   "team": "",
+   "team": "DAL",
    "status": "P",
    "note": "Usage boost for Kyrie Irving; Naji Marshall likely starts if Flagg is out",
    "time": "1:03 PM"
@@ -1708,7 +1708,7 @@
   },
   {
    "player": "Anthony Edwards",
-   "team": "",
+   "team": "MIN",
    "status": "Q",
    "note": "Dosunmu (+6.5%), Kuminga (+3.5%), and LaMelo (+1.1%) get usage boosts",
    "time": "1:03 PM"
@@ -1722,7 +1722,7 @@
   },
   {
    "player": "Naz Reid",
-   "team": "",
+   "team": "CHA",
    "status": "P",
    "note": "O'Neale is a candidate to draw a spot start if Naz is out",
    "time": "1:04 PM"
@@ -1736,7 +1736,7 @@
   },
   {
    "player": "Andrew Nembhard",
-   "team": "",
+   "team": "IND",
    "status": "Q",
    "note": "Quenton Jackson and Kelly Oubre could see more time",
    "time": "2:48 PM"
@@ -1757,7 +1757,7 @@
   },
   {
    "player": "Jaxson Hayes",
-   "team": "",
+   "team": "UTA",
    "status": "Q",
    "note": "Filipowski could see some backup C minutes",
    "time": "3:15 PM"
