@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-26",
- "updated": "2026-10-26T13:56:41-06:00",
+ "updated": "2026-10-26T15:44:15-06:00",
  "positions": [
   "PG",
   "SG",
@@ -1757,9 +1757,9 @@
   {
    "player": "Anthony Edwards",
    "team": "MIN",
-   "status": "Q",
-   "note": "Dosunmu (+6.5%), Kuminga (+3.5%), and LaMelo (+1.1%) get usage boosts",
-   "time": "1:03 PM"
+   "status": "A",
+   "note": "Edwards is available",
+   "time": "5:43 PM"
   },
   {
    "player": "Marcus Smart",
