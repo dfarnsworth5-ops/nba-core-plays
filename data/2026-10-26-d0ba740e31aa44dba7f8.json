@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-26",
- "updated": "2026-10-26T13:43:31-06:00",
+ "updated": "2026-10-26T13:52:29-06:00",
  "positions": [
   "PG",
   "SG",
@@ -1464,6 +1464,14 @@
    "impact": 6
   },
   {
+   "player": "Jaxson Hayes",
+   "team": "UTA",
+   "status": "Q",
+   "note": "Soreness",
+   "updated": "",
+   "impact": 6
+  },
+  {
    "player": "Ben Sheppard",
    "team": "IND",
    "status": "O",
@@ -1476,6 +1484,14 @@
    "team": "PHO",
    "status": "O",
    "note": "Oblique",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Isaiah Stewart",
+   "team": "MEM",
+   "status": "Q",
+   "note": "Ankle",
    "updated": "",
    "impact": 5
   },
@@ -1530,7 +1546,7 @@
   {
    "player": "Alpha Diallo",
    "team": "DEN",
-   "status": "D",
+   "status": "O",
    "note": "Wrist/Personal",
    "updated": "",
    "impact": 3
@@ -1564,6 +1580,30 @@
    "team": "DEN",
    "status": "O",
    "note": "Knee",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Karim Lopez",
+   "team": "MEM",
+   "status": "Q",
+   "note": "Knee",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Thomas Sorber",
+   "team": "OKC",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Nikola Topic",
+   "team": "OKC",
+   "status": "O",
+   "note": "Back",
    "updated": "",
    "impact": 2
   },
@@ -1652,6 +1692,14 @@
    "team": "ATL",
    "status": "O",
    "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jusuf Nurkic",
+   "team": "UTA",
+   "status": "O",
+   "note": "Foot",
    "updated": "",
    "impact": 1
   }
@@ -1762,5 +1810,583 @@
    "note": "Filipowski could see some backup C minutes",
    "time": "3:15 PM"
   }
+ ],
+ "teams": [
+  [
+   "LaMelo Ball",
+   "MIN"
+  ],
+  [
+   "Anthony Edwards",
+   "MIN"
+  ],
+  [
+   "Jonathan Kuminga",
+   "MIN"
+  ],
+  [
+   "Jaden McDaniels",
+   "MIN"
+  ],
+  [
+   "Rudy Gobert",
+   "MIN"
+  ],
+  [
+   "Ayo Dosunmu",
+   "MIN"
+  ],
+  [
+   "Joan Beringer",
+   "MIN"
+  ],
+  [
+   "Terrence Shannon",
+   "MIN"
+  ],
+  [
+   "James Harden",
+   "CLE"
+  ],
+  [
+   "Donovan Mitchell",
+   "CLE"
+  ],
+  [
+   "Peyton Watson",
+   "CLE"
+  ],
+  [
+   "Evan Mobley",
+   "CLE"
+  ],
+  [
+   "Jarrett Allen",
+   "CLE"
+  ],
+  [
+   "Jaylon Tyson",
+   "CLE"
+  ],
+  [
+   "Sam Merrill",
+   "CLE"
+  ],
+  [
+   "Mario Hezonja",
+   "CLE"
+  ],
+  [
+   "Trae Young",
+   "WAS"
+  ],
+  [
+   "Kyshawn George",
+   "WAS"
+  ],
+  [
+   "Bilal Coulibaly",
+   "WAS"
+  ],
+  [
+   "Anthony Davis",
+   "WAS"
+  ],
+  [
+   "Alexandre Sarr",
+   "WAS"
+  ],
+  [
+   "Justin Champagnie",
+   "WAS"
+  ],
+  [
+   "Tre Johnson",
+   "WAS"
+  ],
+  [
+   "Deandre Ayton",
+   "WAS"
+  ],
+  [
+   "Dennis Schroder",
+   "CHA"
+  ],
+  [
+   "Sion James",
+   "CHA"
+  ],
+  [
+   "Brandon Miller",
+   "CHA"
+  ],
+  [
+   "Naz Reid",
+   "CHA"
+  ],
+  [
+   "Moussa Diabate",
+   "CHA"
+  ],
+  [
+   "Grayson Allen",
+   "CHA"
+  ],
+  [
+   "Ryan Kalkbrenner",
+   "CHA"
+  ],
+  [
+   "Royce O'Neale",
+   "CHA"
+  ],
+  [
+   "Kyrie Irving",
+   "DAL"
+  ],
+  [
+   "Max Christie",
+   "DAL"
+  ],
+  [
+   "Cooper Flagg",
+   "DAL"
+  ],
+  [
+   "PJ Washington",
+   "DAL"
+  ],
+  [
+   "Daniel Gafford",
+   "DAL"
+  ],
+  [
+   "Zaccharie Risacher",
+   "DAL"
+  ],
+  [
+   "Morez Johnson",
+   "DAL"
+  ],
+  [
+   "Sergio De Larrea",
+   "DAL"
+  ],
+  [
+   "Davion Mitchell",
+   "MIA"
+  ],
+  [
+   "Klay Thompson",
+   "MIA"
+  ],
+  [
+   "Andrew Wiggins",
+   "MIA"
+  ],
+  [
+   "Giannis Antetokounmpo",
+   "MIA"
+  ],
+  [
+   "Bam Adebayo",
+   "MIA"
+  ],
+  [
+   "Bobby Portis",
+   "MIA"
+  ],
+  [
+   "Pelle Larsson",
+   "MIA"
+  ],
+  [
+   "Tim Hardaway",
+   "MIA"
+  ],
+  [
+   "Josh Giddey",
+   "CHI"
+  ],
+  [
+   "Norman Powell",
+   "CHI"
+  ],
+  [
+   "Matas Buzelis",
+   "CHI"
+  ],
+  [
+   "Caleb Wilson",
+   "CHI"
+  ],
+  [
+   "Jalen Smith",
+   "CHI"
+  ],
+  [
+   "Tre Jones",
+   "CHI"
+  ],
+  [
+   "Leonard Miller",
+   "CHI"
+  ],
+  [
+   "Isaac Okoro",
+   "CHI"
+  ],
+  [
+   "Derrick White",
+   "BOS"
+  ],
+  [
+   "Jordan Walsh",
+   "BOS"
+  ],
+  [
+   "Paul George",
+   "BOS"
+  ],
+  [
+   "Jayson Tatum",
+   "BOS"
+  ],
+  [
+   "Mitchell Robinson",
+   "BOS"
+  ],
+  [
+   "Payton Pritchard",
+   "BOS"
+  ],
+  [
+   "Neemias Queta",
+   "BOS"
+  ],
+  [
+   "Sam Hauser",
+   "BOS"
+  ],
+  [
+   "Tyrese Haliburton",
+   "IND"
+  ],
+  [
+   "Andrew Nembhard",
+   "IND"
+  ],
+  [
+   "Aaron Nesmith",
+   "IND"
+  ],
+  [
+   "Pascal Siakam",
+   "IND"
+  ],
+  [
+   "Jay Huff",
+   "IND"
+  ],
+  [
+   "Obi Toppin",
+   "IND"
+  ],
+  [
+   "Jarace Walker",
+   "IND"
+  ],
+  [
+   "Kelly Oubre",
+   "IND"
+  ],
+  [
+   "Ryan Rollins",
+   "MIL"
+  ],
+  [
+   "Tyler Herro",
+   "MIL"
+  ],
+  [
+   "Jaime Jaquez",
+   "MIL"
+  ],
+  [
+   "Kyle Kuzma",
+   "MIL"
+  ],
+  [
+   "Myles Turner",
+   "MIL"
+  ],
+  [
+   "Kel'el Ware",
+   "MIL"
+  ],
+  [
+   "Kasparas Jakucionis",
+   "MIL"
+  ],
+  [
+   "Brayden Burries",
+   "MIL"
+  ],
+  [
+   "Devin Booker",
+   "PHO"
+  ],
+  [
+   "Jalen Green",
+   "PHO"
+  ],
+  [
+   "Dillon Brooks",
+   "PHO"
+  ],
+  [
+   "Miles Bridges",
+   "PHO"
+  ],
+  [
+   "Khaman Maluach",
+   "PHO"
+  ],
+  [
+   "Collin Gillespie",
+   "PHO"
+  ],
+  [
+   "Jordan Goodwin",
+   "PHO"
+  ],
+  [
+   "Luke Kennard",
+   "PHO"
+  ],
+  [
+   "Shai Gilgeous-Alexander",
+   "OKC"
+  ],
+  [
+   "Jared McCain",
+   "OKC"
+  ],
+  [
+   "Ajay Mitchell",
+   "OKC"
+  ],
+  [
+   "Jaylin Williams",
+   "OKC"
+  ],
+  [
+   "Isaiah Hartenstein",
+   "OKC"
+  ],
+  [
+   "Alex Caruso",
+   "OKC"
+  ],
+  [
+   "Kenrich Williams",
+   "OKC"
+  ],
+  [
+   "Aday Mara",
+   "OKC"
+  ],
+  [
+   "CJ McCollum",
+   "ATL"
+  ],
+  [
+   "Nickeil Alexander-Walker",
+   "ATL"
+  ],
+  [
+   "Dyson Daniels",
+   "ATL"
+  ],
+  [
+   "Jalen Johnson",
+   "ATL"
+  ],
+  [
+   "Onyeka Okongwu",
+   "ATL"
+  ],
+  [
+   "Aaron Wiggins",
+   "ATL"
+  ],
+  [
+   "Jock Landale",
+   "ATL"
+  ],
+  [
+   "Lu Dort",
+   "ATL"
+  ],
+  [
+   "Fred VanVleet",
+   "HOU"
+  ],
+  [
+   "Amen Thompson",
+   "HOU"
+  ],
+  [
+   "Kevin Durant",
+   "HOU"
+  ],
+  [
+   "Jabari Smith",
+   "HOU"
+  ],
+  [
+   "Alperen Sengun",
+   "HOU"
+  ],
+  [
+   "Tari Eason",
+   "HOU"
+  ],
+  [
+   "Reed Sheppard",
+   "HOU"
+  ],
+  [
+   "Clint Capela",
+   "HOU"
+  ],
+  [
+   "Ty Jerome",
+   "MEM"
+  ],
+  [
+   "Cedric Coward",
+   "MEM"
+  ],
+  [
+   "Jaylen Wells",
+   "MEM"
+  ],
+  [
+   "Cameron Boozer",
+   "MEM"
+  ],
+  [
+   "Zach Edey",
+   "MEM"
+  ],
+  [
+   "Jerami Grant",
+   "MEM"
+  ],
+  [
+   "Scotty Pippen",
+   "MEM"
+  ],
+  [
+   "Cam Spencer",
+   "MEM"
+  ],
+  [
+   "Keyonte George",
+   "UTA"
+  ],
+  [
+   "Darryn Peterson",
+   "UTA"
+  ],
+  [
+   "Ace Bailey",
+   "UTA"
+  ],
+  [
+   "Lauri Markkanen",
+   "UTA"
+  ],
+  [
+   "Jaren Jackson",
+   "UTA"
+  ],
+  [
+   "Jaxson Hayes",
+   "UTA"
+  ],
+  [
+   "Isaiah Collier",
+   "UTA"
+  ],
+  [
+   "Brice Sensabaugh",
+   "UTA"
+  ],
+  [
+   "Stephen Curry",
+   "GSW"
+  ],
+  [
+   "Brandin Podziemski",
+   "GSW"
+  ],
+  [
+   "Yaxel Lendeborg",
+   "GSW"
+  ],
+  [
+   "Draymond Green",
+   "GSW"
+  ],
+  [
+   "Graham Ike",
+   "GSW"
+  ],
+  [
+   "De'Anthony Melton",
+   "GSW"
+  ],
+  [
+   "Gui Santos",
+   "GSW"
+  ],
+  [
+   "Al Horford",
+   "GSW"
+  ],
+  [
+   "Jamal Murray",
+   "DEN"
+  ],
+  [
+   "Christian Braun",
+   "DEN"
+  ],
+  [
+   "Bryce Hopkins",
+   "DEN"
+  ],
+  [
+   "Aaron Gordon",
+   "DEN"
+  ],
+  [
+   "Nikola Jokic",
+   "DEN"
+  ],
+  [
+   "DeMar DeRozan",
+   "DEN"
+  ],
+  [
+   "Trevon Brazile",
+   "DEN"
+  ],
+  [
+   "Marvin Bagley",
+   "DEN"
+  ]
  ]
 }
