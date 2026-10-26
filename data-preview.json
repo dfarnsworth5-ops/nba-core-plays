@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-26",
- "updated": "2026-10-26T12:58:11-06:00",
+ "updated": "2026-10-26T13:16:26-06:00",
  "positions": [
   "PG",
   "SG",
@@ -854,6 +854,13 @@
    "status": "O",
    "note": "Maluach's minutes should be a bit safer",
    "time": "2:48 PM"
+  },
+  {
+   "player": "Jaxson Hayes",
+   "team": "",
+   "status": "Q",
+   "note": "Filipowski could see some backup C minutes",
+   "time": "3:15 PM"
   }
  ],
  "preview": {
