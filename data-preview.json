@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-26",
- "updated": "2026-10-26T11:36:04-06:00",
+ "updated": "2026-10-26T12:52:24-06:00",
  "positions": [
   "PG",
   "SG",
@@ -422,16 +422,8 @@
   {
    "player": "Ivica Zubac",
    "team": "IND",
-   "status": "D",
+   "status": "O",
    "note": "Ankle",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Cooper Flagg",
-   "team": "DAL",
-   "status": "Q",
-   "note": "Shoulder",
    "updated": "",
    "impact": 10
   },
@@ -452,6 +444,22 @@
    "impact": 10
   },
   {
+   "player": "Anthony Edwards",
+   "team": "MIN",
+   "status": "Q",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Chet Holmgren",
+   "team": "OKC",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "Kon Knueppel",
    "team": "CHA",
    "status": "O",
@@ -462,7 +470,7 @@
   {
    "player": "Cason Wallace",
    "team": "OKC",
-   "status": "D",
+   "status": "O",
    "note": "Shoulder",
    "updated": "",
    "impact": 9
@@ -472,6 +480,14 @@
    "team": "WAS",
    "status": "O",
    "note": "Ankle",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Andrew Nembhard",
+   "team": "IND",
+   "status": "Q",
+   "note": "Neck",
    "updated": "",
    "impact": 9
   },
@@ -558,7 +574,7 @@
   {
    "player": "Oso Ighodaro",
    "team": "PHO",
-   "status": "D",
+   "status": "O",
    "note": "Oblique",
    "updated": "",
    "impact": 5
@@ -574,7 +590,7 @@
   {
    "player": "Caleb Martin",
    "team": "DAL",
-   "status": "D",
+   "status": "O",
    "note": "Thumb",
    "updated": "",
    "impact": 4
@@ -600,14 +616,6 @@
    "team": "GSW",
    "status": "O",
    "note": "Knee",
-   "updated": "",
-   "impact": 4
-  },
-  {
-   "player": "Jaylin Williams",
-   "team": "OKC",
-   "status": "Q",
-   "note": "Wrist",
    "updated": "",
    "impact": 4
   },
@@ -684,22 +692,6 @@
    "impact": 1
   },
   {
-   "player": "Thomas Sorber",
-   "team": "OKC",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Nikola Topic",
-   "team": "OKC",
-   "status": "O",
-   "note": "Back",
-   "updated": "",
-   "impact": 1
-  },
-  {
    "player": "Khalifa Diop",
    "team": "CLE",
    "status": "O",
@@ -768,9 +760,9 @@
   {
    "player": "Ivica Zubac",
    "team": "",
-   "status": "D",
+   "status": "O",
    "note": "Jay Huff likely starts and becomes a smash value at C",
-   "time": "11:00 AM"
+   "time": "2:48 PM"
   },
   {
    "player": "Cooper Flagg",
@@ -789,9 +781,9 @@
   {
    "player": "Cason Wallace",
    "team": "",
-   "status": "D",
+   "status": "O",
    "note": "Jared McCain and Ajay Mitchell projected to start",
-   "time": "11:00 AM"
+   "time": "2:48 PM"
   },
   {
    "player": "Nicolas Claxton",
@@ -834,6 +826,34 @@
    "status": "P",
    "note": "O'Neale is a candidate to draw a spot start if Naz is out",
    "time": "1:04 PM"
+  },
+  {
+   "player": "Chet Holmgren",
+   "team": "",
+   "status": "O",
+   "note": "Jaylin Williams is projected to start at the 4; Kenrich Williams could see more burn",
+   "time": "2:48 PM"
+  },
+  {
+   "player": "Andrew Nembhard",
+   "team": "",
+   "status": "Q",
+   "note": "Quenton Jackson and Kelly Oubre could see more time",
+   "time": "2:48 PM"
+  },
+  {
+   "player": "T.J. McConnell",
+   "team": "",
+   "status": "O",
+   "note": "Quenton Jackson should take some backup PG minutes",
+   "time": "2:48 PM"
+  },
+  {
+   "player": "Oso Ighodaro",
+   "team": "",
+   "status": "O",
+   "note": "Maluach's minutes should be a bit safer",
+   "time": "2:48 PM"
   }
  ],
  "preview": {
