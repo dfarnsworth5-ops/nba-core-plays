@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-26",
- "updated": "2026-10-26T11:03:47-06:00",
+ "updated": "2026-10-26T11:05:16-06:00",
  "positions": [
   "PG",
   "SG",
@@ -1718,8 +1718,22 @@
    "player": "Anthony Edwards",
    "team": "",
    "status": "Q",
-   "note": "",
+   "note": "Dosunmu (+6.5%), Kuminga (+3.5%), and LaMelo (+1.1%) get usage boosts",
    "time": "1:03 PM"
+  },
+  {
+   "player": "Marcus Smart",
+   "team": "",
+   "status": "O",
+   "note": "No major impact with VanVleet and Sheppard active",
+   "time": "1:04 PM"
+  },
+  {
+   "player": "Naz Reid",
+   "team": "",
+   "status": "P",
+   "note": "O'Neale is a candidate to draw a spot start if Naz is out",
+   "time": "1:04 PM"
   }
  ]
 }
