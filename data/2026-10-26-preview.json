@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-26",
- "updated": "2026-10-26T11:05:16-06:00",
+ "updated": "2026-10-26T11:36:04-06:00",
  "positions": [
   "PG",
   "SG",
@@ -215,8 +215,8 @@
    "dk": 9900,
    "fd": 0,
    "proj": 56.97,
-   "type": "",
-   "status": "Core",
+   "type": "Core",
+   "status": "",
    "blurb": "The team might be bad, but it's not really Giannis' fault (1.52 DK FP/minute)",
    "url": ""
   },
