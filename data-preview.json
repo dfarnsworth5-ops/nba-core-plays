@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-26",
- "updated": "2026-10-26T10:23:11-06:00",
+ "updated": "2026-10-26T10:51:16-06:00",
  "positions": [
   "PG",
   "SG",
@@ -216,7 +216,7 @@
    "fd": 0,
    "proj": 56.97,
    "type": "",
-   "status": "",
+   "status": "Core",
    "blurb": "The team might be bad, but it's not really Giannis' fault (1.52 DK FP/minute)",
    "url": ""
   },
@@ -271,6 +271,21 @@
    "pos": "PG",
    "dkPos": "PG",
    "fdPos": "PG",
+   "player": "Ajay Mitchell",
+   "team": "OKC",
+   "opp": "PHO",
+   "dk": 0,
+   "fd": 4600,
+   "proj": 28.03,
+   "type": "Core",
+   "status": "",
+   "blurb": "J-Dub and Wallace expected to be out; path to 30-plus minutes",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
    "player": "Tyrese Haliburton",
    "team": "IND",
    "opp": "MIL",
@@ -280,21 +295,6 @@
    "type": "",
    "status": "",
    "blurb": "Double-doubles in 2 of 3 games; elite matchup at MIL",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG/SG",
-   "player": "Ty Jerome",
-   "team": "MEM",
-   "opp": "UTA",
-   "dk": 0,
-   "fd": 8400,
-   "proj": 42.26,
-   "type": "",
-   "status": "",
-   "blurb": "Leading the NBA in scoring (34.7 PPG); 34% usage, 1.56 FD FP/minute so far",
    "url": ""
   },
   {
