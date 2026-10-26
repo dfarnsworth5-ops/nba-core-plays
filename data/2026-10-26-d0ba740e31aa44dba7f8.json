@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-26",
- "updated": "2026-10-26T10:51:16-06:00",
+ "updated": "2026-10-26T11:03:47-06:00",
  "positions": [
   "PG",
   "SG",
@@ -127,7 +127,7 @@
    "proj": 27.62,
    "type": "Core",
    "status": "",
-   "blurb": "J-Dub and Wallace expected to be out; path to 30-plus minutes",
+   "blurb": "J-Dub and Wallace expected to be out; path to 30+ minutes",
    "url": ""
   },
   {
@@ -187,7 +187,7 @@
    "proj": 30.11,
    "type": "",
    "status": "",
-   "blurb": "A little cheap for starting, 30-plus minute role ($5,800 DK)",
+   "blurb": "A little cheap for starting, 30+ minute role ($5,800 DK)",
    "url": ""
   },
   {
@@ -247,7 +247,7 @@
    "proj": 27.62,
    "type": "Core",
    "status": "",
-   "blurb": "J-Dub and Wallace expected to be out; path to 30-plus minutes",
+   "blurb": "J-Dub and Wallace expected to be out; path to 30+ minutes",
    "url": ""
   },
   {
@@ -367,7 +367,7 @@
    "proj": 30.85,
    "type": "Core",
    "status": "",
-   "blurb": "29-plus minutes off the bench in both competitive games so far; SG/SF eligible",
+   "blurb": "29+ minutes off the bench in both competitive games so far; SG/SF eligible",
    "url": ""
   },
   {
@@ -397,7 +397,7 @@
    "proj": 41.99,
    "type": "",
    "status": "",
-   "blurb": "Usage is through the roof (35%) with White and Knueppel sidelined",
+   "blurb": "Usage rate is through the roof (35%) with White and Knueppel sidelined",
    "url": ""
   },
   {
@@ -472,7 +472,7 @@
    "proj": 39.24,
    "type": "",
    "status": "",
-   "blurb": "Usage is down so far (23.3%), but still playing 35-plus minutes every night",
+   "blurb": "Usage rate is down so far (23.3%) but still playing 35+ minutes every night",
    "url": ""
   },
   {
@@ -562,7 +562,7 @@
    "proj": 26.11,
    "type": "",
    "status": "",
-   "blurb": "Struggling (0.67 DK FP/minute); but should regularly play 30-plus minutes",
+   "blurb": "Struggling (0.67 DK FP/minute) but should regularly play 30+ minutes",
    "url": ""
   },
   {
@@ -729,7 +729,7 @@
    "proj": 28.03,
    "type": "Core",
    "status": "",
-   "blurb": "J-Dub and Wallace expected to be out; path to 30-plus minutes",
+   "blurb": "J-Dub and Wallace expected to be out; path to 30+ minutes",
    "url": ""
   },
   {
@@ -834,7 +834,7 @@
    "proj": 29.62,
    "type": "",
    "status": "",
-   "blurb": "0.82 FD FP/minute; 34-plus minutes in 2 of 3 games in starting role",
+   "blurb": "0.82 FD FP/minute; 34+ minutes in 2 of 3 games in starting role",
    "url": ""
   },
   {
@@ -864,7 +864,7 @@
    "proj": 29.37,
    "type": "",
    "status": "",
-   "blurb": "29-plus minutes off the bench in both competitive games so far",
+   "blurb": "29+ minutes off the bench in both competitive games so far",
    "url": ""
   },
   {
@@ -1059,7 +1059,7 @@
    "proj": 26.66,
    "type": "",
    "status": "",
-   "blurb": "Just $4,900; 30-plus FD points in consecutive games",
+   "blurb": "Just $4,900; 30+ FD points in consecutive games",
    "url": ""
   },
   {
@@ -1434,7 +1434,7 @@
   {
    "player": "Marcus Smart",
    "team": "HOU",
-   "status": "Q",
+   "status": "O",
    "note": "Forearm",
    "updated": "",
    "impact": 6
@@ -1675,9 +1675,9 @@
   {
    "player": "Cooper Flagg",
    "team": "",
-   "status": "Q",
+   "status": "P",
    "note": "Usage boost for Kyrie Irving; Naji Marshall likely starts if Flagg is out",
-   "time": "11:00 AM"
+   "time": "1:03 PM"
   },
   {
    "player": "Jalen Williams",
@@ -1713,6 +1713,13 @@
    "status": "O",
    "note": "Usage contentrates between Davis and Young",
    "time": "11:00 AM"
+  },
+  {
+   "player": "Anthony Edwards",
+   "team": "",
+   "status": "Q",
+   "note": "",
+   "time": "1:03 PM"
   }
  ]
 }
