@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-26",
- "updated": "2026-10-26T10:23:11-06:00",
+ "updated": "2026-10-26T10:51:16-06:00",
  "positions": [
   "PG",
   "SG",
@@ -486,7 +486,7 @@
    "fd": 0,
    "proj": 56.97,
    "type": "",
-   "status": "",
+   "status": "Core",
    "blurb": "The team might be bad, but it's not really Giannis' fault (1.52 DK FP/minute)",
    "url": ""
   },
@@ -721,6 +721,21 @@
    "pos": "PG",
    "dkPos": "PG",
    "fdPos": "PG",
+   "player": "Ajay Mitchell",
+   "team": "OKC",
+   "opp": "PHO",
+   "dk": 0,
+   "fd": 4600,
+   "proj": 28.03,
+   "type": "Core",
+   "status": "",
+   "blurb": "J-Dub and Wallace expected to be out; path to 30-plus minutes",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
    "player": "Tyrese Haliburton",
    "team": "IND",
    "opp": "MIL",
@@ -760,21 +775,6 @@
    "type": "",
    "status": "",
    "blurb": "Still leading the Jazz in usage (28%) even with some new faces in the mix",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Ajay Mitchell",
-   "team": "OKC",
-   "opp": "PHO",
-   "dk": 0,
-   "fd": 4600,
-   "proj": 28.03,
-   "type": "",
-   "status": "",
-   "blurb": "J-Dub and Wallace expected to be out; path to 30-plus minutes",
    "url": ""
   },
   {
