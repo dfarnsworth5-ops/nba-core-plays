@@ -4,7 +4,7 @@
  "slate": "4 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-10-27",
- "updated": "2026-10-27T16:54:06-06:00",
+ "updated": "2026-10-27T17:18:41-06:00",
  "positions": [
   "PG",
   "SG",
@@ -540,6 +540,20 @@
    "status": "A",
    "note": "White will offiicially play tonight.",
    "time": "6:50 PM"
+  },
+  {
+   "player": "Ausar Thompson",
+   "team": "DET",
+   "status": "A",
+   "note": "Thompson will play tonight.",
+   "time": "7:20 PM"
+  },
+  {
+   "player": "Isaiah Joe",
+   "team": "DET",
+   "status": "O",
+   "note": "Joe has been ruled out. This opens up 15-18 minutes for the other wings.",
+   "time": "7:20 PM"
   }
  ],
  "teams": [
