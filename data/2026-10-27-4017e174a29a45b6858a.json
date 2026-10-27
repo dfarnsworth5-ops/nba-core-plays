@@ -4,7 +4,7 @@
  "slate": "4 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-10-27",
- "updated": "2026-10-27T11:35:59-06:00",
+ "updated": "2026-10-27T11:41:28-06:00",
  "positions": [
   "PG",
   "SG",
@@ -816,7 +816,64 @@
    "impact": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "player": "Paul George",
+   "team": "BOS",
+   "status": "A",
+   "note": "Taken off the injury report.",
+   "time": "3:30 PM"
+  },
+  {
+   "player": "Mitchell Robinson",
+   "team": "BOS",
+   "status": "A",
+   "note": "Taken off the injury report.",
+   "time": "3:30 PM"
+  },
+  {
+   "player": "Jayson Tatum",
+   "team": "BOS",
+   "status": "A",
+   "note": "Taken off the injury report.",
+   "time": "3:30 PM"
+  },
+  {
+   "player": "Derrick White",
+   "team": "BOS",
+   "status": "A",
+   "note": "Listed as probable and expected to play.",
+   "time": "3:30 PM"
+  },
+  {
+   "player": "Jalen Duren",
+   "team": "",
+   "status": "O",
+   "note": "Paul Reed will start at center. John Collins has a slightly safer minute floor.",
+   "time": "3:30 PM"
+  },
+  {
+   "player": "Isaiah Joe",
+   "team": "DET",
+   "status": "Q",
+   "note": "Hasn't had a huge role, but his absence would open up 15-18 minutes in the rotation.",
+   "time": "3:30 PM"
+  },
+  {
+   "player": "Ausar Thompson",
+   "team": "DET",
+   "status": "Q",
+   "note": "Big injury to monitor tonight. Daniss Jenkins, Duncan Robinson, and Kevin Huerter would all have bigger roles.",
+   "time": "3:30 PM"
+  },
+  {
+   "player": "Scoot Henderson",
+   "team": "POR",
+   "status": "Q",
+   "note": "His absence would open up around 20 minutes in the rotation.",
+   "time": "3:30 PM"
+  }
+ ],
  "teams": [
   [
    "LaMelo Ball",
@@ -1393,6 +1450,10 @@
   [
    "Marvin Bagley",
    "DEN"
+  ],
+  [
+   "Jalen Duren",
+   "DET"
   ]
  ]
 }
