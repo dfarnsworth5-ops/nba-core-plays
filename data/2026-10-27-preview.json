@@ -4,7 +4,7 @@
  "slate": "4 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-10-27",
- "updated": "2026-10-27T16:42:21-06:00",
+ "updated": "2026-10-27T16:54:06-06:00",
  "positions": [
   "PG",
   "SG",
@@ -502,7 +502,7 @@
   {
    "player": "Derrick White",
    "team": "BOS",
-   "status": "A",
+   "status": "P",
    "note": "Listed as probable and expected to play.",
    "time": "3:30 PM"
   },
@@ -533,6 +533,13 @@
    "status": "Q",
    "note": "His absence would open up around 20 minutes in the rotation.",
    "time": "3:30 PM"
+  },
+  {
+   "player": "Derrick White",
+   "team": "BOS",
+   "status": "A",
+   "note": "White will offiicially play tonight.",
+   "time": "6:50 PM"
   }
  ],
  "teams": [
