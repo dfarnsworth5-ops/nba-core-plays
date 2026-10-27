@@ -4,7 +4,7 @@
  "slate": "4 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-10-27",
- "updated": "2026-10-27T12:09:44-06:00",
+ "updated": "2026-10-27T12:40:02-06:00",
  "positions": [
   "PG",
   "SG",
@@ -131,7 +131,7 @@
    "fd": 0,
    "proj": 49.49,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "The fantasy production has been middling, but the usage and shot volume have both been elite. Could get overlooked with the high spread in this game.",
    "url": ""
   },
@@ -373,22 +373,6 @@
    "impact": 10
   },
   {
-   "player": "Jayson Tatum",
-   "team": "BOS",
-   "status": "Q",
-   "note": "Rest",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Paul George",
-   "team": "BOS",
-   "status": "Q",
-   "note": "Rest",
-   "updated": "",
-   "impact": 10
-  },
-  {
    "player": "Ausar Thompson",
    "team": "DET",
    "status": "Q",
@@ -403,14 +387,6 @@
    "note": "Ankle",
    "updated": "",
    "impact": 9
-  },
-  {
-   "player": "Mitchell Robinson",
-   "team": "BOS",
-   "status": "Q",
-   "note": "Rest",
-   "updated": "",
-   "impact": 8
   },
   {
    "player": "Tobias Harris",
