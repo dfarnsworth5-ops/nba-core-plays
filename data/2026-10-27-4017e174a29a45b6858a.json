@@ -4,7 +4,7 @@
  "slate": "4 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-10-27",
- "updated": "2026-10-27T12:09:44-06:00",
+ "updated": "2026-10-27T12:40:02-06:00",
  "positions": [
   "PG",
   "SG",
@@ -177,7 +177,7 @@
    "proj": 42.57,
    "type": "",
    "status": "",
-   "blurb": "The Knicks aren't a great matchup, but Cunningham is going to be low-owned on a 4-game slate. He's viable in large-field GPPs.",
+   "blurb": "The Knicks aren't a great matchup, but Cunningham is going to be low-owned on a 4-game slate. He's viable in large-field tournaments.",
    "url": ""
   },
   {
@@ -251,7 +251,7 @@
    "fd": 0,
    "proj": 35.68,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Volatile on a game-to-game basis, but he has seen a 32% usage rate in 2 of the first 3 games.",
    "url": ""
   },
@@ -311,7 +311,7 @@
    "fd": 0,
    "proj": 49.49,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "The fantasy production has been middling, but the usage and shot volume have both been elite. Could get overlooked with the high spread in this game.",
    "url": ""
   },
@@ -371,7 +371,7 @@
    "fd": 0,
    "proj": 35.68,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Volatile on a game-to-game basis, but he has seen a 32% usage rate in 2 of the first 3 games.",
    "url": ""
   },
@@ -958,7 +958,7 @@
    "fd": 10000,
    "proj": 46.9,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "The fantasy production has been middling, but the usage and shot volume have both been elite. Could get overlooked with the high spread in this game.",
    "url": ""
   },
@@ -1003,7 +1003,7 @@
    "fd": 7300,
    "proj": 34.59,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Volatile on a game-to-game basis, but he has seen a 32% usage rate in 2 of the first 3 games.",
    "url": ""
   },
@@ -1063,7 +1063,7 @@
    "fd": 10000,
    "proj": 46.9,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "The fantasy production has been middling, but the usage and shot volume have both been elite. Could get overlooked with the high spread in this game.",
    "url": ""
   },
@@ -1198,7 +1198,7 @@
    "fd": 4000,
    "proj": 20.42,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Cheap and should see minutes in the low 20s in a nice matchup against the Nets at home.",
    "url": ""
   },
@@ -1273,22 +1273,6 @@
    "impact": 10
   },
   {
-   "player": "Jayson Tatum",
-   "team": "BOS",
-   "status": "Q",
-   "note": "Rest",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Paul George",
-   "team": "BOS",
-   "status": "Q",
-   "note": "Rest",
-   "updated": "",
-   "impact": 10
-  },
-  {
    "player": "Ausar Thompson",
    "team": "DET",
    "status": "Q",
@@ -1303,14 +1287,6 @@
    "note": "Ankle",
    "updated": "",
    "impact": 9
-  },
-  {
-   "player": "Mitchell Robinson",
-   "team": "BOS",
-   "status": "Q",
-   "note": "Rest",
-   "updated": "",
-   "impact": 8
   },
   {
    "player": "Tobias Harris",
