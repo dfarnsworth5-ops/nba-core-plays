@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-28",
- "updated": "2026-10-28T11:48:42-06:00",
+ "updated": "2026-10-28T11:54:12-06:00",
  "positions": [
   "PG",
   "SG",
@@ -2052,6 +2052,13 @@
    "status": "O",
    "note": "Smart has been ruled out. The Rockets are already without Alperen Sengun, so they are one of the top teams to target tonight.",
    "time": "3:30 PM"
+  },
+  {
+   "player": "Tyrese Haliburton",
+   "team": "IND",
+   "status": "O",
+   "note": "Haliburton has been ruled out. Quenton Jackson, Aaron Nesmith, Andrew Nembhard, and Kelly Oubre could all see an uptick in minutes. Pascal Siakam and Ivica Zubac could see an uptick in usage.",
+   "time": "1:55 PM"
   }
  ],
  "teams": [
