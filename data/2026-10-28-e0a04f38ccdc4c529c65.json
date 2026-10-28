@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-28",
- "updated": "2026-10-28T14:54:14-06:00",
+ "updated": "2026-10-28T15:50:21-06:00",
  "positions": [
   "PG",
   "SG",
@@ -249,7 +249,7 @@
    "fd": 0,
    "proj": 26.8,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Solid value if active. Tyrese Haliburton and Ivica Zubac have both been ruled out.",
    "url": ""
   },
@@ -369,7 +369,7 @@
    "fd": 0,
    "proj": 26.8,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Solid value if active. Tyrese Haliburton and Ivica Zubac have both been ruled out.",
    "url": ""
   },
@@ -851,7 +851,7 @@
    "fd": 5600,
    "proj": 25.95,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Solid value if active. Tyrese Haliburton and Ivica Zubac have both been ruled out.",
    "url": ""
   },
@@ -1489,14 +1489,6 @@
    "impact": 9
   },
   {
-   "player": "Andrew Nembhard",
-   "team": "IND",
-   "status": "Q",
-   "note": "Neck",
-   "updated": "",
-   "impact": 9
-  },
-  {
    "player": "Ajay Mitchell",
    "team": "OKC",
    "status": "Q",
@@ -2096,6 +2088,13 @@
    "status": "O",
    "note": "Wililams is out. This opens up even more minutes in the Lakers' rotation.",
    "time": "4:20 PM"
+  },
+  {
+   "player": "Andrew Nembhard",
+   "team": "",
+   "status": "A",
+   "note": "Nembhard will play.",
+   "time": "5:50 PM"
   }
  ],
  "teams": [
