@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-28",
- "updated": "2026-10-28T14:20:17-06:00",
+ "updated": "2026-10-28T14:54:14-06:00",
  "positions": [
   "PG",
   "SG",
@@ -334,6 +334,21 @@
    "pos": "SG",
    "dkPos": "SG",
    "fdPos": "SG",
+   "player": "Austin Reaves",
+   "team": "LAL",
+   "opp": "LAC",
+   "dk": 0,
+   "fd": 8100,
+   "proj": 37.17,
+   "type": "Core",
+   "status": "",
+   "blurb": "Elite play with Luka Doncic and Ziaire Williams both out tonight against the Clippers.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
    "player": "Ayo Dosunmu",
    "team": "MIN",
    "opp": "GSW",
@@ -343,21 +358,6 @@
    "type": "",
    "status": "",
    "blurb": "Has seen a 5% usage boost with Anthony Edwards off the floor. Should see an uptick in minutes as well.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG/PG",
-   "player": "Amen Thompson",
-   "team": "HOU",
-   "opp": "MIL",
-   "dk": 0,
-   "fd": 7700,
-   "proj": 39.23,
-   "type": "",
-   "status": "",
-   "blurb": "Decent usage rate and has topped 42 fantasy points in 2 of the last 3 games. Boost with Alperen Sengun out.",
    "url": ""
   },
   {
