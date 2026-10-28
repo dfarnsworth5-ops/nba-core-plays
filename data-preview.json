@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-28",
- "updated": "2026-10-28T12:49:05-06:00",
+ "updated": "2026-10-28T14:20:17-06:00",
  "positions": [
   "PG",
   "SG",
@@ -557,6 +557,14 @@
    "impact": 10
   },
   {
+   "player": "Luka Doncic",
+   "team": "LAL",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "Jalen Suggs",
    "team": "ORL",
    "status": "O",
@@ -673,6 +681,14 @@
    "team": "DAL",
    "status": "O",
    "note": "Illness",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "Ziaire Williams",
+   "team": "LAL",
+   "status": "O",
+   "note": "Foot",
    "updated": "",
    "impact": 7
   },
@@ -1166,6 +1182,20 @@
    "status": "D",
    "note": "Marshall is now doubtful.",
    "time": "2:20 PM"
+  },
+  {
+   "player": "Luka Doncic",
+   "team": "",
+   "status": "O",
+   "note": "Doncic is out. This makes the Lakers a lot more appealing on the FanDuel slate.",
+   "time": "4:20 PM"
+  },
+  {
+   "player": "Ziaire Williams",
+   "team": "",
+   "status": "O",
+   "note": "Wililams is out. This opens up even more minutes in the Lakers' rotation.",
+   "time": "4:20 PM"
   }
  ],
  "teams": [
