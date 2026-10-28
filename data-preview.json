@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-28",
- "updated": "2026-10-28T10:08:39-06:00",
+ "updated": "2026-10-28T11:21:06-06:00",
  "positions": [
   "PG",
   "SG",
@@ -147,7 +147,158 @@
    "fd": "M"
   }
  ],
- "plays": [],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Nickeil Alexander-Walker",
+   "team": "ATL",
+   "opp": "MIA",
+   "dk": 6400,
+   "fd": 0,
+   "proj": 33.6,
+   "type": "",
+   "status": "",
+   "blurb": "Shot volume has been solid this season, and he is very capable of getting blocks and steals. Uptempo matchup against the Heat, who allow the most 3-point attempts per game.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "James Harden",
+   "team": "CLE",
+   "opp": "WAS",
+   "dk": 7400,
+   "fd": 0,
+   "proj": 38.64,
+   "type": "",
+   "status": "",
+   "blurb": "I'm not usually a Harden truther, but I love the matchup against the Wizards. He's affordable and coming off his best game of the season (39 fantasy points).",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Nickeil Alexander-Walker",
+   "team": "ATL",
+   "opp": "MIA",
+   "dk": 6400,
+   "fd": 0,
+   "proj": 33.6,
+   "type": "",
+   "status": "",
+   "blurb": "Shot volume has been solid this season, and he is very capable of getting blocks and steals. Uptempo matchup against the Heat, who allow the most 3-point attempts per game.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
+   "player": "Desmond Bane",
+   "team": "ORL",
+   "opp": "TOR",
+   "dk": 6800,
+   "fd": 0,
+   "proj": 35.07,
+   "type": "",
+   "status": "",
+   "blurb": "Paolo Banchero and Jalen Suggs are both out, while Anthony Black is questionable. Bane should see minutes in the mid-30s with increased usage.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Kevin Durant",
+   "team": "HOU",
+   "opp": "MIL",
+   "dk": 7500,
+   "fd": 0,
+   "proj": 41.26,
+   "type": "",
+   "status": "",
+   "blurb": "Nice usage and FP/min. boost with Alperen Sengun out. Too cheap given his projected role against the Bucks.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SG/SF",
+   "fdPos": "SF",
+   "player": "Desmond Bane",
+   "team": "ORL",
+   "opp": "TOR",
+   "dk": 6800,
+   "fd": 0,
+   "proj": 35.07,
+   "type": "",
+   "status": "",
+   "blurb": "Paolo Banchero and Jalen Suggs are both out, while Anthony Black is questionable. Bane should see minutes in the mid-30s with increased usage.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "SF/PF",
+   "fdPos": "PF",
+   "player": "Yaxel Lendeborg",
+   "team": "GSW",
+   "opp": "MIN",
+   "dk": 7000,
+   "fd": 0,
+   "proj": 39.32,
+   "type": "",
+   "status": "",
+   "blurb": "Seems to get better every game. He has topped 48 fantasy points in each of his last 3 outings. We do have to monitor his status.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Giannis Antetokounmpo",
+   "team": "MIA",
+   "opp": "ATL",
+   "dk": 10200,
+   "fd": 0,
+   "proj": 56.32,
+   "type": "",
+   "status": "",
+   "blurb": "Has topped 65 fantasy points in 2 of the last 3 games. Boasts a massive 35% usage rate with his new team.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Clint Capela",
+   "team": "HOU",
+   "opp": "MIL",
+   "dk": 3100,
+   "fd": 0,
+   "proj": 22.61,
+   "type": "",
+   "status": "",
+   "blurb": "Only $3,100 on DraftKings and projected for 24 minutes with Alperen Sengun out.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Nikola Jokic",
+   "team": "DEN",
+   "opp": "NOP",
+   "dk": 12000,
+   "fd": 0,
+   "proj": 59.03,
+   "type": "",
+   "status": "",
+   "blurb": "Should have plenty of value tonight, which makes it easier to fit Jokic. Highest projection of any player on the slate.",
+   "url": ""
+  }
+ ],
  "playsFd": [],
  "injuries": [
   {
@@ -279,14 +430,6 @@
    "impact": 9
   },
   {
-   "player": "AJ Dybantsa",
-   "team": "WAS",
-   "status": "Q",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 9
-  },
-  {
    "player": "Andrew Nembhard",
    "team": "IND",
    "status": "Q",
@@ -407,14 +550,6 @@
    "impact": 5
   },
   {
-   "player": "Aaron Wiggins",
-   "team": "ATL",
-   "status": "Q",
-   "note": "Knee",
-   "updated": "",
-   "impact": 5
-  },
-  {
    "player": "Spencer Jones",
    "team": "DEN",
    "status": "O",
@@ -465,7 +600,7 @@
   {
    "player": "Isaiah Joe",
    "team": "DET",
-   "status": "Q",
+   "status": "O",
    "note": "Hip",
    "updated": "",
    "impact": 3
@@ -854,11 +989,11 @@
    "time": "2:00 PM"
   },
   {
-   "player": "Aaron Wiggins",
-   "team": "ATL",
+   "player": "Yaxel Lendeborg",
+   "team": "GSW",
    "status": "Q",
-   "note": "His absence would open up minutes off the bench in a pace-up matchup at home against the Heat.",
-   "time": "2:00 PM"
+   "note": "He is still questionable, but he went through shootaround.",
+   "time": "3:20 PM"
   }
  ],
  "teams": [
@@ -2721,11 +2856,11 @@
  ],
  "preview": {
   "locked": {
-   "PG": 0,
-   "SG": 0,
-   "SF": 0,
-   "PF": 0,
-   "C": 0
+   "PG": 6,
+   "SG": 6,
+   "SF": 6,
+   "PF": 6,
+   "C": 6
   },
   "lockedFd": {
    "PG": 0,
