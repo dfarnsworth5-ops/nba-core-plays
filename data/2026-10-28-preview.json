@@ -1,0 +1,1372 @@
+{
+ "title": "NBA Core Plays",
+ "date": "Wednesday, October 28th",
+ "slate": "12 games · 7:00 PM ET lock",
+ "note": "",
+ "iso": "2026-10-28",
+ "updated": "2026-10-27T22:04:36-06:00",
+ "positions": [
+  "PG",
+  "SG",
+  "SF",
+  "PF",
+  "C"
+ ],
+ "tz": "ET",
+ "games": [
+  {
+   "away": "Miami Heat",
+   "home": "Atlanta Hawks",
+   "time": "7:00 PM",
+   "min": 1140,
+   "fav": "ATL",
+   "spread": -3.5,
+   "total": 240.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Washington Wizards",
+   "home": "Cleveland Cavaliers",
+   "time": "7:00 PM",
+   "min": 1140,
+   "fav": "CLE",
+   "spread": -9.5,
+   "total": 239.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Philadelphia 76ers",
+   "home": "Indiana Pacers",
+   "time": "7:00 PM",
+   "min": 1140,
+   "fav": "PHI",
+   "spread": -4.5,
+   "total": 237.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Charlotte Hornets",
+   "home": "Detroit Pistons",
+   "time": "7:00 PM",
+   "min": 1140,
+   "fav": "DET",
+   "spread": -7.5,
+   "total": 215.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Orlando Magic",
+   "home": "Toronto Raptors",
+   "time": "7:30 PM",
+   "min": 1170,
+   "fav": "TOR",
+   "spread": -5.5,
+   "total": 223.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Denver Nuggets",
+   "home": "New Orleans Pelicans",
+   "time": "8:00 PM",
+   "min": 1200,
+   "fav": "DEN",
+   "spread": -4.5,
+   "total": 240.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Golden State Warriors",
+   "home": "Minnesota Timberwolves",
+   "time": "8:00 PM",
+   "min": 1200,
+   "fav": "MIN",
+   "spread": -3.5,
+   "total": 228.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "New York Knicks",
+   "home": "Chicago Bulls",
+   "time": "8:00 PM",
+   "min": 1200,
+   "fav": "NYK",
+   "spread": -7.5,
+   "total": 234.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Houston Rockets",
+   "home": "Milwaukee Bucks",
+   "time": "8:00 PM",
+   "min": 1200,
+   "fav": "HOU",
+   "spread": -8.5,
+   "total": 227.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "San Antonio Spurs",
+   "home": "Utah Jazz",
+   "time": "9:00 PM",
+   "min": 1260,
+   "fav": "SAS",
+   "spread": -11.5,
+   "total": 234.5,
+   "dk": "",
+   "fd": "M"
+  },
+  {
+   "away": "Oklahoma City Thunder",
+   "home": "Dallas Mavericks",
+   "time": "9:30 PM",
+   "min": 1290,
+   "fav": "OKC",
+   "spread": -5.5,
+   "total": 229.5,
+   "dk": "L",
+   "fd": "M"
+  },
+  {
+   "away": "Los Angeles Lakers",
+   "home": "Los Angeles Clippers",
+   "time": "10:30 PM",
+   "min": 1350,
+   "fav": "LAL",
+   "spread": -5.5,
+   "total": 227.5,
+   "dk": "L",
+   "fd": "M"
+  }
+ ],
+ "plays": [],
+ "playsFd": [],
+ "injuries": [
+  {
+   "player": "Paolo Banchero",
+   "team": "ORL",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Kawhi Leonard",
+   "team": "TOR",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Alperen Sengun",
+   "team": "HOU",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Jalen Duren",
+   "team": "DET",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Tyrese Haliburton",
+   "team": "IND",
+   "status": "Q",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Ivica Zubac",
+   "team": "IND",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Chet Holmgren",
+   "team": "OKC",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Jalen Williams",
+   "team": "OKC",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Anthony Edwards",
+   "team": "MIN",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Kyrie Irving",
+   "team": "DAL",
+   "status": "Q",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Jaren Jackson",
+   "team": "UTA",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Lauri Markkanen",
+   "team": "UTA",
+   "status": "Q",
+   "note": "Wrist",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Jalen Suggs",
+   "team": "ORL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Yves Missi",
+   "team": "NOP",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Yaxel Lendeborg",
+   "team": "GSW",
+   "status": "Q",
+   "note": "Foot",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "AJ Dybantsa",
+   "team": "WAS",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Andrew Nembhard",
+   "team": "IND",
+   "status": "Q",
+   "note": "Neck",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Ajay Mitchell",
+   "team": "OKC",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Cason Wallace",
+   "team": "OKC",
+   "status": "O",
+   "note": "Shoulder",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Kon Knueppel",
+   "team": "CHA",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "Nicolas Claxton",
+   "team": "CHI",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "Cameron Johnson",
+   "team": "DEN",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "Rui Hachimura",
+   "team": "LAC",
+   "status": "O",
+   "note": "Quad",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "Jaxson Hayes",
+   "team": "UTA",
+   "status": "Q",
+   "note": "Shoulder",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "Tobias Harris",
+   "team": "SAS",
+   "status": "O",
+   "note": "Calf",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "Coby White",
+   "team": "CHA",
+   "status": "O",
+   "note": "Calf",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "Alex Caruso",
+   "team": "OKC",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "Naji Marshall",
+   "team": "DAL",
+   "status": "Q",
+   "note": "Illness",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "Marcus Smart",
+   "team": "HOU",
+   "status": "Q",
+   "note": "Arm",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Justin Champagnie",
+   "team": "WAS",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Steven Adams",
+   "team": "HOU",
+   "status": "O",
+   "note": "Calf",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Aaron Wiggins",
+   "team": "ATL",
+   "status": "Q",
+   "note": "Knee",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Spencer Jones",
+   "team": "DEN",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Jose Alvarado",
+   "team": "NYK",
+   "status": "D",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Grant Williams",
+   "team": "CHA",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Jabari Walker",
+   "team": "PHI",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Sergio de Larrea",
+   "team": "DAL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Simone Fontecchio",
+   "team": "MIA",
+   "status": "D",
+   "note": "Illness",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Isaiah Joe",
+   "team": "DET",
+   "status": "",
+   "note": "Hip",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Tobe Awaka",
+   "team": "CHI",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Patrick Williams",
+   "team": "CHI",
+   "status": "Q",
+   "note": "Groin",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Caleb Martin",
+   "team": "DAL",
+   "status": "Q",
+   "note": "Thumb",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Alpha Diallo",
+   "team": "DEN",
+   "status": "O",
+   "note": "Personal",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Jonathan Isaac",
+   "team": "ORL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Noah Penda",
+   "team": "ORL",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Izaiyah Nelson",
+   "team": "ORL",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Nate Bittle",
+   "team": "TOR",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jimmy Butler",
+   "team": "GSW",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Moses Moody",
+   "team": "GSW",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Kristaps Porzingis",
+   "team": "GSW",
+   "status": "O",
+   "note": "NWT",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jayden Quaintance",
+   "team": "SAS",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Adou Thiero",
+   "team": "LAL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Cameron Carr",
+   "team": "LAL",
+   "status": "O",
+   "note": "Oblique",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Tristan Vukcevic",
+   "team": "WAS",
+   "status": "O",
+   "note": "Hip",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jamir Watkins",
+   "team": "WAS",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Nae'Qwan Tomlin",
+   "team": "CLE",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Mouhamed Gueye",
+   "team": "ATL",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Henri Veesaar",
+   "team": "ATL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Dominick Barlow",
+   "team": "PHI",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Tacko Fall",
+   "team": "PHI",
+   "status": "O",
+   "note": "Quad",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Ariel Hukporti",
+   "team": "PHI",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Ben Sheppard",
+   "team": "IND",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Johnny Furphy",
+   "team": "IND",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "T.J. McConnell",
+   "team": "IND",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Thomas Sorber",
+   "team": "OKC",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Nikola Topic",
+   "team": "OKC",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Donte DiVincenzo",
+   "team": "MIN",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Santi Aldama",
+   "team": "DAL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Tarik Biberovic",
+   "team": "DAL",
+   "status": "O",
+   "note": "Heel",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Dereck Lively II",
+   "team": "DAL",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Julian Strawther",
+   "team": "DEN",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Bradley Beal",
+   "team": "LAC",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Brandon Ingram",
+   "team": "LAC",
+   "status": "O",
+   "note": "Heel",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jordan Miller",
+   "team": "LAC",
+   "status": "O",
+   "note": "Shoulder",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Yanic Konan Niederhauser",
+   "team": "LAC",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Max Strus",
+   "team": "LAC",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jusuf Nurkic",
+   "team": "UTA",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  }
+ ],
+ "news": [],
+ "teams": [
+  [
+   "LaMelo Ball",
+   "MIN"
+  ],
+  [
+   "Anthony Edwards",
+   "MIN"
+  ],
+  [
+   "Jonathan Kuminga",
+   "MIN"
+  ],
+  [
+   "Jaden McDaniels",
+   "MIN"
+  ],
+  [
+   "Rudy Gobert",
+   "MIN"
+  ],
+  [
+   "Ayo Dosunmu",
+   "MIN"
+  ],
+  [
+   "Joan Beringer",
+   "MIN"
+  ],
+  [
+   "Terrence Shannon",
+   "MIN"
+  ],
+  [
+   "James Harden",
+   "CLE"
+  ],
+  [
+   "Donovan Mitchell",
+   "CLE"
+  ],
+  [
+   "Peyton Watson",
+   "CLE"
+  ],
+  [
+   "Evan Mobley",
+   "CLE"
+  ],
+  [
+   "Jarrett Allen",
+   "CLE"
+  ],
+  [
+   "Jaylon Tyson",
+   "CLE"
+  ],
+  [
+   "Sam Merrill",
+   "CLE"
+  ],
+  [
+   "Mario Hezonja",
+   "CLE"
+  ],
+  [
+   "Trae Young",
+   "WAS"
+  ],
+  [
+   "Kyshawn George",
+   "WAS"
+  ],
+  [
+   "Bilal Coulibaly",
+   "WAS"
+  ],
+  [
+   "Anthony Davis",
+   "WAS"
+  ],
+  [
+   "Alexandre Sarr",
+   "WAS"
+  ],
+  [
+   "Justin Champagnie",
+   "WAS"
+  ],
+  [
+   "Tre Johnson",
+   "WAS"
+  ],
+  [
+   "Deandre Ayton",
+   "WAS"
+  ],
+  [
+   "Dennis Schroder",
+   "CHA"
+  ],
+  [
+   "Sion James",
+   "CHA"
+  ],
+  [
+   "Brandon Miller",
+   "CHA"
+  ],
+  [
+   "Naz Reid",
+   "CHA"
+  ],
+  [
+   "Moussa Diabate",
+   "CHA"
+  ],
+  [
+   "Grayson Allen",
+   "CHA"
+  ],
+  [
+   "Ryan Kalkbrenner",
+   "CHA"
+  ],
+  [
+   "Royce O'Neale",
+   "CHA"
+  ],
+  [
+   "Kyrie Irving",
+   "DAL"
+  ],
+  [
+   "Max Christie",
+   "DAL"
+  ],
+  [
+   "Cooper Flagg",
+   "DAL"
+  ],
+  [
+   "PJ Washington",
+   "DAL"
+  ],
+  [
+   "Daniel Gafford",
+   "DAL"
+  ],
+  [
+   "Zaccharie Risacher",
+   "DAL"
+  ],
+  [
+   "Morez Johnson",
+   "DAL"
+  ],
+  [
+   "Sergio De Larrea",
+   "DAL"
+  ],
+  [
+   "Davion Mitchell",
+   "MIA"
+  ],
+  [
+   "Klay Thompson",
+   "MIA"
+  ],
+  [
+   "Andrew Wiggins",
+   "MIA"
+  ],
+  [
+   "Giannis Antetokounmpo",
+   "MIA"
+  ],
+  [
+   "Bam Adebayo",
+   "MIA"
+  ],
+  [
+   "Bobby Portis",
+   "MIA"
+  ],
+  [
+   "Pelle Larsson",
+   "MIA"
+  ],
+  [
+   "Tim Hardaway",
+   "MIA"
+  ],
+  [
+   "Josh Giddey",
+   "CHI"
+  ],
+  [
+   "Norman Powell",
+   "CHI"
+  ],
+  [
+   "Matas Buzelis",
+   "CHI"
+  ],
+  [
+   "Caleb Wilson",
+   "CHI"
+  ],
+  [
+   "Jalen Smith",
+   "CHI"
+  ],
+  [
+   "Tre Jones",
+   "CHI"
+  ],
+  [
+   "Leonard Miller",
+   "CHI"
+  ],
+  [
+   "Isaac Okoro",
+   "CHI"
+  ],
+  [
+   "Derrick White",
+   "BOS"
+  ],
+  [
+   "Jordan Walsh",
+   "BOS"
+  ],
+  [
+   "Paul George",
+   "BOS"
+  ],
+  [
+   "Jayson Tatum",
+   "BOS"
+  ],
+  [
+   "Mitchell Robinson",
+   "BOS"
+  ],
+  [
+   "Payton Pritchard",
+   "BOS"
+  ],
+  [
+   "Neemias Queta",
+   "BOS"
+  ],
+  [
+   "Sam Hauser",
+   "BOS"
+  ],
+  [
+   "Tyrese Haliburton",
+   "IND"
+  ],
+  [
+   "Andrew Nembhard",
+   "IND"
+  ],
+  [
+   "Aaron Nesmith",
+   "IND"
+  ],
+  [
+   "Pascal Siakam",
+   "IND"
+  ],
+  [
+   "Jay Huff",
+   "IND"
+  ],
+  [
+   "Obi Toppin",
+   "IND"
+  ],
+  [
+   "Jarace Walker",
+   "IND"
+  ],
+  [
+   "Kelly Oubre",
+   "IND"
+  ],
+  [
+   "Ryan Rollins",
+   "MIL"
+  ],
+  [
+   "Tyler Herro",
+   "MIL"
+  ],
+  [
+   "Jaime Jaquez",
+   "MIL"
+  ],
+  [
+   "Kyle Kuzma",
+   "MIL"
+  ],
+  [
+   "Myles Turner",
+   "MIL"
+  ],
+  [
+   "Kel'el Ware",
+   "MIL"
+  ],
+  [
+   "Kasparas Jakucionis",
+   "MIL"
+  ],
+  [
+   "Brayden Burries",
+   "MIL"
+  ],
+  [
+   "Devin Booker",
+   "PHO"
+  ],
+  [
+   "Jalen Green",
+   "PHO"
+  ],
+  [
+   "Dillon Brooks",
+   "PHO"
+  ],
+  [
+   "Miles Bridges",
+   "PHO"
+  ],
+  [
+   "Khaman Maluach",
+   "PHO"
+  ],
+  [
+   "Collin Gillespie",
+   "PHO"
+  ],
+  [
+   "Jordan Goodwin",
+   "PHO"
+  ],
+  [
+   "Luke Kennard",
+   "PHO"
+  ],
+  [
+   "Shai Gilgeous-Alexander",
+   "OKC"
+  ],
+  [
+   "Jared McCain",
+   "OKC"
+  ],
+  [
+   "Ajay Mitchell",
+   "OKC"
+  ],
+  [
+   "Jaylin Williams",
+   "OKC"
+  ],
+  [
+   "Isaiah Hartenstein",
+   "OKC"
+  ],
+  [
+   "Alex Caruso",
+   "OKC"
+  ],
+  [
+   "Kenrich Williams",
+   "OKC"
+  ],
+  [
+   "Aday Mara",
+   "OKC"
+  ],
+  [
+   "CJ McCollum",
+   "ATL"
+  ],
+  [
+   "Nickeil Alexander-Walker",
+   "ATL"
+  ],
+  [
+   "Dyson Daniels",
+   "ATL"
+  ],
+  [
+   "Jalen Johnson",
+   "ATL"
+  ],
+  [
+   "Onyeka Okongwu",
+   "ATL"
+  ],
+  [
+   "Aaron Wiggins",
+   "ATL"
+  ],
+  [
+   "Jock Landale",
+   "ATL"
+  ],
+  [
+   "Lu Dort",
+   "ATL"
+  ],
+  [
+   "Fred VanVleet",
+   "HOU"
+  ],
+  [
+   "Amen Thompson",
+   "HOU"
+  ],
+  [
+   "Kevin Durant",
+   "HOU"
+  ],
+  [
+   "Jabari Smith",
+   "HOU"
+  ],
+  [
+   "Alperen Sengun",
+   "HOU"
+  ],
+  [
+   "Tari Eason",
+   "HOU"
+  ],
+  [
+   "Reed Sheppard",
+   "HOU"
+  ],
+  [
+   "Clint Capela",
+   "HOU"
+  ],
+  [
+   "Ty Jerome",
+   "MEM"
+  ],
+  [
+   "Cedric Coward",
+   "MEM"
+  ],
+  [
+   "Jaylen Wells",
+   "MEM"
+  ],
+  [
+   "Cameron Boozer",
+   "MEM"
+  ],
+  [
+   "Zach Edey",
+   "MEM"
+  ],
+  [
+   "Jerami Grant",
+   "MEM"
+  ],
+  [
+   "Scotty Pippen",
+   "MEM"
+  ],
+  [
+   "Cam Spencer",
+   "MEM"
+  ],
+  [
+   "Keyonte George",
+   "UTA"
+  ],
+  [
+   "Darryn Peterson",
+   "UTA"
+  ],
+  [
+   "Ace Bailey",
+   "UTA"
+  ],
+  [
+   "Lauri Markkanen",
+   "UTA"
+  ],
+  [
+   "Jaren Jackson",
+   "UTA"
+  ],
+  [
+   "Jaxson Hayes",
+   "UTA"
+  ],
+  [
+   "Isaiah Collier",
+   "UTA"
+  ],
+  [
+   "Brice Sensabaugh",
+   "UTA"
+  ],
+  [
+   "Stephen Curry",
+   "GSW"
+  ],
+  [
+   "Brandin Podziemski",
+   "GSW"
+  ],
+  [
+   "Yaxel Lendeborg",
+   "GSW"
+  ],
+  [
+   "Draymond Green",
+   "GSW"
+  ],
+  [
+   "Graham Ike",
+   "GSW"
+  ],
+  [
+   "De'Anthony Melton",
+   "GSW"
+  ],
+  [
+   "Gui Santos",
+   "GSW"
+  ],
+  [
+   "Al Horford",
+   "GSW"
+  ],
+  [
+   "Jamal Murray",
+   "DEN"
+  ],
+  [
+   "Christian Braun",
+   "DEN"
+  ],
+  [
+   "Bryce Hopkins",
+   "DEN"
+  ],
+  [
+   "Aaron Gordon",
+   "DEN"
+  ],
+  [
+   "Nikola Jokic",
+   "DEN"
+  ],
+  [
+   "DeMar DeRozan",
+   "DEN"
+  ],
+  [
+   "Trevon Brazile",
+   "DEN"
+  ],
+  [
+   "Marvin Bagley",
+   "DEN"
+  ],
+  [
+   "Jalen Duren",
+   "DET"
+  ]
+ ],
+ "preview": {
+  "locked": {
+   "PG": 0,
+   "SG": 0,
+   "SF": 0,
+   "PF": 0,
+   "C": 0
+  },
+  "lockedFd": {
+   "PG": 0,
+   "SG": 0,
+   "SF": 0,
+   "PF": 0,
+   "C": 0
+  },
+  "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
+  "ctaLabel": "Unlock every Core Play with RG MVP",
+  "ctaBlurb": "See the full slate of Core Plays, projections and notes at every position."
+ }
+}
