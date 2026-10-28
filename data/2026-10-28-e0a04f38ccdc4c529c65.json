@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-28",
- "updated": "2026-10-28T12:19:19-06:00",
+ "updated": "2026-10-28T12:42:44-06:00",
  "positions": [
   "PG",
   "SG",
@@ -1000,7 +1000,7 @@
    "dk": 0,
    "fd": 8000,
    "proj": 40.04,
-   "type": "Core",
+   "type": "",
    "status": "",
    "blurb": "Nice usage and FP/min. boost with Alperen Sengun out. Too cheap given his projected role against the Bucks.",
    "url": ""
@@ -1571,7 +1571,7 @@
   {
    "player": "Naji Marshall",
    "team": "DAL",
-   "status": "Q",
+   "status": "O",
    "note": "Illness",
    "updated": "",
    "impact": 7
@@ -1611,7 +1611,7 @@
   {
    "player": "Jose Alvarado",
    "team": "NYK",
-   "status": "D",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 4
@@ -2027,7 +2027,7 @@
   },
   {
    "player": "Naji Marshall",
-   "team": "DAL",
+   "team": "",
    "status": "Q",
    "note": "Playing great off the bench for the Mavericks. Zaccharie Risacher and the starters would all see small boosts if he's out.",
    "time": "2:00 PM"
@@ -2062,7 +2062,7 @@
   },
   {
    "player": "Naji Marshall",
-   "team": "DAL",
+   "team": "",
    "status": "D",
    "note": "Marshall is now doubtful.",
    "time": "2:20 PM"
