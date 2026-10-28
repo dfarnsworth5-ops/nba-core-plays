@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-28",
- "updated": "2026-10-28T16:36:51-06:00",
+ "updated": "2026-10-28T16:46:50-06:00",
  "positions": [
   "PG",
   "SG",
@@ -2095,6 +2095,13 @@
    "status": "A",
    "note": "Nembhard will play.",
    "time": "5:50 PM"
+  },
+  {
+   "player": "Gui Santos",
+   "team": "",
+   "status": "O",
+   "note": "Santos is out.",
+   "time": "6:45 PM"
   }
  ],
  "teams": [
