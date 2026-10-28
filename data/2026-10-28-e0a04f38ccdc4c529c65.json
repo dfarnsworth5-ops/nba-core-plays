@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-28",
- "updated": "2026-10-28T15:50:21-06:00",
+ "updated": "2026-10-28T16:36:51-06:00",
  "positions": [
   "PG",
   "SG",
@@ -444,7 +444,7 @@
    "fd": 0,
    "proj": 39.32,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Seems to get better every game. He has topped 48 fantasy points in each of his last 3 outings. We do have to monitor his status.",
    "url": ""
   },
@@ -534,7 +534,7 @@
    "fd": 0,
    "proj": 39.32,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Seems to get better every game. He has topped 48 fantasy points in each of his last 3 outings. We do have to monitor his status.",
    "url": ""
   },
@@ -638,7 +638,7 @@
    "dk": 3100,
    "fd": 0,
    "proj": 22.61,
-   "type": "Core",
+   "type": "",
    "status": "",
    "blurb": "Only $3,100 on DraftKings and projected for 24 minutes with Alperen Sengun out.",
    "url": ""
@@ -671,6 +671,21 @@
    "type": "",
    "status": "",
    "blurb": "Coming off his best game of the season (61 fantasy points). Decent matchup against the Pacers.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Jay Huff",
+   "team": "IND",
+   "opp": "PHI",
+   "dk": 3800,
+   "fd": 0,
+   "proj": 19.67,
+   "type": "",
+   "status": "",
+   "blurb": "Expected to start for Ivica Zubac.",
    "url": ""
   },
   {
@@ -731,21 +746,6 @@
    "type": "",
    "status": "",
    "blurb": "Has scored 55 and 49 fantasy points in the last 2 games. Draws an elite matchup against the Bulls.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "PF/C",
-   "fdPos": "C",
-   "player": "Naz Reid",
-   "team": "CHA",
-   "opp": "DET",
-   "dk": 7200,
-   "fd": 0,
-   "proj": 36.28,
-   "type": "",
-   "status": "",
-   "blurb": "Has flashed a ton of upside with his new team. Low pOWN at an elevated price point.",
    "url": ""
   }
  ],
@@ -1061,7 +1061,7 @@
    "fd": 7600,
    "proj": 38.75,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Seems to get better every game. He has topped 48 fantasy points in each of his last 3 outings. We do have to monitor his status.",
    "url": ""
   },
@@ -1449,14 +1449,6 @@
    "impact": 10
   },
   {
-   "player": "Anthony Black",
-   "team": "ORL",
-   "status": "Q",
-   "note": "Personal",
-   "updated": "",
-   "impact": 10
-  },
-  {
    "player": "Luka Doncic",
    "team": "LAL",
    "status": "O",
@@ -1477,14 +1469,6 @@
    "team": "NOP",
    "status": "O",
    "note": "Knee",
-   "updated": "",
-   "impact": 9
-  },
-  {
-   "player": "Yaxel Lendeborg",
-   "team": "GSW",
-   "status": "Q",
-   "note": "Foot",
    "updated": "",
    "impact": 9
   },
@@ -1541,6 +1525,14 @@
    "team": "UTA",
    "status": "Q",
    "note": "Shoulder",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "Gui Santos",
+   "team": "GSW",
+   "status": "Q",
+   "note": "Knee",
    "updated": "",
    "impact": 8
   },
@@ -1667,7 +1659,7 @@
   {
    "player": "Tobe Awaka",
    "team": "CHI",
-   "status": "Q",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 3
@@ -1675,7 +1667,7 @@
   {
    "player": "Patrick Williams",
    "team": "CHI",
-   "status": "Q",
+   "status": "O",
    "note": "Groin",
    "updated": "",
    "impact": 3
@@ -1693,6 +1685,14 @@
    "team": "DEN",
    "status": "O",
    "note": "Personal",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Tre Johnson",
+   "team": "WAS",
+   "status": "O",
+   "note": "Achilles",
    "updated": "",
    "impact": 3
   },
