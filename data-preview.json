@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-28",
- "updated": "2026-10-28T12:17:25-06:00",
+ "updated": "2026-10-28T12:19:19-06:00",
  "positions": [
   "PG",
   "SG",
@@ -1159,6 +1159,13 @@
    "status": "O",
    "note": "Haliburton has been ruled out. Quenton Jackson, Aaron Nesmith, Andrew Nembhard, and Kelly Oubre could all see an uptick in minutes.",
    "time": "3:55 PM"
+  },
+  {
+   "player": "Naji Marshall",
+   "team": "DAL",
+   "status": "D",
+   "note": "Marshall is now doubtful.",
+   "time": "2:20 PM"
   }
  ],
  "teams": [
