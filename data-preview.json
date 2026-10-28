@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-28",
- "updated": "2026-10-28T11:21:06-06:00",
+ "updated": "2026-10-28T11:31:11-06:00",
  "positions": [
   "PG",
   "SG",
@@ -152,15 +152,15 @@
    "pos": "PG",
    "dkPos": "PG/SG",
    "fdPos": "PG",
-   "player": "Nickeil Alexander-Walker",
-   "team": "ATL",
-   "opp": "MIA",
-   "dk": 6400,
+   "player": "Amen Thompson",
+   "team": "HOU",
+   "opp": "MIL",
+   "dk": 7000,
    "fd": 0,
-   "proj": 33.6,
+   "proj": 39.34,
    "type": "",
    "status": "",
-   "blurb": "Shot volume has been solid this season, and he is very capable of getting blocks and steals. Uptempo matchup against the Heat, who allow the most 3-point attempts per game.",
+   "blurb": "Decent usage rate and has topped 42 fantasy points in 2 of the last 3 games. Boost with Alperen Sengun out.",
    "url": ""
   },
   {
@@ -218,7 +218,7 @@
    "dk": 7500,
    "fd": 0,
    "proj": 41.26,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Nice usage and FP/min. boost with Alperen Sengun out. Too cheap given his projected role against the Bucks.",
    "url": ""
@@ -278,7 +278,7 @@
    "dk": 3100,
    "fd": 0,
    "proj": 22.61,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Only $3,100 on DraftKings and projected for 24 minutes with Alperen Sengun out.",
    "url": ""
