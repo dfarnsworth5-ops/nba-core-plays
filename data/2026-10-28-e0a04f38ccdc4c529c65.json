@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-28",
- "updated": "2026-10-28T11:54:12-06:00",
+ "updated": "2026-10-28T11:58:27-06:00",
  "positions": [
   "PG",
   "SG",
@@ -1387,7 +1387,7 @@
   {
    "player": "Tyrese Haliburton",
    "team": "IND",
-   "status": "Q",
+   "status": "O",
    "note": "Hamstring",
    "updated": "",
    "impact": 10
@@ -1579,7 +1579,7 @@
   {
    "player": "Marcus Smart",
    "team": "HOU",
-   "status": "Q",
+   "status": "O",
    "note": "Arm",
    "updated": "",
    "impact": 6
@@ -1985,7 +1985,7 @@
   },
   {
    "player": "Tyrese Haliburton",
-   "team": "IND",
+   "team": "",
    "status": "Q",
    "note": "Most productive fantasy player for the Pacers. His absence would open up a ton of usage and a potential spot start for Quenton Jackson.",
    "time": "2:00 PM"
@@ -2034,7 +2034,7 @@
   },
   {
    "player": "Marcus Smart",
-   "team": "HOU",
+   "team": "",
    "status": "Q",
    "note": "Averaging 24 minutes per game. Even if he's out, the Rockets haven't been an attractive team to target in DFS this season.",
    "time": "2:00 PM"
@@ -2048,16 +2048,16 @@
   },
   {
    "player": "Marcus Smart",
-   "team": "HOU",
+   "team": "",
    "status": "O",
    "note": "Smart has been ruled out. The Rockets are already without Alperen Sengun, so they are one of the top teams to target tonight.",
    "time": "3:30 PM"
   },
   {
    "player": "Tyrese Haliburton",
-   "team": "IND",
+   "team": "",
    "status": "O",
-   "note": "Haliburton has been ruled out. Quenton Jackson, Aaron Nesmith, Andrew Nembhard, and Kelly Oubre could all see an uptick in minutes. Pascal Siakam and Ivica Zubac could see an uptick in usage.",
+   "note": "Haliburton has been ruled out. Quenton Jackson, Aaron Nesmith, Andrew Nembhard, and Kelly Oubre could all see an uptick in minutes.",
    "time": "1:55 PM"
   }
  ],
