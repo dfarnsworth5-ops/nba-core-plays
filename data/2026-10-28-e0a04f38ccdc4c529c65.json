@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-28",
- "updated": "2026-10-28T14:20:17-06:00",
+ "updated": "2026-10-28T14:54:14-06:00",
  "positions": [
   "PG",
   "SG",
@@ -874,6 +874,21 @@
    "pos": "SG",
    "dkPos": "SG",
    "fdPos": "SG",
+   "player": "Austin Reaves",
+   "team": "LAL",
+   "opp": "LAC",
+   "dk": 0,
+   "fd": 8100,
+   "proj": 37.17,
+   "type": "Core",
+   "status": "",
+   "blurb": "Elite play with Luka Doncic and Ziaire Williams both out tonight against the Clippers.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
    "player": "Ayo Dosunmu",
    "team": "MIN",
    "opp": "GSW",
@@ -898,6 +913,21 @@
    "type": "",
    "status": "",
    "blurb": "Decent usage rate and has topped 42 fantasy points in 2 of the last 3 games. Boost with Alperen Sengun out.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG/SF",
+   "player": "Quentin Grimes",
+   "team": "LAL",
+   "opp": "LAC",
+   "dk": 0,
+   "fd": 4200,
+   "proj": 16.62,
+   "type": "",
+   "status": "",
+   "blurb": "Should see an uptick in minutes and usage with Luka Doncic and Ziaire Williams both out.",
    "url": ""
   },
   {
@@ -948,21 +978,6 @@
   {
    "pos": "SG",
    "dkPos": "SG",
-   "fdPos": "SG",
-   "player": "Nickeil Alexander-Walker",
-   "team": "ATL",
-   "opp": "MIA",
-   "dk": 0,
-   "fd": 6200,
-   "proj": 32.51,
-   "type": "",
-   "status": "",
-   "blurb": "Shot volume has been solid this season, and he is very capable of getting blocks and steals. Uptempo matchup against the Heat, who allow the most 3-point attempts per game.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
    "fdPos": "SF/SG",
    "player": "Mikal Bridges",
    "team": "NYK",
@@ -973,21 +988,6 @@
    "type": "",
    "status": "",
    "blurb": "FanDuel is dangling that carrot in front of us once again with the $4,400 price point.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG/PG",
-   "player": "Andrew Nembhard",
-   "team": "IND",
-   "opp": "PHI",
-   "dk": 0,
-   "fd": 5600,
-   "proj": 25.95,
-   "type": "",
-   "status": "Q",
-   "blurb": "Solid value if active. Tyrese Haliburton and Ivica Zubac have both been ruled out.",
    "url": ""
   },
   {
@@ -1033,6 +1033,21 @@
    "type": "",
    "status": "",
    "blurb": "One of the top values on the board with Tyrese Haliburton and Pascal Siakam out.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SG/SF",
+   "player": "Quentin Grimes",
+   "team": "LAL",
+   "opp": "LAC",
+   "dk": 0,
+   "fd": 4200,
+   "proj": 16.62,
+   "type": "",
+   "status": "",
+   "blurb": "Should see an uptick in minutes and usage with Luka Doncic and Ziaire Williams both out.",
    "url": ""
   },
   {
@@ -1093,21 +1108,6 @@
    "type": "",
    "status": "",
    "blurb": "Remains cheap on FanDuel and draws an elite matchup against the Jazz.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "SF/SG",
-   "player": "Mikal Bridges",
-   "team": "NYK",
-   "opp": "CHI",
-   "dk": 0,
-   "fd": 4400,
-   "proj": 26.56,
-   "type": "",
-   "status": "",
-   "blurb": "FanDuel is dangling that carrot in front of us once again with the $4,400 price point.",
    "url": ""
   },
   {
