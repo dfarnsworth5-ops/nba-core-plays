@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-28",
- "updated": "2026-10-28T11:31:11-06:00",
+ "updated": "2026-10-28T11:36:34-06:00",
  "positions": [
   "PG",
   "SG",
@@ -994,6 +994,13 @@
    "status": "Q",
    "note": "He is still questionable, but he went through shootaround.",
    "time": "3:20 PM"
+  },
+  {
+   "player": "Marcus Smart",
+   "team": "HOU",
+   "status": "O",
+   "note": "Smart has been ruled out. The Rockets are already without Alperen Sengun, so they are one of the top teams to target tonight.",
+   "time": "3:30 PM"
   }
  ],
  "teams": [
