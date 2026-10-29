@@ -4,7 +4,7 @@
  "slate": "3 games · 8:00 PM ET lock",
  "note": "",
  "iso": "2026-10-29",
- "updated": "2026-10-29T17:37:31-06:00",
+ "updated": "2026-10-29T17:43:45-06:00",
  "positions": [
   "PG",
   "SG",
@@ -119,7 +119,7 @@
    "dk": 5400,
    "fd": 0,
    "proj": 32.67,
-   "type": "Core",
+   "type": "",
    "status": "",
    "blurb": "Could see a couple extra minutes with Jordan Poole and Yves Missi doubtful. Elite matchup against the Kings at home.",
    "url": ""
@@ -149,7 +149,7 @@
    "dk": 5400,
    "fd": 0,
    "proj": 32.67,
-   "type": "Core",
+   "type": "",
    "status": "",
    "blurb": "Could see a couple extra minutes with Jordan Poole and Yves Missi doubtful. Elite matchup against the Kings at home.",
    "url": ""
@@ -271,7 +271,7 @@
    "dk": 0,
    "fd": 4700,
    "proj": 31.84,
-   "type": "Core",
+   "type": "",
    "status": "",
    "blurb": "Could see a couple extra minutes with Jordan Poole and Yves Missi doubtful. Elite matchup against the Kings at home.",
    "url": ""
