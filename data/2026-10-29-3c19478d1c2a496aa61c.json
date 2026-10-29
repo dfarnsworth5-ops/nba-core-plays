@@ -4,7 +4,7 @@
  "slate": "3 games · 8:00 PM ET lock",
  "note": "",
  "iso": "2026-10-29",
- "updated": "2026-10-29T12:24:44-06:00",
+ "updated": "2026-10-29T14:58:37-06:00",
  "positions": [
   "PG",
   "SG",
@@ -621,12 +621,12 @@
   },
   {
    "pos": "C",
-   "dkPos": "PF/C",
+   "dkPos": "#N/A",
    "fdPos": "C",
    "player": "Robert Williams",
-   "team": "POR",
-   "opp": "MEM",
-   "dk": 4200,
+   "team": "#N/A",
+   "opp": "#N/A",
+   "dk": 0,
    "fd": 0,
    "proj": 0,
    "type": "",
@@ -1209,12 +1209,12 @@
   {
    "pos": "C",
    "dkPos": "C",
-   "fdPos": "C",
+   "fdPos": "#N/A",
    "player": "Robert Williams",
-   "team": "POR",
-   "opp": "MEM",
+   "team": "#N/A",
+   "opp": "#N/A",
    "dk": 0,
-   "fd": 4300,
+   "fd": 0,
    "proj": 19.59,
    "type": "",
    "status": "",
@@ -1240,18 +1240,18 @@
    "impact": 8
   },
   {
+   "player": "Robert Williams III",
+   "team": "POR",
+   "status": "D",
+   "note": "Rest",
+   "updated": "",
+   "impact": 6
+  },
+  {
    "player": "Jaylon Tyson",
    "team": "CLE",
    "status": "Q",
    "note": "Neck",
-   "updated": "",
-   "impact": 5
-  },
-  {
-   "player": "Meleek Thomas",
-   "team": "CLE",
-   "status": "Q",
-   "note": "Foot",
    "updated": "",
    "impact": 5
   },
@@ -1262,6 +1262,14 @@
    "note": "Ankle",
    "updated": "",
    "impact": 4
+  },
+  {
+   "player": "Meleek Thomas",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Foot",
+   "updated": "",
+   "impact": 3
   },
   {
    "player": "Dylan Cardwell",
