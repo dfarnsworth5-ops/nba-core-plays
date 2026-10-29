@@ -4,7 +4,7 @@
  "slate": "3 games · 8:00 PM ET lock",
  "note": "",
  "iso": "2026-10-29",
- "updated": "2026-10-29T17:31:02-06:00",
+ "updated": "2026-10-29T17:35:36-06:00",
  "positions": [
   "PG",
   "SG",
@@ -1391,6 +1391,13 @@
    "team": "",
    "status": "O",
    "note": "Murray and Poole have both been ruled out. The Pelicans are one of the top teams to target now.",
+   "time": "7:30 PM"
+  },
+  {
+   "player": "Jaylon Tyson",
+   "team": "CLE",
+   "status": "A",
+   "note": "Tyson will play. He sees a small boost with Maleek Thomas out.",
    "time": "7:30 PM"
   }
  ],
