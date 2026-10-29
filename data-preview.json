@@ -4,7 +4,7 @@
  "slate": "3 games · 8:00 PM ET lock",
  "note": "",
  "iso": "2026-10-29",
- "updated": "2026-10-28T21:10:25-06:00",
+ "updated": "2026-10-29T11:36:38-06:00",
  "positions": [
   "PG",
   "SG",
@@ -48,13 +48,164 @@
    "fd": "M"
   }
  ],
- "plays": [],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Darius Acuff",
+   "team": "SAC",
+   "opp": "NOP",
+   "dk": 7100,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Has taken at least 20 shot attempts in every game this season and has a massive 32% usage rate. Draws a nice matchup against the Pelicans.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Dejounte Murray",
+   "team": "NOP",
+   "opp": "SAC",
+   "dk": 7700,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Has at least 5 rebounds and at least 6 assists in 3 straight games. The Kings are bottom 5 in almost every defensive statistic.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Darius Acuff",
+   "team": "SAC",
+   "opp": "NOP",
+   "dk": 7100,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Has taken at least 20 shot attempts in every game this season and has a massive 32% usage rate. Draws a nice matchup against the Pelicans.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Damian Lillard",
+   "team": "POR",
+   "opp": "MEM",
+   "dk": 7000,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Has played 31 and 32 minutes in the last 2 games and has seen a 25% usage rate in every game this season.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF/PF",
+   "fdPos": "SF",
+   "player": "Saddiq Bey",
+   "team": "NOP",
+   "opp": "SAC",
+   "dk": 5400,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Could see a couple extra minutes with Jordan Poole and Yves Missi doubtful. Elite matchup against the Kings at home.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SG/SF",
+   "fdPos": "SF",
+   "player": "Zach LaVine",
+   "team": "SAC",
+   "opp": "NOP",
+   "dk": 6600,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Has quietly averaged 39 fantasy points per game with a 28% usage rate this season.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "SF/PF",
+   "fdPos": "PF",
+   "player": "Saddiq Bey",
+   "team": "NOP",
+   "opp": "SAC",
+   "dk": 5400,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Could see a couple extra minutes with Jordan Poole and Yves Missi doubtful. Elite matchup against the Kings at home.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Deni Avdija",
+   "team": "POR",
+   "opp": "MEM",
+   "dk": 7800,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Elite usage rate (28%) and has scored at least 42 fantasy points in each of the last 3 games.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Domantas Sabonis",
+   "team": "SAC",
+   "opp": "NOP",
+   "dk": 9200,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Has scored at least 50 fantasy points in 3 of the last 4 games. Solid matchup against the Pelicans.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "PF/C",
+   "fdPos": "C",
+   "player": "Precious Achiuwa",
+   "team": "SAC",
+   "opp": "NOP",
+   "dk": 5800,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Was the chalk that busted the other night, but he has scored over 28 fantasy points in 3 of 4 games this season. Great bounce back spot.",
+   "url": ""
+  }
+ ],
  "playsFd": [],
  "injuries": [
   {
    "player": "Yves Missi",
    "team": "NOP",
-   "status": "D",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 9
@@ -132,7 +283,22 @@
    "impact": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "player": "Yves Missi",
+   "team": "",
+   "status": "D",
+   "note": "Missi's likely absence will open up around 20 minutes in the frontcourt.",
+   "time": "2:55 PM"
+  },
+  {
+   "player": "Jordan Poole",
+   "team": "",
+   "status": "D",
+   "note": "Poole's likely absence will open up around 18 minutes off the bench.",
+   "time": "2:55 PM"
+  }
+ ],
  "teams": [
   [
    "Aaron Gordon",
@@ -1998,11 +2164,11 @@
  ],
  "preview": {
   "locked": {
-   "PG": 0,
-   "SG": 0,
-   "SF": 0,
-   "PF": 0,
-   "C": 0
+   "PG": 6,
+   "SG": 6,
+   "SF": 6,
+   "PF": 6,
+   "C": 5
   },
   "lockedFd": {
    "PG": 0,
