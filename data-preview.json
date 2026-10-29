@@ -1,10 +1,10 @@
 {
  "title": "NBA Core Plays",
- "date": "Wednesday, October 28th",
- "slate": "12 games · 7:00 PM ET lock",
+ "date": "Thursday, October 29th",
+ "slate": "3 games · 8:00 PM ET lock",
  "note": "",
- "iso": "2026-10-28",
- "updated": "2026-10-28T16:46:50-06:00",
+ "iso": "2026-10-29",
+ "updated": "2026-10-28T20:04:23-06:00",
  "positions": [
   "PG",
   "SG",
@@ -15,442 +15,41 @@
  "tz": "ET",
  "games": [
   {
-   "away": "Miami Heat",
+   "away": "Cleveland Cavaliers",
    "home": "Atlanta Hawks",
-   "time": "7:00 PM",
-   "min": 1140,
+   "time": "8:00 PM",
+   "min": 1200,
    "fav": "ATL",
-   "spread": -3.5,
-   "total": 240.5,
+   "spread": 0,
+   "total": 0,
    "dk": "M",
    "fd": "M"
   },
   {
-   "away": "Washington Wizards",
-   "home": "Cleveland Cavaliers",
-   "time": "7:00 PM",
-   "min": 1140,
-   "fav": "CLE",
-   "spread": -9.5,
-   "total": 239.5,
-   "dk": "M",
-   "fd": "M"
-  },
-  {
-   "away": "Philadelphia 76ers",
-   "home": "Indiana Pacers",
-   "time": "7:00 PM",
-   "min": 1140,
-   "fav": "PHI",
-   "spread": -4.5,
-   "total": 237.5,
-   "dk": "M",
-   "fd": "M"
-  },
-  {
-   "away": "Charlotte Hornets",
-   "home": "Detroit Pistons",
-   "time": "7:00 PM",
-   "min": 1140,
-   "fav": "DET",
-   "spread": -7.5,
-   "total": 215.5,
-   "dk": "M",
-   "fd": "M"
-  },
-  {
-   "away": "Orlando Magic",
-   "home": "Toronto Raptors",
-   "time": "7:30 PM",
-   "min": 1170,
-   "fav": "TOR",
-   "spread": -5.5,
-   "total": 223.5,
-   "dk": "M",
-   "fd": "M"
-  },
-  {
-   "away": "Denver Nuggets",
+   "away": "Sacramento Kings",
    "home": "New Orleans Pelicans",
    "time": "8:00 PM",
    "min": 1200,
-   "fav": "DEN",
-   "spread": -4.5,
-   "total": 240.5,
+   "fav": "NOP",
+   "spread": -5.5,
+   "total": 238.5,
    "dk": "M",
    "fd": "M"
   },
   {
-   "away": "Golden State Warriors",
-   "home": "Minnesota Timberwolves",
-   "time": "8:00 PM",
-   "min": 1200,
-   "fav": "MIN",
-   "spread": -3.5,
-   "total": 228.5,
-   "dk": "M",
-   "fd": "M"
-  },
-  {
-   "away": "New York Knicks",
-   "home": "Chicago Bulls",
-   "time": "8:00 PM",
-   "min": 1200,
-   "fav": "NYK",
+   "away": "Memphis Grizzlies",
+   "home": "Portland Trail Blazers",
+   "time": "10:00 PM",
+   "min": 1320,
+   "fav": "POR",
    "spread": -7.5,
    "total": 234.5,
    "dk": "M",
    "fd": "M"
-  },
-  {
-   "away": "Houston Rockets",
-   "home": "Milwaukee Bucks",
-   "time": "8:00 PM",
-   "min": 1200,
-   "fav": "HOU",
-   "spread": -8.5,
-   "total": 227.5,
-   "dk": "M",
-   "fd": "M"
-  },
-  {
-   "away": "San Antonio Spurs",
-   "home": "Utah Jazz",
-   "time": "9:00 PM",
-   "min": 1260,
-   "fav": "SAS",
-   "spread": -11.5,
-   "total": 234.5,
-   "dk": "",
-   "fd": "M"
-  },
-  {
-   "away": "Oklahoma City Thunder",
-   "home": "Dallas Mavericks",
-   "time": "9:30 PM",
-   "min": 1290,
-   "fav": "OKC",
-   "spread": -5.5,
-   "total": 229.5,
-   "dk": "L",
-   "fd": "M"
-  },
-  {
-   "away": "Los Angeles Lakers",
-   "home": "Los Angeles Clippers",
-   "time": "10:30 PM",
-   "min": 1350,
-   "fav": "LAL",
-   "spread": -5.5,
-   "total": 227.5,
-   "dk": "L",
-   "fd": "M"
   }
  ],
- "plays": [
-  {
-   "pos": "PG",
-   "dkPos": "PG/SG",
-   "fdPos": "PG",
-   "player": "Amen Thompson",
-   "team": "HOU",
-   "opp": "MIL",
-   "dk": 7000,
-   "fd": 0,
-   "proj": 39.34,
-   "type": "",
-   "status": "",
-   "blurb": "Decent usage rate and has topped 42 fantasy points in 2 of the last 3 games. Boost with Alperen Sengun out.",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "James Harden",
-   "team": "CLE",
-   "opp": "WAS",
-   "dk": 7400,
-   "fd": 0,
-   "proj": 38.64,
-   "type": "",
-   "status": "",
-   "blurb": "I'm not usually a Harden truther, but I love the matchup against the Wizards. He's affordable and coming off his best game of the season (39 fantasy points).",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "PG/SG",
-   "fdPos": "SG",
-   "player": "Nickeil Alexander-Walker",
-   "team": "ATL",
-   "opp": "MIA",
-   "dk": 6400,
-   "fd": 0,
-   "proj": 33.6,
-   "type": "",
-   "status": "",
-   "blurb": "Shot volume has been solid this season, and he is very capable of getting blocks and steals. Uptempo matchup against the Heat, who allow the most 3-point attempts per game.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG/SF",
-   "fdPos": "SG",
-   "player": "Desmond Bane",
-   "team": "ORL",
-   "opp": "TOR",
-   "dk": 6800,
-   "fd": 0,
-   "proj": 35.07,
-   "type": "",
-   "status": "",
-   "blurb": "Paolo Banchero and Jalen Suggs are both out, while Anthony Black is questionable. Bane should see minutes in the mid-30s with increased usage.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "SF",
-   "player": "Kevin Durant",
-   "team": "HOU",
-   "opp": "MIL",
-   "dk": 7500,
-   "fd": 0,
-   "proj": 41.26,
-   "type": "Core",
-   "status": "",
-   "blurb": "Nice usage and FP/min. boost with Alperen Sengun out. Too cheap given his projected role against the Bucks.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SG/SF",
-   "fdPos": "SF",
-   "player": "Desmond Bane",
-   "team": "ORL",
-   "opp": "TOR",
-   "dk": 6800,
-   "fd": 0,
-   "proj": 35.07,
-   "type": "",
-   "status": "",
-   "blurb": "Paolo Banchero and Jalen Suggs are both out, while Anthony Black is questionable. Bane should see minutes in the mid-30s with increased usage.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "Pascal Siakam",
-   "team": "IND",
-   "opp": "PHI",
-   "dk": 7700,
-   "fd": 0,
-   "proj": 39.69,
-   "type": "Core",
-   "status": "",
-   "blurb": "One of the top plays on the slate with Tyrese Haliburton and Ivica Zubac both out.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "SF/PF",
-   "fdPos": "PF",
-   "player": "Yaxel Lendeborg",
-   "team": "GSW",
-   "opp": "MIN",
-   "dk": 7000,
-   "fd": 0,
-   "proj": 39.32,
-   "type": "",
-   "status": "",
-   "blurb": "Seems to get better every game. He has topped 48 fantasy points in each of his last 3 outings. We do have to monitor his status.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Clint Capela",
-   "team": "HOU",
-   "opp": "MIL",
-   "dk": 3100,
-   "fd": 0,
-   "proj": 22.61,
-   "type": "",
-   "status": "",
-   "blurb": "Only $3,100 on DraftKings and projected for 24 minutes with Alperen Sengun out.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Nikola Jokic",
-   "team": "DEN",
-   "opp": "NOP",
-   "dk": 12000,
-   "fd": 0,
-   "proj": 59.03,
-   "type": "",
-   "status": "",
-   "blurb": "Should have plenty of value tonight, which makes it easier to fit Jokic. Highest projection of any player on the slate.",
-   "url": ""
-  }
- ],
- "playsFd": [
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Darius Garland",
-   "team": "LAC",
-   "opp": "LAL",
-   "dk": 0,
-   "fd": 7100,
-   "proj": 41.09,
-   "type": "Core",
-   "status": "",
-   "blurb": "31% usage rate this season. Elite matchup against the Lakers, who are playing on the second half of a back-to-back.",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Shai Gilgeous-Alexander",
-   "team": "OKC",
-   "opp": "DAL",
-   "dk": 0,
-   "fd": 10000,
-   "proj": 50.88,
-   "type": "",
-   "status": "",
-   "blurb": "The Thunder have ruled out Jalen Williams and Chet Holmgren. SGA should dominate usage tonight.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG",
-   "player": "Austin Reaves",
-   "team": "LAL",
-   "opp": "LAC",
-   "dk": 0,
-   "fd": 8100,
-   "proj": 37.17,
-   "type": "Core",
-   "status": "",
-   "blurb": "Elite play with Luka Doncic and Ziaire Williams both out tonight against the Clippers.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG",
-   "player": "Ayo Dosunmu",
-   "team": "MIN",
-   "opp": "GSW",
-   "dk": 0,
-   "fd": 4900,
-   "proj": 29.52,
-   "type": "",
-   "status": "",
-   "blurb": "Has seen a 5% usage boost with Anthony Edwards off the floor. Should see an uptick in minutes as well.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "SF",
-   "player": "Kevin Durant",
-   "team": "HOU",
-   "opp": "MIL",
-   "dk": 0,
-   "fd": 8000,
-   "proj": 40.04,
-   "type": "",
-   "status": "",
-   "blurb": "Nice usage and FP/min. boost with Alperen Sengun out. Too cheap given his projected role against the Bucks.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "SF/PF",
-   "player": "Franz Wagner",
-   "team": "ORL",
-   "opp": "TOR",
-   "dk": 0,
-   "fd": 8000,
-   "proj": 40.31,
-   "type": "",
-   "status": "",
-   "blurb": "Massive ceiling with Paolo Banchero and Jalen Suggs both out. Should carry the offense.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "C/PF",
-   "player": "Jaylin Williams",
-   "team": "OKC",
-   "opp": "DAL",
-   "dk": 0,
-   "fd": 3900,
-   "proj": 24.64,
-   "type": "Core",
-   "status": "",
-   "blurb": "Elite per-minute producer and might get the chance to start with Chet Holmgren and Jalen Williams both out.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "Pascal Siakam",
-   "team": "IND",
-   "opp": "PHI",
-   "dk": 0,
-   "fd": 7800,
-   "proj": 38.44,
-   "type": "Core",
-   "status": "",
-   "blurb": "One of the top plays on the slate with Tyrese Haliburton and Ivica Zubac both out.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C/PF",
-   "player": "Jaylin Williams",
-   "team": "OKC",
-   "opp": "DAL",
-   "dk": 0,
-   "fd": 3900,
-   "proj": 24.64,
-   "type": "Core",
-   "status": "",
-   "blurb": "Elite per-minute producer and might get the chance to start with Chet Holmgren and Jalen Williams both out.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "PF/C",
-   "player": "Isaiah Jackson",
-   "team": "LAC",
-   "opp": "LAL",
-   "dk": 0,
-   "fd": 5300,
-   "proj": 30.53,
-   "type": "",
-   "status": "",
-   "blurb": "Good per-minute producer, and he continues to start for the Clippers.",
-   "url": ""
-  }
- ],
+ "plays": [],
+ "playsFd": [],
  "injuries": [
   {
    "player": "Paolo Banchero",
@@ -525,14 +124,6 @@
    "impact": 10
   },
   {
-   "player": "Kyrie Irving",
-   "team": "DAL",
-   "status": "Q",
-   "note": "Knee",
-   "updated": "",
-   "impact": 10
-  },
-  {
    "player": "Jaren Jackson",
    "team": "UTA",
    "status": "O",
@@ -543,7 +134,7 @@
   {
    "player": "Lauri Markkanen",
    "team": "UTA",
-   "status": "Q",
+   "status": "O",
    "note": "Wrist",
    "updated": "",
    "impact": 10
@@ -569,14 +160,6 @@
    "team": "NOP",
    "status": "O",
    "note": "Knee",
-   "updated": "",
-   "impact": 9
-  },
-  {
-   "player": "Ajay Mitchell",
-   "team": "OKC",
-   "status": "Q",
-   "note": "Ankle",
    "updated": "",
    "impact": 9
   },
@@ -621,17 +204,9 @@
    "impact": 8
   },
   {
-   "player": "Jaxson Hayes",
-   "team": "UTA",
-   "status": "Q",
-   "note": "Shoulder",
-   "updated": "",
-   "impact": 8
-  },
-  {
    "player": "Gui Santos",
    "team": "GSW",
-   "status": "Q",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 8
@@ -769,14 +344,6 @@
    "team": "CHI",
    "status": "O",
    "note": "Groin",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Caleb Martin",
-   "team": "DAL",
-   "status": "Q",
-   "note": "Thumb",
    "updated": "",
    "impact": 3
   },
@@ -1069,141 +636,7 @@
    "impact": 1
   }
  ],
- "news": [
-  {
-   "player": "Anthony Black",
-   "team": "ORL",
-   "status": "Q",
-   "note": "High usage player projected for 30 minutes. His absence would provide a boost for the rest of the team, especially with Paolo Banchero already ruled out.",
-   "time": "2:00 PM"
-  },
-  {
-   "player": "Lauri Markkanen",
-   "team": "UTA",
-   "status": "Q",
-   "note": "If he's out, the starters would see a boost in usage. Kyle Filipowski and Brice Sensabaugh would see an uptick in playing time.",
-   "time": "2:00 PM"
-  },
-  {
-   "player": "Kyrie Irving",
-   "team": "DAL",
-   "status": "Q",
-   "note": "26% usage rate this season. His absence would give a boost to the other starters. Zaccharie Risacher would have a path to more minutes.",
-   "time": "2:00 PM"
-  },
-  {
-   "player": "Tyrese Haliburton",
-   "team": "",
-   "status": "Q",
-   "note": "Most productive fantasy player for the Pacers. His absence would open up a ton of usage and a potential spot start for Quenton Jackson.",
-   "time": "2:00 PM"
-  },
-  {
-   "player": "Ajay Mitchell",
-   "team": "OKC",
-   "status": "Q",
-   "note": "The Thunder have already ruled out Chet Holmgren, Jalen Williams, and Cason Wallace, so Mitchell being out would make the Thunder even more appealing.",
-   "time": "2:00 PM"
-  },
-  {
-   "player": "Andrew Nembhard",
-   "team": "IND",
-   "status": "Q",
-   "note": "Big boost for him if Haliburton is out. If he's out, Quenton Jackson would see an uptick in minutes.",
-   "time": "2:00 PM"
-  },
-  {
-   "player": "AJ Dybantsa",
-   "team": "WAS",
-   "status": "Q",
-   "note": "Has yet to play this season, so we know what to expect from Washington if he's out again.",
-   "time": "2:00 PM"
-  },
-  {
-   "player": "Yaxel Lendeborg",
-   "team": "GSW",
-   "status": "Q",
-   "note": "Been one of the best players for the Warriors this season. If he's out, we could see a spot start for De'Anthony Melton or Al Horford.",
-   "time": "2:00 PM"
-  },
-  {
-   "player": "Jaxson Hayes",
-   "team": "UTA",
-   "status": "Q",
-   "note": "Starting and averaging 24 minutes per game. If he's out, Mo Bamba and Kyle Filipowski would see a boost in minutes.",
-   "time": "2:00 PM"
-  },
-  {
-   "player": "Naji Marshall",
-   "team": "",
-   "status": "Q",
-   "note": "Playing great off the bench for the Mavericks. Zaccharie Risacher and the starters would all see small boosts if he's out.",
-   "time": "2:00 PM"
-  },
-  {
-   "player": "Marcus Smart",
-   "team": "",
-   "status": "Q",
-   "note": "Averaging 24 minutes per game. Even if he's out, the Rockets haven't been an attractive team to target in DFS this season.",
-   "time": "2:00 PM"
-  },
-  {
-   "player": "Yaxel Lendeborg",
-   "team": "GSW",
-   "status": "Q",
-   "note": "He is still questionable, but he went through shootaround.",
-   "time": "3:20 PM"
-  },
-  {
-   "player": "Marcus Smart",
-   "team": "",
-   "status": "O",
-   "note": "Smart has been ruled out. The Rockets are already without Alperen Sengun, so they are one of the top teams to target tonight.",
-   "time": "3:30 PM"
-  },
-  {
-   "player": "Tyrese Haliburton",
-   "team": "",
-   "status": "O",
-   "note": "Haliburton has been ruled out. Quenton Jackson, Aaron Nesmith, Andrew Nembhard, and Kelly Oubre could all see an uptick in minutes.",
-   "time": "3:55 PM"
-  },
-  {
-   "player": "Naji Marshall",
-   "team": "",
-   "status": "D",
-   "note": "Marshall is now doubtful.",
-   "time": "2:20 PM"
-  },
-  {
-   "player": "Luka Doncic",
-   "team": "",
-   "status": "O",
-   "note": "Doncic is out. This makes the Lakers a lot more appealing on the FanDuel slate.",
-   "time": "4:20 PM"
-  },
-  {
-   "player": "Ziaire Williams",
-   "team": "",
-   "status": "O",
-   "note": "Wililams is out. This opens up even more minutes in the Lakers' rotation.",
-   "time": "4:20 PM"
-  },
-  {
-   "player": "Andrew Nembhard",
-   "team": "",
-   "status": "A",
-   "note": "Nembhard will play.",
-   "time": "5:50 PM"
-  },
-  {
-   "player": "Gui Santos",
-   "team": "",
-   "status": "O",
-   "note": "Santos is out.",
-   "time": "6:45 PM"
-  }
- ],
+ "news": [],
  "teams": [
   [
    "Aaron Gordon",
@@ -3064,18 +2497,18 @@
  ],
  "preview": {
   "locked": {
-   "PG": 6,
-   "SG": 6,
-   "SF": 6,
-   "PF": 6,
-   "C": 6
+   "PG": 0,
+   "SG": 0,
+   "SF": 0,
+   "PF": 0,
+   "C": 0
   },
   "lockedFd": {
-   "PG": 6,
-   "SG": 6,
-   "SF": 6,
-   "PF": 6,
-   "C": 6
+   "PG": 0,
+   "SG": 0,
+   "SF": 0,
+   "PF": 0,
+   "C": 0
   },
   "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
   "ctaLabel": "Unlock every Core Play with RG MVP",
