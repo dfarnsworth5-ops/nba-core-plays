@@ -4,7 +4,7 @@
  "slate": "3 games · 8:00 PM ET lock",
  "note": "",
  "iso": "2026-10-29",
- "updated": "2026-10-29T15:12:30-06:00",
+ "updated": "2026-10-29T17:31:02-06:00",
  "positions": [
   "PG",
   "SG",
@@ -66,16 +66,16 @@
   },
   {
    "pos": "PG",
-   "dkPos": "PG",
+   "dkPos": "#N/A",
    "fdPos": "PG",
    "player": "Dejounte Murray",
-   "team": "NOP",
-   "opp": "SAC",
-   "dk": 7700,
+   "team": "#N/A",
+   "opp": "#N/A",
+   "dk": 0,
    "fd": 0,
    "proj": 40.87,
    "type": "",
-   "status": "",
+   "status": "O",
    "blurb": "Has at least 5 rebounds and at least 6 assists in 3 straight games. The Kings are bottom 5 in almost every defensive statistic.",
    "url": ""
   },
@@ -354,6 +354,14 @@
  ],
  "injuries": [
   {
+   "player": "Dejounte Murray",
+   "team": "NOP",
+   "status": "O",
+   "note": "Personal",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "Yves Missi",
    "team": "NOP",
    "status": "O",
@@ -388,7 +396,7 @@
   {
    "player": "Jordan Poole",
    "team": "NOP",
-   "status": "D",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 4
@@ -396,7 +404,7 @@
   {
    "player": "Meleek Thomas",
    "team": "CLE",
-   "status": "Q",
+   "status": "O",
    "note": "Foot",
    "updated": "",
    "impact": 3
@@ -493,6 +501,27 @@
    "status": "D",
    "note": "Williams is now doubtful. Donovan Clingan has a safer minute floor if Wililams is out.",
    "time": "5:00 PM"
+  },
+  {
+   "player": "Meleek Thomas",
+   "team": "",
+   "status": "O",
+   "note": "Thomas has been ruled out. This opens up some minutes and usage for the second unit.",
+   "time": "7:30 PM"
+  },
+  {
+   "player": "Dejounte Murray",
+   "team": "",
+   "status": "O",
+   "note": "Murray and Poole have both been ruled out. The Pelicans are one of the top teams to target now.",
+   "time": "7:30 PM"
+  },
+  {
+   "player": "Jordan Poole",
+   "team": "",
+   "status": "O",
+   "note": "Murray and Poole have both been ruled out. The Pelicans are one of the top teams to target now.",
+   "time": "7:30 PM"
   }
  ],
  "teams": [
