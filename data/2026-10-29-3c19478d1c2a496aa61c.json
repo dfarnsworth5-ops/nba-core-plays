@@ -4,7 +4,7 @@
  "slate": "3 games · 8:00 PM ET lock",
  "note": "",
  "iso": "2026-10-29",
- "updated": "2026-10-29T14:58:37-06:00",
+ "updated": "2026-10-29T15:07:24-06:00",
  "positions": [
   "PG",
   "SG",
@@ -546,6 +546,21 @@
   },
   {
    "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Donovan Clingan",
+   "team": "POR",
+   "opp": "MEM",
+   "dk": 6100,
+   "fd": 0,
+   "proj": 30.27,
+   "type": "",
+   "status": "",
+   "blurb": "Much better option with Robert Williams now doubtful.",
+   "url": ""
+  },
+  {
+   "pos": "C",
    "dkPos": "PF/C",
    "fdPos": "C",
    "player": "Precious Achiuwa",
@@ -591,17 +606,17 @@
   },
   {
    "pos": "C",
-   "dkPos": "C",
+   "dkPos": "PF/C",
    "fdPos": "C",
-   "player": "Donovan Clingan",
-   "team": "POR",
-   "opp": "MEM",
-   "dk": 6100,
+   "player": "Derik Queen",
+   "team": "NOP",
+   "opp": "SAC",
+   "dk": 6300,
    "fd": 0,
-   "proj": 30.27,
+   "proj": 22.91,
    "type": "",
    "status": "",
-   "blurb": "Minutes have been down this season, but he should be low-owned in a nice matchup against the Grizzlies.",
+   "blurb": "Projected for 23 minutes in the best matchup on the board.",
    "url": ""
   },
   {
@@ -617,21 +632,6 @@
    "type": "",
    "status": "",
    "blurb": "Interesting way to get different tonight at center. He has scored at least 30 fantasy points in 3 straight games.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "#N/A",
-   "fdPos": "C",
-   "player": "Robert Williams",
-   "team": "#N/A",
-   "opp": "#N/A",
-   "dk": 0,
-   "fd": 0,
-   "proj": 0,
-   "type": "",
-   "status": "",
-   "blurb": "Only projected for 17 minutes, but he does have elite per-minute production. Viable on a short slate like this.",
    "url": ""
   }
  ],
@@ -1135,6 +1135,21 @@
    "pos": "C",
    "dkPos": "C",
    "fdPos": "C",
+   "player": "Donovan Clingan",
+   "team": "POR",
+   "opp": "MEM",
+   "dk": 0,
+   "fd": 6100,
+   "proj": 30.77,
+   "type": "",
+   "status": "",
+   "blurb": "Much better option with Robert Williams now doubtful.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
    "player": "Onyeka Okongwu",
    "team": "ATL",
    "opp": "CLE",
@@ -1159,21 +1174,6 @@
    "type": "",
    "status": "",
    "blurb": "He has topped 42 fantasy points in each of the last 3 games. Not the best matchup, but he's worth a look in GPPs.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Donovan Clingan",
-   "team": "POR",
-   "opp": "MEM",
-   "dk": 0,
-   "fd": 6100,
-   "proj": 30.77,
-   "type": "",
-   "status": "",
-   "blurb": "Minutes have been down this season, but he should be low-owned in a nice matchup against the Grizzlies.",
    "url": ""
   },
   {
@@ -1209,16 +1209,16 @@
   {
    "pos": "C",
    "dkPos": "C",
-   "fdPos": "#N/A",
-   "player": "Robert Williams",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "fdPos": "PF/C",
+   "player": "Derik Queen",
+   "team": "NOP",
+   "opp": "SAC",
    "dk": 0,
-   "fd": 0,
-   "proj": 19.59,
+   "fd": 5900,
+   "proj": 23.3,
    "type": "",
    "status": "",
-   "blurb": "Only projected for 17 minutes, but he does have elite per-minute production. Viable on a short slate like this.",
+   "blurb": "Projected for 23 minutes in the best matchup on the board.",
    "url": ""
   }
  ],
@@ -1356,6 +1356,13 @@
    "status": "Q",
    "note": "Typically sees 20-24 minutes off the bench. His absence would open up minutes on the wing.",
    "time": "2:15 PM"
+  },
+  {
+   "player": "Robert Williams",
+   "team": "",
+   "status": "D",
+   "note": "Williams is now doubtful. Donovan Clingan has a safer minute floor if Wililams is out.",
+   "time": "5:00 PM"
   }
  ],
  "teams": [
