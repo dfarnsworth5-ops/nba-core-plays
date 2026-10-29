@@ -4,7 +4,7 @@
  "slate": "3 games · 8:00 PM ET lock",
  "note": "",
  "iso": "2026-10-29",
- "updated": "2026-10-29T15:07:24-06:00",
+ "updated": "2026-10-29T15:12:30-06:00",
  "positions": [
   "PG",
   "SG",
@@ -194,7 +194,7 @@
    "dk": 6100,
    "fd": 0,
    "proj": 30.27,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Much better option with Robert Williams now doubtful.",
    "url": ""
@@ -346,7 +346,7 @@
    "dk": 0,
    "fd": 6100,
    "proj": 30.77,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Much better option with Robert Williams now doubtful.",
    "url": ""
