@@ -4,7 +4,7 @@
  "slate": "3 games · 8:00 PM ET lock",
  "note": "",
  "iso": "2026-10-29",
- "updated": "2026-10-29T11:36:38-06:00",
+ "updated": "2026-10-29T12:11:04-06:00",
  "positions": [
   "PG",
   "SG",
@@ -375,7 +375,7 @@
    "fd": 0,
    "proj": 0,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Could see a few extra minutes on the second half of a back-to-back. Decent source of value.",
    "url": ""
   },
@@ -652,6 +652,22 @@
    "note": "Ankle",
    "updated": "",
    "impact": 8
+  },
+  {
+   "player": "Jaylon Tyson",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Neck",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Meleek Thomas",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Foot",
+   "updated": "",
+   "impact": 5
   },
   {
    "player": "Jordan Poole",
