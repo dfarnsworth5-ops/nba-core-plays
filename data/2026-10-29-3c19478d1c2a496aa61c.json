@@ -4,7 +4,7 @@
  "slate": "3 games · 8:00 PM ET lock",
  "note": "",
  "iso": "2026-10-29",
- "updated": "2026-10-28T20:04:23-06:00",
+ "updated": "2026-10-28T21:10:25-06:00",
  "positions": [
   "PG",
   "SG",
@@ -20,8 +20,8 @@
    "time": "8:00 PM",
    "min": 1200,
    "fav": "ATL",
-   "spread": 0,
-   "total": 0,
+   "spread": -1.5,
+   "total": 238.5,
    "dk": "M",
    "fd": "M"
   },
@@ -32,7 +32,7 @@
    "min": 1200,
    "fav": "NOP",
    "spread": -5.5,
-   "total": 238.5,
+   "total": 237.5,
    "dk": "M",
    "fd": "M"
   },
@@ -52,412 +52,44 @@
  "playsFd": [],
  "injuries": [
   {
-   "player": "Paolo Banchero",
-   "team": "ORL",
-   "status": "O",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Kawhi Leonard",
-   "team": "TOR",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Alperen Sengun",
-   "team": "HOU",
-   "status": "O",
-   "note": "Back",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Jalen Duren",
-   "team": "DET",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Tyrese Haliburton",
-   "team": "IND",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Ivica Zubac",
-   "team": "IND",
-   "status": "O",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Chet Holmgren",
-   "team": "OKC",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Jalen Williams",
-   "team": "OKC",
-   "status": "O",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Anthony Edwards",
-   "team": "MIN",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Jaren Jackson",
-   "team": "UTA",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Lauri Markkanen",
-   "team": "UTA",
-   "status": "O",
-   "note": "Wrist",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Luka Doncic",
-   "team": "LAL",
-   "status": "O",
-   "note": "Back",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Jalen Suggs",
-   "team": "ORL",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 9
-  },
-  {
    "player": "Yves Missi",
    "team": "NOP",
-   "status": "O",
+   "status": "D",
    "note": "Knee",
    "updated": "",
    "impact": 9
   },
   {
-   "player": "Cason Wallace",
-   "team": "OKC",
-   "status": "O",
-   "note": "Shoulder",
-   "updated": "",
-   "impact": 9
-  },
-  {
-   "player": "Kon Knueppel",
-   "team": "CHA",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 8
-  },
-  {
-   "player": "Nicolas Claxton",
-   "team": "CHI",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 8
-  },
-  {
-   "player": "Cameron Johnson",
-   "team": "DEN",
+   "player": "Keegan Murray",
+   "team": "SAC",
    "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 8
   },
   {
-   "player": "Rui Hachimura",
-   "team": "LAC",
-   "status": "O",
-   "note": "Quad",
+   "player": "Jordan Poole",
+   "team": "NOP",
+   "status": "D",
+   "note": "Ankle",
    "updated": "",
-   "impact": 8
+   "impact": 4
   },
   {
-   "player": "Gui Santos",
-   "team": "GSW",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 8
-  },
-  {
-   "player": "Tobias Harris",
-   "team": "SAS",
+   "player": "Dylan Cardwell",
+   "team": "SAC",
    "status": "O",
    "note": "Calf",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Coby White",
-   "team": "CHA",
-   "status": "O",
-   "note": "Calf",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Alex Caruso",
-   "team": "OKC",
-   "status": "O",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Naji Marshall",
-   "team": "DAL",
-   "status": "O",
-   "note": "Illness",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Ziaire Williams",
-   "team": "LAL",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Marcus Smart",
-   "team": "HOU",
-   "status": "O",
-   "note": "Arm",
-   "updated": "",
-   "impact": 6
-  },
-  {
-   "player": "Justin Champagnie",
-   "team": "WAS",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 6
-  },
-  {
-   "player": "Steven Adams",
-   "team": "HOU",
-   "status": "O",
-   "note": "Calf",
-   "updated": "",
-   "impact": 5
-  },
-  {
-   "player": "Spencer Jones",
-   "team": "DEN",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 5
-  },
-  {
-   "player": "Jose Alvarado",
-   "team": "NYK",
-   "status": "O",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 4
-  },
-  {
-   "player": "Grant Williams",
-   "team": "CHA",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 4
-  },
-  {
-   "player": "Jabari Walker",
-   "team": "PHI",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 4
-  },
-  {
-   "player": "Sergio de Larrea",
-   "team": "DAL",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 4
-  },
-  {
-   "player": "Simone Fontecchio",
-   "team": "MIA",
-   "status": "O",
-   "note": "Illness",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Isaiah Joe",
-   "team": "DET",
-   "status": "O",
-   "note": "Hip",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Tobe Awaka",
-   "team": "CHI",
-   "status": "O",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Patrick Williams",
-   "team": "CHI",
-   "status": "O",
-   "note": "Groin",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Alpha Diallo",
-   "team": "DEN",
-   "status": "O",
-   "note": "Personal",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Tre Johnson",
-   "team": "WAS",
-   "status": "O",
-   "note": "Achilles",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Jonathan Isaac",
-   "team": "ORL",
-   "status": "O",
-   "note": "Knee",
    "updated": "",
    "impact": 2
   },
   {
-   "player": "Noah Penda",
-   "team": "ORL",
+   "player": "Maxime Raynaud",
+   "team": "SAC",
    "status": "O",
-   "note": "Hamstring",
+   "note": "Knee",
    "updated": "",
    "impact": 2
-  },
-  {
-   "player": "Izaiyah Nelson",
-   "team": "ORL",
-   "status": "O",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Nate Bittle",
-   "team": "TOR",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Jimmy Butler",
-   "team": "GSW",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Moses Moody",
-   "team": "GSW",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Kristaps Porzingis",
-   "team": "GSW",
-   "status": "O",
-   "note": "NWT",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Jayden Quaintance",
-   "team": "SAS",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Adou Thiero",
-   "team": "LAL",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Cameron Carr",
-   "team": "LAL",
-   "status": "O",
-   "note": "Oblique",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Tristan Vukcevic",
-   "team": "WAS",
-   "status": "O",
-   "note": "Hip",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Jamir Watkins",
-   "team": "WAS",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
   },
   {
    "player": "Nae'Qwan Tomlin",
@@ -484,154 +116,18 @@
    "impact": 1
   },
   {
-   "player": "Dominick Barlow",
-   "team": "PHI",
-   "status": "O",
-   "note": "Back",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Tacko Fall",
-   "team": "PHI",
-   "status": "O",
-   "note": "Quad",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Ariel Hukporti",
-   "team": "PHI",
+   "player": "Ben Simmons",
+   "team": "SAC",
    "status": "O",
    "note": "Achilles",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Ben Sheppard",
-   "team": "IND",
+   "player": "Shaedon Sharpe",
+   "team": "POR",
    "status": "O",
    "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Johnny Furphy",
-   "team": "IND",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "T.J. McConnell",
-   "team": "IND",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Thomas Sorber",
-   "team": "OKC",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Nikola Topic",
-   "team": "OKC",
-   "status": "O",
-   "note": "Back",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Donte DiVincenzo",
-   "team": "MIN",
-   "status": "O",
-   "note": "Achilles",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Santi Aldama",
-   "team": "DAL",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Tarik Biberovic",
-   "team": "DAL",
-   "status": "O",
-   "note": "Heel",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Dereck Lively II",
-   "team": "DAL",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Julian Strawther",
-   "team": "DEN",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Bradley Beal",
-   "team": "LAC",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Brandon Ingram",
-   "team": "LAC",
-   "status": "O",
-   "note": "Heel",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Jordan Miller",
-   "team": "LAC",
-   "status": "O",
-   "note": "Shoulder",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Yanic Konan Niederhauser",
-   "team": "LAC",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Max Strus",
-   "team": "LAC",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Jusuf Nurkic",
-   "team": "UTA",
-   "status": "O",
-   "note": "Foot",
    "updated": "",
    "impact": 1
   }
@@ -2494,5 +1990,10 @@
    "Zyon Pullin",
    "MIN"
   ]
+ ],
+ "b2b": [
+  "ATL",
+  "CLE",
+  "NOP"
  ]
 }
