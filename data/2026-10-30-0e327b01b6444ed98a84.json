@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-30",
- "updated": "2026-10-30T14:55:47-06:00",
+ "updated": "2026-10-30T16:37:27-06:00",
  "positions": [
   "PG",
   "SG",
@@ -1389,7 +1389,7 @@
   {
    "player": "Jaylen Brown",
    "team": "PHI",
-   "status": "D",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 10
@@ -1403,26 +1403,10 @@
    "impact": 9
   },
   {
-   "player": "Jalen Smith",
-   "team": "CHI",
-   "status": "Q",
-   "note": "Finger",
-   "updated": "",
-   "impact": 9
-  },
-  {
    "player": "Nicolas Claxton",
    "team": "CHI",
    "status": "O",
    "note": "Hamstring",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Cameron Johnson",
-   "team": "DEN",
-   "status": "Q",
-   "note": "Ankle",
    "updated": "",
    "impact": 7
   },
@@ -1531,14 +1515,6 @@
    "impact": 4
   },
   {
-   "player": "Tobe Awaka",
-   "team": "CHI",
-   "status": "Q",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 3
-  },
-  {
    "player": "Alpha Diallo",
    "team": "DEN",
    "status": "O",
@@ -1547,26 +1523,10 @@
    "impact": 3
   },
   {
-   "player": "Tre Johnson",
-   "team": "WAS",
-   "status": "Q",
-   "note": "Achilles",
-   "updated": "",
-   "impact": 3
-  },
-  {
    "player": "Sergio de Larrea",
    "team": "DAL",
    "status": "O",
    "note": "Knee",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Noah Clowney",
-   "team": "BKN",
-   "status": "Q",
-   "note": "Illness",
    "updated": "",
    "impact": 3
   },
@@ -1829,7 +1789,7 @@
   {
    "player": "Dailyn Swain",
    "team": "CHI",
-   "status": "Q",
+   "status": "O",
    "note": "Back",
    "updated": "",
    "impact": 1
@@ -1996,6 +1956,13 @@
    "status": "P",
    "note": "Marshall has been upgraded to probable.",
    "time": "4:50 PM"
+  },
+  {
+   "player": "Alperen Sengun",
+   "team": "",
+   "status": "O",
+   "note": "Sengun is out. Fire up Amen Thompson, Kevin Durant, and Tari Eason.",
+   "time": "6:35 PM"
   }
  ],
  "teams": [
