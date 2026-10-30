@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-30",
- "updated": "2026-10-29T22:47:27-06:00",
+ "updated": "2026-10-30T07:36:30-06:00",
  "positions": [
   "PG",
   "SG",
@@ -64,7 +64,7 @@
    "time": "7:30 PM",
    "min": 1170,
    "fav": "DET",
-   "spread": -7.5,
+   "spread": -8.5,
    "total": 222.5,
    "dk": "M",
    "fd": "M"
@@ -87,7 +87,7 @@
    "min": 1200,
    "fav": "MIN",
    "spread": -7.5,
-   "total": 221.5,
+   "total": 222.5,
    "dk": "M",
    "fd": "M"
   },
@@ -98,7 +98,7 @@
    "min": 1200,
    "fav": "HOU",
    "spread": -6.5,
-   "total": 225.5,
+   "total": 226.5,
    "dk": "M",
    "fd": "M"
   },
@@ -649,7 +649,134 @@
    "impact": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "player": "Alperen Sengun",
+   "team": "HOU",
+   "status": "Q",
+   "note": "Amen Thompson, Kevin Durant, Clint Capela, and Tari Eason would all become strong plays.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Marcus Smart",
+   "team": "HOU",
+   "status": "Q",
+   "note": "Not a huge role, but his absence would make the Rockets more appealing.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Jaylen Brown",
+   "team": "PHI",
+   "status": "Q",
+   "note": "Usage boosts for LeBron James, Joel Embiid, and Tyrese Maxey.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Jalen Smith",
+   "team": "CHI",
+   "status": "Q",
+   "note": "Boost for Caleb Wilson. Could see a spot start from Zach Collins.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Dennis Schroder",
+   "team": "CHA",
+   "status": "Q",
+   "note": "Brandon Miller would see an even higher usage rate. More minutes for Sion James and Grayson Allen.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Rui Hachimura",
+   "team": "LAC",
+   "status": "Q",
+   "note": "Would open up 26-30 minutes in the frontcourt.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Naji Marshall",
+   "team": "DAL",
+   "status": "Q",
+   "note": "Boost to Zaccharie Risacher and Max Christie if out.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Isaiah Joe",
+   "team": "DET",
+   "status": "Q",
+   "note": "Extra minutes for Kevin Huerter and Duncan Robinson if out.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Paolo Banchero",
+   "team": "",
+   "status": "O",
+   "note": "Usage boosts for Franz Wagner, Anthony Black, and Desmond Bane. More minutes for Jase Richardson and Tristan da Silva.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Jalen Suggs",
+   "team": "",
+   "status": "O",
+   "note": "Usage boosts for Franz Wagner, Anthony Black, and Desmond Bane. More minutes for Jase Richardson and Tristan da Silva.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Jalen Duren",
+   "team": "",
+   "status": "O",
+   "note": "Paul Reed should continue to start and play 26-30 minutes.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Ivica Zubac",
+   "team": "",
+   "status": "O",
+   "note": "Jay Huff will likely start again, while Larry Nance and Obi Toppin will see an uptick in minutes.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Tyrese Haliburton",
+   "team": "",
+   "status": "O",
+   "note": "Big usage boosts for Andrew Nembhard, Pascal Siakam, Aaron Nesmith, and Kelly Oubre.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Anthony Edwards",
+   "team": "",
+   "status": "O",
+   "note": "Big usage boosts for LaMelo Ball, Jonathan Kuminga, Ayo Dosunmu, Jaden McDaniels, and Terrence Shannon.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Kawhi Leonard",
+   "team": "",
+   "status": "O",
+   "note": "Usage boosts for RJ Barrett, Immanuel Quickley, and Scottie Barnes. Likely spot start for Ja'Kobe Walter.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Nicolas Claxton",
+   "team": "",
+   "status": "O",
+   "note": "Has yet to play this season, so it's business as usual for Chicago's rotation.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Reed Sheppard",
+   "team": "",
+   "status": "O",
+   "note": "More minutes available in the backcourt/wing for Houston.",
+   "time": "9:30 AM"
+  },
+  {
+   "player": "Egor Demin",
+   "team": "",
+   "status": "O",
+   "note": "More minutes available for Brooklyn's backcourt.",
+   "time": "9:30 AM"
+  }
+ ],
  "teams": [
   [
    "Aaron Gordon",
