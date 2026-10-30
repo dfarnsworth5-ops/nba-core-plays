@@ -1,10 +1,10 @@
 {
  "title": "NBA Core Plays",
- "date": "Thursday, October 29th",
- "slate": "3 games · 8:00 PM ET lock",
+ "date": "Friday, October 30th",
+ "slate": "10 games · 7:00 PM ET lock",
  "note": "",
- "iso": "2026-10-29",
- "updated": "2026-10-29T17:43:45-06:00",
+ "iso": "2026-10-30",
+ "updated": "2026-10-29T22:47:27-06:00",
  "positions": [
   "PG",
   "SG",
@@ -15,522 +15,641 @@
  "tz": "ET",
  "games": [
   {
-   "away": "Cleveland Cavaliers",
-   "home": "Atlanta Hawks",
-   "time": "8:00 PM",
-   "min": 1200,
-   "fav": "ATL",
+   "away": "Charlotte Hornets",
+   "home": "Washington Wizards",
+   "time": "7:00 PM",
+   "min": 1140,
+   "fav": "WAS",
    "spread": -1.5,
-   "total": 238.5,
+   "total": 220.5,
    "dk": "M",
    "fd": "M"
   },
   {
-   "away": "Sacramento Kings",
-   "home": "New Orleans Pelicans",
-   "time": "8:00 PM",
-   "min": 1200,
-   "fav": "NOP",
-   "spread": -5.5,
-   "total": 237.5,
-   "dk": "M",
-   "fd": "M"
-  },
-  {
-   "away": "Memphis Grizzlies",
-   "home": "Portland Trail Blazers",
-   "time": "10:00 PM",
-   "min": 1320,
-   "fav": "POR",
-   "spread": -7.5,
+   "away": "Chicago Bulls",
+   "home": "Boston Celtics",
+   "time": "7:30 PM",
+   "min": 1170,
+   "fav": "BOS",
+   "spread": -15.5,
    "total": 234.5,
    "dk": "M",
    "fd": "M"
+  },
+  {
+   "away": "New York Knicks",
+   "home": "Philadelphia 76ers",
+   "time": "7:30 PM",
+   "min": 1170,
+   "fav": "NYK",
+   "spread": -1.5,
+   "total": 228.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Orlando Magic",
+   "home": "Toronto Raptors",
+   "time": "7:30 PM",
+   "min": 1170,
+   "fav": "TOR",
+   "spread": -5.5,
+   "total": 226.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Detroit Pistons",
+   "home": "Brooklyn Nets",
+   "time": "7:30 PM",
+   "min": 1170,
+   "fav": "DET",
+   "spread": -7.5,
+   "total": 222.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Indiana Pacers",
+   "home": "Miami Heat",
+   "time": "8:00 PM",
+   "min": 1200,
+   "fav": "MIA",
+   "spread": -7.5,
+   "total": 236.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Los Angeles Clippers",
+   "home": "Minnesota Timberwolves",
+   "time": "8:00 PM",
+   "min": 1200,
+   "fav": "MIN",
+   "spread": -7.5,
+   "total": 221.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Houston Rockets",
+   "home": "Dallas Mavericks",
+   "time": "8:00 PM",
+   "min": 1200,
+   "fav": "HOU",
+   "spread": -6.5,
+   "total": 225.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Los Angeles Lakers",
+   "home": "Golden State Warriors",
+   "time": "10:00 PM",
+   "min": 1320,
+   "fav": "LAL",
+   "spread": -2.5,
+   "total": 234.5,
+   "dk": "L",
+   "fd": "L"
+  },
+  {
+   "away": "Denver Nuggets",
+   "home": "Phoenix Suns",
+   "time": "10:00 PM",
+   "min": 1320,
+   "fav": "DEN",
+   "spread": -4.5,
+   "total": 231.5,
+   "dk": "L",
+   "fd": "L"
   }
  ],
- "plays": [
-  {
-   "pos": "PG",
-   "dkPos": "PG/SG",
-   "fdPos": "PG",
-   "player": "Darius Acuff",
-   "team": "SAC",
-   "opp": "NOP",
-   "dk": 7100,
-   "fd": 0,
-   "proj": 40.71,
-   "type": "Core",
-   "status": "",
-   "blurb": "Has taken at least 20 shot attempts in every game this season and has a massive 32% usage rate. Draws a nice matchup against the Pelicans.",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG/SG",
-   "fdPos": "PG",
-   "player": "Jeremiah Fears",
-   "team": "NOP",
-   "opp": "SAC",
-   "dk": 5000,
-   "fd": 0,
-   "proj": 24.57,
-   "type": "Core",
-   "status": "",
-   "blurb": "Poole and Jordan are both OUT.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "PG/SG",
-   "fdPos": "SG",
-   "player": "Darius Acuff",
-   "team": "SAC",
-   "opp": "NOP",
-   "dk": 7100,
-   "fd": 0,
-   "proj": 40.71,
-   "type": "Core",
-   "status": "",
-   "blurb": "Has taken at least 20 shot attempts in every game this season and has a massive 32% usage rate. Draws a nice matchup against the Pelicans.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "PG/SG",
-   "fdPos": "SG",
-   "player": "Jeremiah Fears",
-   "team": "NOP",
-   "opp": "SAC",
-   "dk": 5000,
-   "fd": 0,
-   "proj": 24.57,
-   "type": "Core",
-   "status": "",
-   "blurb": "Poole and Jordan are both OUT.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF/PF",
-   "fdPos": "SF",
-   "player": "Saddiq Bey",
-   "team": "NOP",
-   "opp": "SAC",
-   "dk": 5400,
-   "fd": 0,
-   "proj": 32.67,
-   "type": "",
-   "status": "",
-   "blurb": "Could see a couple extra minutes with Jordan Poole and Yves Missi doubtful. Elite matchup against the Kings at home.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SG/SF",
-   "fdPos": "SF",
-   "player": "Zach LaVine",
-   "team": "SAC",
-   "opp": "NOP",
-   "dk": 6600,
-   "fd": 0,
-   "proj": 35.4,
-   "type": "",
-   "status": "",
-   "blurb": "Has quietly averaged 39 fantasy points per game with a 28% usage rate this season.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "SF/PF",
-   "fdPos": "PF",
-   "player": "Saddiq Bey",
-   "team": "NOP",
-   "opp": "SAC",
-   "dk": 5400,
-   "fd": 0,
-   "proj": 32.67,
-   "type": "",
-   "status": "",
-   "blurb": "Could see a couple extra minutes with Jordan Poole and Yves Missi doubtful. Elite matchup against the Kings at home.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "Deni Avdija",
-   "team": "POR",
-   "opp": "MEM",
-   "dk": 7800,
-   "fd": 0,
-   "proj": 41.75,
-   "type": "",
-   "status": "",
-   "blurb": "Elite usage rate (28%) and has scored at least 42 fantasy points in each of the last 3 games.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Domantas Sabonis",
-   "team": "SAC",
-   "opp": "NOP",
-   "dk": 9200,
-   "fd": 0,
-   "proj": 45.94,
-   "type": "",
-   "status": "",
-   "blurb": "Has scored at least 50 fantasy points in 3 of the last 4 games. Solid matchup against the Pelicans.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Donovan Clingan",
-   "team": "POR",
-   "opp": "MEM",
-   "dk": 6100,
-   "fd": 0,
-   "proj": 30.27,
-   "type": "Core",
-   "status": "",
-   "blurb": "Much better option with Robert Williams now doubtful.",
-   "url": ""
-  }
- ],
- "playsFd": [
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Darius Acuff",
-   "team": "SAC",
-   "opp": "NOP",
-   "dk": 0,
-   "fd": 6500,
-   "proj": 39.32,
-   "type": "Core",
-   "status": "",
-   "blurb": "Has taken at least 20 shot attempts in every game this season and has a massive 32% usage rate. Draws a nice matchup against the Pelicans.",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Jeremiah Fears",
-   "team": "NOP",
-   "opp": "SAC",
-   "dk": 0,
-   "fd": 4300,
-   "proj": 24.52,
-   "type": "Core",
-   "status": "",
-   "blurb": "Poole and Jordan are both OUT.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG/PG",
-   "player": "Damian Lillard",
-   "team": "POR",
-   "opp": "MEM",
-   "dk": 0,
-   "fd": 7000,
-   "proj": 34.59,
-   "type": "",
-   "status": "",
-   "blurb": "Has played 31 and 32 minutes in the last 2 games and has seen a 25% usage rate in every game this season.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG",
-   "player": "Zach LaVine",
-   "team": "SAC",
-   "opp": "NOP",
-   "dk": 0,
-   "fd": 6300,
-   "proj": 33.92,
-   "type": "",
-   "status": "",
-   "blurb": "Has quietly averaged 39 fantasy points per game with a 28% usage rate this season.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "SF",
-   "player": "Saddiq Bey",
-   "team": "NOP",
-   "opp": "SAC",
-   "dk": 0,
-   "fd": 4700,
-   "proj": 31.84,
-   "type": "",
-   "status": "",
-   "blurb": "Could see a couple extra minutes with Jordan Poole and Yves Missi doubtful. Elite matchup against the Kings at home.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "PF/SF",
-   "player": "Deni Avdija",
-   "team": "POR",
-   "opp": "MEM",
-   "dk": 0,
-   "fd": 8200,
-   "proj": 39.9,
-   "type": "",
-   "status": "",
-   "blurb": "Elite usage rate (28%) and has scored at least 42 fantasy points in each of the last 3 games.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "Precious Achiuwa",
-   "team": "SAC",
-   "opp": "NOP",
-   "dk": 0,
-   "fd": 5200,
-   "proj": 30.38,
-   "type": "Core",
-   "status": "",
-   "blurb": "Was the chalk that busted the other night, but he has scored over 28 fantasy points in 3 of 4 games this season. Great bounce back spot.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF/SF",
-   "player": "Deni Avdija",
-   "team": "POR",
-   "opp": "MEM",
-   "dk": 0,
-   "fd": 8200,
-   "proj": 39.9,
-   "type": "",
-   "status": "",
-   "blurb": "Elite usage rate (28%) and has scored at least 42 fantasy points in each of the last 3 games.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Domantas Sabonis",
-   "team": "SAC",
-   "opp": "NOP",
-   "dk": 0,
-   "fd": 9200,
-   "proj": 44,
-   "type": "",
-   "status": "",
-   "blurb": "Has scored at least 50 fantasy points in 3 of the last 4 games. Solid matchup against the Pelicans.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Donovan Clingan",
-   "team": "POR",
-   "opp": "MEM",
-   "dk": 0,
-   "fd": 6100,
-   "proj": 30.77,
-   "type": "Core",
-   "status": "",
-   "blurb": "Much better option with Robert Williams now doubtful.",
-   "url": ""
-  }
- ],
+ "plays": [],
+ "playsFd": [],
  "injuries": [
   {
-   "player": "Dejounte Murray",
-   "team": "NOP",
+   "player": "Paolo Banchero",
+   "team": "ORL",
    "status": "O",
-   "note": "Personal",
+   "note": "Ankle",
    "updated": "",
    "impact": 10
   },
   {
-   "player": "Yves Missi",
-   "team": "NOP",
+   "player": "Jalen Duren",
+   "team": "DET",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Alperen Sengun",
+   "team": "HOU",
+   "status": "Q",
+   "note": "Back",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Ivica Zubac",
+   "team": "IND",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Tyrese Haliburton",
+   "team": "IND",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Anthony Edwards",
+   "team": "MIN",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Kawhi Leonard",
+   "team": "TOR",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Jaylen Brown",
+   "team": "PHI",
+   "status": "Q",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Jalen Suggs",
+   "team": "ORL",
    "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 9
   },
   {
-   "player": "Keegan Murray",
-   "team": "SAC",
-   "status": "O",
-   "note": "Ankle",
+   "player": "Jalen Smith",
+   "team": "CHI",
+   "status": "Q",
+   "note": "Finger",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Dennis Schroder",
+   "team": "CHA",
+   "status": "Q",
+   "note": "Foot",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Rui Hachimura",
+   "team": "LAC",
+   "status": "Q",
+   "note": "Quad",
    "updated": "",
    "impact": 8
   },
   {
-   "player": "Robert Williams III",
-   "team": "POR",
+   "player": "Nicolas Claxton",
+   "team": "CHI",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "Cameron Johnson",
+   "team": "DEN",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "Gui Santos",
+   "team": "GSW",
    "status": "D",
-   "note": "Rest",
+   "note": "Knee",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "Ziaire Williams",
+   "team": "LAL",
+   "status": "Q",
+   "note": "Foot",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "Reed Sheppard",
+   "team": "HOU",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "Naji Marshall",
+   "team": "DAL",
+   "status": "Q",
+   "note": "Illness",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "Egor Demin",
+   "team": "BKN",
+   "status": "O",
+   "note": "Leg",
    "updated": "",
    "impact": 6
   },
   {
-   "player": "Jaylon Tyson",
-   "team": "CLE",
-   "status": "Q",
-   "note": "Neck",
+   "player": "Spencer Jones",
+   "team": "DEN",
+   "status": "O",
+   "note": "Hamstring",
    "updated": "",
    "impact": 5
   },
   {
-   "player": "Jordan Poole",
-   "team": "NOP",
+   "player": "Marcus Smart",
+   "team": "HOU",
+   "status": "Q",
+   "note": "Arm",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "T.J. McConnell",
+   "team": "IND",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Isaiah Joe",
+   "team": "DET",
+   "status": "Q",
+   "note": "Hip",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Steven Adams",
+   "team": "HOU",
+   "status": "O",
+   "note": "Calf",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Jose Alvarado",
+   "team": "NYK",
    "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 4
   },
   {
-   "player": "Meleek Thomas",
-   "team": "CLE",
+   "player": "Jabari Walker",
+   "team": "PHI",
    "status": "O",
-   "note": "Foot",
+   "note": "Knee",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Oso Ighodaro",
+   "team": "PHO",
+   "status": "Q",
+   "note": "Oblique",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Tobe Awaka",
+   "team": "CHI",
+   "status": "Q",
+   "note": "Ankle",
    "updated": "",
    "impact": 3
   },
   {
-   "player": "Dylan Cardwell",
-   "team": "SAC",
-   "status": "O",
-   "note": "Calf",
+   "player": "Alpha Diallo",
+   "team": "DEN",
+   "status": "Q",
+   "note": "Personal",
    "updated": "",
-   "impact": 2
+   "impact": 3
   },
   {
-   "player": "Maxime Raynaud",
-   "team": "SAC",
+   "player": "Simone Fontecchio",
+   "team": "MIA",
+   "status": "Q",
+   "note": "Illness",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Tre Johnson",
+   "team": "WAS",
+   "status": "Q",
+   "note": "Achilles",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Sergio de Larrea",
+   "team": "DAL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Jonathan Isaac",
+   "team": "ORL",
    "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 2
   },
   {
-   "player": "Nae'Qwan Tomlin",
-   "team": "CLE",
+   "player": "Patrick Williams",
+   "team": "CHI",
+   "status": "Q",
+   "note": "Groin",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Justin Champagnie",
+   "team": "WAS",
    "status": "O",
-   "note": "Back",
+   "note": "Foot",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Izaiyah Nelson",
+   "team": "ORL",
+   "status": "O",
+   "note": "Ankle",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Mouhamed Gueye",
-   "team": "ATL",
+   "player": "Noah Penda",
+   "team": "ORL",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Coby White",
+   "team": "CHA",
+   "status": "O",
+   "note": "Calf",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Kon Knueppel",
+   "team": "CHA",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Grant Williams",
+   "team": "CHA",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Devin Carter",
+   "team": "BOS",
+   "status": "O",
+   "note": "Illness",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Julian Strawther",
+   "team": "DEN",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Kristaps Porzingis",
+   "team": "GSW",
+   "status": "O",
+   "note": "NWT",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Moses Moody",
+   "team": "GSW",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jimmy Butler",
+   "team": "GSW",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Ben Sheppard",
+   "team": "IND",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Johnny Furphy",
+   "team": "IND",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Yanic Konan Niederhauser",
+   "team": "LAC",
    "status": "O",
    "note": "Foot",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Henri Veesaar",
-   "team": "ATL",
+   "player": "Max Strus",
+   "team": "LAC",
    "status": "O",
-   "note": "Knee",
+   "note": "Foot",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Ben Simmons",
-   "team": "SAC",
+   "player": "Brandon Ingram",
+   "team": "LAC",
    "status": "O",
    "note": "Achilles",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Shaedon Sharpe",
-   "team": "POR",
+   "player": "Bradley Beal",
+   "team": "LAC",
    "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 1
+  },
+  {
+   "player": "Jordan Miller",
+   "team": "LAC",
+   "status": "O",
+   "note": "Shoulder",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Cameron Carr",
+   "team": "LAL",
+   "status": "O",
+   "note": "Oblique",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Adou Thiero",
+   "team": "LAL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Donte DiVincenzo",
+   "team": "MIN",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Tacko Fall",
+   "team": "PHI",
+   "status": "O",
+   "note": "Quad",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Dominick Barlow",
+   "team": "PHI",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Ariel Hukporti",
+   "team": "PHI",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Mark Williams",
+   "team": "PHO",
+   "status": "O",
+   "note": "Shoulder",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Nate Bittle",
+   "team": "TOR",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Tristan Vukcevic",
+   "team": "WAS",
+   "status": "O",
+   "note": "Hip",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jamir Watkins",
+   "team": "WAS",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Santi Aldama",
+   "team": "DAL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Tarik Biberovic",
+   "team": "DAL",
+   "status": "O",
+   "note": "Heel",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Dereck Lively II",
+   "team": "DAL",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
   }
  ],
- "news": [
-  {
-   "player": "Yves Missi",
-   "team": "",
-   "status": "D",
-   "note": "Missi's likely absence will open up around 20 minutes in the frontcourt.",
-   "time": "2:55 PM"
-  },
-  {
-   "player": "Jordan Poole",
-   "team": "",
-   "status": "D",
-   "note": "Poole's likely absence will open up around 18 minutes off the bench.",
-   "time": "2:55 PM"
-  },
-  {
-   "player": "Meleek Thomas",
-   "team": "",
-   "status": "Q",
-   "note": "Good per-minute producer off the bench. Would see a boost if Jaylon Tyson is out. More bench minutes would open up if he himself is out.",
-   "time": "2:15 PM"
-  },
-  {
-   "player": "Jaylon Tyson",
-   "team": "CLE",
-   "status": "Q",
-   "note": "Typically sees 20-24 minutes off the bench. His absence would open up minutes on the wing.",
-   "time": "2:15 PM"
-  },
-  {
-   "player": "Robert Williams",
-   "team": "",
-   "status": "D",
-   "note": "Williams is now doubtful. Donovan Clingan has a safer minute floor if Wililams is out.",
-   "time": "5:00 PM"
-  },
-  {
-   "player": "Meleek Thomas",
-   "team": "",
-   "status": "O",
-   "note": "Thomas has been ruled out. This opens up some minutes and usage for the second unit.",
-   "time": "7:30 PM"
-  },
-  {
-   "player": "Dejounte Murray",
-   "team": "",
-   "status": "O",
-   "note": "Murray and Poole have both been ruled out. The Pelicans are one of the top teams to target now.",
-   "time": "7:30 PM"
-  },
-  {
-   "player": "Jordan Poole",
-   "team": "",
-   "status": "O",
-   "note": "Murray and Poole have both been ruled out. The Pelicans are one of the top teams to target now.",
-   "time": "7:30 PM"
-  },
-  {
-   "player": "Jaylon Tyson",
-   "team": "CLE",
-   "status": "A",
-   "note": "Tyson will play. He sees a small boost with Maleek Thomas out.",
-   "time": "7:30 PM"
-  }
- ],
+ "news": [],
  "teams": [
   [
    "Aaron Gordon",
@@ -2389,25 +2508,21 @@
    "MIN"
   ]
  ],
- "b2b": [
-  "ATL",
-  "CLE",
-  "NOP"
- ],
+ "b2b": [],
  "preview": {
   "locked": {
-   "PG": 6,
-   "SG": 6,
-   "SF": 6,
-   "PF": 6,
-   "C": 5
+   "PG": 0,
+   "SG": 0,
+   "SF": 0,
+   "PF": 0,
+   "C": 0
   },
   "lockedFd": {
-   "PG": 6,
-   "SG": 6,
-   "SF": 6,
-   "PF": 6,
-   "C": 5
+   "PG": 0,
+   "SG": 0,
+   "SF": 0,
+   "PF": 0,
+   "C": 0
   },
   "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
   "ctaLabel": "Unlock every Core Play with RG MVP",
