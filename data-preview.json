@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-30",
- "updated": "2026-10-30T10:44:28-06:00",
+ "updated": "2026-10-30T12:53:47-06:00",
  "positions": [
   "PG",
   "SG",
@@ -509,14 +509,6 @@
    "note": "Finger",
    "updated": "",
    "impact": 9
-  },
-  {
-   "player": "Rui Hachimura",
-   "team": "LAC",
-   "status": "Q",
-   "note": "Quad",
-   "updated": "",
-   "impact": 8
   },
   {
    "player": "Nicolas Claxton",
@@ -1069,6 +1061,13 @@
    "status": "Q",
    "note": "Wouldn't make a huge impact, but Day'Ron Sharpe would have a safer minute floor.",
    "time": "11:20 AM"
+  },
+  {
+   "player": "Rui Hachimura",
+   "team": "",
+   "status": "P",
+   "note": "Upgraded to probable.",
+   "time": "2:50 PM"
   }
  ],
  "teams": [
