@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-10-30",
- "updated": "2026-10-30T12:53:47-06:00",
+ "updated": "2026-10-30T14:55:47-06:00",
  "positions": [
   "PG",
   "SG",
@@ -533,21 +533,6 @@
   },
   {
    "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "Anthony Davis",
-   "team": "WAS",
-   "opp": "CHA",
-   "dk": 8700,
-   "fd": 0,
-   "proj": 0,
-   "type": "",
-   "status": "",
-   "blurb": "Has been awfully quiet since the big outing in the opener. Decent matchup against the Hornets.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
    "dkPos": "SF/PF",
    "fdPos": "PF",
    "player": "Scottie Barnes",
@@ -589,6 +574,21 @@
    "type": "",
    "status": "",
    "blurb": "The love for Naz has cooled. This is a good buy-low spot in an elite matchup against the Wizards.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "LeBron James",
+   "team": "PHI",
+   "opp": "NYK",
+   "dk": 7200,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Sizable usage boost with Brown out. Good price point.",
    "url": ""
   },
   {
@@ -1389,7 +1389,7 @@
   {
    "player": "Jaylen Brown",
    "team": "PHI",
-   "status": "Q",
+   "status": "D",
    "note": "Knee",
    "updated": "",
    "impact": 10
@@ -1429,7 +1429,7 @@
   {
    "player": "Gui Santos",
    "team": "GSW",
-   "status": "D",
+   "status": "Q",
    "note": "Knee",
    "updated": "",
    "impact": 7
@@ -1437,7 +1437,7 @@
   {
    "player": "Ziaire Williams",
    "team": "LAL",
-   "status": "Q",
+   "status": "O",
    "note": "Foot",
    "updated": "",
    "impact": 7
@@ -1447,14 +1447,6 @@
    "team": "HOU",
    "status": "O",
    "note": "Back",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Naji Marshall",
-   "team": "DAL",
-   "status": "Q",
-   "note": "Illness",
    "updated": "",
    "impact": 7
   },
@@ -1491,9 +1483,17 @@
    "impact": 5
   },
   {
+   "player": "Obi Toppin",
+   "team": "IND",
+   "status": "Q",
+   "note": "Back",
+   "updated": "",
+   "impact": 5
+  },
+  {
    "player": "Isaiah Joe",
    "team": "DET",
-   "status": "Q",
+   "status": "O",
    "note": "Hip",
    "updated": "",
    "impact": 4
@@ -1541,16 +1541,8 @@
   {
    "player": "Alpha Diallo",
    "team": "DEN",
-   "status": "Q",
+   "status": "O",
    "note": "Personal",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Simone Fontecchio",
-   "team": "MIA",
-   "status": "Q",
-   "note": "Illness",
    "updated": "",
    "impact": 3
   },
@@ -1833,6 +1825,14 @@
    "note": "Foot",
    "updated": "",
    "impact": 1
+  },
+  {
+   "player": "Dailyn Swain",
+   "team": "CHI",
+   "status": "Q",
+   "note": "Back",
+   "updated": "",
+   "impact": 1
   }
  ],
  "news": [
@@ -1852,7 +1852,7 @@
   },
   {
    "player": "Jaylen Brown",
-   "team": "PHI",
+   "team": "",
    "status": "Q",
    "note": "Usage boosts for LeBron James, Joel Embiid, and Tyrese Maxey.",
    "time": "9:35 AM"
@@ -1880,7 +1880,7 @@
   },
   {
    "player": "Isaiah Joe",
-   "team": "DET",
+   "team": "",
    "status": "Q",
    "note": "Extra minutes for Kevin Huerter and Duncan Robinson if out.",
    "time": "9:35 AM"
@@ -1968,6 +1968,34 @@
    "status": "P",
    "note": "Upgraded to probable.",
    "time": "2:50 PM"
+  },
+  {
+   "player": "Tre Johnson",
+   "team": "",
+   "status": "Q",
+   "note": "Would open up 22-24 minutes off the bench.",
+   "time": "4:50 PM"
+  },
+  {
+   "player": "Isaiah Joe",
+   "team": "",
+   "status": "O",
+   "note": "Joe has been ruled out. Ausar Thompson and Duncan Robinson could see an extra couple of minutes.",
+   "time": "4:50 PM"
+  },
+  {
+   "player": "Jaylen Brown",
+   "team": "",
+   "status": "D",
+   "note": "Big boost for Joel Embiid, Tyrese Maxey, and Lebron James. Dean Wade could draw the spot start.",
+   "time": "4:50 PM"
+  },
+  {
+   "player": "Naji Marshall",
+   "team": "",
+   "status": "P",
+   "note": "Marshall has been upgraded to probable.",
+   "time": "4:50 PM"
   }
  ],
  "teams": [
