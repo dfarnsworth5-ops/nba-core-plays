@@ -4,7 +4,7 @@
  "slate": "7 games · 3:00 PM ET lock",
  "note": "",
  "iso": "2026-10-31",
- "updated": "2026-10-31T09:25:57-06:00",
+ "updated": "2026-10-31T09:57:09-06:00",
  "positions": [
   "PG",
   "SG",
@@ -105,7 +105,7 @@
    "proj": 41.62,
    "type": "Core",
    "status": "",
-   "blurb": "Team-leading 33% usage, 1.09 DK FP/minute; 33-plus minutes in every game",
+   "blurb": "Team-leading 33% usage, 1.09 DK FP/minute; 33+ minutes in every game",
    "url": ""
   },
   {
@@ -225,7 +225,7 @@
    "proj": 41.62,
    "type": "Core",
    "status": "",
-   "blurb": "Team-leading 33% usage, 1.09 DK FP/minute; 33-plus minutes in every game",
+   "blurb": "Team-leading 33% usage, 1.09 DK FP/minute; 33+ minutes in every game",
    "url": ""
   },
   {
@@ -680,17 +680,17 @@
   },
   {
    "pos": "C",
-   "dkPos": "C",
+   "dkPos": "PF/C",
    "fdPos": "C",
-   "player": "Myles Turner",
-   "team": "MIL",
-   "opp": "CLE",
-   "dk": 4900,
+   "player": "Alperen Sengun",
+   "team": "HOU",
+   "opp": "OKC",
+   "dk": 8600,
    "fd": 0,
-   "proj": 26.5,
+   "proj": 41.32,
    "type": "",
-   "status": "",
-   "blurb": "Could see a few extra minutes against the big CLE frontcourt",
+   "status": "Q",
+   "blurb": "OKC down a primary rim protector with Holmgren out",
    "url": ""
   }
  ],
