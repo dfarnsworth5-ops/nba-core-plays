@@ -4,7 +4,7 @@
  "slate": "7 games · 3:00 PM ET lock",
  "note": "",
  "iso": "2026-10-31",
- "updated": "2026-10-31T13:06:21-06:00",
+ "updated": "2026-10-31T15:26:00-06:00",
  "positions": [
   "PG",
   "SG",
@@ -454,18 +454,26 @@
    "impact": 10
   },
   {
-   "player": "Jaylen Brown",
-   "team": "PHI",
-   "status": "Q",
-   "note": "Knee",
+   "player": "Dejounte Murray",
+   "team": "NOP",
+   "status": "O",
+   "note": "Personal",
    "updated": "",
-   "impact": 9
+   "impact": 10
   },
   {
    "player": "Chet Holmgren",
    "team": "OKC",
    "status": "O",
    "note": "Knee",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Stephon Castle",
+   "team": "SAS",
+   "status": "Q",
+   "note": "Migraine",
    "updated": "",
    "impact": 9
   },
@@ -767,9 +775,9 @@
   {
    "player": "Jaylen Brown",
    "team": "PHI",
-   "status": "Q",
+   "status": "A",
    "note": "PHI gets very shorthanded if multiple starters miss out",
-   "time": "11:21 AM"
+   "time": "5:25 PM"
   },
   {
    "player": "Fred VanVleet",
@@ -805,6 +813,13 @@
    "status": "Q",
    "note": "Johnson (+4.5%), Harper (+4.3%), Wemby (+4%) get nice usage boosts without Castle",
    "time": "3:05 PM"
+  },
+  {
+   "player": "Dejounte Murray",
+   "team": "",
+   "status": "O",
+   "note": "Fears takes on a huge role; extra usage for Zion + Murphy",
+   "time": "5:25 PM"
   }
  ],
  "teams": [
