@@ -4,7 +4,7 @@
  "slate": "7 games · 3:00 PM ET lock",
  "note": "",
  "iso": "2026-10-31",
- "updated": "2026-10-31T12:58:49-06:00",
+ "updated": "2026-10-31T13:06:21-06:00",
  "positions": [
   "PG",
   "SG",
@@ -1698,6 +1698,13 @@
    "status": "O",
    "note": "Smart likely starts with Thompson playing some PG",
    "time": "1:27 PM"
+  },
+  {
+   "player": "Stephon Castle",
+   "team": "SAS",
+   "status": "Q",
+   "note": "Johnson (+4.5%), Harper (+4.3%), Wemby (+4%) get nice usage boosts without Castle",
+   "time": "3:05 PM"
   }
  ],
  "teams": [
