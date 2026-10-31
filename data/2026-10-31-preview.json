@@ -4,7 +4,7 @@
  "slate": "7 games · 3:00 PM ET lock",
  "note": "",
  "iso": "2026-10-31",
- "updated": "2026-10-31T10:08:11-06:00",
+ "updated": "2026-10-31T11:30:10-06:00",
  "positions": [
   "PG",
   "SG",
@@ -400,7 +400,7 @@
   {
    "player": "Joel Embiid",
    "team": "PHI",
-   "status": "D",
+   "status": "O",
    "note": "Rest",
    "updated": "",
    "impact": 10
@@ -408,7 +408,7 @@
   {
    "player": "LeBron James",
    "team": "PHI",
-   "status": "Q",
+   "status": "O",
    "note": "Rest",
    "updated": "",
    "impact": 10
@@ -418,14 +418,6 @@
    "team": "MIN",
    "status": "O",
    "note": "Knee",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Alperen Sengun",
-   "team": "HOU",
-   "status": "Q",
-   "note": "Back",
    "updated": "",
    "impact": 10
   },
@@ -456,7 +448,7 @@
   {
    "player": "Fred VanVleet",
    "team": "HOU",
-   "status": "D",
+   "status": "O",
    "note": "Rest",
    "updated": "",
    "impact": 10
@@ -496,8 +488,16 @@
   {
    "player": "Reed Sheppard",
    "team": "HOU",
-   "status": "Q",
+   "status": "O",
    "note": "Back",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Jabari Walker",
+   "team": "PHI",
+   "status": "Q",
+   "note": "Knee",
    "updated": "",
    "impact": 6
   },
@@ -516,14 +516,6 @@
    "note": "Knee",
    "updated": "",
    "impact": 5
-  },
-  {
-   "player": "Jabari Walker",
-   "team": "PHI",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 4
   },
   {
    "player": "Steven Adams",
@@ -550,6 +542,14 @@
    "impact": 4
   },
   {
+   "player": "Tacko Fall",
+   "team": "PHI",
+   "status": "Q",
+   "note": "Quad",
+   "updated": "",
+   "impact": 4
+  },
+  {
    "player": "Quinten Post",
    "team": "MEM",
    "status": "D",
@@ -572,14 +572,6 @@
    "note": "Ankle",
    "updated": "",
    "impact": 2
-  },
-  {
-   "player": "Tacko Fall",
-   "team": "PHI",
-   "status": "O",
-   "note": "Quad",
-   "updated": "",
-   "impact": 1
   },
   {
    "player": "Dominick Barlow",
@@ -758,14 +750,6 @@
    "impact": 1
   },
   {
-   "player": "Tacko Fall",
-   "team": "PHI",
-   "status": "O",
-   "note": "Quad",
-   "updated": "",
-   "impact": 1
-  },
-  {
    "player": "Dominick Barlow",
    "team": "PHI",
    "status": "O",
@@ -786,23 +770,23 @@
   {
    "player": "Joel Embiid",
    "team": "",
-   "status": "D",
+   "status": "O",
    "note": "Bona likely starts at the 5; usage boosts for Maxey, Brown, James, and Edgecombe",
-   "time": "11:21 AM"
+   "time": "1:27 PM"
   },
   {
    "player": "LeBron James",
-   "team": "PHI",
-   "status": "Q",
+   "team": "",
+   "status": "O",
    "note": "Dean Wade started the last time LeBron was out",
-   "time": "11:21 AM"
+   "time": "1:27 PM"
   },
   {
    "player": "Alperen Sengun",
    "team": "HOU",
-   "status": "Q",
-   "note": "Capela likely starts again with Adams already out",
-   "time": "11:21 AM"
+   "status": "A",
+   "note": "Not listed on the injury report",
+   "time": "1:27 PM"
   },
   {
    "player": "Jaylen Brown",
@@ -814,9 +798,9 @@
   {
    "player": "Fred VanVleet",
    "team": "",
-   "status": "D",
-   "note": "Sheppard (Q) would start if he plays; Smart could play heavier minutes",
-   "time": "11:21 AM"
+   "status": "O",
+   "note": "Smart likely starts with Thompson playing some PG",
+   "time": "1:27 PM"
   },
   {
    "player": "Ty Jerome",
@@ -831,6 +815,13 @@
    "status": "O",
    "note": "Matkovic started the last game at C over Jordan",
    "time": "11:21 AM"
+  },
+  {
+   "player": "Reed Sheppard",
+   "team": "",
+   "status": "O",
+   "note": "Smart likely starts with Thompson playing some PG",
+   "time": "1:27 PM"
   }
  ],
  "teams": [
