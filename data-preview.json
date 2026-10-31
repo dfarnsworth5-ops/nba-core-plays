@@ -4,7 +4,7 @@
  "slate": "7 games · 3:00 PM ET lock",
  "note": "",
  "iso": "2026-10-31",
- "updated": "2026-10-31T11:30:10-06:00",
+ "updated": "2026-10-31T12:58:49-06:00",
  "positions": [
   "PG",
   "SG",
@@ -430,14 +430,6 @@
    "impact": 10
   },
   {
-   "player": "Lauri Markkanen",
-   "team": "UTA",
-   "status": "Q",
-   "note": "Wrist",
-   "updated": "",
-   "impact": 10
-  },
-  {
    "player": "Ty Jerome",
    "team": "MEM",
    "status": "Q",
@@ -450,6 +442,14 @@
    "team": "HOU",
    "status": "O",
    "note": "Rest",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Rudy Gobert",
+   "team": "MIN",
+   "status": "Q",
+   "note": "Back",
    "updated": "",
    "impact": 10
   },
@@ -510,26 +510,10 @@
    "impact": 5
   },
   {
-   "player": "Robert Williams III",
-   "team": "POR",
-   "status": "Q",
-   "note": "Knee",
-   "updated": "",
-   "impact": 5
-  },
-  {
    "player": "Steven Adams",
    "team": "HOU",
    "status": "O",
    "note": "Calf",
-   "updated": "",
-   "impact": 4
-  },
-  {
-   "player": "Meleek Thomas",
-   "team": "CLE",
-   "status": "Q",
-   "note": "Foot",
    "updated": "",
    "impact": 4
   },
@@ -564,14 +548,6 @@
    "note": "Ankle",
    "updated": "",
    "impact": 3
-  },
-  {
-   "player": "Chris Youngblood",
-   "team": "POR",
-   "status": "Q",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 2
   },
   {
    "player": "Dominick Barlow",
@@ -771,7 +747,7 @@
    "player": "Joel Embiid",
    "team": "",
    "status": "O",
-   "note": "Bona likely starts at the 5; usage boosts for Maxey, Brown, James, and Edgecombe",
+   "note": "Bona likely starts at the 5; usage boosts for Maxey, Brown, and Edgecombe",
    "time": "1:27 PM"
   },
   {
