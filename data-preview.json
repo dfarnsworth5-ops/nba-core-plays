@@ -4,7 +4,7 @@
  "slate": "4 games · 3:30 PM ET lock",
  "note": "",
  "iso": "2026-11-01",
- "updated": "2026-11-01T08:30:31-07:00",
+ "updated": "2026-11-01T08:54:34-07:00",
  "positions": [
   "PG",
   "SG",
@@ -439,7 +439,7 @@
   {
    "player": "Mitchell Robinson",
    "team": "BOS",
-   "status": "Q",
+   "status": "O",
    "note": "Rest",
    "updated": "",
    "impact": 8
@@ -614,7 +614,7 @@
   },
   {
    "player": "Mitchell Robinson",
-   "team": "BOS",
+   "team": "",
    "status": "O",
    "note": "Neemias Queta slides into a starting role with Luka Garza playing backup minutes",
    "time": "10:28 AM"
