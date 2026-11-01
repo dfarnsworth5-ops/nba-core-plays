@@ -4,7 +4,7 @@
  "slate": "4 games · 3:30 PM ET lock",
  "note": "",
  "iso": "2026-11-01",
- "updated": "2026-11-01T08:16:53-07:00",
+ "updated": "2026-11-01T08:28:37-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1511,6 +1511,13 @@
    "status": "Q",
    "note": "Jake LaRavia likely steps into starting role",
    "time": "10:13 AM"
+  },
+  {
+   "player": "Mitchell Robinson",
+   "team": "BOS",
+   "status": "O",
+   "note": "Neemias Queta slides into a starting role with Luka Garza playing backup minutes",
+   "time": "10:28 AM"
   }
  ],
  "teams": [
