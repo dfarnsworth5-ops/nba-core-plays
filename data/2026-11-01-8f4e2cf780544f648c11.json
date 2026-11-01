@@ -1,0 +1,3375 @@
+{
+ "title": "NBA Core Plays",
+ "date": "Sunday, November 1st",
+ "slate": "4 games · 3:30 PM ET lock",
+ "note": "",
+ "iso": "2026-11-01",
+ "updated": "2026-11-01T08:16:53-07:00",
+ "positions": [
+  "PG",
+  "SG",
+  "SF",
+  "PF",
+  "C"
+ ],
+ "tz": "ET",
+ "games": [
+  {
+   "away": "Boston Celtics",
+   "home": "Orlando Magic",
+   "time": "3:30 PM",
+   "min": 930,
+   "fav": "BOS",
+   "spread": -6.5,
+   "total": 222.5,
+   "dk": "M",
+   "fd": "S"
+  },
+  {
+   "away": "Brooklyn Nets",
+   "home": "Indiana Pacers",
+   "time": "5:00 PM",
+   "min": 1020,
+   "fav": "IND",
+   "spread": -3.5,
+   "total": 229.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Los Angeles Clippers",
+   "home": "Golden State Warriors",
+   "time": "8:30 PM",
+   "min": 1230,
+   "fav": "GSW",
+   "spread": -1.5,
+   "total": 221.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Toronto Raptors",
+   "home": "Los Angeles Lakers",
+   "time": "9:00 PM",
+   "min": 1260,
+   "fav": "LAL",
+   "spread": -3.5,
+   "total": 228.5,
+   "dk": "M",
+   "fd": "M"
+  }
+ ],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Brandon Williams",
+   "team": "GSW",
+   "opp": "LAC",
+   "dk": 4400,
+   "fd": 0,
+   "proj": 27.58,
+   "type": "Core",
+   "status": "",
+   "blurb": "Started and logged 24 minutes in the last game Curry missed; 1.24 DK FP/minute w/o Curry",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Andrew Nembhard",
+   "team": "IND",
+   "opp": "BKN",
+   "dk": 7100,
+   "fd": 0,
+   "proj": 38.26,
+   "type": "Core",
+   "status": "",
+   "blurb": "Much more productive (1.2 DK FP/minute) as the starting PG in place of Haliburton",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Nolan Traore",
+   "team": "BKN",
+   "opp": "IND",
+   "dk": 4300,
+   "fd": 0,
+   "proj": 22.76,
+   "type": "",
+   "status": "",
+   "blurb": "1.00 DK FP/minute this season with Demin and Brown off the floor",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Darius Garland",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 8200,
+   "fd": 0,
+   "proj": 41.04,
+   "type": "",
+   "status": "",
+   "blurb": "Unchallenged usage leader for LAC (34%) with Kawhi traded and Ingram injured",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Luka Doncic",
+   "team": "LAL",
+   "opp": "TOR",
+   "dk": 12300,
+   "fd": 0,
+   "proj": 57.13,
+   "type": "",
+   "status": "",
+   "blurb": "Enjoying life without LeBron, posting monster numbers (41% usage, 1.69 DK FPPM)",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Keaton Wagler",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 5400,
+   "fd": 0,
+   "proj": 26.79,
+   "type": "",
+   "status": "",
+   "blurb": "Rookie playing mid-20s minutes off the bench; 1.03 DK FP/minute so far",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "opp": "LAL",
+   "dk": 6800,
+   "fd": 0,
+   "proj": 33.19,
+   "type": "",
+   "status": "",
+   "blurb": "Usage up by 2% this season with Kawhi on the bench",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Brandin Podziemski",
+   "team": "GSW",
+   "opp": "LAC",
+   "dk": 6600,
+   "fd": 0,
+   "proj": 31.21,
+   "type": "",
+   "status": "",
+   "blurb": "Only 50 minutes, but 1.23 DK FP/minute with Curry and Green off the floor this year",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Andrew Nembhard",
+   "team": "IND",
+   "opp": "BKN",
+   "dk": 7100,
+   "fd": 0,
+   "proj": 38.26,
+   "type": "Core",
+   "status": "",
+   "blurb": "Much more productive (1.2 DK FP/minute) as the starting PG in place of Haliburton",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "RJ Barrett",
+   "team": "TOR",
+   "opp": "LAL",
+   "dk": 7300,
+   "fd": 0,
+   "proj": 37.15,
+   "type": "",
+   "status": "",
+   "blurb": "Vanished in the last game, but 2.2% usage boost without Leonard this season",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Nolan Traore",
+   "team": "BKN",
+   "opp": "IND",
+   "dk": 4300,
+   "fd": 0,
+   "proj": 22.76,
+   "type": "",
+   "status": "",
+   "blurb": "1.00 DK FP/minute this season with Demin and Brown off the floor",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
+   "player": "Desmond Bane",
+   "team": "ORL",
+   "opp": "BOS",
+   "dk": 6900,
+   "fd": 0,
+   "proj": 34.93,
+   "type": "",
+   "status": "",
+   "blurb": "Boston is allowing the most 3-point attempts per game this season (44.8)",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Quenton Jackson",
+   "team": "IND",
+   "opp": "BKN",
+   "dk": 3800,
+   "fd": 0,
+   "proj": 19.96,
+   "type": "",
+   "status": "",
+   "blurb": "Cheapie who logged 23 minutes in last game without Haliburton",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Keaton Wagler",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 5400,
+   "fd": 0,
+   "proj": 26.79,
+   "type": "",
+   "status": "",
+   "blurb": "Rookie playing mid-20s minutes off the bench; 1.03 DK FP/minute so far",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Anthony Black",
+   "team": "ORL",
+   "opp": "BOS",
+   "dk": 5900,
+   "fd": 0,
+   "proj": 28.68,
+   "type": "",
+   "status": "",
+   "blurb": "Thrust into a starting role with Suggs and Banchero out",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
+   "player": "Paul George",
+   "team": "BOS",
+   "opp": "ORL",
+   "dk": 7200,
+   "fd": 0,
+   "proj": 34.06,
+   "type": "",
+   "status": "",
+   "blurb": "Quietly lighting it up so far for the Celtics (28% usage, 1.33 DK FP/minute)",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF/PF",
+   "fdPos": "SF",
+   "player": "Scottie Barnes",
+   "team": "TOR",
+   "opp": "LAL",
+   "dk": 8700,
+   "fd": 0,
+   "proj": 45.39,
+   "type": "Core",
+   "status": "",
+   "blurb": "Taking charge of the offense without Kawhi with 34.5% usage, 1.38 DK FP/minute",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF/PF",
+   "fdPos": "SF",
+   "player": "Franz Wagner",
+   "team": "ORL",
+   "opp": "BOS",
+   "dk": 8300,
+   "fd": 0,
+   "proj": 43.47,
+   "type": "",
+   "status": "",
+   "blurb": "Major playmaking role without Banchero or Suggs; team-high 31.3% usage",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF/PF",
+   "fdPos": "SF",
+   "player": "Yaxel Lendeborg",
+   "team": "GSW",
+   "opp": "LAC",
+   "dk": 7600,
+   "fd": 0,
+   "proj": 39,
+   "type": "",
+   "status": "",
+   "blurb": "Fouled out of the last game; 1.3 DK FP/minute without Curry and Green",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SG/SF",
+   "fdPos": "SF",
+   "player": "Desmond Bane",
+   "team": "ORL",
+   "opp": "BOS",
+   "dk": 6900,
+   "fd": 0,
+   "proj": 34.93,
+   "type": "",
+   "status": "",
+   "blurb": "Boston is allowing the most 3-point attempts per game this season (44.8)",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Michael Porter",
+   "team": "BKN",
+   "opp": "IND",
+   "dk": 7400,
+   "fd": 0,
+   "proj": 36.99,
+   "type": "",
+   "status": "",
+   "blurb": "Usage down a bit this season (23.7%), still producing at a high level (1.19 DK FPPM)",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Aaron Nesmith",
+   "team": "IND",
+   "opp": "BKN",
+   "dk": 4400,
+   "fd": 0,
+   "proj": 23.23,
+   "type": "",
+   "status": "",
+   "blurb": "Limited minutes so far, but decent starting value at $4,400",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF/PF",
+   "fdPos": "SF",
+   "player": "Jayson Tatum",
+   "team": "BOS",
+   "opp": "ORL",
+   "dk": 10100,
+   "fd": 0,
+   "proj": 50.02,
+   "type": "",
+   "status": "",
+   "blurb": "Orlando is a sneaky-good matchup, ranked 6th in pace and 23rd in defensive efficiency",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SG/SF",
+   "fdPos": "SF",
+   "player": "Paul George",
+   "team": "BOS",
+   "opp": "ORL",
+   "dk": 7200,
+   "fd": 0,
+   "proj": 34.06,
+   "type": "",
+   "status": "",
+   "blurb": "Quietly lighting it up so far for the Celtics (28% usage, 1.33 DK FP/minute)",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "SF/PF",
+   "fdPos": "PF",
+   "player": "Scottie Barnes",
+   "team": "TOR",
+   "opp": "LAL",
+   "dk": 8700,
+   "fd": 0,
+   "proj": 45.39,
+   "type": "Core",
+   "status": "",
+   "blurb": "Taking charge of the offense without Kawhi with 34.5% usage, 1.38 DK FP/minute",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Julius Randle",
+   "team": "BKN",
+   "opp": "IND",
+   "dk": 7500,
+   "fd": 0,
+   "proj": 39.55,
+   "type": "",
+   "status": "",
+   "blurb": "Usage up by 2.7% this year with Demin and Brown out",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Obi Toppin",
+   "team": "IND",
+   "opp": "BKN",
+   "dk": 4900,
+   "fd": 0,
+   "proj": 25.63,
+   "type": "",
+   "status": "Q",
+   "blurb": "20+ minutes in 4 of the last 5 games",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "SF/PF",
+   "fdPos": "PF",
+   "player": "Franz Wagner",
+   "team": "ORL",
+   "opp": "BOS",
+   "dk": 8300,
+   "fd": 0,
+   "proj": 43.47,
+   "type": "",
+   "status": "",
+   "blurb": "Major playmaking role without Banchero or Suggs; team-high 31.3% usage",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "SF/PF",
+   "fdPos": "PF",
+   "player": "Yaxel Lendeborg",
+   "team": "GSW",
+   "opp": "LAC",
+   "dk": 7600,
+   "fd": 0,
+   "proj": 39,
+   "type": "",
+   "status": "",
+   "blurb": "Fouled out of the last game; 1.3 DK FP/minute without Curry and Green",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "SF/PF",
+   "fdPos": "PF",
+   "player": "Jayson Tatum",
+   "team": "BOS",
+   "opp": "ORL",
+   "dk": 10100,
+   "fd": 0,
+   "proj": 50.02,
+   "type": "",
+   "status": "",
+   "blurb": "Orlando is a sneaky-good matchup, ranked 6th in pace and 23rd in defensive efficiency",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Pascal Siakam",
+   "team": "IND",
+   "opp": "BKN",
+   "dk": 8400,
+   "fd": 0,
+   "proj": 40.17,
+   "type": "",
+   "status": "",
+   "blurb": "Leading Indy in usage (30%) alongside 1.3 DK FP/minute without Hali and Zubac",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "SF/PF",
+   "fdPos": "PF",
+   "player": "Derrick Jones",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 4600,
+   "fd": 0,
+   "proj": 23.2,
+   "type": "",
+   "status": "",
+   "blurb": "Low usage, but $4,600 with a path to 30ish minutes",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Isaiah Jackson",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 4500,
+   "fd": 0,
+   "proj": 27.46,
+   "type": "Core",
+   "status": "",
+   "blurb": "Productive starter (1.16 DK FPPM) facing a porous GSW defense missing Draymond",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Wendell Carter",
+   "team": "ORL",
+   "opp": "BOS",
+   "dk": 5800,
+   "fd": 0,
+   "proj": 30.88,
+   "type": "",
+   "status": "",
+   "blurb": "Not the most exciting roster (0.85 DK FP/minute), but did see 39 minutes in the last game",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Moe Wagner",
+   "team": "BKN",
+   "opp": "IND",
+   "dk": 3600,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "22 minutes off the Nets' bench in back-to-back games",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Jakob Poeltl",
+   "team": "TOR",
+   "opp": "LAL",
+   "dk": 4100,
+   "fd": 0,
+   "proj": 21.3,
+   "type": "",
+   "status": "",
+   "blurb": "Very wide range of outcomes, but down to $4,100 as a result",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Walker Kessler",
+   "team": "LAL",
+   "opp": "TOR",
+   "dk": 7800,
+   "fd": 0,
+   "proj": 31.64,
+   "type": "",
+   "status": "",
+   "blurb": "1.12 FP/minute and usually logging around 30 minutes per game",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Day'Ron Sharpe",
+   "team": "BKN",
+   "opp": "IND",
+   "dk": 5100,
+   "fd": 0,
+   "proj": 24.88,
+   "type": "",
+   "status": "",
+   "blurb": "Still playing limited minutes despite starting role",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Brook Lopez",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 4400,
+   "fd": 0,
+   "proj": 21.04,
+   "type": "",
+   "status": "",
+   "blurb": "Solid leverage play if Isaiah Jackson is much more popular",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Larry Nance",
+   "team": "IND",
+   "opp": "BKN",
+   "dk": 3600,
+   "fd": 0,
+   "proj": 15.36,
+   "type": "",
+   "status": "",
+   "blurb": "Extra minutes without Zubac; could play even more if Toppin (Q) sits",
+   "url": ""
+  }
+ ],
+ "playsFd": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "SG/PG",
+   "player": "Andrew Nembhard",
+   "team": "IND",
+   "opp": "BKN",
+   "dk": 0,
+   "fd": 6400,
+   "proj": 36.55,
+   "type": "Core",
+   "status": "",
+   "blurb": "Much more productive (1.11 FD FP/minute) as the starting PG in place of Haliburton",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Brandon Williams",
+   "team": "GSW",
+   "opp": "LAC",
+   "dk": 0,
+   "fd": 4100,
+   "proj": 27.14,
+   "type": "Core",
+   "status": "",
+   "blurb": "Started and logged 24 minutes in the last game Curry missed; 1.24 FD FP/minute w/o Curry",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Darius Garland",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 0,
+   "fd": 7200,
+   "proj": 38.28,
+   "type": "",
+   "status": "",
+   "blurb": "Unchallenged usage leader for LAC (34%) with Kawhi traded and Ingram injured",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Luka Doncic",
+   "team": "LAL",
+   "opp": "TOR",
+   "dk": 0,
+   "fd": 11900,
+   "proj": 53.48,
+   "type": "",
+   "status": "",
+   "blurb": "Enjoying life without LeBron, posting monster numbers (41% usage, 1.58 FD FPPM)",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "opp": "LAL",
+   "dk": 0,
+   "fd": 6300,
+   "proj": 32.22,
+   "type": "",
+   "status": "",
+   "blurb": "Usage up by 2% this season with Kawhi on the bench",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG/SG",
+   "player": "De'Anthony Melton",
+   "team": "GSW",
+   "opp": "LAC",
+   "dk": 0,
+   "fd": 4300,
+   "proj": 24.48,
+   "type": "",
+   "status": "",
+   "blurb": "26 minutes and 45.25 FD points the last time Curry missed a game",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Nolan Traore",
+   "team": "BKN",
+   "opp": "IND",
+   "dk": 0,
+   "fd": 4100,
+   "proj": 22.29,
+   "type": "",
+   "status": "",
+   "blurb": "1.03 FD FP/minute this season with Demin and Brown off the floor",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG/SG",
+   "player": "Kris Dunn",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 0,
+   "fd": 5000,
+   "proj": 25.16,
+   "type": "",
+   "status": "",
+   "blurb": "Not a thrilling player to roster, but usually playing 30+ minutes for LAC",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG/PG",
+   "player": "Andrew Nembhard",
+   "team": "IND",
+   "opp": "BKN",
+   "dk": 0,
+   "fd": 6400,
+   "proj": 36.55,
+   "type": "Core",
+   "status": "",
+   "blurb": "Much more productive (1.11 FD FP/minute) as the starting PG in place of Haliburton",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG/SF",
+   "player": "RJ Barrett",
+   "team": "TOR",
+   "opp": "LAL",
+   "dk": 0,
+   "fd": 6900,
+   "proj": 35.87,
+   "type": "",
+   "status": "",
+   "blurb": "Vanished in the last game, but 2.2% usage boost without Leonard this season",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "PG/SG",
+   "player": "De'Anthony Melton",
+   "team": "GSW",
+   "opp": "LAC",
+   "dk": 0,
+   "fd": 4300,
+   "proj": 24.48,
+   "type": "",
+   "status": "",
+   "blurb": "26 minutes and 45.25 FD points the last time Curry missed a game",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Brandin Podziemski",
+   "team": "GSW",
+   "opp": "LAC",
+   "dk": 0,
+   "fd": 6000,
+   "proj": 30.41,
+   "type": "",
+   "status": "",
+   "blurb": "Only 50 minutes, but 1.26 FD FP/minute with Curry and Green off the floor this year",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Keaton Wagler",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 0,
+   "fd": 4900,
+   "proj": 25.91,
+   "type": "",
+   "status": "",
+   "blurb": "Rookie playing mid-20s minutes off the bench; 0.98 FD FP/minute so far",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Austin Reaves",
+   "team": "LAL",
+   "opp": "TOR",
+   "dk": 0,
+   "fd": 8000,
+   "proj": 34.23,
+   "type": "",
+   "status": "",
+   "blurb": "Solid numbers (27% usage, 1.03 FD FP/minute) even with Luka dominating the ball",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "PG/SG",
+   "player": "Kris Dunn",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 0,
+   "fd": 5000,
+   "proj": 25.16,
+   "type": "",
+   "status": "",
+   "blurb": "Not a thrilling player to roster, but usually playing 30+ minutes for LAC",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Ja'Kobe Walter",
+   "team": "TOR",
+   "opp": "LAL",
+   "dk": 0,
+   "fd": 4700,
+   "proj": 22.34,
+   "type": "",
+   "status": "",
+   "blurb": "27+ minutes in each of the 3 games Leonard has missed",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "PF/SF",
+   "player": "Yaxel Lendeborg",
+   "team": "GSW",
+   "opp": "LAC",
+   "dk": 0,
+   "fd": 7200,
+   "proj": 37.93,
+   "type": "Core",
+   "status": "",
+   "blurb": "Fouled out of the last game; 1.24 FD FP/minute without Curry and Green",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SG/SF",
+   "player": "RJ Barrett",
+   "team": "TOR",
+   "opp": "LAL",
+   "dk": 0,
+   "fd": 6900,
+   "proj": 35.87,
+   "type": "",
+   "status": "",
+   "blurb": "Vanished in the last game, but 2.2% usage boost without Leonard this season",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Michael Porter",
+   "team": "BKN",
+   "opp": "IND",
+   "dk": 0,
+   "fd": 7300,
+   "proj": 35.3,
+   "type": "",
+   "status": "",
+   "blurb": "Usage down a bit this season (23.7%), still producing at a high level (1.19 FD FPPM)",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Gui Santos",
+   "team": "GSW",
+   "opp": "LAC",
+   "dk": 0,
+   "fd": 3900,
+   "proj": 22.16,
+   "type": "",
+   "status": "",
+   "blurb": "Struggling this year (0.78 FD FPPM), but Draymond's absence opens up frontcourt minutes",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF/PF",
+   "player": "Rui Hachimura",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 0,
+   "fd": 5100,
+   "proj": 25.91,
+   "type": "",
+   "status": "",
+   "blurb": "Scoring-reliant, and uncharacteristically poor shooting is tanking his FPPM rate (0.68 FD)",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Kelly Oubre",
+   "team": "IND",
+   "opp": "BKN",
+   "dk": 0,
+   "fd": 4200,
+   "proj": 22,
+   "type": "",
+   "status": "",
+   "blurb": "Historically a productive player; hasn't yet found a rhythm this year (0.71 FD FP/min.)",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Aaron Nesmith",
+   "team": "IND",
+   "opp": "BKN",
+   "dk": 0,
+   "fd": 4400,
+   "proj": 22.65,
+   "type": "",
+   "status": "",
+   "blurb": "Limited minutes so far, but decent starting value at $4,400",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Chaney Johnson",
+   "team": "BKN",
+   "opp": "IND",
+   "dk": 0,
+   "fd": 4100,
+   "proj": 21,
+   "type": "",
+   "status": "",
+   "blurb": "21+ minutes in 3 of the last 4 games; started the last one",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Scottie Barnes",
+   "team": "TOR",
+   "opp": "LAL",
+   "dk": 0,
+   "fd": 9100,
+   "proj": 45.01,
+   "type": "Core",
+   "status": "",
+   "blurb": "Taking charge of the offense without Kawhi with 34.5% usage, 1.44 FD FP/minute",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF/SF",
+   "player": "Yaxel Lendeborg",
+   "team": "GSW",
+   "opp": "LAC",
+   "dk": 0,
+   "fd": 7200,
+   "proj": 37.93,
+   "type": "Core",
+   "status": "",
+   "blurb": "Fouled out of the last game; 1.24 FD FP/minute without Curry and Green",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Julius Randle",
+   "team": "BKN",
+   "opp": "IND",
+   "dk": 0,
+   "fd": 7400,
+   "proj": 37.6,
+   "type": "",
+   "status": "",
+   "blurb": "Usage up by 2.7% this year with Demin and Brown out",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF/C",
+   "player": "Isaiah Jackson",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 0,
+   "fd": 5000,
+   "proj": 28.33,
+   "type": "",
+   "status": "",
+   "blurb": "Productive starter (1.24 FD FPPM) facing a porous GSW defense missing Draymond",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Pascal Siakam",
+   "team": "IND",
+   "opp": "BKN",
+   "dk": 0,
+   "fd": 7900,
+   "proj": 39.16,
+   "type": "",
+   "status": "",
+   "blurb": "Leading Indy in usage (30%) alongside 1.24 FD FP/minute without Hali and Zubac",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF/C",
+   "player": "Obi Toppin",
+   "team": "IND",
+   "opp": "BKN",
+   "dk": 0,
+   "fd": 4500,
+   "proj": 24.83,
+   "type": "",
+   "status": "Q",
+   "blurb": "20+ minutes in 4 of the last 5 games",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "SF/PF",
+   "player": "Rui Hachimura",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 0,
+   "fd": 5100,
+   "proj": 25.91,
+   "type": "",
+   "status": "",
+   "blurb": "Scoring-reliant, and uncharacteristically poor shooting is tanking his FPPM rate (0.68 FD)",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "SF/PF",
+   "player": "Derrick Jones",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 0,
+   "fd": 4700,
+   "proj": 23.7,
+   "type": "",
+   "status": "",
+   "blurb": "Low usage, but $4,600 with a path to 30ish minutes",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "PF/C",
+   "player": "Isaiah Jackson",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 0,
+   "fd": 5000,
+   "proj": 28.33,
+   "type": "",
+   "status": "",
+   "blurb": "Productive starter (1.24 FD FPPM) facing a porous GSW defense missing Draymond",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "PF/C",
+   "player": "Obi Toppin",
+   "team": "IND",
+   "opp": "BKN",
+   "dk": 0,
+   "fd": 4500,
+   "proj": 24.83,
+   "type": "",
+   "status": "Q",
+   "blurb": "20+ minutes in 4 of the last 5 games",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Day'Ron Sharpe",
+   "team": "BKN",
+   "opp": "IND",
+   "dk": 0,
+   "fd": 4700,
+   "proj": 25.09,
+   "type": "",
+   "status": "",
+   "blurb": "Still playing limited minutes despite starting role",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Brook Lopez",
+   "team": "LAC",
+   "opp": "GSW",
+   "dk": 0,
+   "fd": 4200,
+   "proj": 21.37,
+   "type": "",
+   "status": "",
+   "blurb": "Solid leverage play if Isaiah Jackson is much more popular",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Jakob Poeltl",
+   "team": "TOR",
+   "opp": "LAL",
+   "dk": 0,
+   "fd": 4300,
+   "proj": 21.99,
+   "type": "",
+   "status": "",
+   "blurb": "Very wide range of outcomes, but down to $4,300 as a result",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Walker Kessler",
+   "team": "LAL",
+   "opp": "TOR",
+   "dk": 0,
+   "fd": 8000,
+   "proj": 32.61,
+   "type": "",
+   "status": "",
+   "blurb": "1.2 FP/minute and usually logging around 30 minutes per game",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Moe Wagner",
+   "team": "BKN",
+   "opp": "IND",
+   "dk": 0,
+   "fd": 4000,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "22 minutes off the Nets' bench in back-to-back games",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Larry Nance",
+   "team": "IND",
+   "opp": "BKN",
+   "dk": 0,
+   "fd": 3700,
+   "proj": 15.44,
+   "type": "",
+   "status": "",
+   "blurb": "Extra minutes without Zubac; could play even more if Toppin (Q) sits",
+   "url": ""
+  }
+ ],
+ "injuries": [
+  {
+   "player": "Jimmy Butler",
+   "team": "GSW",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Tyrese Haliburton",
+   "team": "IND",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Brandon Ingram",
+   "team": "LAC",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Paolo Banchero",
+   "team": "ORL",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Kawhi Leonard",
+   "team": "TOR",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Stephen Curry",
+   "team": "GSW",
+   "status": "O",
+   "note": "Rest",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Ivica Zubac",
+   "team": "IND",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Draymond Green",
+   "team": "GSW",
+   "status": "O",
+   "note": "Rest",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Jalen Suggs",
+   "team": "ORL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "Mitchell Robinson",
+   "team": "BOS",
+   "status": "Q",
+   "note": "Rest",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "Egor Demin",
+   "team": "BKN",
+   "status": "O",
+   "note": "Leg",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "Mikel Brown",
+   "team": "BKN",
+   "status": "O",
+   "note": "Rest",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "Ziaire Williams",
+   "team": "LAL",
+   "status": "Q",
+   "note": "Foot/Heel",
+   "updated": "",
+   "impact": 7
+  },
+  {
+   "player": "Obi Toppin",
+   "team": "IND",
+   "status": "Q",
+   "note": "Back",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Devin Carter",
+   "team": "BOS",
+   "status": "O",
+   "note": "Illness",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Kristaps Porzingis",
+   "team": "GSW",
+   "status": "O",
+   "note": "NWT",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Moses Moody",
+   "team": "GSW",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "T.J. McConnell",
+   "team": "IND",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Johnny Furphy",
+   "team": "IND",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Ben Sheppard",
+   "team": "IND",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Yanic Konan Niederhauser",
+   "team": "LAC",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Max Strus",
+   "team": "LAC",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Bradley Beal",
+   "team": "LAC",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jordan Miller",
+   "team": "LAC",
+   "status": "O",
+   "note": "Shoulder",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Adou Thiero",
+   "team": "LAL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jonathan Isaac",
+   "team": "ORL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Noah Penda",
+   "team": "ORL",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Izaiyah Nelson",
+   "team": "ORL",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Nate Bittle",
+   "team": "TOR",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  }
+ ],
+ "news": [
+  {
+   "player": "Obi Toppin",
+   "team": "IND",
+   "status": "Q",
+   "note": "More minutes for Jarace Walker and Kobe Brown if Toppin is out",
+   "time": "10:13 AM"
+  },
+  {
+   "player": "Ziaire Williams",
+   "team": "LAL",
+   "status": "Q",
+   "note": "Jake LaRavia likely steps into starting role",
+   "time": "10:13 AM"
+  }
+ ],
+ "teams": [
+  [
+   "Aaron Gordon",
+   "DEN"
+  ],
+  [
+   "Aaron Gordon",
+   "DEN"
+  ],
+  [
+   "Aaron Nesmith",
+   "IND"
+  ],
+  [
+   "Aaron Nesmith",
+   "IND"
+  ],
+  [
+   "Aaron Wiggins",
+   "ATL"
+  ],
+  [
+   "Aaron Wiggins",
+   "ATL"
+  ],
+  [
+   "Ace Bailey",
+   "UTA"
+  ],
+  [
+   "Ace Bailey",
+   "UTA"
+  ],
+  [
+   "Aday Mara",
+   "OKC"
+  ],
+  [
+   "Aday Mara",
+   "OKC"
+  ],
+  [
+   "Adem Bona",
+   "PHI"
+  ],
+  [
+   "AJ Dybantsa",
+   "WAS"
+  ],
+  [
+   "AJ Green",
+   "MIL"
+  ],
+  [
+   "AJ Johnson",
+   "NOP"
+  ],
+  [
+   "Ajay Mitchell",
+   "OKC"
+  ],
+  [
+   "Ajay Mitchell",
+   "OKC"
+  ],
+  [
+   "AK Okereke",
+   "LAL"
+  ],
+  [
+   "Al Horford",
+   "GSW"
+  ],
+  [
+   "Al Horford",
+   "GSW"
+  ],
+  [
+   "Alex Caruso",
+   "OKC"
+  ],
+  [
+   "Alex Morales",
+   "ORL"
+  ],
+  [
+   "Alexandre Sarr",
+   "WAS"
+  ],
+  [
+   "Alexandre Sarr",
+   "WAS"
+  ],
+  [
+   "Alijah Martin",
+   "TOR"
+  ],
+  [
+   "Allen Graves",
+   "TOR"
+  ],
+  [
+   "Alperen Sengun",
+   "HOU"
+  ],
+  [
+   "Amen Thompson",
+   "HOU"
+  ],
+  [
+   "Amen Thompson",
+   "HOU"
+  ],
+  [
+   "Andre Drummond",
+   "NYK"
+  ],
+  [
+   "Andrew Nembhard",
+   "IND"
+  ],
+  [
+   "Andrew Nembhard",
+   "IND"
+  ],
+  [
+   "Andrew Wiggins",
+   "MIA"
+  ],
+  [
+   "Andrew Wiggins",
+   "MIA"
+  ],
+  [
+   "Anfernee Simons",
+   "PHI"
+  ],
+  [
+   "Anthony Black",
+   "ORL"
+  ],
+  [
+   "Anthony Davis",
+   "WAS"
+  ],
+  [
+   "Anthony Davis",
+   "WAS"
+  ],
+  [
+   "Anthony Edwards",
+   "MIN"
+  ],
+  [
+   "Anthony Gill",
+   "WAS"
+  ],
+  [
+   "Asa Newell",
+   "ATL"
+  ],
+  [
+   "Ausar Thompson",
+   "DET"
+  ],
+  [
+   "Austin Reaves",
+   "LAL"
+  ],
+  [
+   "Ayo Dosunmu",
+   "MIN"
+  ],
+  [
+   "Ayo Dosunmu",
+   "MIN"
+  ],
+  [
+   "Baba Miller",
+   "LAC"
+  ],
+  [
+   "Bam Adebayo",
+   "MIA"
+  ],
+  [
+   "Bam Adebayo",
+   "MIA"
+  ],
+  [
+   "Bennedict Mathurin",
+   "NOP"
+  ],
+  [
+   "Bennett Stirtz",
+   "OKC"
+  ],
+  [
+   "Bilal Coulibaly",
+   "WAS"
+  ],
+  [
+   "Bilal Coulibaly",
+   "WAS"
+  ],
+  [
+   "Bobby Portis",
+   "MIA"
+  ],
+  [
+   "Bobby Portis",
+   "MIA"
+  ],
+  [
+   "Bogdan Bogdanovic",
+   "HOU"
+  ],
+  [
+   "Bogoljub Markovic",
+   "MIL"
+  ],
+  [
+   "Bones Hyland",
+   "MIN"
+  ],
+  [
+   "Braden Smith",
+   "IND"
+  ],
+  [
+   "Brandin Podziemski",
+   "GSW"
+  ],
+  [
+   "Brandin Podziemski",
+   "GSW"
+  ],
+  [
+   "Brandon Miller",
+   "CHA"
+  ],
+  [
+   "Brandon Miller",
+   "CHA"
+  ],
+  [
+   "Brandon Williams",
+   "GSW"
+  ],
+  [
+   "Brayden Burries",
+   "MIL"
+  ],
+  [
+   "Brayden Burries",
+   "MIL"
+  ],
+  [
+   "Brice Sensabaugh",
+   "UTA"
+  ],
+  [
+   "Brice Sensabaugh",
+   "UTA"
+  ],
+  [
+   "Bronny James",
+   "LAL"
+  ],
+  [
+   "Brook Lopez",
+   "LAC"
+  ],
+  [
+   "Brooks Barnhizer",
+   "OKC"
+  ],
+  [
+   "Bruce Thornton",
+   "HOU"
+  ],
+  [
+   "Bryce Hopkins",
+   "DEN"
+  ],
+  [
+   "Bryce Hopkins",
+   "DEN"
+  ],
+  [
+   "Bryce McGowens",
+   "NOP"
+  ],
+  [
+   "Buddy Hield",
+   "CHI"
+  ],
+  [
+   "Cade Cunningham",
+   "DET"
+  ],
+  [
+   "Caleb Love",
+   "PHI"
+  ],
+  [
+   "Caleb Martin",
+   "DAL"
+  ],
+  [
+   "Caleb Wilson",
+   "CHI"
+  ],
+  [
+   "Caleb Wilson",
+   "CHI"
+  ],
+  [
+   "Cam Christie",
+   "LAC"
+  ],
+  [
+   "Cam Spencer",
+   "MEM"
+  ],
+  [
+   "Cam Whitmore",
+   "DEN"
+  ],
+  [
+   "Cameron Boozer",
+   "MEM"
+  ],
+  [
+   "Caris LeVert",
+   "MIL"
+  ],
+  [
+   "Carlton Carrington",
+   "WAS"
+  ],
+  [
+   "Carter Bryant",
+   "SAS"
+  ],
+  [
+   "Cedric Coward",
+   "MEM"
+  ],
+  [
+   "Charles Bassey",
+   "GSW"
+  ],
+  [
+   "Chris Manon",
+   "LAL"
+  ],
+  [
+   "Christian Anderson",
+   "CHA"
+  ],
+  [
+   "Christian Braun",
+   "DEN"
+  ],
+  [
+   "Christian Braun",
+   "DEN"
+  ],
+  [
+   "CJ McCollum",
+   "ATL"
+  ],
+  [
+   "CJ McCollum",
+   "ATL"
+  ],
+  [
+   "Clint Capela",
+   "HOU"
+  ],
+  [
+   "Clint Capela",
+   "HOU"
+  ],
+  [
+   "Cody Williams",
+   "MIN"
+  ],
+  [
+   "Colin Castleton",
+   "ORL"
+  ],
+  [
+   "Collin Gillespie",
+   "PHO"
+  ],
+  [
+   "Collin Murray-Boyles",
+   "TOR"
+  ],
+  [
+   "Collin Sexton",
+   "LAL"
+  ],
+  [
+   "Cooper Flagg",
+   "DAL"
+  ],
+  [
+   "Cooper Flagg",
+   "DAL"
+  ],
+  [
+   "Corey Kispert",
+   "ATL"
+  ],
+  [
+   "Craig Porter",
+   "CLE"
+  ],
+  [
+   "Dailyn Swain",
+   "CHI"
+  ],
+  [
+   "Dalton Knecht",
+   "NYK"
+  ],
+  [
+   "Daniel Gafford",
+   "DAL"
+  ],
+  [
+   "Daniel Gafford",
+   "DAL"
+  ],
+  [
+   "Daniss Jenkins",
+   "DET"
+  ],
+  [
+   "Darius Garland",
+   "LAC"
+  ],
+  [
+   "DaRon Holmes",
+   "DEN"
+  ],
+  [
+   "Darryn Peterson",
+   "UTA"
+  ],
+  [
+   "Darryn Peterson",
+   "UTA"
+  ],
+  [
+   "Davion Mitchell",
+   "MIA"
+  ],
+  [
+   "Davion Mitchell",
+   "MIA"
+  ],
+  [
+   "De'Aaron Fox",
+   "SAS"
+  ],
+  [
+   "De'Anthony Melton",
+   "GSW"
+  ],
+  [
+   "De'Anthony Melton",
+   "GSW"
+  ],
+  [
+   "Dean Wade",
+   "PHI"
+  ],
+  [
+   "Deandre Ayton",
+   "WAS"
+  ],
+  [
+   "Deandre Ayton",
+   "WAS"
+  ],
+  [
+   "DeAndre Jordan",
+   "NOP"
+  ],
+  [
+   "Dejounte Murray",
+   "NOP"
+  ],
+  [
+   "DeMar DeRozan",
+   "DEN"
+  ],
+  [
+   "DeMar DeRozan",
+   "DEN"
+  ],
+  [
+   "Dennis Schroder",
+   "CHA"
+  ],
+  [
+   "Dennis Schroder",
+   "CHA"
+  ],
+  [
+   "Derik Queen",
+   "NOP"
+  ],
+  [
+   "Derrick Jones",
+   "LAC"
+  ],
+  [
+   "Derrick White",
+   "BOS"
+  ],
+  [
+   "Desmond Bane",
+   "ORL"
+  ],
+  [
+   "Devin Booker",
+   "PHO"
+  ],
+  [
+   "Devin Vassell",
+   "SAS"
+  ],
+  [
+   "Dillon Brooks",
+   "PHO"
+  ],
+  [
+   "Donovan Mitchell",
+   "CLE"
+  ],
+  [
+   "Donovan Mitchell",
+   "CLE"
+  ],
+  [
+   "Dorian Finney-Smith",
+   "ATL"
+  ],
+  [
+   "Draymond Green",
+   "GSW"
+  ],
+  [
+   "Draymond Green",
+   "GSW"
+  ],
+  [
+   "Dru Smith",
+   "MIA"
+  ],
+  [
+   "Duncan Robinson",
+   "DET"
+  ],
+  [
+   "Dylan Harper",
+   "SAS"
+  ],
+  [
+   "Dyson Daniels",
+   "ATL"
+  ],
+  [
+   "Dyson Daniels",
+   "ATL"
+  ],
+  [
+   "Elijah Harkless",
+   "DET"
+  ],
+  [
+   "Evan Mobley",
+   "CLE"
+  ],
+  [
+   "Evan Mobley",
+   "CLE"
+  ],
+  [
+   "Felix Okpara",
+   "WAS"
+  ],
+  [
+   "Franz Wagner",
+   "ORL"
+  ],
+  [
+   "Fred VanVleet",
+   "HOU"
+  ],
+  [
+   "Fred VanVleet",
+   "HOU"
+  ],
+  [
+   "Gary Trent",
+   "MIL"
+  ],
+  [
+   "Georges Niang",
+   "GSW"
+  ],
+  [
+   "Giannis Antetokounmpo",
+   "MIA"
+  ],
+  [
+   "Giannis Antetokounmpo",
+   "MIA"
+  ],
+  [
+   "Goga Bitadze",
+   "ORL"
+  ],
+  [
+   "Gradey Dick",
+   "LAC"
+  ],
+  [
+   "Graham Ike",
+   "GSW"
+  ],
+  [
+   "Graham Ike",
+   "GSW"
+  ],
+  [
+   "Grayson Allen",
+   "CHA"
+  ],
+  [
+   "Grayson Allen",
+   "CHA"
+  ],
+  [
+   "Gui Santos",
+   "GSW"
+  ],
+  [
+   "Gui Santos",
+   "GSW"
+  ],
+  [
+   "Hannes Steinbach",
+   "CHA"
+  ],
+  [
+   "Harrison Barnes",
+   "SAS"
+  ],
+  [
+   "Herb Jones",
+   "NOP"
+  ],
+  [
+   "Immanuel Quickley",
+   "TOR"
+  ],
+  [
+   "Isaac Jones",
+   "DET"
+  ],
+  [
+   "Isaac Okoro",
+   "CHI"
+  ],
+  [
+   "Isaac Okoro",
+   "CHI"
+  ],
+  [
+   "Isaiah Collier",
+   "UTA"
+  ],
+  [
+   "Isaiah Collier",
+   "UTA"
+  ],
+  [
+   "Isaiah Crawford",
+   "HOU"
+  ],
+  [
+   "Isaiah Evans",
+   "MIN"
+  ],
+  [
+   "Isaiah Hartenstein",
+   "OKC"
+  ],
+  [
+   "Isaiah Hartenstein",
+   "OKC"
+  ],
+  [
+   "Isaiah Jackson",
+   "LAC"
+  ],
+  [
+   "Isaiah Joe",
+   "DET"
+  ],
+  [
+   "Ja'Kobe Walter",
+   "TOR"
+  ],
+  [
+   "Jabari Smith",
+   "HOU"
+  ],
+  [
+   "Jabari Smith",
+   "HOU"
+  ],
+  [
+   "Jaden Bradley",
+   "TOR"
+  ],
+  [
+   "Jaden Hardy",
+   "LAL"
+  ],
+  [
+   "Jaden McDaniels",
+   "MIN"
+  ],
+  [
+   "Jaden McDaniels",
+   "MIN"
+  ],
+  [
+   "Jae'Sean Tate",
+   "HOU"
+  ],
+  [
+   "Jaime Jaquez",
+   "MIL"
+  ],
+  [
+   "Jaime Jaquez",
+   "MIL"
+  ],
+  [
+   "Jake LaRavia",
+   "LAL"
+  ],
+  [
+   "Jakob Poeltl",
+   "TOR"
+  ],
+  [
+   "Jalen Brunson",
+   "NYK"
+  ],
+  [
+   "Jalen Duren",
+   "DET"
+  ],
+  [
+   "Jalen Green",
+   "PHO"
+  ],
+  [
+   "Jalen Johnson",
+   "ATL"
+  ],
+  [
+   "Jalen Johnson",
+   "ATL"
+  ],
+  [
+   "Jalen Pickett",
+   "LAC"
+  ],
+  [
+   "Jalen Slawson",
+   "IND"
+  ],
+  [
+   "Jalen Smith",
+   "CHI"
+  ],
+  [
+   "Jalen Smith",
+   "CHI"
+  ],
+  [
+   "Jamal Cain",
+   "ORL"
+  ],
+  [
+   "Jamal Murray",
+   "DEN"
+  ],
+  [
+   "Jamal Murray",
+   "DEN"
+  ],
+  [
+   "Jamal Shead",
+   "TOR"
+  ],
+  [
+   "James Harden",
+   "CLE"
+  ],
+  [
+   "James Harden",
+   "CLE"
+  ],
+  [
+   "James Wiseman",
+   "NYK"
+  ],
+  [
+   "Jamison Battle",
+   "TOR"
+  ],
+  [
+   "Jarace Walker",
+   "IND"
+  ],
+  [
+   "Jarace Walker",
+   "IND"
+  ],
+  [
+   "Jared McCain",
+   "OKC"
+  ],
+  [
+   "Jared McCain",
+   "OKC"
+  ],
+  [
+   "Jaren Jackson",
+   "UTA"
+  ],
+  [
+   "Jarred Vanderbilt",
+   "LAL"
+  ],
+  [
+   "Jarrett Allen",
+   "CLE"
+  ],
+  [
+   "Jarrett Allen",
+   "CLE"
+  ],
+  [
+   "Jase Richardson",
+   "ORL"
+  ],
+  [
+   "Javonte Green",
+   "DET"
+  ],
+  [
+   "Jaxson Hayes",
+   "UTA"
+  ],
+  [
+   "Jaxson Hayes",
+   "UTA"
+  ],
+  [
+   "Jay Huff",
+   "IND"
+  ],
+  [
+   "Jay Huff",
+   "IND"
+  ],
+  [
+   "Jaylen Brown",
+   "PHI"
+  ],
+  [
+   "Jaylen Clark",
+   "MIN"
+  ],
+  [
+   "Jaylen Wells",
+   "MEM"
+  ],
+  [
+   "Jaylin Sellers",
+   "CHI"
+  ],
+  [
+   "Jaylin Williams",
+   "OKC"
+  ],
+  [
+   "Jaylin Williams",
+   "OKC"
+  ],
+  [
+   "Jaylon Tyson",
+   "CLE"
+  ],
+  [
+   "Jaylon Tyson",
+   "CLE"
+  ],
+  [
+   "Jayson Tatum",
+   "BOS"
+  ],
+  [
+   "Jerami Grant",
+   "MEM"
+  ],
+  [
+   "Jeremiah Fears",
+   "NOP"
+  ],
+  [
+   "Jericho Sims",
+   "MIL"
+  ],
+  [
+   "Jett Howard",
+   "DAL"
+  ],
+  [
+   "Jevon Carter",
+   "ORL"
+  ],
+  [
+   "Joan Beringer",
+   "MIN"
+  ],
+  [
+   "Joan Beringer",
+   "MIN"
+  ],
+  [
+   "Jock Landale",
+   "ATL"
+  ],
+  [
+   "Jock Landale",
+   "ATL"
+  ],
+  [
+   "Joel Embiid",
+   "PHI"
+  ],
+  [
+   "John Collins",
+   "DET"
+  ],
+  [
+   "Jonathan Kuminga",
+   "MIN"
+  ],
+  [
+   "Jonathan Kuminga",
+   "MIN"
+  ],
+  [
+   "Jordan Clarkson",
+   "NYK"
+  ],
+  [
+   "Jordan Goodwin",
+   "PHO"
+  ],
+  [
+   "Jordan Hawkins",
+   "CHI"
+  ],
+  [
+   "Jordan McLaughlin",
+   "SAS"
+  ],
+  [
+   "Jordan Poole",
+   "NOP"
+  ],
+  [
+   "Jordan Walsh",
+   "BOS"
+  ],
+  [
+   "Josh Dix",
+   "OKC"
+  ],
+  [
+   "Josh Giddey",
+   "CHI"
+  ],
+  [
+   "Josh Giddey",
+   "CHI"
+  ],
+  [
+   "Josh Green",
+   "UTA"
+  ],
+  [
+   "Josh Hart",
+   "NYK"
+  ],
+  [
+   "Josh Okogie",
+   "UTA"
+  ],
+  [
+   "Julian Champagnie",
+   "SAS"
+  ],
+  [
+   "Julian Reese",
+   "NOP"
+  ],
+  [
+   "Justin Champagnie",
+   "WAS"
+  ],
+  [
+   "Justin Edwards",
+   "PHI"
+  ],
+  [
+   "Karl-Anthony Towns",
+   "NYK"
+  ],
+  [
+   "Karlo Matkovic",
+   "NOP"
+  ],
+  [
+   "Kasparas Jakucionis",
+   "MIL"
+  ],
+  [
+   "Kasparas Jakucionis",
+   "MIL"
+  ],
+  [
+   "Keaton Wagler",
+   "LAC"
+  ],
+  [
+   "Kel'el Ware",
+   "MIL"
+  ],
+  [
+   "Kel'el Ware",
+   "MIL"
+  ],
+  [
+   "Keldon Johnson",
+   "SAS"
+  ],
+  [
+   "Kelly Oubre",
+   "IND"
+  ],
+  [
+   "Kelly Oubre",
+   "IND"
+  ],
+  [
+   "Kenrich Williams",
+   "OKC"
+  ],
+  [
+   "Kenrich Williams",
+   "OKC"
+  ],
+  [
+   "Kentavious Caldwell-Pope",
+   "PHI"
+  ],
+  [
+   "Kevin Durant",
+   "HOU"
+  ],
+  [
+   "Kevin Durant",
+   "HOU"
+  ],
+  [
+   "Kevin Huerter",
+   "DET"
+  ],
+  [
+   "Kevon Looney",
+   "LAL"
+  ],
+  [
+   "Keyonte George",
+   "UTA"
+  ],
+  [
+   "Keyonte George",
+   "UTA"
+  ],
+  [
+   "Khaman Maluach",
+   "PHO"
+  ],
+  [
+   "Khris Middleton",
+   "WAS"
+  ],
+  [
+   "Kingston Flemings",
+   "ATL"
+  ],
+  [
+   "Klay Thompson",
+   "MIA"
+  ],
+  [
+   "Klay Thompson",
+   "MIA"
+  ],
+  [
+   "Kobe Brown",
+   "IND"
+  ],
+  [
+   "Kobe Sanders",
+   "LAC"
+  ],
+  [
+   "Kris Dunn",
+   "LAC"
+  ],
+  [
+   "Kyle Anderson",
+   "TOR"
+  ],
+  [
+   "Kyle Filipowski",
+   "UTA"
+  ],
+  [
+   "Kyle Kuzma",
+   "MIL"
+  ],
+  [
+   "Kyle Kuzma",
+   "MIL"
+  ],
+  [
+   "Kyrie Irving",
+   "DAL"
+  ],
+  [
+   "Kyrie Irving",
+   "DAL"
+  ],
+  [
+   "Kyshawn George",
+   "WAS"
+  ],
+  [
+   "Kyshawn George",
+   "WAS"
+  ],
+  [
+   "L.J. Cryer",
+   "GSW"
+  ],
+  [
+   "LaMelo Ball",
+   "MIN"
+  ],
+  [
+   "LaMelo Ball",
+   "MIN"
+  ],
+  [
+   "Landry Shamet",
+   "NYK"
+  ],
+  [
+   "Larry Nance",
+   "IND"
+  ],
+  [
+   "Lauri Markkanen",
+   "UTA"
+  ],
+  [
+   "Lauri Markkanen",
+   "UTA"
+  ],
+  [
+   "LeBron James",
+   "PHI"
+  ],
+  [
+   "Leonard Miller",
+   "CHI"
+  ],
+  [
+   "Leonard Miller",
+   "CHI"
+  ],
+  [
+   "Liam McNeeley",
+   "CHA"
+  ],
+  [
+   "Lu Dort",
+   "ATL"
+  ],
+  [
+   "Lu Dort",
+   "ATL"
+  ],
+  [
+   "Luka Doncic",
+   "LAL"
+  ],
+  [
+   "Luke Kennard",
+   "PHO"
+  ],
+  [
+   "Luke Kornet",
+   "SAS"
+  ],
+  [
+   "Malevy Leons",
+   "GSW"
+  ],
+  [
+   "Marcus Sasser",
+   "DAL"
+  ],
+  [
+   "Marcus Smart",
+   "HOU"
+  ],
+  [
+   "Mario Hezonja",
+   "CLE"
+  ],
+  [
+   "Mario Hezonja",
+   "CLE"
+  ],
+  [
+   "Marvin Bagley",
+   "DEN"
+  ],
+  [
+   "Marvin Bagley",
+   "DEN"
+  ],
+  [
+   "Matas Buzelis",
+   "CHI"
+  ],
+  [
+   "Matas Buzelis",
+   "CHI"
+  ],
+  [
+   "Matisse Thybulle",
+   "LAL"
+  ],
+  [
+   "Max Christie",
+   "DAL"
+  ],
+  [
+   "Max Christie",
+   "DAL"
+  ],
+  [
+   "Micah Peavy",
+   "OKC"
+  ],
+  [
+   "Mikal Bridges",
+   "NYK"
+  ],
+  [
+   "Miles Bridges",
+   "PHO"
+  ],
+  [
+   "Miles McBride",
+   "NYK"
+  ],
+  [
+   "Mitchell Robinson",
+   "BOS"
+  ],
+  [
+   "Mo Bamba",
+   "UTA"
+  ],
+  [
+   "Mohamed Diawara",
+   "NYK"
+  ],
+  [
+   "Morez Johnson",
+   "DAL"
+  ],
+  [
+   "Morez Johnson",
+   "DAL"
+  ],
+  [
+   "Moussa Cisse",
+   "DAL"
+  ],
+  [
+   "Moussa Diabate",
+   "CHA"
+  ],
+  [
+   "Moussa Diabate",
+   "CHA"
+  ],
+  [
+   "Myles Turner",
+   "MIL"
+  ],
+  [
+   "Myles Turner",
+   "MIL"
+  ],
+  [
+   "Myron Gardner",
+   "MIA"
+  ],
+  [
+   "Naji Marshall",
+   "DAL"
+  ],
+  [
+   "Nate Ament",
+   "MIL"
+  ],
+  [
+   "Naz Reid",
+   "CHA"
+  ],
+  [
+   "Naz Reid",
+   "CHA"
+  ],
+  [
+   "Neemias Queta",
+   "BOS"
+  ],
+  [
+   "Nick Martinelli",
+   "LAC"
+  ],
+  [
+   "Nick Richards",
+   "MIA"
+  ],
+  [
+   "Nickeil Alexander-Walker",
+   "ATL"
+  ],
+  [
+   "Nickeil Alexander-Walker",
+   "ATL"
+  ],
+  [
+   "Nikola Jokic",
+   "DEN"
+  ],
+  [
+   "Nikola Jokic",
+   "DEN"
+  ],
+  [
+   "Nikola Jovic",
+   "MIA"
+  ],
+  [
+   "Nikola Vucevic",
+   "ORL"
+  ],
+  [
+   "Noa Essengue",
+   "CHI"
+  ],
+  [
+   "Norman Powell",
+   "CHI"
+  ],
+  [
+   "Norman Powell",
+   "CHI"
+  ],
+  [
+   "Obi Toppin",
+   "IND"
+  ],
+  [
+   "Obi Toppin",
+   "IND"
+  ],
+  [
+   "OG Anunoby",
+   "NYK"
+  ],
+  [
+   "Onyeka Okongwu",
+   "ATL"
+  ],
+  [
+   "Onyeka Okongwu",
+   "ATL"
+  ],
+  [
+   "Oscar Tshiebwe",
+   "HOU"
+  ],
+  [
+   "Ousmane Dieng",
+   "MIL"
+  ],
+  [
+   "Pacome Dadiet",
+   "NYK"
+  ],
+  [
+   "Pascal Siakam",
+   "IND"
+  ],
+  [
+   "Pascal Siakam",
+   "IND"
+  ],
+  [
+   "Patrick Williams",
+   "CHI"
+  ],
+  [
+   "Paul George",
+   "BOS"
+  ],
+  [
+   "Paul Reed",
+   "DET"
+  ],
+  [
+   "Payton Pritchard",
+   "BOS"
+  ],
+  [
+   "Pelle Larsson",
+   "MIA"
+  ],
+  [
+   "Pelle Larsson",
+   "MIA"
+  ],
+  [
+   "Peyton Watson",
+   "CLE"
+  ],
+  [
+   "Peyton Watson",
+   "CLE"
+  ],
+  [
+   "PJ Hall",
+   "CHA"
+  ],
+  [
+   "PJ Washington",
+   "DAL"
+  ],
+  [
+   "PJ Washington",
+   "DAL"
+  ],
+  [
+   "Quentin Grimes",
+   "LAL"
+  ],
+  [
+   "Quenton Jackson",
+   "IND"
+  ],
+  [
+   "Rayan Rupert",
+   "PHI"
+  ],
+  [
+   "Reed Sheppard",
+   "HOU"
+  ],
+  [
+   "Reed Sheppard",
+   "HOU"
+  ],
+  [
+   "RJ Barrett",
+   "TOR"
+  ],
+  [
+   "Rocco Zikarsky",
+   "MIN"
+  ],
+  [
+   "Ron Holland",
+   "DET"
+  ],
+  [
+   "Royce O'Neale",
+   "CHA"
+  ],
+  [
+   "Royce O'Neale",
+   "CHA"
+  ],
+  [
+   "Rudy Gobert",
+   "MIN"
+  ],
+  [
+   "Rudy Gobert",
+   "MIN"
+  ],
+  [
+   "Ryan Conwell",
+   "MIA"
+  ],
+  [
+   "Ryan Kalkbrenner",
+   "CHA"
+  ],
+  [
+   "Ryan Kalkbrenner",
+   "CHA"
+  ],
+  [
+   "Ryan Nembhard",
+   "DEN"
+  ],
+  [
+   "Ryan Rollins",
+   "MIL"
+  ],
+  [
+   "Ryan Rollins",
+   "MIL"
+  ],
+  [
+   "Saddiq Bey",
+   "NOP"
+  ],
+  [
+   "Sam Hauser",
+   "BOS"
+  ],
+  [
+   "Sam Merrill",
+   "CLE"
+  ],
+  [
+   "Sam Merrill",
+   "CLE"
+  ],
+  [
+   "Sandro Mamukelashvili",
+   "LAL"
+  ],
+  [
+   "Scottie Barnes",
+   "TOR"
+  ],
+  [
+   "Scotty Pippen",
+   "MEM"
+  ],
+  [
+   "Sergio De Larrea",
+   "DAL"
+  ],
+  [
+   "Shai Gilgeous-Alexander",
+   "OKC"
+  ],
+  [
+   "Shai Gilgeous-Alexander",
+   "OKC"
+  ],
+  [
+   "Sion James",
+   "CHA"
+  ],
+  [
+   "Sion James",
+   "CHA"
+  ],
+  [
+   "Stephen Curry",
+   "GSW"
+  ],
+  [
+   "Stephen Curry",
+   "GSW"
+  ],
+  [
+   "Stephon Castle",
+   "SAS"
+  ],
+  [
+   "Svi Mykhailiuk",
+   "UTA"
+  ],
+  [
+   "Tari Eason",
+   "HOU"
+  ],
+  [
+   "Tari Eason",
+   "HOU"
+  ],
+  [
+   "Taurean Prince",
+   "DET"
+  ],
+  [
+   "Terrence Shannon",
+   "MIN"
+  ],
+  [
+   "Terrence Shannon",
+   "MIN"
+  ],
+  [
+   "Thomas Bryant",
+   "CLE"
+  ],
+  [
+   "Tidjane Salaun",
+   "CHA"
+  ],
+  [
+   "Tim Hardaway",
+   "MIA"
+  ],
+  [
+   "Tim Hardaway",
+   "MIA"
+  ],
+  [
+   "Tobe Awaka",
+   "CHI"
+  ],
+  [
+   "Tobi Lawal",
+   "DAL"
+  ],
+  [
+   "Tony Bradley",
+   "UTA"
+  ],
+  [
+   "Trae Young",
+   "WAS"
+  ],
+  [
+   "Trae Young",
+   "WAS"
+  ],
+  [
+   "Trayce Jackson-Davis",
+   "TOR"
+  ],
+  [
+   "Tre Johnson",
+   "WAS"
+  ],
+  [
+   "Tre Johnson",
+   "WAS"
+  ],
+  [
+   "Tre Jones",
+   "CHI"
+  ],
+  [
+   "Tre Jones",
+   "CHI"
+  ],
+  [
+   "Tre Mann",
+   "WAS"
+  ],
+  [
+   "Trendon Watford",
+   "NOP"
+  ],
+  [
+   "Trevon Brazile",
+   "DEN"
+  ],
+  [
+   "Trevon Brazile",
+   "DEN"
+  ],
+  [
+   "Trey Lyles",
+   "MIN"
+  ],
+  [
+   "Trey Murphy",
+   "NOP"
+  ],
+  [
+   "Tristan da Silva",
+   "ORL"
+  ],
+  [
+   "Tristan Enaruna",
+   "CLE"
+  ],
+  [
+   "Ty Jerome",
+   "MEM"
+  ],
+  [
+   "Tyler Herro",
+   "MIL"
+  ],
+  [
+   "Tyler Herro",
+   "MIL"
+  ],
+  [
+   "Tyler Kolek",
+   "NYK"
+  ],
+  [
+   "Tyrese Haliburton",
+   "IND"
+  ],
+  [
+   "Tyrese Haliburton",
+   "IND"
+  ],
+  [
+   "Tyrese Maxey",
+   "PHI"
+  ],
+  [
+   "Tyrese Proctor",
+   "CLE"
+  ],
+  [
+   "Tyus Jones",
+   "DEN"
+  ],
+  [
+   "Victor Wembanyama",
+   "SAS"
+  ],
+  [
+   "VJ Edgecombe",
+   "PHI"
+  ],
+  [
+   "Vladislav Goldin",
+   "MIA"
+  ],
+  [
+   "Walker Kessler",
+   "LAL"
+  ],
+  [
+   "Walter Clayton",
+   "DAL"
+  ],
+  [
+   "Wendell Carter",
+   "ORL"
+  ],
+  [
+   "Will Richard",
+   "GSW"
+  ],
+  [
+   "Will Riley",
+   "WAS"
+  ],
+  [
+   "Yaxel Lendeborg",
+   "GSW"
+  ],
+  [
+   "Yaxel Lendeborg",
+   "GSW"
+  ],
+  [
+   "Zaccharie Risacher",
+   "DAL"
+  ],
+  [
+   "Zaccharie Risacher",
+   "DAL"
+  ],
+  [
+   "Zach Collins",
+   "CHI"
+  ],
+  [
+   "Zach Edey",
+   "MEM"
+  ],
+  [
+   "Zeke Nnaji",
+   "DEN"
+  ],
+  [
+   "Ziaire Williams",
+   "LAL"
+  ],
+  [
+   "Zion Williamson",
+   "NOP"
+  ],
+  [
+   "Zuby Ejiofor",
+   "ATL"
+  ],
+  [
+   "Zyon Pullin",
+   "MIN"
+  ]
+ ],
+ "b2b": []
+}
