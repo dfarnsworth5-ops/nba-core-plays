@@ -4,7 +4,7 @@
  "slate": "4 games · 3:30 PM ET lock",
  "note": "",
  "iso": "2026-11-01",
- "updated": "2026-11-01T08:30:31-07:00",
+ "updated": "2026-11-01T08:54:34-07:00",
  "positions": [
   "PG",
   "SG",
@@ -959,7 +959,7 @@
    "proj": 22.16,
    "type": "",
    "status": "",
-   "blurb": "Struggling this year (0.78 FD FPPM), but Draymond's absence opens up frontcourt minutes",
+   "blurb": "Struggling this season (0.78 FD FPPM), but Draymond's absence opens up frontcourt minutes",
    "url": ""
   },
   {
@@ -1139,7 +1139,7 @@
    "proj": 23.7,
    "type": "",
    "status": "",
-   "blurb": "Low usage, but $4,600 with a path to 30ish minutes",
+   "blurb": "Low usage, but $4,700 with a path to 30ish minutes",
    "url": ""
   },
   {
@@ -1339,7 +1339,7 @@
   {
    "player": "Mitchell Robinson",
    "team": "BOS",
-   "status": "Q",
+   "status": "O",
    "note": "Rest",
    "updated": "",
    "impact": 8
@@ -1514,7 +1514,7 @@
   },
   {
    "player": "Mitchell Robinson",
-   "team": "BOS",
+   "team": "",
    "status": "O",
    "note": "Neemias Queta slides into a starting role with Luka Garza playing backup minutes",
    "time": "10:28 AM"
