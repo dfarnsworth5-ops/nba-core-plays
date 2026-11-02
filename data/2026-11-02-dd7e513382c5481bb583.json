@@ -4,7 +4,7 @@
  "slate": "15 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-02",
- "updated": "2026-11-02T11:39:47-07:00",
+ "updated": "2026-11-02T11:54:42-07:00",
  "positions": [
   "PG",
   "SG",
@@ -213,21 +213,6 @@
   },
   {
    "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Kyrie Irving",
-   "team": "DAL",
-   "opp": "SAC",
-   "dk": 7600,
-   "fd": 0,
-   "proj": 39.48,
-   "type": "",
-   "status": "Q",
-   "blurb": "Season-high 35 minutes in the last game; off to a solid start (1.29 DK FP/minute)",
-   "url": ""
-  },
-  {
-   "pos": "PG",
    "dkPos": "PG/SG",
    "fdPos": "PG",
    "player": "Jase Richardson",
@@ -299,6 +284,21 @@
    "type": "",
    "status": "",
    "blurb": "Slight 1.1% usage boost without Duren; should see full minutes vs. CHA",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "CJ McCollum",
+   "team": "ATL",
+   "opp": "IND",
+   "dk": 6200,
+   "fd": 0,
+   "proj": 29.46,
+   "type": "",
+   "status": "",
+   "blurb": "Minutes should be safer with Flemings suspended",
    "url": ""
   },
   {
@@ -453,6 +453,21 @@
   },
   {
    "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Cooper Flagg",
+   "team": "DAL",
+   "opp": "SAC",
+   "dk": 9600,
+   "fd": 0,
+   "proj": 46.9,
+   "type": "",
+   "status": "",
+   "blurb": "Sure looks like a superstar; 1.59 FP/minute; Kyrie doubtful",
+   "url": ""
+  },
+  {
+   "pos": "SF",
    "dkPos": "SF/PF",
    "fdPos": "SF",
    "player": "Caleb Wilson",
@@ -524,21 +539,6 @@
    "type": "",
    "status": "",
    "blurb": "2.7% boost in usage without Edwards; locked into mid-30s minutes",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF/PF",
-   "fdPos": "SF",
-   "player": "Jalen Slawson",
-   "team": "IND",
-   "opp": "ATL",
-   "dk": 3500,
-   "fd": 0,
-   "proj": 10.15,
-   "type": "",
-   "status": "",
-   "blurb": "$3,500 and projected for 28 minutes",
    "url": ""
   },
   {
@@ -802,21 +802,6 @@
    "pos": "PG",
    "dkPos": "PG",
    "fdPos": "PG",
-   "player": "Kyrie Irving",
-   "team": "DAL",
-   "opp": "SAC",
-   "dk": 0,
-   "fd": 6900,
-   "proj": 38.27,
-   "type": "",
-   "status": "Q",
-   "blurb": "Season-high 35 minutes in the last game; off to a solid start (1.25 FD FP/minute)",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
    "player": "Josh Giddey",
    "team": "CHI",
    "opp": "PHI",
@@ -901,6 +886,21 @@
    "type": "",
    "status": "",
    "blurb": "One of two actual guards available for the Pacers",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "SG/PG",
+   "player": "CJ McCollum",
+   "team": "ATL",
+   "opp": "IND",
+   "dk": 0,
+   "fd": 5200,
+   "proj": 28.54,
+   "type": "",
+   "status": "",
+   "blurb": "Slow start (0.85 FD FP/minute), but minutes could be safer with Flemings suspended",
    "url": ""
   },
   {
@@ -1041,6 +1041,21 @@
   {
    "pos": "SF",
    "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Cooper Flagg",
+   "team": "DAL",
+   "opp": "SAC",
+   "dk": 0,
+   "fd": 10100,
+   "proj": 46.78,
+   "type": "",
+   "status": "",
+   "blurb": "Sure looks like a superstar; 1.62 FP/minute; Kyrie doubtful",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
    "fdPos": "SF/PF",
    "player": "Franz Wagner",
    "team": "ORL",
@@ -1126,21 +1141,6 @@
    "type": "",
    "status": "",
    "blurb": "Slow start (0.84 FD FP/minute), but only $5,800 with SF/PF eligibility",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "SF",
-   "player": "Cooper Flagg",
-   "team": "DAL",
-   "opp": "SAC",
-   "dk": 0,
-   "fd": 10100,
-   "proj": 46.78,
-   "type": "",
-   "status": "",
-   "blurb": "Sure looks like a superstar already (1.62 FD FP/minute); SAC is the worst defense in the league",
    "url": ""
   },
   {
@@ -2191,6 +2191,13 @@
    "status": "D",
    "note": "Huff and Toppin (Q) are the only bigs left",
    "time": "1:12 PM"
+  },
+  {
+   "player": "Kyrie Irving",
+   "team": "DAL",
+   "status": "D",
+   "note": "Marshall projected to start; Flagg up to 1.62 FP/minute without Irving",
+   "time": "1:49 PM"
   }
  ],
  "teams": [
