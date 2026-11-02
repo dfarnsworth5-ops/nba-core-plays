@@ -4,7 +4,7 @@
  "slate": "15 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-02",
- "updated": "2026-11-02T14:40:40-07:00",
+ "updated": "2026-11-02T15:41:38-07:00",
  "positions": [
   "PG",
   "SG",
@@ -560,7 +560,7 @@
   {
    "player": "Dejounte Murray",
    "team": "NOP",
-   "status": "Q",
+   "status": "O",
    "note": "Personal",
    "updated": "",
    "impact": 10
@@ -1355,10 +1355,10 @@
   },
   {
    "player": "Dejounte Murray",
-   "team": "NOP",
-   "status": "Q",
+   "team": "",
+   "status": "O",
    "note": "Fears has crushed in Dejounte-free minutes so far (1.4 FP/minute)",
-   "time": "3:35 PM"
+   "time": "4:35 PM"
   },
   {
    "player": "Terrence Shannon",
