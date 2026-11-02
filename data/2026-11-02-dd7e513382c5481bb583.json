@@ -4,7 +4,7 @@
  "slate": "15 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-02",
- "updated": "2026-11-02T11:54:42-07:00",
+ "updated": "2026-11-02T13:39:09-07:00",
  "positions": [
   "PG",
   "SG",
@@ -252,7 +252,7 @@
    "fd": 0,
    "proj": 40.03,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Struggling without Edwards, but elite bounce-back spot vs. 28th-ranked MIL defense",
    "url": ""
   },
@@ -824,7 +824,7 @@
    "fd": 7500,
    "proj": 38.18,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Struggling without Edwards, but elite bounce-back spot vs. 28th-ranked MIL defense",
    "url": ""
   },
@@ -1436,7 +1436,7 @@
   {
    "player": "Kyrie Irving",
    "team": "DAL",
-   "status": "Q",
+   "status": "D",
    "note": "Rest",
    "updated": "",
    "impact": 10
@@ -1452,6 +1452,30 @@
   {
    "player": "Pascal Siakam",
    "team": "IND",
+   "status": "O",
+   "note": "Rest",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Dejounte Murray",
+   "team": "NOP",
+   "status": "Q",
+   "note": "Personal",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "LaMelo Ball",
+   "team": "MIN",
+   "status": "Q",
+   "note": "Wrist",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Paul George",
+   "team": "BOS",
    "status": "O",
    "note": "Rest",
    "updated": "",
@@ -1558,6 +1582,14 @@
    "team": "HOU",
    "status": "Q",
    "note": "Back",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Terrence Shannon",
+   "team": "MIN",
+   "status": "Q",
+   "note": "Hip",
    "updated": "",
    "impact": 6
   },
@@ -1674,17 +1706,9 @@
    "impact": 3
   },
   {
-   "player": "Dylan Cardwell",
-   "team": "SAC",
-   "status": "Q",
-   "note": "Calf",
-   "updated": "",
-   "impact": 3
-  },
-  {
    "player": "Clint Capela",
    "team": "HOU",
-   "status": "Q",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 3
@@ -2125,9 +2149,9 @@
   {
    "player": "Alexandre Sarr",
    "team": "",
-   "status": "Q",
-   "note": "4% usage boost for Anthony Davis with Sarr off; Coulibaly could start",
-   "time": "11:29 AM"
+   "status": "O",
+   "note": "4% usage boost for Anthony Davis with Sarr off; Coulibaly projected to start",
+   "time": "3:35 PM"
   },
   {
    "player": "Joel Embiid",
@@ -2194,10 +2218,31 @@
   },
   {
    "player": "Kyrie Irving",
-   "team": "DAL",
+   "team": "",
    "status": "D",
    "note": "Marshall projected to start; Flagg up to 1.62 FP/minute without Irving",
    "time": "1:49 PM"
+  },
+  {
+   "player": "Paul George",
+   "team": "",
+   "status": "O",
+   "note": "Gonzalez projected to start; huge usage boost for White (+8.3%) in non-PG minutes so far",
+   "time": "3:35 PM"
+  },
+  {
+   "player": "LaMelo Ball",
+   "team": "MIN",
+   "status": "Q",
+   "note": "Bones Hyland and Ayo Dosunmu would get huge boosts; big usage bump for Shannon (+9.8%)",
+   "time": "3:35 PM"
+  },
+  {
+   "player": "Dejounte Murray",
+   "team": "NOP",
+   "status": "Q",
+   "note": "Fears has crushed in Dejounte-free minutes so far (1.4 FP/minute)",
+   "time": "3:35 PM"
   }
  ],
  "teams": [
