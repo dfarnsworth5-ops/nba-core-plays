@@ -4,7 +4,7 @@
  "slate": "15 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-02",
- "updated": "2026-11-02T15:41:38-07:00",
+ "updated": "2026-11-02T15:55:54-07:00",
  "positions": [
   "PG",
   "SG",
@@ -2186,9 +2186,9 @@
   {
    "player": "Jalen Johnson",
    "team": "ATL",
-   "status": "Q",
+   "status": "O",
    "note": "McCollum (+9%) and Daniels (+4.9%) have seen notable usage boosts without Johnson",
-   "time": "11:29 AM"
+   "time": "5:55 PM"
   },
   {
    "player": "Anthony Black",
@@ -2258,7 +2258,7 @@
    "team": "",
    "status": "O",
    "note": "Fears has crushed in Dejounte-free minutes so far (1.4 FP/minute)",
-   "time": "4:35 PM"
+   "time": "5:35 PM"
   },
   {
    "player": "Terrence Shannon",
