@@ -4,7 +4,7 @@
  "slate": "15 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-02",
- "updated": "2026-11-02T13:39:09-07:00",
+ "updated": "2026-11-02T14:40:40-07:00",
  "positions": [
   "PG",
   "SG",
@@ -582,6 +582,14 @@
    "impact": 10
   },
   {
+   "player": "Scottie Barnes",
+   "team": "TOR",
+   "status": "Q",
+   "note": "Hip",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "Ivica Zubac",
    "team": "IND",
    "status": "O",
@@ -640,7 +648,7 @@
   {
    "player": "Derrick Jones Jr.",
    "team": "LAC",
-   "status": "Q",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 8
@@ -670,6 +678,14 @@
    "impact": 7
   },
   {
+   "player": "Rui Hachimura",
+   "team": "LAC",
+   "status": "O",
+   "note": "Quad",
+   "updated": "",
+   "impact": 7
+  },
+  {
    "player": "Egor Demin",
    "team": "BKN",
    "status": "O",
@@ -694,14 +710,6 @@
    "impact": 6
   },
   {
-   "player": "Tim Hardaway Jr.",
-   "team": "MIA",
-   "status": "Q",
-   "note": "Personal",
-   "updated": "",
-   "impact": 5
-  },
-  {
    "player": "Obi Toppin",
    "team": "IND",
    "status": "Q",
@@ -712,8 +720,16 @@
   {
    "player": "Al Horford",
    "team": "GSW",
-   "status": "D",
+   "status": "O",
    "note": "Rest",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Brandon Williams",
+   "team": "GSW",
+   "status": "Q",
+   "note": "Quad",
    "updated": "",
    "impact": 5
   },
@@ -822,6 +838,14 @@
    "impact": 3
   },
   {
+   "player": "Dylan Cardwell",
+   "team": "SAC",
+   "status": "Q",
+   "note": "Calf",
+   "updated": "",
+   "impact": 3
+  },
+  {
    "player": "T.J. McConnell",
    "team": "IND",
    "status": "O",
@@ -911,14 +935,6 @@
   },
   {
    "player": "Yanic Konan Niederhauser",
-   "team": "LAC",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Max Strus",
    "team": "LAC",
    "status": "O",
    "note": "Foot",
@@ -1342,6 +1358,13 @@
    "team": "NOP",
    "status": "Q",
    "note": "Fears has crushed in Dejounte-free minutes so far (1.4 FP/minute)",
+   "time": "3:35 PM"
+  },
+  {
+   "player": "Terrence Shannon",
+   "team": "",
+   "status": "Q",
+   "note": "Even more offensive responsibility for Dosunmu and Hyland",
    "time": "3:35 PM"
   }
  ],
