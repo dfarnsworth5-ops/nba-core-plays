@@ -4,7 +4,7 @@
  "slate": "15 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-02",
- "updated": "2026-11-02T11:39:47-07:00",
+ "updated": "2026-11-02T11:54:42-07:00",
  "positions": [
   "PG",
   "SG",
@@ -352,15 +352,15 @@
    "pos": "PG",
    "dkPos": "PG",
    "fdPos": "PG",
-   "player": "Kyrie Irving",
-   "team": "DAL",
-   "opp": "SAC",
+   "player": "Josh Giddey",
+   "team": "CHI",
+   "opp": "PHI",
    "dk": 0,
-   "fd": 6900,
-   "proj": 38.27,
+   "fd": 6300,
+   "proj": 33.3,
    "type": "",
-   "status": "Q",
-   "blurb": "Season-high 35 minutes in the last game; off to a solid start (1.25 FD FP/minute)",
+   "status": "",
+   "blurb": "Only averaging 26 minutes this season, but $6,300 on FD is getting quite cheap",
    "url": ""
   },
   {
@@ -411,16 +411,16 @@
   {
    "pos": "SF",
    "dkPos": "SF",
-   "fdPos": "SF/PF",
-   "player": "Franz Wagner",
-   "team": "ORL",
-   "opp": "WAS",
+   "fdPos": "SF",
+   "player": "Cooper Flagg",
+   "team": "DAL",
+   "opp": "SAC",
    "dk": 0,
-   "fd": 8300,
-   "proj": 42.71,
+   "fd": 10100,
+   "proj": 46.78,
    "type": "",
    "status": "",
-   "blurb": "Usage pushing 30%, 1.00 FD FP/minute with Banchero and Suggs off the floor",
+   "blurb": "Sure looks like a superstar; 1.62 FP/minute; Kyrie doubtful",
    "url": ""
   },
   {
@@ -1291,6 +1291,13 @@
    "status": "D",
    "note": "Huff and Toppin (Q) are the only bigs left",
    "time": "1:12 PM"
+  },
+  {
+   "player": "Kyrie Irving",
+   "team": "DAL",
+   "status": "D",
+   "note": "Marshall projected to start; Flagg up to 1.62 FP/minute without Irving",
+   "time": "1:49 PM"
   }
  ],
  "teams": [
