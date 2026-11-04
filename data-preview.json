@@ -4,7 +4,7 @@
  "slate": "14 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-04",
- "updated": "2026-11-04T11:06:19-07:00",
+ "updated": "2026-11-04T11:54:15-07:00",
  "positions": [
   "PG",
   "SG",
@@ -232,6 +232,21 @@
   },
   {
    "pos": "SF",
+   "dkPos": "SG/SF",
+   "fdPos": "SF",
+   "player": "Paul George",
+   "team": "BOS",
+   "opp": "MIL",
+   "dk": 7200,
+   "fd": 0,
+   "proj": 36.73,
+   "type": "Core",
+   "status": "",
+   "blurb": "1.27 FP/minute this season with Tatum off the floor; elite matchup",
+   "url": ""
+  },
+  {
+   "pos": "SF",
    "dkPos": "SF/PF",
    "fdPos": "SF",
    "player": "Mario Hezonja",
@@ -243,21 +258,6 @@
    "type": "",
    "status": "",
    "blurb": "Season-high 26 minutes in the last game with Tyson and Watson sidelined",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SG/SF",
-   "fdPos": "SF",
-   "player": "Josh Okogie",
-   "team": "UTA",
-   "opp": "NOP",
-   "dk": 3200,
-   "fd": 0,
-   "proj": 15.39,
-   "type": "",
-   "status": "",
-   "blurb": "$3,200 punt who's played 18+ minutes in 3 of the last 4 games",
    "url": ""
   },
   {
@@ -1145,6 +1145,13 @@
    "status": "O",
    "note": "KAT (+7.4%) and Brunson (+6.6%) get big usage boosts; Shamet may start?",
    "time": "1:04 PM"
+  },
+  {
+   "player": "Trey Murphy",
+   "team": "NOP",
+   "status": "Q",
+   "note": "Jones likely returns to the starting unit;",
+   "time": "1:50 PM"
   }
  ],
  "teams": [
