@@ -4,7 +4,7 @@
  "slate": "14 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-04",
- "updated": "2026-11-04T11:56:36-07:00",
+ "updated": "2026-11-04T14:18:30-07:00",
  "positions": [
   "PG",
   "SG",
@@ -611,6 +611,14 @@
    "impact": 6
   },
   {
+   "player": "Isaiah Jackson",
+   "team": "LAC",
+   "status": "Q",
+   "note": "Groin",
+   "updated": "",
+   "impact": 6
+  },
+  {
    "player": "Obi Toppin",
    "team": "IND",
    "status": "Q",
@@ -741,7 +749,7 @@
   {
    "player": "Rasheer Fleming",
    "team": "PHO",
-   "status": "Q",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 2
@@ -1019,14 +1027,6 @@
    "impact": 1
   },
   {
-   "player": "Myron Gardner",
-   "team": "MIA",
-   "status": "Q",
-   "note": "Quad",
-   "updated": "",
-   "impact": 1
-  },
-  {
    "player": "Adou Thiero",
    "team": "LAL",
    "status": "O",
@@ -1158,7 +1158,7 @@
    "player": "Trey Murphy",
    "team": "NOP",
    "status": "Q",
-   "note": "Jones likely returns to the starting unit;",
+   "note": "Jones likely returns to the starting unit; usage boosts for Fears, Bey, Zion, Murray",
    "time": "1:50 PM"
   }
  ],
