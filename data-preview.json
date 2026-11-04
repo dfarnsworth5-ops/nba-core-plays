@@ -4,7 +4,7 @@
  "slate": "14 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-04",
- "updated": "2026-11-04T09:45:54-07:00",
+ "updated": "2026-11-04T10:31:13-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1115,6 +1115,13 @@
    "status": "Q",
    "note": "Would presumably replace Smith as the starting center if he makes his season debut",
    "time": "11:08 AM"
+  },
+  {
+   "player": "Bilal Coulibaly",
+   "team": "WAS",
+   "status": "Q",
+   "note": "Safer minutes for Dybantsa and George; Riley could get a bump into a minor role if Bilal out",
+   "time": "12:30 PM"
   }
  ],
  "teams": [
