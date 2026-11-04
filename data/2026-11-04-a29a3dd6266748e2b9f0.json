@@ -4,7 +4,7 @@
  "slate": "14 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-04",
- "updated": "2026-11-04T10:51:41-07:00",
+ "updated": "2026-11-04T11:06:19-07:00",
  "positions": [
   "PG",
   "SG",
@@ -502,16 +502,16 @@
   },
   {
    "pos": "SF",
-   "dkPos": "SF/PF",
+   "dkPos": "#N/A",
    "fdPos": "SF",
    "player": "Jayson Tatum",
-   "team": "BOS",
-   "opp": "MIL",
-   "dk": 10100,
+   "team": "#N/A",
+   "opp": "#N/A",
+   "dk": 0,
    "fd": 0,
    "proj": 49.33,
    "type": "",
-   "status": "Q",
+   "status": "O",
    "blurb": "34% usage, 1.37 FP/minute; big pace-up matchup vs. MIL",
    "url": ""
   },
@@ -607,16 +607,16 @@
   },
   {
    "pos": "PF",
-   "dkPos": "SF/PF",
+   "dkPos": "#N/A",
    "fdPos": "PF",
    "player": "Jayson Tatum",
-   "team": "BOS",
-   "opp": "MIL",
-   "dk": 10100,
+   "team": "#N/A",
+   "opp": "#N/A",
+   "dk": 0,
    "fd": 0,
    "proj": 49.33,
    "type": "",
-   "status": "Q",
+   "status": "O",
    "blurb": "34% usage, 1.37 FP/minute; big pace-up matchup vs. MIL",
    "url": ""
   },
@@ -1075,15 +1075,15 @@
   {
    "pos": "SF",
    "dkPos": "SF",
-   "fdPos": "PF/SF",
+   "fdPos": "#N/A",
    "player": "Jayson Tatum",
-   "team": "BOS",
-   "opp": "MIL",
+   "team": "#N/A",
+   "opp": "#N/A",
    "dk": 0,
-   "fd": 10200,
+   "fd": 0,
    "proj": 47.09,
    "type": "",
-   "status": "Q",
+   "status": "O",
    "blurb": "34% usage, 1.33 FP/minute; big pace-up matchup vs. MIL",
    "url": ""
   },
@@ -1225,15 +1225,15 @@
   {
    "pos": "PF",
    "dkPos": "PF",
-   "fdPos": "PF/SF",
+   "fdPos": "#N/A",
    "player": "Jayson Tatum",
-   "team": "BOS",
-   "opp": "MIL",
+   "team": "#N/A",
+   "opp": "#N/A",
    "dk": 0,
-   "fd": 10200,
+   "fd": 0,
    "proj": 47.09,
    "type": "",
-   "status": "Q",
+   "status": "O",
    "blurb": "34% usage, 1.33 FP/minute; big pace-up matchup vs. MIL",
    "url": ""
   },
@@ -1377,7 +1377,7 @@
   {
    "player": "Jayson Tatum",
    "team": "BOS",
-   "status": "Q",
+   "status": "O",
    "note": "Rest",
    "updated": "",
    "impact": 10
@@ -1507,6 +1507,14 @@
    "team": "IND",
    "status": "Q",
    "note": "Back",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Bilal Coulibaly",
+   "team": "WAS",
+   "status": "Q",
+   "note": "Illness",
    "updated": "",
    "impact": 5
   },
@@ -1957,12 +1965,20 @@
    "note": "Knee",
    "updated": "",
    "impact": 1
+  },
+  {
+   "player": "Kam Jones",
+   "team": "MIL",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 1
   }
  ],
  "news": [
   {
    "player": "Jayson Tatum",
-   "team": "BOS",
+   "team": "",
    "status": "O",
    "note": "Massive boosts for George, White, and Pritchard, primarily",
    "time": "12:41 PM"
@@ -2022,6 +2038,13 @@
    "status": "Q",
    "note": "Safer minutes for Dybantsa and George; Riley could get a bump into a minor role if Bilal out",
    "time": "12:30 PM"
+  },
+  {
+   "player": "Josh Hart",
+   "team": "NYK",
+   "status": "O",
+   "note": "KAT (+7.4%) and Brunson (+6.6%) get big usage boosts; Shamet may start?",
+   "time": "1:04 PM"
   }
  ],
  "teams": [
