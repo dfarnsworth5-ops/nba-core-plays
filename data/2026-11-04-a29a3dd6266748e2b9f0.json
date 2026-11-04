@@ -4,7 +4,7 @@
  "slate": "14 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-04",
- "updated": "2026-11-04T11:06:19-07:00",
+ "updated": "2026-11-04T11:54:15-07:00",
  "positions": [
   "PG",
   "SG",
@@ -322,17 +322,17 @@
   },
   {
    "pos": "SG",
-   "dkPos": "SG/SF",
+   "dkPos": "PG/SG",
    "fdPos": "SG",
-   "player": "Josh Hart",
-   "team": "NYK",
-   "opp": "CHI",
-   "dk": 6000,
+   "player": "Ty Jerome",
+   "team": "MEM",
+   "opp": "IND",
+   "dk": 8500,
    "fd": 0,
-   "proj": 33.55,
+   "proj": 40.7,
    "type": "",
-   "status": "Q",
-   "blurb": "CHI is the third-best matchup for 3&D wings, per NBA matchup tool",
+   "status": "",
+   "blurb": "Unlikely to garner much ownership despite yet another good matchup vs. IND",
    "url": ""
   },
   {
@@ -412,6 +412,21 @@
   },
   {
    "pos": "SF",
+   "dkPos": "SG/SF",
+   "fdPos": "SF",
+   "player": "Paul George",
+   "team": "BOS",
+   "opp": "MIL",
+   "dk": 7200,
+   "fd": 0,
+   "proj": 36.73,
+   "type": "Core",
+   "status": "",
+   "blurb": "1.27 FP/minute this season with Tatum off the floor; elite matchup",
+   "url": ""
+  },
+  {
+   "pos": "SF",
    "dkPos": "SF/PF",
    "fdPos": "SF",
    "player": "Mario Hezonja",
@@ -442,21 +457,6 @@
   },
   {
    "pos": "SF",
-   "dkPos": "SG/SF",
-   "fdPos": "SF",
-   "player": "Josh Hart",
-   "team": "NYK",
-   "opp": "CHI",
-   "dk": 6000,
-   "fd": 0,
-   "proj": 33.55,
-   "type": "",
-   "status": "Q",
-   "blurb": "CHI is the third-best matchup for 3&D wings, per NBA matchup tool",
-   "url": ""
-  },
-  {
-   "pos": "SF",
    "dkPos": "SF/PF",
    "fdPos": "SF",
    "player": "Scottie Barnes",
@@ -468,21 +468,6 @@
    "type": "",
    "status": "",
    "blurb": "50+ DK points in 3 of the last 4 games; monster role without Kawhi (1.38 FP/minute)",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SG/SF",
-   "fdPos": "SF",
-   "player": "Paul George",
-   "team": "BOS",
-   "opp": "MIL",
-   "dk": 7200,
-   "fd": 0,
-   "proj": 36.73,
-   "type": "",
-   "status": "",
-   "blurb": "Fitting right in (28% usage, 1.33 FP/minute); MIL allows the third-most 3PA per game",
    "url": ""
   },
   {
@@ -502,17 +487,17 @@
   },
   {
    "pos": "SF",
-   "dkPos": "#N/A",
+   "dkPos": "PG/SF",
    "fdPos": "SF",
-   "player": "Jayson Tatum",
-   "team": "#N/A",
-   "opp": "#N/A",
-   "dk": 0,
+   "player": "Deni Avdija",
+   "team": "POR",
+   "opp": "PHO",
+   "dk": 8800,
    "fd": 0,
-   "proj": 49.33,
+   "proj": 42.28,
    "type": "",
-   "status": "O",
-   "blurb": "34% usage, 1.37 FP/minute; big pace-up matchup vs. MIL",
+   "status": "",
+   "blurb": "Usage rate just under 30% this year with Morant off the floor",
    "url": ""
   },
   {
@@ -528,6 +513,21 @@
    "type": "",
    "status": "",
    "blurb": "One of the few bright spots for the Bulls (27% usage, 1.22 FP/minute)",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Michael Porter",
+   "team": "BKN",
+   "opp": "CHA",
+   "dk": 7300,
+   "fd": 0,
+   "proj": 35.56,
+   "type": "",
+   "status": "",
+   "blurb": "Still strong production (1.1 FP/minute) even with Randle now in the mix",
    "url": ""
   },
   {
@@ -607,21 +607,6 @@
   },
   {
    "pos": "PF",
-   "dkPos": "#N/A",
-   "fdPos": "PF",
-   "player": "Jayson Tatum",
-   "team": "#N/A",
-   "opp": "#N/A",
-   "dk": 0,
-   "fd": 0,
-   "proj": 49.33,
-   "type": "",
-   "status": "O",
-   "blurb": "34% usage, 1.37 FP/minute; big pace-up matchup vs. MIL",
-   "url": ""
-  },
-  {
-   "pos": "PF",
    "dkPos": "SF/PF",
    "fdPos": "PF",
    "player": "Caleb Wilson",
@@ -648,6 +633,21 @@
    "type": "",
    "status": "",
    "blurb": "Stuffing the stat sheet (23 points, 8.7 rebounds, 7.8 assists per game)",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Cameron Boozer",
+   "team": "MEM",
+   "opp": "IND",
+   "dk": 8000,
+   "fd": 0,
+   "proj": 38.25,
+   "type": "",
+   "status": "",
+   "blurb": "Consistent production (1.21 FP/minute) despite sluggish shooting so far",
    "url": ""
   },
   {
@@ -2045,6 +2045,13 @@
    "status": "O",
    "note": "KAT (+7.4%) and Brunson (+6.6%) get big usage boosts; Shamet may start?",
    "time": "1:04 PM"
+  },
+  {
+   "player": "Trey Murphy",
+   "team": "NOP",
+   "status": "Q",
+   "note": "Jones likely returns to the starting unit;",
+   "time": "1:50 PM"
   }
  ],
  "teams": [
