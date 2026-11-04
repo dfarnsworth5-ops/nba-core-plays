@@ -4,7 +4,7 @@
  "slate": "14 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-04",
- "updated": "2026-11-04T16:01:57-07:00",
+ "updated": "2026-11-04T16:04:53-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1994,23 +1994,23 @@
   {
    "player": "Payton Pritchard",
    "team": "BOS",
-   "status": "Q",
-   "note": "More minutes for the Celtics' wing depth (Scheierman, Hauser)",
-   "time": "11:08 AM"
+   "status": "A",
+   "note": "Solid option with Tatum vacating a bunch of usage",
+   "time": "6:04 PM"
   },
   {
    "player": "Jalen Johnson",
    "team": "ATL",
-   "status": "Q",
+   "status": "O",
    "note": "Extra usage for McCollum, NAW, and Daniels; Dort started the last game",
-   "time": "11:08 AM"
+   "time": "6:04 PM"
   },
   {
    "player": "Alexandre Sarr",
    "team": "WAS",
-   "status": "Q",
-   "note": "Ayton started and played 24 minutes in the last game without Sarr",
-   "time": "11:08 AM"
+   "status": "A",
+   "note": "Should return to the starting unit over Ayton",
+   "time": "6:04 PM"
   },
   {
    "player": "Ivica Zubac",
@@ -2043,9 +2043,9 @@
   {
    "player": "Bilal Coulibaly",
    "team": "WAS",
-   "status": "Q",
-   "note": "Safer minutes for Dybantsa and George; Riley could get a bump into a minor role if Bilal out",
-   "time": "12:30 PM"
+   "status": "A",
+   "note": "Plays the usual solid role off the bench",
+   "time": "6:04 PM"
   },
   {
    "player": "Josh Hart",
