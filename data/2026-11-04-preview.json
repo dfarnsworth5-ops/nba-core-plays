@@ -4,7 +4,7 @@
  "slate": "14 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-04",
- "updated": "2026-11-04T11:54:15-07:00",
+ "updated": "2026-11-04T11:56:36-07:00",
  "positions": [
   "PG",
   "SG",
@@ -385,31 +385,31 @@
   {
    "pos": "SF",
    "dkPos": "SF",
-   "fdPos": "PF/SF",
-   "player": "OG Anunoby",
-   "team": "NYK",
-   "opp": "CHI",
+   "fdPos": "SF",
+   "player": "Paul George",
+   "team": "BOS",
+   "opp": "MIL",
    "dk": 0,
-   "fd": 5900,
-   "proj": 33.93,
-   "type": "",
+   "fd": 7600,
+   "proj": 35.75,
+   "type": "Core",
    "status": "",
-   "blurb": "Plenty of room for growth on current underwhelming 0.85 FP/minute rate",
+   "blurb": "1.27 FP/minute this season with Tatum off the floor; elite matchup",
    "url": ""
   },
   {
    "pos": "SF",
    "dkPos": "SF",
-   "fdPos": "SF/PF",
-   "player": "Josh Hart",
+   "fdPos": "PF/SF",
+   "player": "OG Anunoby",
    "team": "NYK",
    "opp": "CHI",
    "dk": 0,
-   "fd": 5800,
-   "proj": 32.9,
+   "fd": 5900,
+   "proj": 33.93,
    "type": "",
-   "status": "Q",
-   "blurb": "CHI is the third-best matchup for 3&D wings, per NBA matchup tool",
+   "status": "",
+   "blurb": "Plenty of room for growth on current underwhelming 0.85 FP/minute rate",
    "url": ""
   },
   {
@@ -430,16 +430,16 @@
   {
    "pos": "PF",
    "dkPos": "PF",
-   "fdPos": "SF/PF",
-   "player": "Josh Hart",
-   "team": "NYK",
-   "opp": "CHI",
+   "fdPos": "PF/SF",
+   "player": "Lauri Markkanen",
+   "team": "UTA",
+   "opp": "NOP",
    "dk": 0,
-   "fd": 5800,
-   "proj": 32.9,
+   "fd": 6800,
+   "proj": 36.29,
    "type": "",
-   "status": "Q",
-   "blurb": "CHI is the third-best matchup for 3&D wings, per NBA matchup tool",
+   "status": "",
+   "blurb": "Still producing at a high level (1.08 FP/minute) even with Utah off to a rough start",
    "url": ""
   },
   {
@@ -507,6 +507,14 @@
    "impact": 10
   },
   {
+   "player": "Trey Murphy",
+   "team": "NOP",
+   "status": "Q",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "Alexandre Sarr",
    "team": "WAS",
    "status": "Q",
@@ -517,7 +525,7 @@
   {
    "player": "Josh Hart",
    "team": "NYK",
-   "status": "Q",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 9
@@ -637,7 +645,7 @@
   {
    "player": "Santi Aldama",
    "team": "DAL",
-   "status": "Q",
+   "status": "D",
    "note": "Knee",
    "updated": "",
    "impact": 4
@@ -645,7 +653,7 @@
   {
    "player": "Terrence Shannon",
    "team": "MIN",
-   "status": "Q",
+   "status": "O",
    "note": "Hip",
    "updated": "",
    "impact": 4
@@ -693,7 +701,7 @@
   {
    "player": "Clint Capela",
    "team": "HOU",
-   "status": "Q",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 3
@@ -1141,7 +1149,7 @@
   },
   {
    "player": "Josh Hart",
-   "team": "NYK",
+   "team": "",
    "status": "O",
    "note": "KAT (+7.4%) and Brunson (+6.6%) get big usage boosts; Shamet may start?",
    "time": "1:04 PM"
