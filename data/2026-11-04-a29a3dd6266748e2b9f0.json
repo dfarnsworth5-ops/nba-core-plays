@@ -4,7 +4,7 @@
  "slate": "14 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-04",
- "updated": "2026-11-04T10:31:13-07:00",
+ "updated": "2026-11-04T10:51:41-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1963,9 +1963,9 @@
   {
    "player": "Jayson Tatum",
    "team": "BOS",
-   "status": "Q",
-   "note": "Massive boosts for George, White, and Pritchard, primarily, if Tatum is out",
-   "time": "11:08 AM"
+   "status": "O",
+   "note": "Massive boosts for George, White, and Pritchard, primarily",
+   "time": "12:41 PM"
   },
   {
    "player": "Payton Pritchard",
