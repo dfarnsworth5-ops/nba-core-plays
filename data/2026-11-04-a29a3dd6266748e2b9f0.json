@@ -4,7 +4,7 @@
  "slate": "14 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-04",
- "updated": "2026-11-04T14:18:30-07:00",
+ "updated": "2026-11-04T15:52:26-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1631,6 +1631,14 @@
    "impact": 3
   },
   {
+   "player": "Daeqwon Plowden",
+   "team": "SAC",
+   "status": "O",
+   "note": "Illness",
+   "updated": "",
+   "impact": 2
+  },
+  {
    "player": "Steven Adams",
    "team": "HOU",
    "status": "O",
@@ -1675,14 +1683,6 @@
    "team": "WAS",
    "status": "O",
    "note": "Foot",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Anthony Gill",
-   "team": "WAS",
-   "status": "Q",
-   "note": "Back",
    "updated": "",
    "impact": 1
   },
@@ -2036,9 +2036,9 @@
   {
    "player": "Nic Claxton",
    "team": "CHI",
-   "status": "Q",
-   "note": "Would presumably replace Smith as the starting center if he makes his season debut",
-   "time": "11:08 AM"
+   "status": "O",
+   "note": "Jalen Smith continues to start",
+   "time": "5:52 PM"
   },
   {
    "player": "Bilal Coulibaly",
