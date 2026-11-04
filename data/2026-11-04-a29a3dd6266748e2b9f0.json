@@ -4,7 +4,7 @@
  "slate": "14 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-04",
- "updated": "2026-11-04T16:39:06-07:00",
+ "updated": "2026-11-04T16:40:03-07:00",
  "positions": [
   "PG",
   "SG",
@@ -775,6 +775,21 @@
   {
    "pos": "PG",
    "dkPos": "PG",
+   "fdPos": "SG/PG",
+   "player": "CJ McCollum",
+   "team": "ATL",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 5400,
+   "proj": 28.51,
+   "type": "Core",
+   "status": "",
+   "blurb": "Monster usage boost with Johnson off the floor",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
    "fdPos": "PG",
    "player": "Jalen Brunson",
    "team": "NYK",
@@ -878,21 +893,6 @@
    "url": ""
   },
   {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Cade Cunningham",
-   "team": "DET",
-   "opp": "PHI",
-   "dk": 0,
-   "fd": 9500,
-   "proj": 45.96,
-   "type": "",
-   "status": "",
-   "blurb": "1.8% bump in usage without Duren and Joe; 1.39 FP/minute",
-   "url": ""
-  },
-  {
    "pos": "SG",
    "dkPos": "SG",
    "fdPos": "SG",
@@ -905,6 +905,21 @@
    "type": "Core",
    "status": "",
    "blurb": "Crowded offense, but 30+ fantasy points in each of the last 4 games",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG/PG",
+   "player": "CJ McCollum",
+   "team": "ATL",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 5400,
+   "proj": 28.51,
+   "type": "Core",
+   "status": "",
+   "blurb": "Monster usage boost with Johnson off the floor",
    "url": ""
   },
   {
@@ -950,21 +965,6 @@
    "type": "",
    "status": "",
    "blurb": "Season-high 34 points with Johnson (Q) out in the last game",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG/PG",
-   "player": "CJ McCollum",
-   "team": "ATL",
-   "opp": "WAS",
-   "dk": 0,
-   "fd": 5400,
-   "proj": 28.51,
-   "type": "",
-   "status": "",
-   "blurb": "Team-high 5.1% usage boost with Jalen Johnson (Q) off the floor",
    "url": ""
   },
   {
