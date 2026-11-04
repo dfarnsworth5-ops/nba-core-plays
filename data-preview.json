@@ -4,7 +4,7 @@
  "slate": "14 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-04",
- "updated": "2026-11-04T15:52:26-07:00",
+ "updated": "2026-11-04T15:58:34-07:00",
  "positions": [
   "PG",
   "SG",
@@ -581,7 +581,7 @@
   {
    "player": "Nicolas Claxton",
    "team": "CHI",
-   "status": "Q",
+   "status": "O",
    "note": "Hamstring",
    "updated": "",
    "impact": 7
@@ -1135,7 +1135,7 @@
   },
   {
    "player": "Nic Claxton",
-   "team": "CHI",
+   "team": "",
    "status": "O",
    "note": "Jalen Smith continues to start",
    "time": "5:52 PM"
@@ -1160,6 +1160,13 @@
    "status": "Q",
    "note": "Jones likely returns to the starting unit; usage boosts for Fears, Bey, Zion, Murray",
    "time": "1:50 PM"
+  },
+  {
+   "player": "Landry Shamet",
+   "team": "NYK",
+   "status": "A",
+   "note": "Starting in place of Hart",
+   "time": "1:58 PM"
   }
  ],
  "teams": [
