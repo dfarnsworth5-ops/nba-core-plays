@@ -4,7 +4,7 @@
  "slate": "14 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-04",
- "updated": "2026-11-04T16:15:32-07:00",
+ "updated": "2026-11-04T16:39:06-07:00",
  "positions": [
   "PG",
   "SG",
@@ -247,17 +247,17 @@
   },
   {
    "pos": "SF",
-   "dkPos": "SF/PF",
+   "dkPos": "SF",
    "fdPos": "SF",
-   "player": "Mario Hezonja",
-   "team": "CLE",
-   "opp": "OKC",
-   "dk": 3900,
+   "player": "AJ Dybantsa",
+   "team": "WAS",
+   "opp": "ATL",
+   "dk": 6000,
    "fd": 0,
-   "proj": 20.92,
+   "proj": 30.92,
    "type": "",
    "status": "",
-   "blurb": "Season-high 26 minutes in the last game with Tyson and Watson sidelined",
+   "blurb": "Underpriced for the usage he gets; no minutes limit",
    "url": ""
   },
   {
