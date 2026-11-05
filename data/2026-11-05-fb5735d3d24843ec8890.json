@@ -4,7 +4,7 @@
  "slate": "2 games · 9:00 PM ET lock",
  "note": "",
  "iso": "2026-11-05",
- "updated": "2026-11-05T12:12:10-07:00",
+ "updated": "2026-11-05T12:27:09-07:00",
  "positions": [
   "PG",
   "SG",
@@ -40,6 +40,21 @@
  "plays": [
   {
    "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Anthony Black",
+   "team": "ORL",
+   "opp": "PHO",
+   "dk": 6000,
+   "fd": 0,
+   "proj": 32.63,
+   "type": "Core",
+   "status": "",
+   "blurb": "Has averaged 1.18 fantasy points per minute with Banchero and Suggs off the floor this season. Has topped 40 fantasy points in back-to-back games.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
    "dkPos": "PG",
    "fdPos": "PG",
    "player": "Stephen Curry",
@@ -51,21 +66,6 @@
    "type": "",
    "status": "",
    "blurb": "After a slow start to the season, Curry has topped 50 fantasy points in 3 straight games. Elite matchup against the Heat, who are 4th in pace and 27th in points allowed per game.",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG/SG",
-   "fdPos": "PG",
-   "player": "Anthony Black",
-   "team": "ORL",
-   "opp": "PHO",
-   "dk": 6000,
-   "fd": 0,
-   "proj": 32.63,
-   "type": "",
-   "status": "",
-   "blurb": "Has averaged 1.18 fantasy points per minute with Banchero and Suggs off the floor this season. Has topped 40 fantasy points in back-to-back games.",
    "url": ""
   },
   {
@@ -175,21 +175,6 @@
   },
   {
    "pos": "SG",
-   "dkPos": "PG/SG",
-   "fdPos": "SG",
-   "player": "Brandin Podziemski",
-   "team": "GSW",
-   "opp": "MIA",
-   "dk": 6700,
-   "fd": 0,
-   "proj": 31.9,
-   "type": "",
-   "status": "",
-   "blurb": "Should see minutes in the low 30s in the best matchup on the board. Has quietly been having a nice fantasy season.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
    "dkPos": "SG/SF",
    "fdPos": "SG",
    "player": "Klay Thompson",
@@ -201,6 +186,21 @@
    "type": "Core",
    "status": "",
    "blurb": "After a brutal start to the season, he has scored 46, 23, and 32 fantasy points over the last 3 games. REVENGE game against the Warriors.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Brandin Podziemski",
+   "team": "GSW",
+   "opp": "MIA",
+   "dk": 6700,
+   "fd": 0,
+   "proj": 31.9,
+   "type": "",
+   "status": "",
+   "blurb": "Should see minutes in the low 30s in the best matchup on the board. Has quietly been having a nice fantasy season.",
    "url": ""
   },
   {
@@ -295,21 +295,6 @@
   },
   {
    "pos": "SF",
-   "dkPos": "SF/PF",
-   "fdPos": "SF",
-   "player": "Yaxel Lendeborg",
-   "team": "GSW",
-   "opp": "MIA",
-   "dk": 7900,
-   "fd": 0,
-   "proj": 38.36,
-   "type": "",
-   "status": "",
-   "blurb": "The talented rookie has scored at least 48 fantasy points in 4 of the first 8 games of the season. Elite matchup against the Heat.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
    "dkPos": "SG/SF",
    "fdPos": "SF",
    "player": "Klay Thompson",
@@ -321,6 +306,21 @@
    "type": "Core",
    "status": "",
    "blurb": "After a brutal start to the season, he has scored 46, 23, and 32 fantasy points over the last 3 games. REVENGE game against the Warriors.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF/PF",
+   "fdPos": "SF",
+   "player": "Yaxel Lendeborg",
+   "team": "GSW",
+   "opp": "MIA",
+   "dk": 7900,
+   "fd": 0,
+   "proj": 38.36,
+   "type": "",
+   "status": "",
+   "blurb": "The talented rookie has scored at least 48 fantasy points in 4 of the first 8 games of the season. Elite matchup against the Heat.",
    "url": ""
   },
   {
@@ -609,7 +609,38 @@
    "url": ""
   }
  ],
- "playsFd": [],
+ "playsFd": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Stephen Curry",
+   "team": "GSW",
+   "opp": "MIA",
+   "dk": 0,
+   "fd": 8100,
+   "proj": 41.47,
+   "type": "",
+   "status": "",
+   "blurb": "After a slow start to the season, Curry has topped 50 fantasy points in 3 straight games. Elite matchup against the Heat, who are 4th in pace and 27th in points allowed per game.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG/SG",
+   "player": "Anthony Black",
+   "team": "ORL",
+   "opp": "PHO",
+   "dk": 0,
+   "fd": 6500,
+   "proj": 32.5,
+   "type": "",
+   "status": "",
+   "blurb": "Has averaged 1.18 fantasy points per minute with Banchero and Suggs off the floor this season. Has topped 40 fantasy points in back-to-back games.",
+   "url": ""
+  }
+ ],
  "injuries": [
   {
    "player": "Jimmy Butler",
