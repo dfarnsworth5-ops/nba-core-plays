@@ -4,7 +4,7 @@
  "slate": "2 games · 9:00 PM ET lock",
  "note": "",
  "iso": "2026-11-05",
- "updated": "2026-11-05T12:47:11-07:00",
+ "updated": "2026-11-05T12:47:37-07:00",
  "positions": [
   "PG",
   "SG",
@@ -443,30 +443,30 @@
   {
    "player": "Jalen Suggs",
    "team": "",
-   "status": "",
+   "status": "O",
    "note": "More usage to go around for the starters, more minutes for Black, Richardson, and da Silva.",
-   "time": ""
+   "time": "2:30 PM"
   },
   {
    "player": "Paolo Banchero",
    "team": "",
-   "status": "",
+   "status": "O",
    "note": "More usage to go around for the starters, more minutes for Black, Richardson, and da Silva.",
-   "time": ""
+   "time": "2:30 PM"
   },
   {
    "player": "Gui Santos",
    "team": "",
-   "status": "",
+   "status": "O",
    "note": "More minutes available for Podziemski, Melton, and Niang.",
-   "time": ""
+   "time": "2:30 PM"
   },
   {
    "player": "Jordan Goodwin",
    "team": "PHO",
-   "status": "",
+   "status": "Q",
    "note": "Usually sees around 20 minutes off the bench. His absence would give a boost to Gillespie.",
-   "time": ""
+   "time": "2:30 PM"
   }
  ],
  "teams": [
