@@ -4,7 +4,7 @@
  "slate": "2 games · 9:00 PM ET lock",
  "note": "",
  "iso": "2026-11-05",
- "updated": "2026-11-05T12:48:43-07:00",
+ "updated": "2026-11-05T15:07:18-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1180,7 +1180,7 @@
   {
    "player": "Jordan Goodwin",
    "team": "PHO",
-   "status": "Q",
+   "status": "O",
    "note": "Calf",
    "updated": "",
    "impact": 4
@@ -1196,7 +1196,7 @@
   {
    "player": "Rasheer Fleming",
    "team": "PHO",
-   "status": "Q",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 2
@@ -1258,10 +1258,24 @@
   },
   {
    "player": "Jordan Goodwin",
-   "team": "PHO",
+   "team": "",
    "status": "Q",
    "note": "Usually sees around 20 minutes off the bench. His absence would give a boost to Gillespie.",
    "time": "2:30 PM"
+  },
+  {
+   "player": "Giannis Antetokounmpo",
+   "team": "MIA",
+   "status": "A",
+   "note": "As expected, Giannis will play tonight.",
+   "time": "5:00 PM"
+  },
+  {
+   "player": "Jordan Goodwin",
+   "team": "",
+   "status": "O",
+   "note": "Goodwin's absence opens up a few extra minutes for Gillespie, Dunn, and Kennard.",
+   "time": "5:00 PM"
   }
  ],
  "teams": [
