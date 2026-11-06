@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-06",
- "updated": "2026-11-06T08:48:33-07:00",
+ "updated": "2026-11-06T09:34:18-07:00",
  "positions": [
   "PG",
   "SG",
@@ -542,7 +542,106 @@
    "impact": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "player": "Jalen Johnson",
+   "team": "",
+   "status": "Q",
+   "note": "The whole team would see a major boost if Johnson is out again. Lu Dort drew the spot start the other night.",
+   "time": "11:00 AM"
+  },
+  {
+   "player": "Jarrett Allen",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Thomas Bryant would likely draw the spot start if Allen is out. Evan Mobley would benefit as well.",
+   "time": "11:00 AM"
+  },
+  {
+   "player": "Anthony Davis",
+   "team": "WAS",
+   "status": "Q",
+   "note": "Trae Young, Kyshawn George, and AJ Dybansta would all become great plays if Davis is out. Bilal Coulibaly could draw the spot start.",
+   "time": "11:00 AM"
+  },
+  {
+   "player": "Scottie Barnes",
+   "team": "TOR",
+   "status": "Q",
+   "note": "With Kawhi Leonard also out, RJ Barrett, Immanuel Quickley, Ja'Kobe Walter, and Jamal Shead will all become great options if Barnes is out.",
+   "time": "11:00 AM"
+  },
+  {
+   "player": "Kon Knueppel",
+   "team": "",
+   "status": "O",
+   "note": "Has only played 6 minutes all season, so we know what to expect with him out again tonight.",
+   "time": "11:00 AM"
+  },
+  {
+   "player": "Moussa Diabate",
+   "team": "CHA",
+   "status": "Q",
+   "note": "The Hornets could start Ryan Kalkbrenner or move Naz Reid over to center if Diabate is out.",
+   "time": "11:00 AM"
+  },
+  {
+   "player": "Jaylin Williams",
+   "team": "",
+   "status": "O",
+   "note": "Comes off the bench, but his absence opens up usage and around 20 minutes in the frontcourt.",
+   "time": "11:00 AM"
+  },
+  {
+   "player": "Peyton Watson",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Starts and averages 25 fantasy points per game, so his absence would open up minutes on the wing.",
+   "time": "11:00 AM"
+  },
+  {
+   "player": "Payton Pritchard",
+   "team": "BOS",
+   "status": "Q",
+   "note": "Dominates usage with the second unit. Would see boosts for Hugo Gonzalez and Sam Hauser.",
+   "time": "11:00 AM"
+  },
+  {
+   "player": "Tyrese Proctor",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Plays around 20 minutes off the bench with a fairly high usage rate.",
+   "time": "11:00 AM"
+  },
+  {
+   "player": "Dennis Schroder",
+   "team": "CHA",
+   "status": "Q",
+   "note": "With Coby White out, Schroder has been coming off the bench. His absence would open up minutes for the backcourt.",
+   "time": "11:00 AM"
+  },
+  {
+   "player": "Jaylon Tyson",
+   "team": "",
+   "status": "O",
+   "note": "Usually plays around 20 minutes off the bench. Tyrese Proctor should benefit if he is active.",
+   "time": "11:00 AM"
+  },
+  {
+   "player": "Isaiah Stewart",
+   "team": "",
+   "status": "O",
+   "note": "Opens up around 20 minutes in the frontcourt.",
+   "time": "11:00 AM"
+  },
+  {
+   "player": "Terrance Shannon",
+   "team": "",
+   "status": "Q",
+   "note": "High usage player off the bench. His absence would give small bumps to Ayo Dosunmu and Bones Hyland.",
+   "time": "11:00 AM"
+  }
+ ],
  "teams": [
   [
    "Aaron Gordon",
@@ -2399,6 +2498,10 @@
   [
    "Zyon Pullin",
    "MIN"
+  ],
+  [
+   "Kon Knueppel",
+   "CHA"
   ]
  ],
  "b2b": [],
