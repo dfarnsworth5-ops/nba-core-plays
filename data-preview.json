@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-06",
- "updated": "2026-11-06T09:37:26-07:00",
+ "updated": "2026-11-06T09:52:55-07:00",
  "positions": [
   "PG",
   "SG",
@@ -114,7 +114,38 @@
    "fd": ""
   }
  ],
- "plays": [],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "opp": "MIL",
+   "dk": 6800,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Already sees a major boost with Kawhi Leonard out. Would see an even bigger boost if Scottie Barnes is out. Elite matchup against the Bucks.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Shai Gilgeous-Alexander",
+   "team": "OKC",
+   "opp": "MEM",
+   "dk": 10200,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Has had a lower floor this season, but he has topped 60 fantasy points in back-to-back games. Jalen Williams, Chet Holmgren, and Jaylin Williams are all out.",
+   "url": ""
+  }
+ ],
  "playsFd": [],
  "injuries": [
   {
@@ -589,7 +620,7 @@
    "player": "Jaylin Williams",
    "team": "",
    "status": "O",
-   "note": "Comes off the bench, but his absence opens up usage and around 20 minutes in the frontcourt.",
+   "note": "Opens up 20+ more minutes in an already shorthanded frontcourt. Chet Holmgren and Jalen Williams are also out.",
    "time": "11:00 AM"
   },
   {
@@ -635,8 +666,8 @@
    "time": "11:00 AM"
   },
   {
-   "player": "Terrance Shannon",
-   "team": "",
+   "player": "Terrence Shannon",
+   "team": "MIN",
    "status": "Q",
    "note": "High usage player off the bench. His absence would give small bumps to Ayo Dosunmu and Bones Hyland.",
    "time": "11:00 AM"
@@ -2507,7 +2538,7 @@
  "b2b": [],
  "preview": {
   "locked": {
-   "PG": 0,
+   "PG": 6,
    "SG": 0,
    "SF": 0,
    "PF": 0,
