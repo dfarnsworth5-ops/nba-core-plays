@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-06",
- "updated": "2026-11-05T21:46:40-07:00",
+ "updated": "2026-11-06T08:48:33-07:00",
  "positions": [
   "PG",
   "SG",
@@ -530,6 +530,14 @@
    "team": "WAS",
    "status": "O",
    "note": "Shoulder",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Kyle Anderson",
+   "team": "TOR",
+   "status": "Q",
+   "note": "Illness",
    "updated": "",
    "impact": 1
   }
