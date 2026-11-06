@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-06",
- "updated": "2026-11-06T11:58:52-07:00",
+ "updated": "2026-11-06T15:51:10-07:00",
  "positions": [
   "PG",
   "SG",
@@ -132,17 +132,17 @@
   },
   {
    "pos": "PG",
-   "dkPos": "PG",
+   "dkPos": "PG/SF",
    "fdPos": "PG",
-   "player": "Shai Gilgeous-Alexander",
-   "team": "OKC",
-   "opp": "MEM",
-   "dk": 10200,
+   "player": "Dyson Daniels",
+   "team": "ATL",
+   "opp": "WAS",
+   "dk": 6600,
    "fd": 0,
-   "proj": 52.06,
+   "proj": 32.03,
    "type": "",
    "status": "",
-   "blurb": "Has had a lower floor this season, but he has topped 60 fantasy points in back-to-back games. Jalen Williams, Chet Holmgren, and Jaylin Williams are all out.",
+   "blurb": "Jalen Johnson has been ruled OUT.",
    "url": ""
   },
   {
@@ -422,7 +422,7 @@
   {
    "player": "Jalen Johnson",
    "team": "ATL",
-   "status": "Q",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 10
@@ -438,7 +438,7 @@
   {
    "player": "Anthony Davis",
    "team": "WAS",
-   "status": "Q",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 10
@@ -480,6 +480,14 @@
    "team": "OKC",
    "status": "O",
    "note": "Back",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "De'Andre Hunter",
+   "team": "SAC",
+   "status": "Q",
+   "note": "Illness",
    "updated": "",
    "impact": 8
   },
@@ -536,14 +544,6 @@
    "team": "POR",
    "status": "O",
    "note": "Leg",
-   "updated": "",
-   "impact": 4
-  },
-  {
-   "player": "Sandro Mamukelashvili",
-   "team": "LAL",
-   "status": "Q",
-   "note": "Illness",
    "updated": "",
    "impact": 4
   },
@@ -970,6 +970,20 @@
    "status": "O",
    "note": "There's a lot of extra usage to go around with Shannon and Anthony Edwards out.",
    "time": "1:30 PM"
+  },
+  {
+   "player": "Jalen Johnson",
+   "team": "",
+   "status": "O",
+   "note": "Johnson has been ruled out. Everyone on the Hawks sees a big boost.",
+   "time": "5:40 PM"
+  },
+  {
+   "player": "Anthony Davis",
+   "team": "",
+   "status": "O",
+   "note": "Davis has been ruled out. AJ Dybansta, Kyshawn George, and Trae Young are all strong plays.",
+   "time": "5:40 PM"
   }
  ],
  "teams": [
@@ -2844,14 +2858,14 @@
    "PG": 6,
    "SG": 6,
    "SF": 6,
-   "PF": 6,
+   "PF": 4,
    "C": 6
   },
   "lockedFd": {
    "PG": 6,
    "SG": 6,
    "SF": 6,
-   "PF": 6,
+   "PF": 5,
    "C": 6
   },
   "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
