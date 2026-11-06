@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-06",
- "updated": "2026-11-06T11:28:27-07:00",
+ "updated": "2026-11-06T11:49:16-07:00",
  "positions": [
   "PG",
   "SG",
@@ -266,7 +266,38 @@
    "url": ""
   }
  ],
- "playsFd": [],
+ "playsFd": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "opp": "MIL",
+   "dk": 0,
+   "fd": 6400,
+   "proj": 37.26,
+   "type": "",
+   "status": "Q",
+   "blurb": "Already sees a major boost with Kawhi Leonard out. Would see an even bigger boost if Scottie Barnes is out. Now questionable himself.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "LaMelo Ball",
+   "team": "MIN",
+   "opp": "NOP",
+   "dk": 0,
+   "fd": 7400,
+   "proj": 38.36,
+   "type": "",
+   "status": "",
+   "blurb": "I'm usually not a Ball truther, but he has played 31 and 32 minutes the last 2 games. Sees a major usage boost with Anthony Edwards out.",
+   "url": ""
+  }
+ ],
  "injuries": [
   {
    "player": "Jalen Johnson",
@@ -2697,7 +2728,7 @@
    "C": 6
   },
   "lockedFd": {
-   "PG": 0,
+   "PG": 6,
    "SG": 0,
    "SF": 0,
    "PF": 0,
