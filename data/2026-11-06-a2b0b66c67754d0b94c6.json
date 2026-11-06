@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-06",
- "updated": "2026-11-06T10:56:26-07:00",
+ "updated": "2026-11-06T11:28:27-07:00",
  "positions": [
   "PG",
   "SG",
@@ -126,8 +126,8 @@
    "fd": 0,
    "proj": 38.73,
    "type": "",
-   "status": "",
-   "blurb": "Already sees a major boost with Kawhi Leonard out. Would see an even bigger boost if Scottie Barnes is out. Elite matchup against the Bucks.",
+   "status": "Q",
+   "blurb": "Already sees a major boost with Kawhi Leonard out. Would see an even bigger boost if Scottie Barnes is out. Now questionable himself.",
    "url": ""
   },
   {
@@ -217,7 +217,7 @@
    "proj": 33.92,
    "type": "",
    "status": "",
-   "blurb": "Has topped 35 fantasy points in 4 of the last 5 games. Anthony Edwards is out and Terrence Shannon is questionable.",
+   "blurb": "Has topped 35 fantasy points in 4 of the last 5 games. Anthony Edwards and Terrence Shannon are out.",
    "url": ""
   },
   {
@@ -247,7 +247,7 @@
    "proj": 39.21,
    "type": "Core",
    "status": "",
-   "blurb": "Already sees a major boost with Kawhi Leonard out. Would see an even bigger boost if Scottie Barnes is out. Elite matchup against the Bucks.",
+   "blurb": "Already sees a major boost with Kawhi Leonard out. Would see an even bigger boost if Scottie Barnes and/or Immanuel Quickley are out.",
    "url": ""
   },
   {
@@ -292,7 +292,7 @@
    "proj": 33.92,
    "type": "",
    "status": "",
-   "blurb": "Has topped 35 fantasy points in 4 of the last 5 games. Anthony Edwards is out and Terrence Shannon is questionable.",
+   "blurb": "Has topped 35 fantasy points in 4 of the last 5 games. Anthony Edwards and Terrence Shannon are out.",
    "url": ""
   },
   {
@@ -352,7 +352,7 @@
    "proj": 24.15,
    "type": "",
    "status": "",
-   "blurb": "Has regularly seen minutes in the 30s with Kawhi Leonard out. Would see an even bigger boost if Scottie Barnes is out.",
+   "blurb": "Already sees a major boost with Kawhi Leonard out. Would see an even bigger boost if Scottie Barnes and/or Immanuel Quickley are out.",
    "url": ""
   },
   {
@@ -367,7 +367,7 @@
    "proj": 39.21,
    "type": "Core",
    "status": "",
-   "blurb": "Already sees a major boost with Kawhi Leonard out. Would see an even bigger boost if Scottie Barnes is out. Elite matchup against the Bucks.",
+   "blurb": "Already sees a major boost with Kawhi Leonard out. Would see an even bigger boost if Scottie Barnes and/or Immanuel Quickley are out.",
    "url": ""
   },
   {
@@ -712,7 +712,7 @@
    "proj": 0,
    "type": "",
    "status": "",
-   "blurb": "Offers a high ceiling at low projected ownership. Would see a boost if Moussa Diabate is out.",
+   "blurb": "Offers a high ceiling at low projected ownership. Sees a boost with Moussa Diabate out.",
    "url": ""
   }
  ],
@@ -751,6 +751,14 @@
    "impact": 10
   },
   {
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "status": "Q",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "Kon Knueppel",
    "team": "CHA",
    "status": "O",
@@ -761,7 +769,7 @@
   {
    "player": "Moussa Diabate",
    "team": "CHA",
-   "status": "Q",
+   "status": "O",
    "note": "Quad",
    "updated": "",
    "impact": 9
@@ -783,14 +791,6 @@
    "impact": 7
   },
   {
-   "player": "Payton Pritchard",
-   "team": "BOS",
-   "status": "Q",
-   "note": "Eye",
-   "updated": "",
-   "impact": 7
-  },
-  {
    "player": "Tyrese Proctor",
    "team": "CLE",
    "status": "Q",
@@ -801,7 +801,7 @@
   {
    "player": "Dennis Schroder",
    "team": "CHA",
-   "status": "Q",
+   "status": "O",
    "note": "Thigh",
    "updated": "",
    "impact": 6
@@ -825,7 +825,7 @@
   {
    "player": "Terrence Shannon",
    "team": "MIN",
-   "status": "Q",
+   "status": "O",
    "note": "Hip",
    "updated": "",
    "impact": 5
@@ -1181,7 +1181,7 @@
   },
   {
    "player": "Moussa Diabate",
-   "team": "CHA",
+   "team": "",
    "status": "Q",
    "note": "The Hornets could start Ryan Kalkbrenner or move Naz Reid over to center if Diabate is out.",
    "time": "11:00 AM"
@@ -1216,7 +1216,7 @@
   },
   {
    "player": "Dennis Schroder",
-   "team": "CHA",
+   "team": "",
    "status": "Q",
    "note": "With Coby White out, Schroder has been coming off the bench. His absence would open up minutes for the backcourt.",
    "time": "11:00 AM"
@@ -1237,10 +1237,38 @@
   },
   {
    "player": "Terrence Shannon",
-   "team": "MIN",
+   "team": "",
    "status": "Q",
    "note": "High usage player off the bench. His absence would give small bumps to Ayo Dosunmu and Bones Hyland.",
    "time": "11:00 AM"
+  },
+  {
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "status": "Q",
+   "note": "Quickley has been added to the injury report as well. RJ Barrett might become the top play on the slate.",
+   "time": "1:30 PM"
+  },
+  {
+   "player": "Dennis Schroder",
+   "team": "",
+   "status": "O",
+   "note": "Coby White was starting anyway, but now there are more minutes to go around in the backcourt.",
+   "time": "1:30 PM"
+  },
+  {
+   "player": "Moussa Diabate",
+   "team": "",
+   "status": "O",
+   "note": "This should give a boost to Ryan Kalkbrenner and Naz Reid.",
+   "time": "1:30 PM"
+  },
+  {
+   "player": "Terrence Shannon",
+   "team": "",
+   "status": "O",
+   "note": "There's a lot of extra usage to go around with Shannon and Anthony Edwards out.",
+   "time": "1:30 PM"
   }
  ],
  "teams": [
