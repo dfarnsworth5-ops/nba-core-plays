@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-06",
- "updated": "2026-11-06T11:58:52-07:00",
+ "updated": "2026-11-06T15:51:10-07:00",
  "positions": [
   "PG",
   "SG",
@@ -132,6 +132,21 @@
   },
   {
    "pos": "PG",
+   "dkPos": "PG/SF",
+   "fdPos": "PG",
+   "player": "Dyson Daniels",
+   "team": "ATL",
+   "opp": "WAS",
+   "dk": 6600,
+   "fd": 0,
+   "proj": 32.03,
+   "type": "",
+   "status": "",
+   "blurb": "Jalen Johnson has been ruled OUT.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
    "dkPos": "PG",
    "fdPos": "PG",
    "player": "Shai Gilgeous-Alexander",
@@ -209,30 +224,15 @@
    "pos": "PG",
    "dkPos": "PG/SG",
    "fdPos": "PG",
-   "player": "Ayo Dosunmu",
-   "team": "MIN",
-   "opp": "NOP",
-   "dk": 6700,
+   "player": "Nickeil Alexander-Walker",
+   "team": "ATL",
+   "opp": "WAS",
+   "dk": 7200,
    "fd": 0,
-   "proj": 33.92,
+   "proj": 32.33,
    "type": "",
    "status": "",
-   "blurb": "Has topped 35 fantasy points in 4 of the last 5 games. Anthony Edwards and Terrence Shannon are out.",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG/SG",
-   "fdPos": "PG",
-   "player": "Ajay Mitchell",
-   "team": "OKC",
-   "opp": "MEM",
-   "dk": 6600,
-   "fd": 0,
-   "proj": 32.25,
-   "type": "",
-   "status": "",
-   "blurb": "Has topped 37 fantasy points in 4 of the last 6 games. Projected for 33 minutes in a nice matchup against the Grizzlies.",
+   "blurb": "Jalen Johnson has been ruled OUT.",
    "url": ""
   },
   {
@@ -507,21 +507,6 @@
   },
   {
    "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "Jalen Johnson",
-   "team": "ATL",
-   "opp": "WAS",
-   "dk": 9700,
-   "fd": 0,
-   "proj": 47.65,
-   "type": "",
-   "status": "Q",
-   "blurb": "Strong spend if active. The Wizards are one of the worst rebounding teams in the league.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
    "dkPos": "PF/C",
    "fdPos": "PF",
    "player": "Collin Murray-Boyles",
@@ -578,21 +563,6 @@
    "type": "",
    "status": "",
    "blurb": "Has topped 40 fantasy points in 2 of the last 5 games. Projected for 34 minutes in an elite matchup against the Jazz.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "Anthony Davis",
-   "team": "WAS",
-   "opp": "ATL",
-   "dk": 8600,
-   "fd": 0,
-   "proj": 41.92,
-   "type": "",
-   "status": "Q",
-   "blurb": "Interesting tournament play if active. The questionable tag will keep his ownership down.",
    "url": ""
   },
   {
@@ -1156,21 +1126,6 @@
    "pos": "PF",
    "dkPos": "PF",
    "fdPos": "PF",
-   "player": "Jalen Johnson",
-   "team": "ATL",
-   "opp": "WAS",
-   "dk": 0,
-   "fd": 9300,
-   "proj": 45.47,
-   "type": "",
-   "status": "Q",
-   "blurb": "Strong spend if active. The Wizards are one of the worst rebounding teams in the league.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
    "player": "LeBron James",
    "team": "PHI",
    "opp": "CLE",
@@ -1322,7 +1277,7 @@
   {
    "player": "Jalen Johnson",
    "team": "ATL",
-   "status": "Q",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 10
@@ -1338,7 +1293,7 @@
   {
    "player": "Anthony Davis",
    "team": "WAS",
-   "status": "Q",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 10
@@ -1380,6 +1335,14 @@
    "team": "OKC",
    "status": "O",
    "note": "Back",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "De'Andre Hunter",
+   "team": "SAC",
+   "status": "Q",
+   "note": "Illness",
    "updated": "",
    "impact": 8
   },
@@ -1436,14 +1399,6 @@
    "team": "POR",
    "status": "O",
    "note": "Leg",
-   "updated": "",
-   "impact": 4
-  },
-  {
-   "player": "Sandro Mamukelashvili",
-   "team": "LAL",
-   "status": "Q",
-   "note": "Illness",
    "updated": "",
    "impact": 4
   },
@@ -1870,6 +1825,20 @@
    "status": "O",
    "note": "There's a lot of extra usage to go around with Shannon and Anthony Edwards out.",
    "time": "1:30 PM"
+  },
+  {
+   "player": "Jalen Johnson",
+   "team": "",
+   "status": "O",
+   "note": "Johnson has been ruled out. Everyone on the Hawks sees a big boost.",
+   "time": "5:40 PM"
+  },
+  {
+   "player": "Anthony Davis",
+   "team": "",
+   "status": "O",
+   "note": "Davis has been ruled out. AJ Dybansta, Kyshawn George, and Trae Young are all strong plays.",
+   "time": "5:40 PM"
   }
  ],
  "teams": [
