@@ -4,7 +4,7 @@
  "slate": "7 games · 5:00 PM ET lock",
  "note": "",
  "iso": "2026-11-07",
- "updated": "2026-11-07T13:31:02-07:00",
+ "updated": "2026-11-07T14:03:29-07:00",
  "positions": [
   "PG",
   "SG",
@@ -605,14 +605,14 @@
   },
   {
    "pos": "C",
-   "dkPos": "#N/A",
+   "dkPos": "C",
    "fdPos": "C",
    "player": "Zuby Ejiofor",
-   "team": "#N/A",
-   "opp": "#N/A",
-   "dk": 0,
+   "team": "ATL",
+   "opp": "BKN",
+   "dk": 3800,
    "fd": 0,
-   "proj": 0,
+   "proj": 7.14,
    "type": "",
    "status": "",
    "blurb": "Limited minutes, but elite FP/minute rate (1.15) playing backup C minutes with Landale out",
@@ -3733,6 +3733,734 @@
   [
    "Pat Spencer",
    "PHO"
+  ],
+  [
+   "Andrew Nembhard",
+   "IND"
+  ],
+  [
+   "Kelly Oubre",
+   "IND"
+  ],
+  [
+   "Aaron Nesmith",
+   "IND"
+  ],
+  [
+   "Pascal Siakam",
+   "IND"
+  ],
+  [
+   "Ivica Zubac",
+   "IND"
+  ],
+  [
+   "Obi Toppin",
+   "IND"
+  ],
+  [
+   "Jarace Walker",
+   "IND"
+  ],
+  [
+   "T.J. McConnell",
+   "IND"
+  ],
+  [
+   "Braden Smith",
+   "IND"
+  ],
+  [
+   "Quenton Jackson",
+   "IND"
+  ],
+  [
+   "Jay Huff",
+   "IND"
+  ],
+  [
+   "Larry Nance Jr.",
+   "IND"
+  ],
+  [
+   "Jalen Slawson",
+   "IND"
+  ],
+  [
+   "Kobe Brown",
+   "IND"
+  ],
+  [
+   "Jamal Murray",
+   "DEN"
+  ],
+  [
+   "Christian Braun",
+   "DEN"
+  ],
+  [
+   "Cameron Johnson",
+   "DEN"
+  ],
+  [
+   "Aaron Gordon",
+   "DEN"
+  ],
+  [
+   "Nikola Jokic",
+   "DEN"
+  ],
+  [
+   "DeMar DeRozan",
+   "DEN"
+  ],
+  [
+   "Trevon Brazile",
+   "DEN"
+  ],
+  [
+   "Marvin Bagley",
+   "DEN"
+  ],
+  [
+   "Spencer Jones",
+   "DEN"
+  ],
+  [
+   "Tyus Jones",
+   "DEN"
+  ],
+  [
+   "Bryce Hopkins",
+   "DEN"
+  ],
+  [
+   "DaRon Holmes",
+   "DEN"
+  ],
+  [
+   "Alpha Diallo",
+   "DEN"
+  ],
+  [
+   "Zeke Nnaji",
+   "DEN"
+  ],
+  [
+   "Ryan Nembhard",
+   "DEN"
+  ],
+  [
+   "Kingston Flemings",
+   "ATL"
+  ],
+  [
+   "Nickeil Alexander-Walker",
+   "ATL"
+  ],
+  [
+   "Dyson Daniels",
+   "ATL"
+  ],
+  [
+   "Jalen Johnson",
+   "ATL"
+  ],
+  [
+   "Onyeka Okongwu",
+   "ATL"
+  ],
+  [
+   "CJ McCollum",
+   "ATL"
+  ],
+  [
+   "Aaron Wiggins",
+   "ATL"
+  ],
+  [
+   "Lu Dort",
+   "ATL"
+  ],
+  [
+   "Zuby Ejiofor",
+   "ATL"
+  ],
+  [
+   "Corey Kispert",
+   "ATL"
+  ],
+  [
+   "Dorian Finney-Smith",
+   "ATL"
+  ],
+  [
+   "Jalen Wilson",
+   "ATL"
+  ],
+  [
+   "RayJ Dennis",
+   "ATL"
+  ],
+  [
+   "Nolan Traore",
+   "BKN"
+  ],
+  [
+   "Chaney Johnson",
+   "BKN"
+  ],
+  [
+   "Michael Porter Jr.",
+   "BKN"
+  ],
+  [
+   "Julius Randle",
+   "BKN"
+  ],
+  [
+   "Day'Ron Sharpe",
+   "BKN"
+  ],
+  [
+   "Mikel Brown",
+   "BKN"
+  ],
+  [
+   "Moe Wagner",
+   "BKN"
+  ],
+  [
+   "Noah Clowney",
+   "BKN"
+  ],
+  [
+   "Keon Ellis",
+   "BKN"
+  ],
+  [
+   "Danny Wolf",
+   "BKN"
+  ],
+  [
+   "Terance Mann",
+   "BKN"
+  ],
+  [
+   "Josh Minott",
+   "BKN"
+  ],
+  [
+   "Drake Powell",
+   "BKN"
+  ],
+  [
+   "Shai Gilgeous-Alexander",
+   "OKC"
+  ],
+  [
+   "Jared McCain",
+   "OKC"
+  ],
+  [
+   "Ajay Mitchell",
+   "OKC"
+  ],
+  [
+   "Kenrich Williams",
+   "OKC"
+  ],
+  [
+   "Isaiah Hartenstein",
+   "OKC"
+  ],
+  [
+   "Aday Mara",
+   "OKC"
+  ],
+  [
+   "Alex Caruso",
+   "OKC"
+  ],
+  [
+   "Bennett Stirtz",
+   "OKC"
+  ],
+  [
+   "Micah Peavy",
+   "OKC"
+  ],
+  [
+   "Josh Dix",
+   "OKC"
+  ],
+  [
+   "Brooks Barnhizer",
+   "OKC"
+  ],
+  [
+   "Dalen Terry",
+   "OKC"
+  ],
+  [
+   "Trae Young",
+   "WAS"
+  ],
+  [
+   "Kyshawn George",
+   "WAS"
+  ],
+  [
+   "AJ Dybantsa",
+   "WAS"
+  ],
+  [
+   "Anthony Davis",
+   "WAS"
+  ],
+  [
+   "Alexandre Sarr",
+   "WAS"
+  ],
+  [
+   "Bilal Coulibaly",
+   "WAS"
+  ],
+  [
+   "Deandre Ayton",
+   "WAS"
+  ],
+  [
+   "Tre Johnson",
+   "WAS"
+  ],
+  [
+   "Carlton Carrington",
+   "WAS"
+  ],
+  [
+   "Will Riley",
+   "WAS"
+  ],
+  [
+   "Khris Middleton",
+   "WAS"
+  ],
+  [
+   "Tre Mann",
+   "WAS"
+  ],
+  [
+   "Anthony Gill",
+   "WAS"
+  ],
+  [
+   "James Harden",
+   "CLE"
+  ],
+  [
+   "Donovan Mitchell",
+   "CLE"
+  ],
+  [
+   "Meleek Thomas",
+   "CLE"
+  ],
+  [
+   "Peyton Watson",
+   "CLE"
+  ],
+  [
+   "Evan Mobley",
+   "CLE"
+  ],
+  [
+   "Mario Hezonja",
+   "CLE"
+  ],
+  [
+   "Tyrese Proctor",
+   "CLE"
+  ],
+  [
+   "Thomas Bryant",
+   "CLE"
+  ],
+  [
+   "Craig Porter",
+   "CLE"
+  ],
+  [
+   "Norchad Omier",
+   "CLE"
+  ],
+  [
+   "Jalen Brunson",
+   "NYK"
+  ],
+  [
+   "Landry Shamet",
+   "NYK"
+  ],
+  [
+   "Mikal Bridges",
+   "NYK"
+  ],
+  [
+   "OG Anunoby",
+   "NYK"
+  ],
+  [
+   "Karl-Anthony Towns",
+   "NYK"
+  ],
+  [
+   "Andre Drummond",
+   "NYK"
+  ],
+  [
+   "Miles McBride",
+   "NYK"
+  ],
+  [
+   "Jordan Clarkson",
+   "NYK"
+  ],
+  [
+   "Jose Alvarado",
+   "NYK"
+  ],
+  [
+   "Tyler Kolek",
+   "NYK"
+  ],
+  [
+   "Mohamed Diawara",
+   "NYK"
+  ],
+  [
+   "Dalton Knecht",
+   "NYK"
+  ],
+  [
+   "Pacome Dadiet",
+   "NYK"
+  ],
+  [
+   "James Wiseman",
+   "NYK"
+  ],
+  [
+   "Stephen Curry",
+   "GSW"
+  ],
+  [
+   "Brandin Podziemski",
+   "GSW"
+  ],
+  [
+   "Will Richard",
+   "GSW"
+  ],
+  [
+   "Yaxel Lendeborg",
+   "GSW"
+  ],
+  [
+   "Draymond Green",
+   "GSW"
+  ],
+  [
+   "De'Anthony Melton",
+   "GSW"
+  ],
+  [
+   "Brandon Williams",
+   "GSW"
+  ],
+  [
+   "Gui Santos",
+   "GSW"
+  ],
+  [
+   "Georges Niang",
+   "GSW"
+  ],
+  [
+   "Al Horford",
+   "GSW"
+  ],
+  [
+   "Charles Bassey",
+   "GSW"
+  ],
+  [
+   "Gary Payton II",
+   "GSW"
+  ],
+  [
+   "Graham Ike",
+   "GSW"
+  ],
+  [
+   "L.J. Cryer",
+   "GSW"
+  ],
+  [
+   "Malevy Leons",
+   "GSW"
+  ],
+  [
+   "Jase Richardson",
+   "ORL"
+  ],
+  [
+   "Anthony Black",
+   "ORL"
+  ],
+  [
+   "Jamal Cain",
+   "ORL"
+  ],
+  [
+   "Franz Wagner",
+   "ORL"
+  ],
+  [
+   "Wendell Carter Jr.",
+   "ORL"
+  ],
+  [
+   "Tristan da Silva",
+   "ORL"
+  ],
+  [
+   "Nikola Vucevic",
+   "ORL"
+  ],
+  [
+   "Goga Bitadze",
+   "ORL"
+  ],
+  [
+   "Jevon Carter",
+   "ORL"
+  ],
+  [
+   "Alex Morales",
+   "ORL"
+  ],
+  [
+   "Colin Castleton",
+   "ORL"
+  ],
+  [
+   "Devin Booker",
+   "PHO"
+  ],
+  [
+   "Jalen Green",
+   "PHO"
+  ],
+  [
+   "Dillon Brooks",
+   "PHO"
+  ],
+  [
+   "Miles Bridges",
+   "PHO"
+  ],
+  [
+   "Oso Ighodaro",
+   "PHO"
+  ],
+  [
+   "Collin Gillespie",
+   "PHO"
+  ],
+  [
+   "Khaman Maluach",
+   "PHO"
+  ],
+  [
+   "Ryan Dunn",
+   "PHO"
+  ],
+  [
+   "Luke Kennard",
+   "PHO"
+  ],
+  [
+   "Koa Peat",
+   "PHO"
+  ],
+  [
+   "Jamaree Bouyea",
+   "PHO"
+  ],
+  [
+   "Duop Reath",
+   "PHO"
+  ],
+  [
+   "Pat Spencer",
+   "PHO"
+  ],
+  [
+   "Rasheer Fleming",
+   "PHO"
+  ],
+  [
+   "Fred VanVleet",
+   "HOU"
+  ],
+  [
+   "Amen Thompson",
+   "HOU"
+  ],
+  [
+   "Kevin Durant",
+   "HOU"
+  ],
+  [
+   "Jabari Smith",
+   "HOU"
+  ],
+  [
+   "Alperen Sengun",
+   "HOU"
+  ],
+  [
+   "Tari Eason",
+   "HOU"
+  ],
+  [
+   "Reed Sheppard",
+   "HOU"
+  ],
+  [
+   "Marcus Smart",
+   "HOU"
+  ],
+  [
+   "Bogdan Bogdanovic",
+   "HOU"
+  ],
+  [
+   "Oscar Tshiebwe",
+   "HOU"
+  ],
+  [
+   "Isaiah Crawford",
+   "HOU"
+  ],
+  [
+   "Jae'Sean Tate",
+   "HOU"
+  ],
+  [
+   "Bruce Thornton",
+   "HOU"
+  ],
+  [
+   "Damian Lillard",
+   "POR"
+  ],
+  [
+   "Scoot Henderson",
+   "POR"
+  ],
+  [
+   "Toumani Camara",
+   "POR"
+  ],
+  [
+   "Deni Avdija",
+   "POR"
+  ],
+  [
+   "Donovan Clingan",
+   "POR"
+  ],
+  [
+   "Jrue Holiday",
+   "POR"
+  ],
+  [
+   "Sidy Cissoko",
+   "POR"
+  ],
+  [
+   "Branden Carlson",
+   "POR"
+  ],
+  [
+   "Micah Potter",
+   "POR"
+  ],
+  [
+   "Yang Hansen",
+   "POR"
+  ],
+  [
+   "Chris Youngblood",
+   "POR"
+  ],
+  [
+   "Jayson Kent",
+   "POR"
+  ],
+  [
+   "De'Aaron Fox",
+   "SAS"
+  ],
+  [
+   "Stephon Castle",
+   "SAS"
+  ],
+  [
+   "Dylan Harper",
+   "SAS"
+  ],
+  [
+   "Devin Vassell",
+   "SAS"
+  ],
+  [
+   "Victor Wembanyama",
+   "SAS"
+  ],
+  [
+   "Keldon Johnson",
+   "SAS"
+  ],
+  [
+   "Julian Champagnie",
+   "SAS"
+  ],
+  [
+   "Luke Kornet",
+   "SAS"
+  ],
+  [
+   "Harrison Barnes",
+   "SAS"
+  ],
+  [
+   "Carter Bryant",
+   "SAS"
+  ],
+  [
+   "Tarris Reed",
+   "SAS"
+  ],
+  [
+   "Jordan McLaughlin",
+   "SAS"
+  ],
+  [
+   "Zuby Ejiofor",
+   "ATL"
   ]
  ],
  "b2b": [
