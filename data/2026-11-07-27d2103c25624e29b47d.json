@@ -4,7 +4,7 @@
  "slate": "7 games · 5:00 PM ET lock",
  "note": "",
  "iso": "2026-11-07",
- "updated": "2026-11-07T12:50:54-07:00",
+ "updated": "2026-11-07T13:31:02-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1239,15 +1239,15 @@
    "pos": "C",
    "dkPos": "C",
    "fdPos": "C",
-   "player": "Aday Mara",
-   "team": "OKC",
-   "opp": "WAS",
+   "player": "Zuby Ejiofor",
+   "team": "ATL",
+   "opp": "BKN",
    "dk": 0,
-   "fd": 4500,
-   "proj": 23.66,
+   "fd": 3700,
+   "proj": 7.19,
    "type": "",
    "status": "",
-   "blurb": "Volatile minutes, but decent production (1.00 FP/minute) at a cheap salary",
+   "blurb": "Limited minutes, but elite FP/minute rate (1.15) playing backup C minutes with Landale out",
    "url": ""
   },
   {
@@ -1354,14 +1354,6 @@
    "impact": 8
   },
   {
-   "player": "Kelly Oubre",
-   "team": "IND",
-   "status": "Q",
-   "note": "Calf",
-   "updated": "",
-   "impact": 7
-  },
-  {
    "player": "Robert Williams III",
    "team": "POR",
    "status": "D",
@@ -1374,14 +1366,6 @@
    "team": "CLE",
    "status": "O",
    "note": "Ankle",
-   "updated": "",
-   "impact": 5
-  },
-  {
-   "player": "T.J. McConnell",
-   "team": "IND",
-   "status": "Q",
-   "note": "Hamstring",
    "updated": "",
    "impact": 5
   },
@@ -1442,20 +1426,20 @@
    "impact": 3
   },
   {
-   "player": "Rasheer Fleming",
-   "team": "PHO",
-   "status": "Q",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 3
-  },
-  {
    "player": "Noah Clowney",
    "team": "BKN",
    "status": "Q",
    "note": "Illness",
    "updated": "",
    "impact": 3
+  },
+  {
+   "player": "Rasheer Fleming",
+   "team": "PHO",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 2
   },
   {
    "player": "Tobias Harris",
