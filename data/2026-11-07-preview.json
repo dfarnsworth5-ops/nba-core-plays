@@ -4,7 +4,7 @@
  "slate": "7 games · 5:00 PM ET lock",
  "note": "",
  "iso": "2026-11-07",
- "updated": "2026-11-07T11:04:16-07:00",
+ "updated": "2026-11-07T11:27:06-07:00",
  "positions": [
   "PG",
   "SG",
@@ -400,7 +400,7 @@
   {
    "player": "Jarrett Allen",
    "team": "CLE",
-   "status": "Q",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 10
@@ -408,14 +408,6 @@
   {
    "player": "Anthony Davis",
    "team": "WAS",
-   "status": "Q",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Jalen Johnson",
-   "team": "ATL",
    "status": "Q",
    "note": "Ankle",
    "updated": "",
@@ -490,6 +482,14 @@
    "team": "GSW",
    "status": "Q",
    "note": "Calf",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Sam Merrill",
+   "team": "CLE",
+   "status": "O",
+   "note": "Elbow",
    "updated": "",
    "impact": 5
   },
@@ -801,10 +801,10 @@
  "news": [
   {
    "player": "Jarrett Allen",
-   "team": "CLE",
-   "status": "Q",
+   "team": "",
+   "status": "O",
    "note": "Mobley slid over to center with Merrill in the starting unit last night with Allen out",
-   "time": "11:57 AM"
+   "time": "1:25 PM"
   },
   {
    "player": "Anthony Davis",
@@ -816,9 +816,9 @@
   {
    "player": "Jalen Johnson",
    "team": "ATL",
-   "status": "Q",
-   "note": "Dort has been starting since Johnson went down; usage boosts for McCollum and Daniels",
-   "time": "11:57 AM"
+   "status": "P",
+   "note": "Expected to return after missing a few games; Dort likely back to the bench",
+   "time": "1:25 PM"
   },
   {
    "player": "Draymond Green",
@@ -833,6 +833,13 @@
    "status": "Q",
    "note": "Kenrich Williams likely starts with Mara playing a solid role off the bench",
    "time": "11:57 AM"
+  },
+  {
+   "player": "Sam Merrill",
+   "team": "",
+   "status": "O",
+   "note": "Hezonja and Thomas are both now projected for 27 minutes with Tyson also out",
+   "time": "1:25 PM"
   }
  ],
  "teams": [
