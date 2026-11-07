@@ -4,7 +4,7 @@
  "slate": "7 games · 5:00 PM ET lock",
  "note": "",
  "iso": "2026-11-07",
- "updated": "2026-11-07T14:03:29-07:00",
+ "updated": "2026-11-07T15:16:32-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1351,15 +1351,15 @@
    "status": "Q",
    "note": "Knee",
    "updated": "",
-   "impact": 8
+   "impact": 7
   },
   {
    "player": "Robert Williams III",
    "team": "POR",
-   "status": "D",
+   "status": "O",
    "note": "Rest",
    "updated": "",
-   "impact": 5
+   "impact": 6
   },
   {
    "player": "Jaylon Tyson",
@@ -1739,6 +1739,13 @@
    "status": "O",
    "note": "Huge usage boosts for Carter (+9.4%) and Black (+8%)",
    "time": "2:21 PM"
+  },
+  {
+   "player": "Robert Williams",
+   "team": "",
+   "status": "O",
+   "note": "Not a huge deal, Carlson will pick up limited backup C minutes",
+   "time": "5:15 PM"
   }
  ],
  "teams": [
