@@ -4,7 +4,7 @@
  "slate": "7 games · 5:00 PM ET lock",
  "note": "",
  "iso": "2026-11-07",
- "updated": "2026-11-07T10:01:19-07:00",
+ "updated": "2026-11-07T10:38:44-07:00",
  "positions": [
   "PG",
   "SG",
@@ -98,8 +98,8 @@
    "dkPos": "PG/SG",
    "fdPos": "PG",
    "player": "Mikel Brown",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "team": "BKN",
+   "opp": "ATL",
    "dk": 4700,
    "fd": 0,
    "proj": 0,
@@ -128,8 +128,8 @@
    "dkPos": "PG/SG",
    "fdPos": "SG",
    "player": "Mikel Brown",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "team": "BKN",
+   "opp": "ATL",
    "dk": 4700,
    "fd": 0,
    "proj": 0,
@@ -233,8 +233,8 @@
    "dkPos": "C",
    "fdPos": "C",
    "player": "Day'Ron Sharpe",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "team": "BKN",
+   "opp": "ATL",
    "dk": 5100,
    "fd": 0,
    "proj": 46.99,
@@ -265,8 +265,8 @@
    "dkPos": "PG",
    "fdPos": "SG/PG",
    "player": "Damian Lillard",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "team": "POR",
+   "opp": "SAS",
    "dk": 0,
    "fd": 7000,
    "proj": 34.97,
@@ -295,8 +295,8 @@
    "dkPos": "SG",
    "fdPos": "SG/PG",
    "player": "Damian Lillard",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "team": "POR",
+   "opp": "SAS",
    "dk": 0,
    "fd": 7000,
    "proj": 34.97,
@@ -2699,6 +2699,134 @@
   [
    "Andy Mara",
    "OKC"
+  ],
+  [
+   "Mikel Brown",
+   "BKN"
+  ],
+  [
+   "Nolan Traore",
+   "BKN"
+  ],
+  [
+   "Michael Porter",
+   "BKN"
+  ],
+  [
+   "Julius Randle",
+   "BKN"
+  ],
+  [
+   "Day'Ron Sharpe",
+   "BKN"
+  ],
+  [
+   "Moe Wagner",
+   "BKN"
+  ],
+  [
+   "Damian Lillard",
+   "POR"
+  ],
+  [
+   "Scoot Henderson",
+   "POR"
+  ],
+  [
+   "Toumani Camara",
+   "POR"
+  ],
+  [
+   "Deni Avdija",
+   "POR"
+  ],
+  [
+   "Donovan Clingan",
+   "POR"
+  ],
+  [
+   "Jrue Holiday",
+   "POR"
+  ],
+  [
+   "Sidy Cissoko",
+   "POR"
+  ],
+  [
+   "Chris Youngblood",
+   "POR"
+  ],
+  [
+   "Yang Hansen",
+   "POR"
+  ],
+  [
+   "Micah Potter",
+   "POR"
+  ],
+  [
+   "Jayson Kent",
+   "POR"
+  ],
+  [
+   "Branden Carlson",
+   "POR"
+  ],
+  [
+   "Devin Booker",
+   "PHO"
+  ],
+  [
+   "Jalen Green",
+   "PHO"
+  ],
+  [
+   "Dillon Brooks",
+   "PHO"
+  ],
+  [
+   "Miles Bridges",
+   "PHO"
+  ],
+  [
+   "Oso Ighodaro",
+   "PHO"
+  ],
+  [
+   "Collin Gillespie",
+   "PHO"
+  ],
+  [
+   "Luke Kennard",
+   "PHO"
+  ],
+  [
+   "Khaman Maluach",
+   "PHO"
+  ],
+  [
+   "Ryan Dunn",
+   "PHO"
+  ],
+  [
+   "Rasheer Fleming",
+   "PHO"
+  ],
+  [
+   "Duop Reath",
+   "PHO"
+  ],
+  [
+   "Jamaree Bouyea",
+   "PHO"
+  ],
+  [
+   "Koa Peat",
+   "PHO"
+  ],
+  [
+   "Pat Spencer",
+   "PHO"
   ]
  ],
  "b2b": [
