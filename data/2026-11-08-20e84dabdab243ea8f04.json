@@ -4,7 +4,7 @@
  "slate": "7 games · 3:30 PM ET lock",
  "note": "",
  "iso": "2026-11-08",
- "updated": "2026-11-08T09:27:13-07:00",
+ "updated": "2026-11-08T11:25:46-07:00",
  "positions": [
   "PG",
   "SG",
@@ -713,16 +713,16 @@
   {
    "pos": "PG",
    "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Luka Doncic",
+   "fdPos": "SG",
+   "player": "Austin Reaves",
    "team": "LAL",
    "opp": "DET",
    "dk": 0,
-   "fd": 12200,
-   "proj": 52.01,
+   "fd": 7500,
+   "proj": 31.95,
    "type": "",
-   "status": "Q",
-   "blurb": "Tough matchup, but does it matter? Luka is averaging 40 points per game",
+   "status": "",
+   "blurb": "5.9% bump in usage with Luka off the floor",
    "url": ""
   },
   {
@@ -811,8 +811,23 @@
    "fd": 7100,
    "proj": 35.52,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Still leading the new-look Jazz in usage (29.7%); boost if Markkanen (Q) is out",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG/SF",
+   "player": "Quentin Grimes",
+   "team": "LAL",
+   "opp": "DET",
+   "dk": 0,
+   "fd": 3800,
+   "proj": 16.45,
+   "type": "",
+   "status": "",
+   "blurb": "Only $3,800; projected to start and play 30 minutes with Doncic out",
    "url": ""
   },
   {
@@ -878,21 +893,6 @@
   {
    "pos": "SG",
    "dkPos": "SG",
-   "fdPos": "SG",
-   "player": "Max Strus",
-   "team": "LAC",
-   "opp": "NOP",
-   "dk": 0,
-   "fd": 4400,
-   "proj": 23.52,
-   "type": "",
-   "status": "",
-   "blurb": "Hot start (1.1 FP/minute); low-20s minutes in a solid matchup vs. the Pels",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
    "fdPos": "SG/SF",
    "player": "Duncan Robinson",
    "team": "DET",
@@ -933,6 +933,21 @@
    "type": "",
    "status": "",
    "blurb": "Rookie off to a solid start (0.96 FP/minute); usually logs around 30 minutes",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SG/SF",
+   "player": "Quentin Grimes",
+   "team": "LAL",
+   "opp": "DET",
+   "dk": 0,
+   "fd": 3800,
+   "proj": 16.45,
+   "type": "",
+   "status": "",
+   "blurb": "Only $3,800; projected to start and play 30 minutes with Doncic out",
    "url": ""
   },
   {
@@ -1038,21 +1053,6 @@
    "type": "",
    "status": "Q",
    "blurb": "Minutes should be secure if he plays through a wrist injury; 1.02 FP/minute",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "SF/SG",
-   "player": "Ace Bailey",
-   "team": "UTA",
-   "opp": "MIN",
-   "dk": 0,
-   "fd": 5100,
-   "proj": 25.62,
-   "type": "",
-   "status": "",
-   "blurb": "Would get a big boost in usage (+4.5%) if Markkanen is out",
    "url": ""
   },
   {
@@ -1314,6 +1314,14 @@
    "impact": 10
   },
   {
+   "player": "Keyonte George",
+   "team": "UTA",
+   "status": "Q",
+   "note": "Illness",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "Nicolas Claxton",
    "team": "CHI",
    "status": "Q",
@@ -1352,14 +1360,6 @@
    "note": "Groin",
    "updated": "",
    "impact": 5
-  },
-  {
-   "player": "Joan Beringer",
-   "team": "MIN",
-   "status": "Q",
-   "note": "Nose",
-   "updated": "",
-   "impact": 4
   },
   {
    "player": "Noah Clowney",
@@ -1558,9 +1558,9 @@
   {
    "player": "Luka Doncic",
    "team": "LAL",
-   "status": "Q",
+   "status": "O",
    "note": "Reaves becomes a borderline must-play; nice usage boost for Grimes (+8%)",
-   "time": "10:46 AM"
+   "time": "1:23 PM"
   },
   {
    "player": "Lauri Markkanen",
