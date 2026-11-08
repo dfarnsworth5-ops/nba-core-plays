@@ -4,7 +4,7 @@
  "slate": "7 games · 3:30 PM ET lock",
  "note": "",
  "iso": "2026-11-08",
- "updated": "2026-11-07T23:02:00-07:00",
+ "updated": "2026-11-08T08:50:01-07:00",
  "positions": [
   "PG",
   "SG",
@@ -92,8 +92,310 @@
    "fd": "M"
   }
  ],
- "plays": [],
- "playsFd": [],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Brayden Burries",
+   "team": "MIL",
+   "opp": "BOS",
+   "dk": 4300,
+   "fd": 0,
+   "proj": 25.45,
+   "type": "",
+   "status": "",
+   "blurb": "Averaging 28.7 minutes as a starter, up from 15.8 minutes when he played off the bench",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "LaMelo Ball",
+   "team": "MIN",
+   "opp": "UTA",
+   "dk": 8000,
+   "fd": 0,
+   "proj": 42.27,
+   "type": "",
+   "status": "",
+   "blurb": "1.3% usage boost, 1.26 FP/minute with Edwards off the court; elite matchup vs. Jazz",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Brayden Burries",
+   "team": "MIL",
+   "opp": "BOS",
+   "dk": 4300,
+   "fd": 0,
+   "proj": 25.45,
+   "type": "",
+   "status": "",
+   "blurb": "Averaging 28.7 minutes as a starter, up from 15.8 minutes when he played off the bench",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Tyler Herro",
+   "team": "MIL",
+   "opp": "BOS",
+   "dk": 6700,
+   "fd": 0,
+   "proj": 36,
+   "type": "",
+   "status": "",
+   "blurb": "Leading the Bucks in usage (27%) with a solid 1.2 FP/minute average",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Michael Porter",
+   "team": "BKN",
+   "opp": "DAL",
+   "dk": 7200,
+   "fd": 0,
+   "proj": 38.31,
+   "type": "",
+   "status": "",
+   "blurb": "35+ minutes in 4 straight games; still generating 25% usage even with Randle",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF/PF",
+   "fdPos": "SF",
+   "player": "Max Strus",
+   "team": "#N/A",
+   "opp": "#N/A",
+   "dk": 4400,
+   "fd": 0,
+   "proj": 24.53,
+   "type": "",
+   "status": "",
+   "blurb": "Hot start (1.16 FP/minute); low-20s minutes in a solid matchup vs. the Pels",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Giannis Antetokounmpo",
+   "team": "MIA",
+   "opp": "SAC",
+   "dk": 11300,
+   "fd": 0,
+   "proj": 61.41,
+   "type": "Core",
+   "status": "",
+   "blurb": "SAC is allowing the most paint points per game (56.6); Giannis averaging 1.76 FP/minute",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "SF/PF",
+   "fdPos": "PF",
+   "player": "Max Strus",
+   "team": "#N/A",
+   "opp": "#N/A",
+   "dk": 4400,
+   "fd": 0,
+   "proj": 24.53,
+   "type": "",
+   "status": "",
+   "blurb": "Hot start (1.16 FP/minute); low-20s minutes in a solid matchup vs. the Pels",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Brook Lopez",
+   "team": "LAC",
+   "opp": "NOP",
+   "dk": 4600,
+   "fd": 0,
+   "proj": 33.02,
+   "type": "Core",
+   "status": "",
+   "blurb": "Should start at center with Jackson sidelined; still useful (1.06 FP/minute)",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Danny Wolf",
+   "team": "BKN",
+   "opp": "DAL",
+   "dk": 3000,
+   "fd": 0,
+   "proj": 23.93,
+   "type": "",
+   "status": "",
+   "blurb": "Drew a surprise start last night and logged 31 minutes; just $3,000",
+   "url": ""
+  }
+ ],
+ "playsFd": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Darius Garland",
+   "team": "LAC",
+   "opp": "NOP",
+   "dk": 0,
+   "fd": 7000,
+   "proj": 40.72,
+   "type": "Core",
+   "status": "",
+   "blurb": "Scoring-dependent, but not much competition for usage (30.3%) on LAC these days",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Luka Doncic",
+   "team": "LAL",
+   "opp": "DET",
+   "dk": 0,
+   "fd": 12200,
+   "proj": 52.01,
+   "type": "",
+   "status": "Q",
+   "blurb": "Tough matchup, but does it matter? Luka is averaging 40 points per game",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Zach LaVine",
+   "team": "#N/A",
+   "opp": "#N/A",
+   "dk": 0,
+   "fd": 5700,
+   "proj": 31.72,
+   "type": "",
+   "status": "",
+   "blurb": "Right behind Acuff in usage (25.6%); safe bet for mid-30s minutes",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SF/SG",
+   "player": "Ausar Thompson",
+   "team": "DET",
+   "opp": "LAL",
+   "dk": 0,
+   "fd": 6100,
+   "proj": 31.82,
+   "type": "",
+   "status": "",
+   "blurb": "FD scoring system suits him well; some foul trouble risk if Luka plays",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Saddiq Bey",
+   "team": "NOP",
+   "opp": "LAC",
+   "dk": 0,
+   "fd": 5100,
+   "proj": 28.78,
+   "type": "",
+   "status": "",
+   "blurb": "Minutes have been trending up; 29+ in each of the last 3 games",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF/SG",
+   "player": "Ausar Thompson",
+   "team": "DET",
+   "opp": "LAL",
+   "dk": 0,
+   "fd": 6100,
+   "proj": 31.82,
+   "type": "",
+   "status": "",
+   "blurb": "FD scoring system suits him well; some foul trouble risk if Luka plays",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Giannis Antetokounmpo",
+   "team": "MIA",
+   "opp": "SAC",
+   "dk": 0,
+   "fd": 11700,
+   "proj": 59.64,
+   "type": "Core",
+   "status": "",
+   "blurb": "SAC is allowing the most paint points per game (56.6); Giannis averaging 1.62 FP/minute",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Danny Wolf",
+   "team": "BKN",
+   "opp": "DAL",
+   "dk": 0,
+   "fd": 3700,
+   "proj": 23.5,
+   "type": "",
+   "status": "",
+   "blurb": "Drew a surprise start last night and logged 31 minutes; just $3,700",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Brook Lopez",
+   "team": "LAC",
+   "opp": "NOP",
+   "dk": 0,
+   "fd": 4700,
+   "proj": 33.47,
+   "type": "Core",
+   "status": "",
+   "blurb": "Should start at center with Jackson sidelined; still useful (1.05 FP/minute)",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Bam Adebayo",
+   "team": "MIA",
+   "opp": "SAC",
+   "dk": 0,
+   "fd": 8000,
+   "proj": 44.28,
+   "type": "",
+   "status": "",
+   "blurb": "Nice pivot off of Giannis at far less ownership",
+   "url": ""
+  }
+ ],
  "injuries": [
   {
    "player": "Luka Doncic",
@@ -120,6 +422,14 @@
    "impact": 9
   },
   {
+   "player": "Norman Powell",
+   "team": "CHI",
+   "status": "Q",
+   "note": "Shoulder",
+   "updated": "",
+   "impact": 9
+  },
+  {
    "player": "Keegan Murray",
    "team": "SAC",
    "status": "Q",
@@ -130,7 +440,7 @@
   {
    "player": "Mikel Brown",
    "team": "BKN",
-   "status": "D",
+   "status": "O",
    "note": "Rest",
    "updated": "",
    "impact": 6
@@ -344,7 +654,43 @@
    "impact": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "player": "Luka Doncic",
+   "team": "LAL",
+   "status": "Q",
+   "note": "Reaves becomes a borderline must-play; nice usage boost for Grimes (+8%)",
+   "time": "10:46 AM"
+  },
+  {
+   "player": "Lauri Markkanen",
+   "team": "UTA",
+   "status": "Q",
+   "note": "Peterson (+6.8%), George (+4.8%), and Bailey (+4.5%) get usage bumps without Markkanen",
+   "time": "10:46 AM"
+  },
+  {
+   "player": "Keegan Murray",
+   "team": "SAC",
+   "status": "Q",
+   "note": "Should replace Achiuwa in the starting unit if he returns",
+   "time": "10:46 AM"
+  },
+  {
+   "player": "Mikel Brown",
+   "team": "",
+   "status": "O",
+   "note": "Traore should play around 30 minutes again",
+   "time": "10:46 AM"
+  },
+  {
+   "player": "Isaiah Jackson",
+   "team": "",
+   "status": "O",
+   "note": "Lopez likely starts at center with Miller as the backup",
+   "time": "10:46 AM"
+  }
+ ],
  "teams": [
   [
    "Aaron Gordon",
@@ -3072,18 +3418,18 @@
  ],
  "preview": {
   "locked": {
-   "PG": 0,
-   "SG": 0,
-   "SF": 0,
-   "PF": 0,
-   "C": 0
+   "PG": 6,
+   "SG": 6,
+   "SF": 6,
+   "PF": 6,
+   "C": 6
   },
   "lockedFd": {
-   "PG": 0,
-   "SG": 0,
-   "SF": 0,
-   "PF": 0,
-   "C": 0
+   "PG": 6,
+   "SG": 6,
+   "SF": 6,
+   "PF": 6,
+   "C": 6
   },
   "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
   "ctaLabel": "Unlock every Core Play with RG MVP",
