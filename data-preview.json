@@ -4,7 +4,7 @@
  "slate": "7 games · 3:30 PM ET lock",
  "note": "",
  "iso": "2026-11-08",
- "updated": "2026-11-08T09:27:13-07:00",
+ "updated": "2026-11-08T11:25:46-07:00",
  "positions": [
   "PG",
   "SG",
@@ -263,16 +263,31 @@
   {
    "pos": "PG",
    "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Luka Doncic",
+   "fdPos": "SG",
+   "player": "Austin Reaves",
    "team": "LAL",
    "opp": "DET",
    "dk": 0,
-   "fd": 12200,
-   "proj": 52.01,
+   "fd": 7500,
+   "proj": 31.95,
    "type": "",
-   "status": "Q",
-   "blurb": "Tough matchup, but does it matter? Luka is averaging 40 points per game",
+   "status": "",
+   "blurb": "5.9% bump in usage with Luka off the floor",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG/SF",
+   "player": "Quentin Grimes",
+   "team": "LAL",
+   "opp": "DET",
+   "dk": 0,
+   "fd": 3800,
+   "proj": 16.45,
+   "type": "",
+   "status": "",
+   "blurb": "Only $3,800; projected to start and play 30 minutes with Doncic out",
    "url": ""
   },
   {
@@ -291,18 +306,18 @@
    "url": ""
   },
   {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SF/SG",
-   "player": "Ausar Thompson",
-   "team": "DET",
-   "opp": "LAL",
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SG/SF",
+   "player": "Quentin Grimes",
+   "team": "LAL",
+   "opp": "DET",
    "dk": 0,
-   "fd": 6100,
-   "proj": 31.82,
+   "fd": 3800,
+   "proj": 16.45,
    "type": "",
    "status": "",
-   "blurb": "FD scoring system suits him well; some foul trouble risk if Luka plays",
+   "blurb": "Only $3,800; projected to start and play 30 minutes with Doncic out",
    "url": ""
   },
   {
@@ -318,21 +333,6 @@
    "type": "",
    "status": "",
    "blurb": "Minutes have been trending up; 29+ in each of the last 3 games",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "SF/SG",
-   "player": "Ausar Thompson",
-   "team": "DET",
-   "opp": "LAL",
-   "dk": 0,
-   "fd": 6100,
-   "proj": 31.82,
-   "type": "",
-   "status": "",
-   "blurb": "FD scoring system suits him well; some foul trouble risk if Luka plays",
    "url": ""
   },
   {
@@ -414,6 +414,14 @@
    "impact": 10
   },
   {
+   "player": "Keyonte George",
+   "team": "UTA",
+   "status": "Q",
+   "note": "Illness",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "Nicolas Claxton",
    "team": "CHI",
    "status": "Q",
@@ -452,14 +460,6 @@
    "note": "Groin",
    "updated": "",
    "impact": 5
-  },
-  {
-   "player": "Joan Beringer",
-   "team": "MIN",
-   "status": "Q",
-   "note": "Nose",
-   "updated": "",
-   "impact": 4
   },
   {
    "player": "Noah Clowney",
@@ -658,9 +658,9 @@
   {
    "player": "Luka Doncic",
    "team": "LAL",
-   "status": "Q",
+   "status": "O",
    "note": "Reaves becomes a borderline must-play; nice usage boost for Grimes (+8%)",
-   "time": "10:46 AM"
+   "time": "1:23 PM"
   },
   {
    "player": "Lauri Markkanen",
