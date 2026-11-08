@@ -4,7 +4,7 @@
  "slate": "7 games · 3:30 PM ET lock",
  "note": "",
  "iso": "2026-11-08",
- "updated": "2026-11-08T12:26:22-07:00",
+ "updated": "2026-11-08T14:06:45-07:00",
  "positions": [
   "PG",
   "SG",
@@ -478,14 +478,6 @@
    "impact": 3
   },
   {
-   "player": "Tobe Awaka",
-   "team": "CHI",
-   "status": "Q",
-   "note": "Knee",
-   "updated": "",
-   "impact": 3
-  },
-  {
    "player": "Isaiah Joe",
    "team": "DET",
    "status": "O",
@@ -688,9 +680,9 @@
   {
    "player": "Keegan Murray",
    "team": "SAC",
-   "status": "Q",
-   "note": "Should replace Achiuwa in the starting unit if he returns",
-   "time": "10:46 AM"
+   "status": "A",
+   "note": "Should replace Achiuwa in the starting unit",
+   "time": "3:30 PM"
   },
   {
    "player": "Mikel Brown",
@@ -712,6 +704,13 @@
    "status": "Q",
    "note": "Bailey, Markkanen, and Peterson get nice usage boosts if George is out",
    "time": "11:26 AM"
+  },
+  {
+   "player": "Mitchell Robinson",
+   "team": "BOS",
+   "status": "Q",
+   "note": "Queta and Garza would account for the C minutes",
+   "time": "4:06 PM"
   }
  ],
  "teams": [
