@@ -4,7 +4,7 @@
  "slate": "7 games · 3:30 PM ET lock",
  "note": "",
  "iso": "2026-11-08",
- "updated": "2026-11-08T08:50:01-07:00",
+ "updated": "2026-11-08T09:11:59-07:00",
  "positions": [
   "PG",
   "SG",
@@ -162,7 +162,7 @@
    "opp": "BKN",
    "dk": 3500,
    "fd": 0,
-   "proj": 0,
+   "proj": 19.28,
    "type": "",
    "status": "",
    "blurb": "Solid punt who's topped 21 minutes off the bench in 3 straight games",
@@ -173,8 +173,8 @@
    "dkPos": "PG/SG",
    "fdPos": "PG",
    "player": "Darius Acuff",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "team": "SAC",
+   "opp": "MIA",
    "dk": 8400,
    "fd": 0,
    "proj": 43.26,
@@ -263,8 +263,8 @@
    "dkPos": "PG/SG",
    "fdPos": "SG",
    "player": "Darius Acuff",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "team": "SAC",
+   "opp": "MIA",
    "dk": 8400,
    "fd": 0,
    "proj": 43.26,
@@ -278,8 +278,8 @@
    "dkPos": "SG/SF",
    "fdPos": "SG",
    "player": "Zach LaVine",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "team": "SAC",
+   "opp": "MIA",
    "dk": 6600,
    "fd": 0,
    "proj": 33.33,
@@ -353,8 +353,8 @@
    "dkPos": "SF/PF",
    "fdPos": "SF",
    "player": "Max Strus",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "team": "LAC",
+   "opp": "NOP",
    "dk": 4400,
    "fd": 0,
    "proj": 24.53,
@@ -383,8 +383,8 @@
    "dkPos": "SG/SF",
    "fdPos": "SF",
    "player": "Zach LaVine",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "team": "SAC",
+   "opp": "MIA",
    "dk": 6600,
    "fd": 0,
    "proj": 33.33,
@@ -473,8 +473,8 @@
    "dkPos": "SF/PF",
    "fdPos": "PF",
    "player": "Max Strus",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "team": "LAC",
+   "opp": "NOP",
    "dk": 4400,
    "fd": 0,
    "proj": 24.53,
@@ -615,7 +615,7 @@
    "proj": 33.27,
    "type": "",
    "status": "",
-   "blurb": "Utah allows the sixth-most blocks per game; revenge!",
+   "blurb": "Utah allows the 6th-most blocks per game; revenge!",
    "url": ""
   },
   {
@@ -775,8 +775,8 @@
    "dkPos": "PG",
    "fdPos": "PG",
    "player": "Darius Acuff",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "team": "SAC",
+   "opp": "MIA",
    "dk": 0,
    "fd": 7900,
    "proj": 41,
@@ -820,8 +820,8 @@
    "dkPos": "SG",
    "fdPos": "SG",
    "player": "Zach LaVine",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "team": "SAC",
+   "opp": "MIA",
    "dk": 0,
    "fd": 5700,
    "proj": 31.72,
@@ -880,8 +880,8 @@
    "dkPos": "SG",
    "fdPos": "SG",
    "player": "Max Strus",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "team": "LAC",
+   "opp": "NOP",
    "dk": 0,
    "fd": 4400,
    "proj": 23.52,
@@ -1022,7 +1022,7 @@
    "proj": 24.12,
    "type": "",
    "status": "",
-   "blurb": "Sneaky upside at a reasonable $4,800 price point",
+   "blurb": "Sneaky upside at a reasonable $4,500 price point",
    "url": ""
   },
   {
@@ -1232,7 +1232,7 @@
    "proj": 30,
    "type": "",
    "status": "",
-   "blurb": "As we saw last night, capable of popping off if the minutes are there (1.03 FP/minute",
+   "blurb": "As we saw last night, capable of popping off if the minutes are there (1.03 FP/minute)",
    "url": ""
   },
   {
@@ -1247,7 +1247,7 @@
    "proj": 33.49,
    "type": "",
    "status": "",
-   "blurb": "Utah allows the sixth-most blocks per game; revenge!",
+   "blurb": "Utah allows the 6th-most blocks per game; revenge!",
    "url": ""
   },
   {
@@ -1270,8 +1270,8 @@
    "dkPos": "C",
    "fdPos": "C",
    "player": "Domantas Sabonis",
-   "team": "#N/A",
-   "opp": "#N/A",
+   "team": "SAC",
+   "opp": "MIA",
    "dk": 0,
    "fd": 8200,
    "proj": 40.68,
@@ -4311,6 +4311,766 @@
   [
    "Zuby Ejiofor",
    "ATL"
+  ],
+  [
+   "Josh Giddey",
+   "CHI"
+  ],
+  [
+   "Norman Powell",
+   "CHI"
+  ],
+  [
+   "Matas Buzelis",
+   "CHI"
+  ],
+  [
+   "Caleb Wilson",
+   "CHI"
+  ],
+  [
+   "Jalen Smith",
+   "CHI"
+  ],
+  [
+   "Tre Jones",
+   "CHI"
+  ],
+  [
+   "Nic Claxton",
+   "CHI"
+  ],
+  [
+   "Isaac Okoro",
+   "CHI"
+  ],
+  [
+   "Leonard Miller",
+   "CHI"
+  ],
+  [
+   "Buddy Hield",
+   "CHI"
+  ],
+  [
+   "Noa Essengue",
+   "CHI"
+  ],
+  [
+   "Patrick Williams",
+   "CHI"
+  ],
+  [
+   "Tobe Awaka",
+   "CHI"
+  ],
+  [
+   "Jordan Hawkins",
+   "CHI"
+  ],
+  [
+   "Tyrese Maxey",
+   "PHI"
+  ],
+  [
+   "VJ Edgecombe",
+   "PHI"
+  ],
+  [
+   "Jaylen Brown",
+   "PHI"
+  ],
+  [
+   "LeBron James",
+   "PHI"
+  ],
+  [
+   "Joel Embiid",
+   "PHI"
+  ],
+  [
+   "Dean Wade",
+   "PHI"
+  ],
+  [
+   "Anfernee Simons",
+   "PHI"
+  ],
+  [
+   "Kentavious Caldwell-Pope",
+   "PHI"
+  ],
+  [
+   "Jabari Walker",
+   "PHI"
+  ],
+  [
+   "Labaron Philon",
+   "PHI"
+  ],
+  [
+   "Justin Edwards",
+   "PHI"
+  ],
+  [
+   "Tacko Fall",
+   "PHI"
+  ],
+  [
+   "Cade Cunningham",
+   "DET"
+  ],
+  [
+   "Duncan Robinson",
+   "DET"
+  ],
+  [
+   "Ausar Thompson",
+   "DET"
+  ],
+  [
+   "John Collins",
+   "DET"
+  ],
+  [
+   "Paul Reed",
+   "DET"
+  ],
+  [
+   "Daniss Jenkins",
+   "DET"
+  ],
+  [
+   "Kevin Huerter",
+   "DET"
+  ],
+  [
+   "Javonte Green",
+   "DET"
+  ],
+  [
+   "Ronald Holland II",
+   "DET"
+  ],
+  [
+   "Tolu Smith",
+   "DET"
+  ],
+  [
+   "Ebuka Okorie",
+   "DET"
+  ],
+  [
+   "Isaac Jones",
+   "DET"
+  ],
+  [
+   "Chaz Lanier",
+   "DET"
+  ],
+  [
+   "Taurean Prince",
+   "DET"
+  ],
+  [
+   "Luka Doncic",
+   "LAL"
+  ],
+  [
+   "Austin Reaves",
+   "LAL"
+  ],
+  [
+   "Matisse Thybulle",
+   "LAL"
+  ],
+  [
+   "Jake LaRavia",
+   "LAL"
+  ],
+  [
+   "Walker Kessler",
+   "LAL"
+  ],
+  [
+   "Sandro Mamukelashvili",
+   "LAL"
+  ],
+  [
+   "Quentin Grimes",
+   "LAL"
+  ],
+  [
+   "Ziaire Williams",
+   "LAL"
+  ],
+  [
+   "Collin Sexton",
+   "LAL"
+  ],
+  [
+   "Jarred Vanderbilt",
+   "LAL"
+  ],
+  [
+   "Jaden Hardy",
+   "LAL"
+  ],
+  [
+   "Kevon Looney",
+   "LAL"
+  ],
+  [
+   "LaMelo Ball",
+   "MIN"
+  ],
+  [
+   "Ayo Dosunmu",
+   "MIN"
+  ],
+  [
+   "Jonathan Kuminga",
+   "MIN"
+  ],
+  [
+   "Jaden McDaniels",
+   "MIN"
+  ],
+  [
+   "Rudy Gobert",
+   "MIN"
+  ],
+  [
+   "Terrence Shannon",
+   "MIN"
+  ],
+  [
+   "Jaylen Clark",
+   "MIN"
+  ],
+  [
+   "Trey Lyles",
+   "MIN"
+  ],
+  [
+   "Bones Hyland",
+   "MIN"
+  ],
+  [
+   "Joan Beringer",
+   "MIN"
+  ],
+  [
+   "Rocco Zikarsky",
+   "MIN"
+  ],
+  [
+   "Cody Williams",
+   "MIN"
+  ],
+  [
+   "Isaiah Evans",
+   "MIN"
+  ],
+  [
+   "Zyon Pullin",
+   "MIN"
+  ],
+  [
+   "Keyonte George",
+   "UTA"
+  ],
+  [
+   "Darryn Peterson",
+   "UTA"
+  ],
+  [
+   "Ace Bailey",
+   "UTA"
+  ],
+  [
+   "Lauri Markkanen",
+   "UTA"
+  ],
+  [
+   "Jaxson Hayes",
+   "UTA"
+  ],
+  [
+   "Mo Bamba",
+   "UTA"
+  ],
+  [
+   "Josh Okogie",
+   "UTA"
+  ],
+  [
+   "Isaiah Collier",
+   "UTA"
+  ],
+  [
+   "Brice Sensabaugh",
+   "UTA"
+  ],
+  [
+   "Svi Mykhailiuk",
+   "UTA"
+  ],
+  [
+   "Josh Green",
+   "UTA"
+  ],
+  [
+   "Kyle Filipowski",
+   "UTA"
+  ],
+  [
+   "Tony Bradley",
+   "UTA"
+  ],
+  [
+   "Kobe Bufkin",
+   "UTA"
+  ],
+  [
+   "Kyrie Irving",
+   "DAL"
+  ],
+  [
+   "Caleb Martin",
+   "DAL"
+  ],
+  [
+   "Cooper Flagg",
+   "DAL"
+  ],
+  [
+   "PJ Washington",
+   "DAL"
+  ],
+  [
+   "Daniel Gafford",
+   "DAL"
+  ],
+  [
+   "Naji Marshall",
+   "DAL"
+  ],
+  [
+   "Walter Clayton",
+   "DAL"
+  ],
+  [
+   "Morez Johnson",
+   "DAL"
+  ],
+  [
+   "Zaccharie Risacher",
+   "DAL"
+  ],
+  [
+   "Santi Aldama",
+   "DAL"
+  ],
+  [
+   "Max Christie",
+   "DAL"
+  ],
+  [
+   "Moussa Cisse",
+   "DAL"
+  ],
+  [
+   "Marcus Sasser",
+   "DAL"
+  ],
+  [
+   "Tobi Lawal",
+   "DAL"
+  ],
+  [
+   "Jett Howard",
+   "DAL"
+  ],
+  [
+   "Nolan Traore",
+   "BKN"
+  ],
+  [
+   "Danny Wolf",
+   "BKN"
+  ],
+  [
+   "Michael Porter Jr.",
+   "BKN"
+  ],
+  [
+   "Julius Randle",
+   "BKN"
+  ],
+  [
+   "Day'Ron Sharpe",
+   "BKN"
+  ],
+  [
+   "Moe Wagner",
+   "BKN"
+  ],
+  [
+   "Noah Clowney",
+   "BKN"
+  ],
+  [
+   "Keon Ellis",
+   "BKN"
+  ],
+  [
+   "Chaney Johnson",
+   "BKN"
+  ],
+  [
+   "Terance Mann",
+   "BKN"
+  ],
+  [
+   "Josh Minott",
+   "BKN"
+  ],
+  [
+   "Drake Powell",
+   "BKN"
+  ],
+  [
+   "Brayden Burries",
+   "MIL"
+  ],
+  [
+   "Tyler Herro",
+   "MIL"
+  ],
+  [
+   "Jaime Jaquez",
+   "MIL"
+  ],
+  [
+   "Kyle Kuzma",
+   "MIL"
+  ],
+  [
+   "Myles Turner",
+   "MIL"
+  ],
+  [
+   "Ryan Rollins",
+   "MIL"
+  ],
+  [
+   "Kel'el Ware",
+   "MIL"
+  ],
+  [
+   "AJ Green",
+   "MIL"
+  ],
+  [
+   "Nate Ament",
+   "MIL"
+  ],
+  [
+   "Kasparas Jakucionis",
+   "MIL"
+  ],
+  [
+   "Jericho Sims",
+   "MIL"
+  ],
+  [
+   "Ousmane Dieng",
+   "MIL"
+  ],
+  [
+   "Gary Trent Jr.",
+   "MIL"
+  ],
+  [
+   "Caris LeVert",
+   "MIL"
+  ],
+  [
+   "Derrick White",
+   "BOS"
+  ],
+  [
+   "Jordan Walsh",
+   "BOS"
+  ],
+  [
+   "Paul George",
+   "BOS"
+  ],
+  [
+   "Jayson Tatum",
+   "BOS"
+  ],
+  [
+   "Neemias Queta",
+   "BOS"
+  ],
+  [
+   "Payton Pritchard",
+   "BOS"
+  ],
+  [
+   "Luka Garza",
+   "BOS"
+  ],
+  [
+   "Mitchell Robinson",
+   "BOS"
+  ],
+  [
+   "Sam Hauser",
+   "BOS"
+  ],
+  [
+   "Baylor Scheierman",
+   "BOS"
+  ],
+  [
+   "Hugo Gonzalez",
+   "BOS"
+  ],
+  [
+   "Ron Harper",
+   "BOS"
+  ],
+  [
+   "Mike Conley",
+   "BOS"
+  ],
+  [
+   "Darius Acuff",
+   "SAC"
+  ],
+  [
+   "Zach LaVine",
+   "SAC"
+  ],
+  [
+   "De'Andre Hunter",
+   "SAC"
+  ],
+  [
+   "Keegan Murray",
+   "SAC"
+  ],
+  [
+   "Domantas Sabonis",
+   "SAC"
+  ],
+  [
+   "Precious Achiuwa",
+   "SAC"
+  ],
+  [
+   "Malik Monk",
+   "SAC"
+  ],
+  [
+   "Dylan Cardwell",
+   "SAC"
+  ],
+  [
+   "Leaky Black",
+   "SAC"
+  ],
+  [
+   "Emanuel Sharp",
+   "SAC"
+  ],
+  [
+   "Alex Karaban",
+   "SAC"
+  ],
+  [
+   "Nique Clifford",
+   "SAC"
+  ],
+  [
+   "Daeqwon Plowden",
+   "SAC"
+  ],
+  [
+   "Davion Mitchell",
+   "MIA"
+  ],
+  [
+   "Klay Thompson",
+   "MIA"
+  ],
+  [
+   "Andrew Wiggins",
+   "MIA"
+  ],
+  [
+   "Giannis Antetokounmpo",
+   "MIA"
+  ],
+  [
+   "Bam Adebayo",
+   "MIA"
+  ],
+  [
+   "Pelle Larsson",
+   "MIA"
+  ],
+  [
+   "Bobby Portis",
+   "MIA"
+  ],
+  [
+   "Ryan Conwell",
+   "MIA"
+  ],
+  [
+   "Nikola Jovic",
+   "MIA"
+  ],
+  [
+   "Tim Hardaway Jr.",
+   "MIA"
+  ],
+  [
+   "Dru Smith",
+   "MIA"
+  ],
+  [
+   "Nick Richards",
+   "MIA"
+  ],
+  [
+   "Simone Fontecchio",
+   "MIA"
+  ],
+  [
+   "Myron Gardner",
+   "MIA"
+  ],
+  [
+   "Darius Garland",
+   "LAC"
+  ],
+  [
+   "Kris Dunn",
+   "LAC"
+  ],
+  [
+   "Derrick Jones Jr.",
+   "LAC"
+  ],
+  [
+   "Rui Hachimura",
+   "LAC"
+  ],
+  [
+   "Brook Lopez",
+   "LAC"
+  ],
+  [
+   "Max Strus",
+   "LAC"
+  ],
+  [
+   "Keaton Wagler",
+   "LAC"
+  ],
+  [
+   "Baba Miller",
+   "LAC"
+  ],
+  [
+   "Kobe Sanders",
+   "LAC"
+  ],
+  [
+   "Gradey Dick",
+   "LAC"
+  ],
+  [
+   "Jalen Pickett",
+   "LAC"
+  ],
+  [
+   "Cam Christie",
+   "LAC"
+  ],
+  [
+   "Nick Martinelli",
+   "LAC"
+  ],
+  [
+   "Blake Wesley",
+   "LAC"
+  ],
+  [
+   "Dejounte Murray",
+   "NOP"
+  ],
+  [
+   "Jeremiah Fears",
+   "NOP"
+  ],
+  [
+   "Trey Murphy",
+   "NOP"
+  ],
+  [
+   "Zion Williamson",
+   "NOP"
+  ],
+  [
+   "Karlo Matkovic",
+   "NOP"
+  ],
+  [
+   "Saddiq Bey",
+   "NOP"
+  ],
+  [
+   "Herbert Jones",
+   "NOP"
+  ],
+  [
+   "Derik Queen",
+   "NOP"
+  ],
+  [
+   "Trendon Watford",
+   "NOP"
+  ],
+  [
+   "Bennedict Mathurin",
+   "NOP"
+  ],
+  [
+   "Jordan Poole",
+   "NOP"
+  ],
+  [
+   "DeAndre Jordan",
+   "NOP"
+  ],
+  [
+   "Julian Reese",
+   "NOP"
+  ],
+  [
+   "Bryce McGowens",
+   "NOP"
+  ],
+  [
+   "AJ Johnson",
+   "NOP"
   ]
  ],
  "b2b": [
