@@ -4,7 +4,7 @@
  "slate": "7 games · 3:30 PM ET lock",
  "note": "",
  "iso": "2026-11-08",
- "updated": "2026-11-08T11:25:46-07:00",
+ "updated": "2026-11-08T12:26:22-07:00",
  "positions": [
   "PG",
   "SG",
@@ -285,7 +285,7 @@
    "dk": 0,
    "fd": 3800,
    "proj": 16.45,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Only $3,800; projected to start and play 30 minutes with Doncic out",
    "url": ""
@@ -315,7 +315,7 @@
    "dk": 0,
    "fd": 3800,
    "proj": 16.45,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Only $3,800; projected to start and play 30 minutes with Doncic out",
    "url": ""
@@ -400,7 +400,7 @@
   {
    "player": "Luka Doncic",
    "team": "LAL",
-   "status": "Q",
+   "status": "O",
    "note": "Back",
    "updated": "",
    "impact": 10
@@ -422,17 +422,9 @@
    "impact": 10
   },
   {
-   "player": "Nicolas Claxton",
-   "team": "CHI",
-   "status": "Q",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 9
-  },
-  {
    "player": "Norman Powell",
    "team": "CHI",
-   "status": "Q",
+   "status": "O",
    "note": "Shoulder",
    "updated": "",
    "impact": 9
@@ -460,6 +452,14 @@
    "note": "Groin",
    "updated": "",
    "impact": 5
+  },
+  {
+   "player": "Mitchell Robinson",
+   "team": "BOS",
+   "status": "Q",
+   "note": "Illness",
+   "updated": "",
+   "impact": 4
   },
   {
    "player": "Noah Clowney",
@@ -500,6 +500,14 @@
    "note": "Neck",
    "updated": "",
    "impact": 3
+  },
+  {
+   "player": "Nique Clifford",
+   "team": "SAC",
+   "status": "O",
+   "note": "Traded",
+   "updated": "",
+   "impact": 2
   },
   {
    "player": "Egor Demin",
@@ -652,12 +660,20 @@
    "note": "Back",
    "updated": "",
    "impact": 1
+  },
+  {
+   "player": "Gary Trent Jr.",
+   "team": "MIL",
+   "status": "Q",
+   "note": "Illness",
+   "updated": "",
+   "impact": 1
   }
  ],
  "news": [
   {
    "player": "Luka Doncic",
-   "team": "LAL",
+   "team": "",
    "status": "O",
    "note": "Reaves becomes a borderline must-play; nice usage boost for Grimes (+8%)",
    "time": "1:23 PM"
