@@ -4,7 +4,7 @@
  "slate": "7 games · 3:30 PM ET lock",
  "note": "",
  "iso": "2026-11-08",
- "updated": "2026-11-08T09:11:59-07:00",
+ "updated": "2026-11-08T09:27:13-07:00",
  "positions": [
   "PG",
   "SG",
@@ -689,6 +689,13 @@
    "status": "O",
    "note": "Lopez likely starts at center with Miller as the backup",
    "time": "10:46 AM"
+  },
+  {
+   "player": "Keyonte George",
+   "team": "UTA",
+   "status": "Q",
+   "note": "Bailey, Markkanen, and Peterson get nice usage boosts if George is out",
+   "time": "11:26 AM"
   }
  ],
  "teams": [
