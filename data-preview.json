@@ -1,10 +1,10 @@
 {
  "title": "NBA Core Plays",
- "date": "Saturday, November 7th",
- "slate": "7 games · 5:00 PM ET lock",
+ "date": "Sunday, November 8th",
+ "slate": "7 games · 3:30 PM ET lock",
  "note": "",
- "iso": "2026-11-07",
- "updated": "2026-11-07T15:16:32-07:00",
+ "iso": "2026-11-08",
+ "updated": "2026-11-07T23:02:00-07:00",
  "positions": [
   "PG",
   "SG",
@@ -15,515 +15,141 @@
  "tz": "ET",
  "games": [
   {
-   "away": "Denver Nuggets",
-   "home": "Indiana Pacers",
-   "time": "5:00 PM",
-   "min": 1020,
-   "fav": "DEN",
-   "spread": -6.5,
-   "total": 229.5,
-   "dk": "S",
-   "fd": "S"
+   "away": "Philadelphia 76ers",
+   "home": "Chicago Bulls",
+   "time": "3:30 PM",
+   "min": 930,
+   "fav": "PHI",
+   "spread": -8.5,
+   "total": 238.5,
+   "dk": "",
+   "fd": ""
+  },
+  {
+   "away": "Los Angeles Lakers",
+   "home": "Detroit Pistons",
+   "time": "6:00 PM",
+   "min": 1080,
+   "fav": "DET",
+   "spread": -4.5,
+   "total": 221.5,
+   "dk": "",
+   "fd": "M"
+  },
+  {
+   "away": "Utah Jazz",
+   "home": "Minnesota Timberwolves",
+   "time": "7:00 PM",
+   "min": 1140,
+   "fav": "MIN",
+   "spread": -11.5,
+   "total": 223.5,
+   "dk": "M",
+   "fd": "M"
   },
   {
    "away": "Brooklyn Nets",
-   "home": "Atlanta Hawks",
+   "home": "Dallas Mavericks",
    "time": "7:30 PM",
    "min": 1170,
-   "fav": "ATL",
-   "spread": -6.5,
-   "total": 224.5,
+   "fav": "DAL",
+   "spread": -9.5,
+   "total": 218.5,
    "dk": "M",
    "fd": "M"
   },
   {
-   "away": "Washington Wizards",
-   "home": "Oklahoma City Thunder",
+   "away": "Boston Celtics",
+   "home": "Milwaukee Bucks",
    "time": "8:00 PM",
    "min": 1200,
-   "fav": "OKC",
-   "spread": -11.5,
-   "total": 219.5,
+   "fav": "BOS",
+   "spread": -12.5,
+   "total": 223.5,
    "dk": "M",
    "fd": "M"
   },
   {
-   "away": "New York Knicks",
-   "home": "Cleveland Cavaliers",
-   "time": "8:00 PM",
-   "min": 1200,
-   "fav": "NYK",
-   "spread": -4.5,
-   "total": 224.5,
-   "dk": "M",
-   "fd": "M"
-  },
-  {
-   "away": "Orlando Magic",
-   "home": "Golden State Warriors",
-   "time": "8:30 PM",
-   "min": 1230,
-   "fav": "GSW",
-   "spread": -6.5,
-   "total": 221.5,
-   "dk": "M",
-   "fd": "M"
-  },
-  {
-   "away": "Houston Rockets",
-   "home": "Phoenix Suns",
+   "away": "Miami Heat",
+   "home": "Sacramento Kings",
    "time": "9:00 PM",
    "min": 1260,
-   "fav": "HOU",
-   "spread": -6.5,
-   "total": 221.5,
+   "fav": "MIA",
+   "spread": -8.5,
+   "total": 238.5,
    "dk": "M",
    "fd": "M"
   },
   {
-   "away": "San Antonio Spurs",
-   "home": "Portland Trail Blazers",
-   "time": "10:00 PM",
-   "min": 1320,
-   "fav": "SAS",
-   "spread": -3.5,
-   "total": 228.5,
-   "dk": "S",
+   "away": "New Orleans Pelicans",
+   "home": "Los Angeles Clippers",
+   "time": "9:00 PM",
+   "min": 1260,
+   "fav": "NOP",
+   "spread": -1.5,
+   "total": 229.5,
+   "dk": "M",
    "fd": "M"
   }
  ],
- "plays": [
-  {
-   "pos": "PG",
-   "dkPos": "PG/SG",
-   "fdPos": "PG",
-   "player": "Anthony Black",
-   "team": "ORL",
-   "opp": "GSW",
-   "dk": 6400,
-   "fd": 0,
-   "proj": 31.16,
-   "type": "Core",
-   "status": "",
-   "blurb": "8% usage boost with Suggs, Banchero, and Bane off the floor",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG/SG",
-   "fdPos": "PG",
-   "player": "Jase Richardson",
-   "team": "ORL",
-   "opp": "GSW",
-   "dk": 4700,
-   "fd": 0,
-   "proj": 19.43,
-   "type": "",
-   "status": "",
-   "blurb": "Projected for 35 minutes in a starting role with Orlando down 3 starters",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "PG/SG",
-   "fdPos": "SG",
-   "player": "Anthony Black",
-   "team": "ORL",
-   "opp": "GSW",
-   "dk": 6400,
-   "fd": 0,
-   "proj": 31.16,
-   "type": "Core",
-   "status": "",
-   "blurb": "8% usage boost with Suggs, Banchero, and Bane off the floor",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "PG/SG",
-   "fdPos": "SG",
-   "player": "Jase Richardson",
-   "team": "ORL",
-   "opp": "GSW",
-   "dk": 4700,
-   "fd": 0,
-   "proj": 19.43,
-   "type": "",
-   "status": "",
-   "blurb": "Projected for 35 minutes in a starting role with Orlando down 3 starters",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF/PF",
-   "fdPos": "SF",
-   "player": "Franz Wagner",
-   "team": "ORL",
-   "opp": "GSW",
-   "dk": 8700,
-   "fd": 0,
-   "proj": 42.53,
-   "type": "Core",
-   "status": "",
-   "blurb": "Will have to do everything offensively for the Magic with Suggs, Bane, and Banchero out",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF/PF",
-   "fdPos": "SF",
-   "player": "Mario Hezonja",
-   "team": "CLE",
-   "opp": "NYK",
-   "dk": 4300,
-   "fd": 0,
-   "proj": 17.95,
-   "type": "",
-   "status": "",
-   "blurb": "27 projected minutes with Tyson, Allen, and Merrill out",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "SF/PF",
-   "fdPos": "PF",
-   "player": "Franz Wagner",
-   "team": "ORL",
-   "opp": "GSW",
-   "dk": 8700,
-   "fd": 0,
-   "proj": 42.53,
-   "type": "Core",
-   "status": "",
-   "blurb": "Will have to do everything offensively for the Magic with Suggs, Bane, and Banchero out",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF/C",
-   "fdPos": "PF",
-   "player": "Karl-Anthony Towns",
-   "team": "NYK",
-   "opp": "CLE",
-   "dk": 8500,
-   "fd": 0,
-   "proj": 45.73,
-   "type": "Core",
-   "status": "",
-   "blurb": "3.5% usage boost, 4.5% rebound rate boost with Hart off the floor",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "PF/C",
-   "fdPos": "C",
-   "player": "Karl-Anthony Towns",
-   "team": "NYK",
-   "opp": "CLE",
-   "dk": 8500,
-   "fd": 0,
-   "proj": 45.73,
-   "type": "Core",
-   "status": "",
-   "blurb": "3.5% usage boost, 4.5% rebound rate boost with Hart off the floor",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Wendell Carter",
-   "team": "ORL",
-   "opp": "GSW",
-   "dk": 6500,
-   "fd": 0,
-   "proj": 31.78,
-   "type": "",
-   "status": "",
-   "blurb": "Team-high 9.4% usage bump with Suggs, Banchero, and Bane off the floor",
-   "url": ""
-  }
- ],
- "playsFd": [
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG/SG",
-   "player": "Anthony Black",
-   "team": "ORL",
-   "opp": "GSW",
-   "dk": 0,
-   "fd": 6300,
-   "proj": 31.09,
-   "type": "Core",
-   "status": "",
-   "blurb": "8% usage boost with Suggs, Banchero, and Bane off the floor",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "SG/PG",
-   "player": "Stephon Castle",
-   "team": "SAS",
-   "opp": "POR",
-   "dk": 0,
-   "fd": 6400,
-   "proj": 32.97,
-   "type": "Core",
-   "status": "",
-   "blurb": "$6,400 on FD is too cheap for the steady production (1.05 FP/minute)",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "PG/SG",
-   "player": "Anthony Black",
-   "team": "ORL",
-   "opp": "GSW",
-   "dk": 0,
-   "fd": 6300,
-   "proj": 31.09,
-   "type": "Core",
-   "status": "",
-   "blurb": "8% usage boost with Suggs, Banchero, and Bane off the floor",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG/PG",
-   "player": "Stephon Castle",
-   "team": "SAS",
-   "opp": "POR",
-   "dk": 0,
-   "fd": 6400,
-   "proj": 32.97,
-   "type": "Core",
-   "status": "",
-   "blurb": "$6,400 on FD is too cheap for the steady production (1.05 FP/minute)",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "SF/PF",
-   "player": "Franz Wagner",
-   "team": "ORL",
-   "opp": "GSW",
-   "dk": 0,
-   "fd": 8300,
-   "proj": 41.16,
-   "type": "Core",
-   "status": "",
-   "blurb": "Will have to do everything offensively for the Magic with Suggs, Bane, and Banchero out",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "PF/SF",
-   "player": "OG Anunoby",
-   "team": "NYK",
-   "opp": "CLE",
-   "dk": 0,
-   "fd": 6000,
-   "proj": 34.03,
-   "type": "",
-   "status": "",
-   "blurb": "32+ DK points in 4 of the last 5 games; Hart's absence thins the wing rotation",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "SF/PF",
-   "player": "Franz Wagner",
-   "team": "ORL",
-   "opp": "GSW",
-   "dk": 0,
-   "fd": 8300,
-   "proj": 41.16,
-   "type": "Core",
-   "status": "",
-   "blurb": "Will have to do everything offensively for the Magic with Suggs, Bane, and Banchero out",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF/SF",
-   "player": "OG Anunoby",
-   "team": "NYK",
-   "opp": "CLE",
-   "dk": 0,
-   "fd": 6000,
-   "proj": 34.03,
-   "type": "",
-   "status": "",
-   "blurb": "32+ DK points in 4 of the last 5 games; Hart's absence thins the wing rotation",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Karl-Anthony Towns",
-   "team": "NYK",
-   "opp": "CLE",
-   "dk": 0,
-   "fd": 8400,
-   "proj": 43.63,
-   "type": "Core",
-   "status": "",
-   "blurb": "3.5% usage boost, 4.5% rebound rate boost with Hart off the floor",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Wendell Carter",
-   "team": "ORL",
-   "opp": "GSW",
-   "dk": 0,
-   "fd": 5600,
-   "proj": 31.13,
-   "type": "",
-   "status": "",
-   "blurb": "Team-high 9.4% usage bump with Suggs, Banchero, and Bane off the floor",
-   "url": ""
-  }
- ],
+ "plays": [],
+ "playsFd": [],
  "injuries": [
   {
-   "player": "Jarrett Allen",
-   "team": "CLE",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Anthony Davis",
-   "team": "WAS",
+   "player": "Luka Doncic",
+   "team": "LAL",
    "status": "Q",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Desmond Bane",
-   "team": "ORL",
-   "status": "O",
-   "note": "Illness",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Josh Hart",
-   "team": "NYK",
-   "status": "O",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 9
-  },
-  {
-   "player": "Draymond Green",
-   "team": "GSW",
-   "status": "Q",
-   "note": "Elbow",
-   "updated": "",
-   "impact": 9
-  },
-  {
-   "player": "Jaylin Williams",
-   "team": "OKC",
-   "status": "O",
    "note": "Back",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Lauri Markkanen",
+   "team": "UTA",
+   "status": "Q",
+   "note": "Wrist",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Nicolas Claxton",
+   "team": "CHI",
+   "status": "Q",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Keegan Murray",
+   "team": "SAC",
+   "status": "Q",
+   "note": "Ankle",
    "updated": "",
    "impact": 8
   },
   {
-   "player": "Gui Santos",
-   "team": "GSW",
-   "status": "Q",
-   "note": "Knee",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Robert Williams III",
-   "team": "POR",
-   "status": "O",
+   "player": "Mikel Brown",
+   "team": "BKN",
+   "status": "D",
    "note": "Rest",
    "updated": "",
    "impact": 6
   },
   {
-   "player": "Jaylon Tyson",
-   "team": "CLE",
+   "player": "Isaiah Jackson",
+   "team": "LAC",
    "status": "O",
-   "note": "Ankle",
+   "note": "Groin",
    "updated": "",
    "impact": 5
   },
   {
-   "player": "Gary Payton II",
-   "team": "GSW",
+   "player": "Joan Beringer",
+   "team": "MIN",
    "status": "Q",
-   "note": "Calf",
-   "updated": "",
-   "impact": 5
-  },
-  {
-   "player": "Sam Merrill",
-   "team": "CLE",
-   "status": "O",
-   "note": "Elbow",
-   "updated": "",
-   "impact": 5
-  },
-  {
-   "player": "Vit Krejci",
-   "team": "POR",
-   "status": "O",
-   "note": "Leg",
+   "note": "Nose",
    "updated": "",
    "impact": 4
-  },
-  {
-   "player": "Jordan Goodwin",
-   "team": "PHO",
-   "status": "D",
-   "note": "Calf",
-   "updated": "",
-   "impact": 4
-  },
-  {
-   "player": "Asa Newell",
-   "team": "ATL",
-   "status": "O",
-   "note": "Toe",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Jock Landale",
-   "team": "ATL",
-   "status": "O",
-   "note": "Hip",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Clint Capela",
-   "team": "HOU",
-   "status": "O",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 3
   },
   {
    "player": "Noah Clowney",
@@ -534,180 +160,36 @@
    "impact": 3
   },
   {
-   "player": "Rasheer Fleming",
-   "team": "PHO",
+   "player": "Zach Collins",
+   "team": "CHI",
+   "status": "O",
+   "note": "Illness",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Tobe Awaka",
+   "team": "CHI",
    "status": "Q",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 2
-  },
-  {
-   "player": "Tobias Harris",
-   "team": "SAS",
-   "status": "O",
-   "note": "Calf",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Jayden Quaintance",
-   "team": "SAS",
-   "status": "O",
    "note": "Knee",
    "updated": "",
-   "impact": 1
+   "impact": 3
   },
   {
-   "player": "Ja Morant",
-   "team": "POR",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Shaedon Sharpe",
-   "team": "POR",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Nae'Qwan Tomlin",
-   "team": "CLE",
-   "status": "O",
-   "note": "Back",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Tristan Vukcevic",
-   "team": "WAS",
+   "player": "Isaiah Joe",
+   "team": "DET",
    "status": "O",
    "note": "Hip",
    "updated": "",
-   "impact": 1
+   "impact": 3
   },
   {
-   "player": "Justin Champagnie",
-   "team": "WAS",
+   "player": "Adem Bona",
+   "team": "PHI",
    "status": "O",
-   "note": "Foot",
+   "note": "Neck",
    "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Jamir Watkins",
-   "team": "WAS",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Reece Beekman",
-   "team": "WAS",
-   "status": "O",
-   "note": "Shoulder",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Nikola Topic",
-   "team": "OKC",
-   "status": "O",
-   "note": "Back",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Thomas Sorber",
-   "team": "OKC",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Cason Wallace",
-   "team": "OKC",
-   "status": "O",
-   "note": "Shoulder",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Chet Holmgren",
-   "team": "OKC",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Jalen Williams",
-   "team": "OKC",
-   "status": "O",
-   "note": "Leg",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Mouhamed Gueye",
-   "team": "ATL",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Henri Veesaar",
-   "team": "ATL",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Steven Adams",
-   "team": "HOU",
-   "status": "O",
-   "note": "Calf",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Julian Strawther",
-   "team": "DEN",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Johnny Furphy",
-   "team": "IND",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Tyrese Haliburton",
-   "team": "IND",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Ben Sheppard",
-   "team": "IND",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
+   "impact": 3
   },
   {
    "player": "Egor Demin",
@@ -718,136 +200,151 @@
    "impact": 1
   },
   {
-   "player": "Paolo Banchero",
-   "team": "ORL",
-   "status": "O",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Jonathan Isaac",
-   "team": "ORL",
+   "player": "Sergio de Larrea",
+   "team": "DAL",
    "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Izaiyah Nelson",
-   "team": "ORL",
+   "player": "Tarik Biberovic",
+   "team": "DAL",
    "status": "O",
-   "note": "Ankle",
+   "note": "Heel",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Noah Penda",
-   "team": "ORL",
+   "player": "Dereck Lively II",
+   "team": "DAL",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jalen Duren",
+   "team": "DET",
    "status": "O",
    "note": "Hamstring",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Jalen Suggs",
-   "team": "ORL",
+   "player": "Brandon Ingram",
+   "team": "LAC",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Yanic Konan Niederhauser",
+   "team": "LAC",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Bradley Beal",
+   "team": "LAC",
    "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Jimmy Butler",
-   "team": "GSW",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Moses Moody",
-   "team": "GSW",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Kristaps Porzingis",
-   "team": "GSW",
-   "status": "O",
-   "note": "NWT",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Mark Williams",
-   "team": "PHO",
+   "player": "Jordan Miller",
+   "team": "LAC",
    "status": "O",
    "note": "Shoulder",
    "updated": "",
    "impact": 1
+  },
+  {
+   "player": "Anthony Edwards",
+   "team": "MIN",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Donte DiVincenzo",
+   "team": "MIN",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Yves Missi",
+   "team": "NOP",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Dominick Barlow",
+   "team": "PHI",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Ariel Hukporti",
+   "team": "PHI",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Maxime Raynaud",
+   "team": "SAC",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Ben Simmons",
+   "team": "SAC",
+   "status": "O",
+   "note": "Achilles",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jusuf Nurkic",
+   "team": "UTA",
+   "status": "O",
+   "note": "Toe",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jaren Jackson",
+   "team": "UTA",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Dailyn Swain",
+   "team": "CHI",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "impact": 1
   }
  ],
- "news": [
-  {
-   "player": "Jarrett Allen",
-   "team": "",
-   "status": "O",
-   "note": "Mobley slid over to center with Merrill in the starting unit last night with Allen out",
-   "time": "1:25 PM"
-  },
-  {
-   "player": "Anthony Davis",
-   "team": "WAS",
-   "status": "Q",
-   "note": "Ayton started at center, though Coulibaly started the second half over him",
-   "time": "11:57 AM"
-  },
-  {
-   "player": "Jalen Johnson",
-   "team": "ATL",
-   "status": "P",
-   "note": "Expected to return after missing a few games; Dort likely back to the bench",
-   "time": "1:25 PM"
-  },
-  {
-   "player": "Draymond Green",
-   "team": "GSW",
-   "status": "Q",
-   "note": "Monster usage boost for Curry (+7.6%) with Green off the floor this year",
-   "time": "11:57 AM"
-  },
-  {
-   "player": "Jaylin Williams",
-   "team": "",
-   "status": "O",
-   "note": "Kenrich Williams likely starts with Mara playing a solid role off the bench",
-   "time": "2:00 PM"
-  },
-  {
-   "player": "Sam Merrill",
-   "team": "",
-   "status": "O",
-   "note": "Hezonja and Thomas are both now projected for 27 minutes with Tyson also out",
-   "time": "1:25 PM"
-  },
-  {
-   "player": "Desmond Bane",
-   "team": "",
-   "status": "O",
-   "note": "Huge usage boosts for Carter (+9.4%) and Black (+8%)",
-   "time": "2:21 PM"
-  },
-  {
-   "player": "Robert Williams",
-   "team": "",
-   "status": "O",
-   "note": "Not a huge deal, Carlson will pick up limited backup C minutes",
-   "time": "5:15 PM"
-  }
- ],
+ "news": [],
  "teams": [
   [
    "Aaron Gordon",
@@ -3571,27 +3068,22 @@
   ]
  ],
  "b2b": [
-  "ATL",
-  "CLE",
-  "OKC",
-  "POR",
-  "SAS",
-  "WAS"
+  "BKN"
  ],
  "preview": {
   "locked": {
-   "PG": 6,
-   "SG": 6,
-   "SF": 6,
-   "PF": 6,
-   "C": 6
+   "PG": 0,
+   "SG": 0,
+   "SF": 0,
+   "PF": 0,
+   "C": 0
   },
   "lockedFd": {
-   "PG": 6,
-   "SG": 6,
-   "SF": 6,
-   "PF": 6,
-   "C": 6
+   "PG": 0,
+   "SG": 0,
+   "SF": 0,
+   "PF": 0,
+   "C": 0
   },
   "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
   "ctaLabel": "Unlock every Core Play with RG MVP",
