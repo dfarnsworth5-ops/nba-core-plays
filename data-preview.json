@@ -4,7 +4,7 @@
  "slate": "8 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-09",
- "updated": "2026-11-09T12:22:04-07:00",
+ "updated": "2026-11-09T14:47:11-07:00",
  "positions": [
   "PG",
   "SG",
@@ -457,6 +457,14 @@
    "impact": 10
   },
   {
+   "player": "Trey Murphy",
+   "team": "NOP",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "Moussa Diabate",
    "team": "CHA",
    "status": "D",
@@ -565,6 +573,14 @@
    "team": "GSW",
    "status": "Q",
    "note": "Knee",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Trendon Watford",
+   "team": "NOP",
+   "status": "O",
+   "note": "Ankle",
    "updated": "",
    "impact": 4
   },
@@ -815,6 +831,14 @@
    "note": "Shoulder",
    "updated": "",
    "impact": 1
+  },
+  {
+   "player": "Keshon Gilbert",
+   "team": "ATL",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
   }
  ],
  "news": [
@@ -950,6 +974,13 @@
    "status": "Q",
    "note": "Gafford's minutes could be a bit safer",
    "time": "2:00 PM"
+  },
+  {
+   "player": "Zion Williamson",
+   "team": "",
+   "status": "O",
+   "note": "Queen, Bey, and Fears have gotten usage boosts without Zion this season",
+   "time": "4:45 PM"
   }
  ],
  "teams": [
