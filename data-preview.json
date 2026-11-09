@@ -4,7 +4,7 @@
  "slate": "8 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-09",
- "updated": "2026-11-09T15:17:50-07:00",
+ "updated": "2026-11-09T15:21:53-07:00",
  "positions": [
   "PG",
   "SG",
@@ -465,9 +465,17 @@
    "impact": 10
   },
   {
+   "player": "Zion Williamson",
+   "team": "NOP",
+   "status": "O",
+   "note": "Rest",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "Moussa Diabate",
    "team": "CHA",
-   "status": "D",
+   "status": "O",
    "note": "Quad",
    "updated": "",
    "impact": 9
@@ -588,14 +596,6 @@
    "player": "Isaiah Joe",
    "team": "DET",
    "status": "O",
-   "note": "Hip",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Jock Landale",
-   "team": "ATL",
-   "status": "Q",
    "note": "Hip",
    "updated": "",
    "impact": 3
