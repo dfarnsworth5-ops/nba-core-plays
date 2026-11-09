@@ -4,7 +4,7 @@
  "slate": "8 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-09",
- "updated": "2026-11-09T15:44:16-07:00",
+ "updated": "2026-11-09T15:48:52-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1766,16 +1766,16 @@
   {
    "player": "Scottie Barnes",
    "team": "TOR",
-   "status": "Q",
+   "status": "O",
    "note": "Shead and Poeltl started next to CMB, Barrett, and Walter last game with IQ and Barnes out",
-   "time": "11:17 AM"
+   "time": "5:48 PM"
   },
   {
    "player": "Immanuel Quickley",
    "team": "TOR",
-   "status": "Q",
+   "status": "O",
    "note": "Shead and Poeltl started next to CMB, Barrett, and Walter last game with IQ and Barnes out",
-   "time": "11:17 AM"
+   "time": "5:48 PM"
   },
   {
    "player": "Anthony Davis",
