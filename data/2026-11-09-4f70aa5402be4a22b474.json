@@ -4,7 +4,7 @@
  "slate": "8 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-09",
- "updated": "2026-11-09T10:40:40-07:00",
+ "updated": "2026-11-09T11:01:53-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1383,7 +1383,7 @@
   {
    "player": "Moussa Diabate",
    "team": "CHA",
-   "status": "Q",
+   "status": "D",
    "note": "Quad",
    "updated": "",
    "impact": 9
@@ -1737,9 +1737,9 @@
   {
    "player": "Luka Doncic",
    "team": "LAL",
-   "status": "Q",
-   "note": "Reaves would get a huge bump; Grimes would likely start if Luka out",
-   "time": "11:16 AM"
+   "status": "A",
+   "note": "Will return after missing last night's game",
+   "time": "1:00 PM"
   },
   {
    "player": "Kyrie Irving",
@@ -1820,7 +1820,7 @@
   },
   {
    "player": "Moussa Diabate",
-   "team": "CHA",
+   "team": "",
    "status": "D",
    "note": "Kalkbrenner likely starts if Diabate is out",
    "time": "12:37 PM"
@@ -1838,6 +1838,20 @@
    "status": "O",
    "note": "Naz Reid has a usage rate north of 31% with Miller off the floor",
    "time": "11:17 AM"
+  },
+  {
+   "player": "Austin Reaves",
+   "team": "",
+   "status": "Q",
+   "note": "Luka's usage is up by 3.1% without Reaves, all the way to 44.4%!",
+   "time": "1:00 PM"
+  },
+  {
+   "player": "Quentin Grimes",
+   "team": "",
+   "status": "O",
+   "note": "Sexton and Williams should see a few extra minutes, especially if Reaves (Q) is also out",
+   "time": "1:00 PM"
   }
  ],
  "teams": [
