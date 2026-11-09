@@ -4,7 +4,7 @@
  "slate": "8 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-09",
- "updated": "2026-11-09T12:01:53-07:00",
+ "updated": "2026-11-09T12:22:04-07:00",
  "positions": [
   "PG",
   "SG",
@@ -457,22 +457,6 @@
    "impact": 10
   },
   {
-   "player": "Nikola Jokic",
-   "team": "DEN",
-   "status": "Q",
-   "note": "Elbow",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Jamal Murray",
-   "team": "DEN",
-   "status": "Q",
-   "note": "Leg",
-   "updated": "",
-   "impact": 10
-  },
-  {
    "player": "Moussa Diabate",
    "team": "CHA",
    "status": "D",
@@ -489,14 +473,6 @@
    "impact": 9
   },
   {
-   "player": "Aaron Gordon",
-   "team": "DEN",
-   "status": "Q",
-   "note": "Rest",
-   "updated": "",
-   "impact": 9
-  },
-  {
    "player": "Collin Murray-Boyles",
    "team": "TOR",
    "status": "Q",
@@ -505,36 +481,12 @@
    "impact": 9
   },
   {
-   "player": "Christian Braun",
-   "team": "DEN",
-   "status": "Q",
-   "note": "Calf/Illness",
-   "updated": "",
-   "impact": 8
-  },
-  {
-   "player": "Cameron Johnson",
-   "team": "DEN",
-   "status": "Q",
-   "note": "Rest",
-   "updated": "",
-   "impact": 8
-  },
-  {
    "player": "Devin Vassell",
    "team": "SAS",
    "status": "O",
    "note": "Groin",
    "updated": "",
    "impact": 8
-  },
-  {
-   "player": "DeMar DeRozan",
-   "team": "DEN",
-   "status": "Q",
-   "note": "Back",
-   "updated": "",
-   "impact": 7
   },
   {
    "player": "Dennis Schroder",
@@ -604,6 +556,14 @@
    "player": "Isaiah Stewart",
    "team": "MEM",
    "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Gary Payton II",
+   "team": "GSW",
+   "status": "Q",
    "note": "Knee",
    "updated": "",
    "impact": 4
@@ -903,44 +863,44 @@
   {
    "player": "Nikola Jokic",
    "team": "DEN",
-   "status": "Q",
-   "note": "Could be a mass rest situation with just about the entire rotation listed questionable",
-   "time": "11:17 AM"
+   "status": "P",
+   "note": "The Nuggets will be at full strength, after all",
+   "time": "2:21 PM"
   },
   {
    "player": "Jamal Murray",
    "team": "DEN",
-   "status": "Q",
-   "note": "Could be a mass rest situation with just about the entire rotation listed questionable",
-   "time": "11:17 AM"
+   "status": "P",
+   "note": "The Nuggets will be at full strength, after all",
+   "time": "2:21 PM"
   },
   {
    "player": "Aaron Gordon",
    "team": "DEN",
-   "status": "Q",
-   "note": "Could be a mass rest situation with just about the entire rotation listed questionable",
-   "time": "11:17 AM"
+   "status": "P",
+   "note": "The Nuggets will be at full strength, after all",
+   "time": "2:21 PM"
   },
   {
    "player": "Cameron Johnson",
    "team": "DEN",
-   "status": "Q",
-   "note": "Could be a mass rest situation with just about the entire rotation listed questionable",
-   "time": "11:17 AM"
+   "status": "P",
+   "note": "The Nuggets will be at full strength, after all",
+   "time": "2:21 PM"
   },
   {
    "player": "DeMar DeRozan",
    "team": "DEN",
-   "status": "Q",
-   "note": "Could be a mass rest situation with just about the entire rotation listed questionable",
-   "time": "11:17 AM"
+   "status": "P",
+   "note": "The Nuggets will be at full strength, after all",
+   "time": "2:21 PM"
   },
   {
    "player": "Christian Braun",
    "team": "DEN",
-   "status": "Q",
-   "note": "Could be a mass rest situation with just about the entire rotation listed questionable",
-   "time": "11:17 AM"
+   "status": "P",
+   "note": "The Nuggets will be at full strength, after all",
+   "time": "2:21 PM"
   },
   {
    "player": "Moussa Diabate",
