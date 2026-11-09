@@ -4,7 +4,7 @@
  "slate": "8 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-09",
- "updated": "2026-11-09T15:42:40-07:00",
+ "updated": "2026-11-09T15:44:16-07:00",
  "positions": [
   "PG",
   "SG",
@@ -260,6 +260,21 @@
    "pos": "PG",
    "dkPos": "PG",
    "fdPos": "PG",
+   "player": "Luka Doncic",
+   "team": "LAL",
+   "opp": "ATL",
+   "dk": 0,
+   "fd": 12400,
+   "proj": 56.01,
+   "type": "Core",
+   "status": "",
+   "blurb": "44% usage without Reaves",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
    "player": "Immanuel Quickley",
    "team": "TOR",
    "opp": "MEM",
@@ -269,21 +284,6 @@
    "type": "",
    "status": "Q",
    "blurb": "1.07 FP/minute with Kawhi off the floor; extra boost if he plays with Barnes (Q) out",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Stephen Curry",
-   "team": "GSW",
-   "opp": "NOP",
-   "dk": 0,
-   "fd": 8800,
-   "proj": 43.17,
-   "type": "",
-   "status": "",
-   "blurb": "Off to a phenomenal start, averaging 1.51 FP/minute; faces vulnerable NOP on a back-to-back",
    "url": ""
   },
   {
