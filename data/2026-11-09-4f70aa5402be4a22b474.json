@@ -4,7 +4,7 @@
  "slate": "8 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-09",
- "updated": "2026-11-09T14:47:11-07:00",
+ "updated": "2026-11-09T15:17:50-07:00",
  "positions": [
   "PG",
   "SG",
@@ -601,6 +601,21 @@
   },
   {
    "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Hannes Steinbach",
+   "team": "CHA",
+   "opp": "CLE",
+   "dk": 3500,
+   "fd": 0,
+   "proj": 7.6,
+   "type": "",
+   "status": "",
+   "blurb": "Benefited from the blowout, but still logged 27 minutes in the last game with Diabate out",
+   "url": ""
+  },
+  {
+   "pos": "C",
    "dkPos": "PF/C",
    "fdPos": "C",
    "player": "Alperen Sengun",
@@ -687,21 +702,6 @@
    "type": "",
    "status": "",
    "blurb": "Solid value at $5,000 with elite 1.15 FP/minute rate",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Hannes Steinbach",
-   "team": "CHA",
-   "opp": "CLE",
-   "dk": 3500,
-   "fd": 0,
-   "proj": 7.6,
-   "type": "",
-   "status": "",
-   "blurb": "Benefited from the blowout, but still logged 27 minutes in the last game with Diabate out",
    "url": ""
   }
  ],
@@ -1070,6 +1070,21 @@
    "pos": "PF",
    "dkPos": "PF",
    "fdPos": "PF/C",
+   "player": "Derik Queen",
+   "team": "NOP",
+   "opp": "GSW",
+   "dk": 0,
+   "fd": 5800,
+   "proj": 20.67,
+   "type": "Core",
+   "status": "",
+   "blurb": "Projected to start and play 30 minutes without Zion; 1.24 FP/minute without Williamson",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF/C",
    "player": "Naz Reid",
    "team": "CHA",
    "opp": "CLE",
@@ -1172,18 +1187,18 @@
    "url": ""
   },
   {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "Miles Bridges",
-   "team": "PHO",
-   "opp": "SAS",
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "PF/C",
+   "player": "Derik Queen",
+   "team": "NOP",
+   "opp": "GSW",
    "dk": 0,
-   "fd": 6700,
-   "proj": 32.77,
-   "type": "",
+   "fd": 5800,
+   "proj": 20.67,
+   "type": "Core",
    "status": "",
-   "blurb": "Solid 1.18 FPPM production so far with the Suns",
+   "blurb": "Projected to start and play 30 minutes without Zion; 1.24 FP/minute without Williamson",
    "url": ""
   },
   {
@@ -1211,7 +1226,7 @@
    "dk": 0,
    "fd": 6100,
    "proj": 33.42,
-   "type": "Core",
+   "type": "",
    "status": "",
    "blurb": "Minutes have been erratic in starting role, but Washington is allowing the most FPTs to centers",
    "url": ""
@@ -1289,21 +1304,6 @@
    "type": "",
    "status": "",
    "blurb": "Good production (1.09 FP/minute) despite limited minutes",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "PF/C",
-   "player": "Collin Murray-Boyles",
-   "team": "TOR",
-   "opp": "MEM",
-   "dk": 0,
-   "fd": 5500,
-   "proj": 25.83,
-   "type": "",
-   "status": "Q",
-   "blurb": "Season-high 33 minutes in the last game; started 3 straight games",
    "url": ""
   }
  ],
@@ -1829,8 +1829,8 @@
   {
    "player": "Moussa Diabate",
    "team": "",
-   "status": "D",
-   "note": "Kalkbrenner likely starts if Diabate is out",
+   "status": "O",
+   "note": "Kalkbrenner likely starts with Steinbach backing him up",
    "time": "12:37 PM"
   },
   {
