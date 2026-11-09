@@ -4,7 +4,7 @@
  "slate": "8 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-09",
- "updated": "2026-11-09T11:38:02-07:00",
+ "updated": "2026-11-09T12:01:53-07:00",
  "positions": [
   "PG",
   "SG",
@@ -108,21 +108,6 @@
    "pos": "PG",
    "dkPos": "PG",
    "fdPos": "PG",
-   "player": "Walter Clayton",
-   "team": "DAL",
-   "opp": "IND",
-   "dk": 3300,
-   "fd": 0,
-   "proj": 22.49,
-   "type": "Core",
-   "status": "",
-   "blurb": "1.14 FP/minute production; super cheap and should see extra burn with Irving doubtful",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
    "player": "Immanuel Quickley",
    "team": "TOR",
    "opp": "MEM",
@@ -132,6 +117,36 @@
    "type": "",
    "status": "Q",
    "blurb": "1.11 FP/minute with Kawhi off the floor; extra boost if he plays with Barnes (Q) out",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Cade Cunningham",
+   "team": "DET",
+   "opp": "WAS",
+   "dk": 9500,
+   "fd": 0,
+   "proj": 49.71,
+   "type": "",
+   "status": "",
+   "blurb": "Washington has allowed the second-most fantasy points to combo guards (like Cade) this season",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
+   "player": "Grayson Allen",
+   "team": "CHA",
+   "opp": "CLE",
+   "dk": 5200,
+   "fd": 0,
+   "proj": 27.38,
+   "type": "Core",
+   "status": "",
+   "blurb": "Team-best 5.6% usage boost with Miller and Schroder off the floor",
    "url": ""
   },
   {
@@ -146,20 +161,20 @@
    "proj": 39.47,
    "type": "",
    "status": "",
-   "blurb": "Consistently producing at a high level without Kawhi (+1.3% usage, 1.1 FP/minute)",
+   "blurb": "Consistently producing at a high level without Kawhi (1.1 FP/minute)",
    "url": ""
   },
   {
-   "pos": "SG",
+   "pos": "SF",
    "dkPos": "SG/SF",
-   "fdPos": "SG",
+   "fdPos": "SF",
    "player": "Grayson Allen",
    "team": "CHA",
    "opp": "CLE",
    "dk": 5200,
    "fd": 0,
    "proj": 27.38,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Team-best 5.6% usage boost with Miller and Schroder off the floor",
    "url": ""
@@ -177,21 +192,6 @@
    "type": "",
    "status": "Q",
    "blurb": "Monster role (32.5% usage, 1.36 FP/minute) with Kawhi out of the lineup",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SG/SF",
-   "fdPos": "SF",
-   "player": "Grayson Allen",
-   "team": "CHA",
-   "opp": "CLE",
-   "dk": 5200,
-   "fd": 0,
-   "proj": 27.38,
-   "type": "",
-   "status": "",
-   "blurb": "Team-best 5.6% usage boost with Miller and Schroder off the floor",
    "url": ""
   },
   {
@@ -289,6 +289,21 @@
   {
    "pos": "SG",
    "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Grayson Allen",
+   "team": "CHA",
+   "opp": "CLE",
+   "dk": 0,
+   "fd": 5200,
+   "proj": 26.2,
+   "type": "",
+   "status": "",
+   "blurb": "Team-best 5.6% usage boost with Miller and Schroder off the floor",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
    "fdPos": "SG/SF",
    "player": "RJ Barrett",
    "team": "TOR",
@@ -299,21 +314,6 @@
    "type": "",
    "status": "",
    "blurb": "Consistently producing at a high level without Kawhi (+1.3% usage, 1.1 FP/minute)",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG",
-   "player": "Jalen Green",
-   "team": "PHO",
-   "opp": "SAS",
-   "dk": 0,
-   "fd": 5400,
-   "proj": 29.51,
-   "type": "",
-   "status": "",
-   "blurb": "The minutes are still there, just a matter of the form coming around (0.79 FP/minute); only $5,400",
    "url": ""
   },
   {
@@ -409,18 +409,10 @@
  ],
  "injuries": [
   {
-   "player": "Luka Doncic",
+   "player": "Austin Reaves",
    "team": "LAL",
    "status": "Q",
-   "note": "Back",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Kyrie Irving",
-   "team": "DAL",
-   "status": "D",
-   "note": "Rest",
+   "note": "Illness",
    "updated": "",
    "impact": 10
   },
@@ -505,6 +497,14 @@
    "impact": 9
   },
   {
+   "player": "Collin Murray-Boyles",
+   "team": "TOR",
+   "status": "Q",
+   "note": "Illness",
+   "updated": "",
+   "impact": 9
+  },
+  {
    "player": "Christian Braun",
    "team": "DEN",
    "status": "Q",
@@ -523,7 +523,7 @@
   {
    "player": "Devin Vassell",
    "team": "SAS",
-   "status": "Q",
+   "status": "O",
    "note": "Groin",
    "updated": "",
    "impact": 8
@@ -561,6 +561,22 @@
    "impact": 6
   },
   {
+   "player": "Quentin Grimes",
+   "team": "LAL",
+   "status": "O",
+   "note": "Finger",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Bilal Coulibaly",
+   "team": "WAS",
+   "status": "Q",
+   "note": "Hand",
+   "updated": "",
+   "impact": 6
+  },
+  {
    "player": "Jaylon Tyson",
    "team": "CLE",
    "status": "O",
@@ -577,6 +593,14 @@
    "impact": 5
   },
   {
+   "player": "Morez Johnson",
+   "team": "DAL",
+   "status": "Q",
+   "note": "Shin",
+   "updated": "",
+   "impact": 5
+  },
+  {
    "player": "Isaiah Stewart",
    "team": "MEM",
    "status": "O",
@@ -587,7 +611,7 @@
   {
    "player": "Isaiah Joe",
    "team": "DET",
-   "status": "D",
+   "status": "O",
    "note": "Hip",
    "updated": "",
    "impact": 3
@@ -843,10 +867,10 @@
   },
   {
    "player": "Kyrie Irving",
-   "team": "",
-   "status": "D",
-   "note": "Marshall likely starts; potential for more minutes for Walter Clayton Jr.",
-   "time": "11:16 AM"
+   "team": "DAL",
+   "status": "A",
+   "note": "Not on the injury report",
+   "time": "1:58 PM"
   },
   {
    "player": "Jarrett Allen",
@@ -927,7 +951,7 @@
   },
   {
    "player": "Devin Vassell",
-   "team": "SAS",
+   "team": "",
    "status": "O",
    "note": "Champagnie and Johnson could see a few more minutes",
    "time": "1:37 PM"
@@ -952,6 +976,20 @@
    "status": "O",
    "note": "Sexton and Williams should see a few extra minutes, especially if Reaves (Q) is also out",
    "time": "1:00 PM"
+  },
+  {
+   "player": "Bilal Coulibaly",
+   "team": "",
+   "status": "Q",
+   "note": "Johnson, Middleton, and Riley are capable of helping fill his minutes",
+   "time": "1:59 PM"
+  },
+  {
+   "player": "Morez Johnson",
+   "team": "",
+   "status": "Q",
+   "note": "Gafford's minutes could be a bit safer",
+   "time": "2:00 PM"
   }
  ],
  "teams": [
