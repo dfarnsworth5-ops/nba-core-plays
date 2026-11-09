@@ -4,7 +4,7 @@
  "slate": "8 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-09",
- "updated": "2026-11-09T10:38:00-07:00",
+ "updated": "2026-11-09T10:40:40-07:00",
  "positions": [
   "PG",
   "SG",
@@ -640,23 +640,8 @@
    "fd": 0,
    "proj": 35.76,
    "type": "",
-   "status": "Q",
-   "blurb": "Lower ceiling with Johnson back, but the Lakers are just 21st in rebound rate",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Moussa Diabate",
-   "team": "CHA",
-   "opp": "CLE",
-   "dk": 5700,
-   "fd": 0,
-   "proj": 27.72,
-   "type": "",
    "status": "",
-   "blurb": "Contributing 0.99 FP/minute despite limited usage; matchup improves if Allen (Q) is out",
+   "blurb": "Lower ceiling with Johnson back, but the Lakers are just 21st in rebound rate",
    "url": ""
   },
   {
@@ -702,6 +687,21 @@
    "type": "",
    "status": "",
    "blurb": "Solid value at $5,000 with elite 1.15 FP/minute rate",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Hannes Steinbach",
+   "team": "CHA",
+   "opp": "CLE",
+   "dk": 3500,
+   "fd": 0,
+   "proj": 7.6,
+   "type": "",
+   "status": "",
+   "blurb": "Benefited from the blowout, but still logged 27 minutes in the last game with Diabate out",
    "url": ""
   }
  ],
@@ -1129,21 +1129,6 @@
   {
    "pos": "PF",
    "dkPos": "PF",
-   "fdPos": "C/PF",
-   "player": "Moussa Diabate",
-   "team": "CHA",
-   "opp": "CLE",
-   "dk": 0,
-   "fd": 5400,
-   "proj": 28.31,
-   "type": "",
-   "status": "Q",
-   "blurb": "Contributing 1.00 FP/minute despite limited usage; matchup improves if Allen (Q) is out",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
    "fdPos": "PF",
    "player": "Scottie Barnes",
    "team": "TOR",
@@ -1184,6 +1169,21 @@
    "type": "",
    "status": "",
    "blurb": "Wide range of outcomes, but only 12% pOWN%",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Miles Bridges",
+   "team": "PHO",
+   "opp": "SAS",
+   "dk": 0,
+   "fd": 6700,
+   "proj": 32.77,
+   "type": "",
+   "status": "",
+   "blurb": "Solid 1.18 FPPM production so far with the Suns",
    "url": ""
   },
   {
@@ -1229,21 +1229,6 @@
    "type": "",
    "status": "",
    "blurb": "Struggling of late (0.73 FP/minute), but also just $4,500 and in a favorable matchup vs. WAS",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C/PF",
-   "player": "Moussa Diabate",
-   "team": "CHA",
-   "opp": "CLE",
-   "dk": 0,
-   "fd": 5400,
-   "proj": 28.31,
-   "type": "",
-   "status": "Q",
-   "blurb": "Contributing 1.00 FP/minute despite limited usage; matchup improves if Allen (Q) is out",
    "url": ""
   },
   {
@@ -1304,6 +1289,21 @@
    "type": "",
    "status": "",
    "blurb": "Good production (1.09 FP/minute) despite limited minutes",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "PF/C",
+   "player": "Collin Murray-Boyles",
+   "team": "TOR",
+   "opp": "MEM",
+   "dk": 0,
+   "fd": 5500,
+   "proj": 25.83,
+   "type": "",
+   "status": "",
+   "blurb": "Season-high 33 minutes in the last game; started 3 straight games",
    "url": ""
   }
  ],
