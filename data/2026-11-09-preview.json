@@ -4,7 +4,7 @@
  "slate": "8 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-09",
- "updated": "2026-11-08T22:14:45-07:00",
+ "updated": "2026-11-09T09:43:16-07:00",
  "positions": [
   "PG",
   "SG",
@@ -22,8 +22,8 @@
    "fav": "CLE",
    "spread": -9.5,
    "total": 215.5,
-   "dk": "",
-   "fd": ""
+   "dk": "M",
+   "fd": "M"
   },
   {
    "away": "Washington Wizards",
@@ -33,7 +33,7 @@
    "fav": "DET",
    "spread": -10.5,
    "total": 218.5,
-   "dk": "",
+   "dk": "M",
    "fd": "M"
   },
   {
@@ -99,12 +99,314 @@
    "fav": "GSW",
    "spread": -9.5,
    "total": 231.5,
-   "dk": "",
-   "fd": ""
+   "dk": "S",
+   "fd": "S"
   }
  ],
- "plays": [],
- "playsFd": [],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Walter Clayton",
+   "team": "DAL",
+   "opp": "IND",
+   "dk": 3300,
+   "fd": 0,
+   "proj": 22.49,
+   "type": "Core",
+   "status": "",
+   "blurb": "1.14 FP/minute production; super cheap and should see extra burn with Irving doubtful",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "opp": "MEM",
+   "dk": 6800,
+   "fd": 0,
+   "proj": 35.95,
+   "type": "",
+   "status": "Q",
+   "blurb": "1.11 FP/minute with Kawhi off the floor; extra boost if he plays with Barnes (Q) out",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
+   "player": "RJ Barrett",
+   "team": "TOR",
+   "opp": "MEM",
+   "dk": 7600,
+   "fd": 0,
+   "proj": 39.47,
+   "type": "",
+   "status": "",
+   "blurb": "Consistently producing at a high level without Kawhi (+1.3% usage, 1.1 FP/minute)",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
+   "player": "Grayson Allen",
+   "team": "CHA",
+   "opp": "CLE",
+   "dk": 5200,
+   "fd": 0,
+   "proj": 27.38,
+   "type": "",
+   "status": "",
+   "blurb": "Team-best 5.6% usage boost with Miller and Schroder off the floor",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "PG/SF",
+   "fdPos": "SF",
+   "player": "Scottie Barnes",
+   "team": "TOR",
+   "opp": "MEM",
+   "dk": 8800,
+   "fd": 0,
+   "proj": 45.18,
+   "type": "",
+   "status": "Q",
+   "blurb": "Monster role (32.5% usage, 1.36 FP/minute) with Kawhi out of the lineup",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SG/SF",
+   "fdPos": "SF",
+   "player": "Grayson Allen",
+   "team": "CHA",
+   "opp": "CLE",
+   "dk": 5200,
+   "fd": 0,
+   "proj": 27.38,
+   "type": "",
+   "status": "",
+   "blurb": "Team-best 5.6% usage boost with Miller and Schroder off the floor",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF/C",
+   "fdPos": "PF",
+   "player": "Naz Reid",
+   "team": "CHA",
+   "opp": "CLE",
+   "dk": 6900,
+   "fd": 0,
+   "proj": 37.13,
+   "type": "Core",
+   "status": "",
+   "blurb": "Predictably leads Charlotte in usage (31%) this season with Miller off the floor",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF/C",
+   "fdPos": "PF",
+   "player": "Alperen Sengun",
+   "team": "HOU",
+   "opp": "DEN",
+   "dk": 9000,
+   "fd": 0,
+   "proj": 44.06,
+   "type": "",
+   "status": "",
+   "blurb": "Really struggled vs. PHX, but still posting an elite 1.41 FP/minute rate overall",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "PF/C",
+   "fdPos": "C",
+   "player": "Naz Reid",
+   "team": "CHA",
+   "opp": "CLE",
+   "dk": 6900,
+   "fd": 0,
+   "proj": 37.13,
+   "type": "Core",
+   "status": "",
+   "blurb": "Predictably leads Charlotte in usage (31%) this season with Miller off the floor",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "PF/C",
+   "fdPos": "C",
+   "player": "Alperen Sengun",
+   "team": "HOU",
+   "opp": "DEN",
+   "dk": 9000,
+   "fd": 0,
+   "proj": 44.06,
+   "type": "",
+   "status": "",
+   "blurb": "Really struggled vs. PHX, but still posting an elite 1.41 FP/minute rate overall",
+   "url": ""
+  }
+ ],
+ "playsFd": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "opp": "MEM",
+   "dk": 0,
+   "fd": 6300,
+   "proj": 34.73,
+   "type": "",
+   "status": "Q",
+   "blurb": "1.07 FP/minute with Kawhi off the floor; extra boost if he plays with Barnes (Q) out",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Stephen Curry",
+   "team": "GSW",
+   "opp": "NOP",
+   "dk": 0,
+   "fd": 8800,
+   "proj": 43.17,
+   "type": "",
+   "status": "",
+   "blurb": "Off to a phenomenal start, averaging 1.51 FP/minute; faces vulnerable NOP on a back-to-back",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG/SF",
+   "player": "RJ Barrett",
+   "team": "TOR",
+   "opp": "MEM",
+   "dk": 0,
+   "fd": 7300,
+   "proj": 37.91,
+   "type": "",
+   "status": "",
+   "blurb": "Consistently producing at a high level without Kawhi (+1.3% usage, 1.1 FP/minute)",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Jalen Green",
+   "team": "PHO",
+   "opp": "SAS",
+   "dk": 0,
+   "fd": 5400,
+   "proj": 29.51,
+   "type": "",
+   "status": "",
+   "blurb": "Minutes are still there, just a matter of the form coming around (0.79 FP/minute); only $5,400",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SG/SF",
+   "player": "RJ Barrett",
+   "team": "TOR",
+   "opp": "MEM",
+   "dk": 0,
+   "fd": 7300,
+   "proj": 37.91,
+   "type": "",
+   "status": "",
+   "blurb": "Consistently producing at a high level without Kawhi (+1.3% usage, 1.1 FP/minute)",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "PF/SF",
+   "player": "Yaxel Lendeborg",
+   "team": "GSW",
+   "opp": "NOP",
+   "dk": 0,
+   "fd": 7900,
+   "proj": 40.4,
+   "type": "",
+   "status": "",
+   "blurb": "40+ fantasy points in 3 of the last 4 games and 7 of the last 9 overall",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF/C",
+   "player": "Naz Reid",
+   "team": "CHA",
+   "opp": "CLE",
+   "dk": 0,
+   "fd": 7000,
+   "proj": 35.65,
+   "type": "Core",
+   "status": "",
+   "blurb": "Predictably leads Charlotte in usage (31%) this season with Miller off the floor",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Jalen Johnson",
+   "team": "ATL",
+   "opp": "LAL",
+   "dk": 0,
+   "fd": 9300,
+   "proj": 46.07,
+   "type": "",
+   "status": "",
+   "blurb": "Played a full 35 minutes after missing a few games with an ankle injury; 1.32 FP/minute",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "PF/C",
+   "player": "Naz Reid",
+   "team": "CHA",
+   "opp": "CLE",
+   "dk": 0,
+   "fd": 7000,
+   "proj": 35.65,
+   "type": "Core",
+   "status": "",
+   "blurb": "Predictably leads Charlotte in usage (31%) this season with Miller off the floor",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Paul Reed",
+   "team": "DET",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 6100,
+   "proj": 33.42,
+   "type": "Core",
+   "status": "",
+   "blurb": "Minutes have been erratic in starting role, but WSH is allowing the most FPTs to centers",
+   "url": ""
+  }
+ ],
  "injuries": [
   {
    "player": "Luka Doncic",
@@ -331,6 +633,14 @@
    "impact": 2
   },
   {
+   "player": "Oscar Tshiebwe",
+   "team": "HOU",
+   "status": "O",
+   "note": "Illness",
+   "updated": "",
+   "impact": 2
+  },
+  {
    "player": "Sergio de Larrea",
    "team": "DAL",
    "status": "O",
@@ -523,7 +833,113 @@
    "impact": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "player": "Luka Doncic",
+   "team": "LAL",
+   "status": "Q",
+   "note": "Reaves would get a huge bump; Grimes would likely start if Luka out",
+   "time": "11:16 AM"
+  },
+  {
+   "player": "Kyrie Irving",
+   "team": "",
+   "status": "D",
+   "note": "Marshall likely starts; potential for more minutes for Walter Clayton Jr.",
+   "time": "11:16 AM"
+  },
+  {
+   "player": "Jarrett Allen",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Mobley would slide over to C, Thomas started the last game",
+   "time": "11:16 AM"
+  },
+  {
+   "player": "Scottie Barnes",
+   "team": "TOR",
+   "status": "Q",
+   "note": "Shead and Poeltl started next to CMB, Barrett, and Walter last game with IQ and Barnes out",
+   "time": "11:17 AM"
+  },
+  {
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "status": "Q",
+   "note": "Shead and Poeltl started next to CMB, Barrett, and Walter last game with IQ and Barnes out",
+   "time": "11:17 AM"
+  },
+  {
+   "player": "Anthony Davis",
+   "team": "WAS",
+   "status": "Q",
+   "note": "Ayton started the first game, Coulibaly started the last game with AD out",
+   "time": "11:17 AM"
+  },
+  {
+   "player": "Nikola Jokic",
+   "team": "DEN",
+   "status": "Q",
+   "note": "Could be a mass rest situation with just about the entire rotation listed questionable",
+   "time": "11:17 AM"
+  },
+  {
+   "player": "Jamal Murray",
+   "team": "DEN",
+   "status": "Q",
+   "note": "Could be a mass rest situation with just about the entire rotation listed questionable",
+   "time": "11:17 AM"
+  },
+  {
+   "player": "Aaron Gordon",
+   "team": "DEN",
+   "status": "Q",
+   "note": "Could be a mass rest situation with just about the entire rotation listed questionable",
+   "time": "11:17 AM"
+  },
+  {
+   "player": "Cameron Johnson",
+   "team": "DEN",
+   "status": "Q",
+   "note": "Could be a mass rest situation with just about the entire rotation listed questionable",
+   "time": "11:17 AM"
+  },
+  {
+   "player": "DeMar DeRozan",
+   "team": "DEN",
+   "status": "Q",
+   "note": "Could be a mass rest situation with just about the entire rotation listed questionable",
+   "time": "11:17 AM"
+  },
+  {
+   "player": "Christian Braun",
+   "team": "DEN",
+   "status": "Q",
+   "note": "Could be a mass rest situation with just about the entire rotation listed questionable",
+   "time": "11:17 AM"
+  },
+  {
+   "player": "Moussa Diabate",
+   "team": "CHA",
+   "status": "Q",
+   "note": "Kalkbrenner likely starts if Diabate is out",
+   "time": "11:17 AM"
+  },
+  {
+   "player": "Devin Vassell",
+   "team": "SAS",
+   "status": "Q",
+   "note": "Champagnie and Johnson could see a few more minutes",
+   "time": "11:17 AM"
+  },
+  {
+   "player": "Brandon Miller",
+   "team": "",
+   "status": "O",
+   "note": "Naz Reid has a usage rate north of 31% with Miller off the floor",
+   "time": "11:17 AM"
+  }
+ ],
  "teams": [
   [
    "Aaron Gordon",
@@ -4014,18 +4430,18 @@
  ],
  "preview": {
   "locked": {
-   "PG": 0,
-   "SG": 0,
-   "SF": 0,
-   "PF": 0,
-   "C": 0
+   "PG": 6,
+   "SG": 6,
+   "SF": 6,
+   "PF": 6,
+   "C": 6
   },
   "lockedFd": {
-   "PG": 0,
-   "SG": 0,
-   "SF": 0,
-   "PF": 0,
-   "C": 0
+   "PG": 6,
+   "SG": 6,
+   "SF": 6,
+   "PF": 6,
+   "C": 6
   },
   "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
   "ctaLabel": "Unlock every Core Play with RG MVP",
