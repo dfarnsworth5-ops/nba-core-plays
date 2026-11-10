@@ -4,7 +4,7 @@
  "slate": "6 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-10",
- "updated": "2026-11-10T12:37:49-07:00",
+ "updated": "2026-11-10T13:49:58-07:00",
  "positions": [
   "PG",
   "SG",
@@ -387,17 +387,9 @@
  ],
  "injuries": [
   {
-   "player": "Domantas Sabonis",
-   "team": "SAC",
-   "status": "Q",
-   "note": "Knee",
-   "updated": "",
-   "impact": 10
-  },
-  {
    "player": "Lauri Markkanen",
    "team": "UTA",
-   "status": "Q",
+   "status": "O",
    "note": "Wrist",
    "updated": "",
    "impact": 10
@@ -414,25 +406,25 @@
    "player": "Tyler Herro",
    "team": "MIL",
    "status": "Q",
-   "note": "Contusion",
+   "note": "Knee",
    "updated": "",
    "impact": 10
   },
   {
    "player": "Josh Hart",
    "team": "NYK",
-   "status": "Q",
+   "status": "D",
    "note": "Ankle",
    "updated": "",
    "impact": 9
   },
   {
-   "player": "Keegan Murray",
-   "team": "SAC",
+   "player": "Tristan da Silva",
+   "team": "ORL",
    "status": "Q",
-   "note": "Wrist",
+   "note": "Calf",
    "updated": "",
-   "impact": 8
+   "impact": 7
   },
   {
    "player": "Jaylin Williams",
@@ -449,22 +441,6 @@
    "note": "Ankle",
    "updated": "",
    "impact": 5
-  },
-  {
-   "player": "Tristan da Silva",
-   "team": "ORL",
-   "status": "Q",
-   "note": "Calf",
-   "updated": "",
-   "impact": 5
-  },
-  {
-   "player": "Jordan Goodwin",
-   "team": "PHO",
-   "status": "Q",
-   "note": "Calf",
-   "updated": "",
-   "impact": 3
   },
   {
    "player": "Adem Bona",
@@ -751,6 +727,27 @@
    "status": "D",
    "note": "Hart is now doubtful. If he's out, Landry Shamet will likely draw the spot start.",
    "time": "2:40 PM"
+  },
+  {
+   "player": "Domantas Sabonis",
+   "team": "SAC",
+   "status": "A",
+   "note": "Sabonis will play tonight.",
+   "time": "3:50 PM"
+  },
+  {
+   "player": "Jordan Goodwin",
+   "team": "PHO",
+   "status": "A",
+   "note": "Goodwin will play tonight.",
+   "time": "3:50 PM"
+  },
+  {
+   "player": "Keegan Murray",
+   "team": "SAC",
+   "status": "A",
+   "note": "Murray will play tonight.",
+   "time": "3:50 PM"
   }
  ],
  "teams": [
@@ -4249,8 +4246,8 @@
   "lockedFd": {
    "PG": 6,
    "SG": 6,
-   "SF": 5,
-   "PF": 5,
+   "SF": 4,
+   "PF": 4,
    "C": 5
   },
   "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
