@@ -4,7 +4,7 @@
  "slate": "6 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-10",
- "updated": "2026-11-10T11:22:52-07:00",
+ "updated": "2026-11-10T11:49:58-07:00",
  "positions": [
   "PG",
   "SG",
@@ -109,7 +109,7 @@
    "proj": 34.16,
    "type": "Core",
    "status": "",
-   "blurb": "Sees a boost with Keyonte George out. Has topped 40 fantasy points in 3 of the last 4 games. Elite matchup against the Heat.",
+   "blurb": "Sees a boost with Keyonte George and Lauri Markkanen out. Has topped 40 fantasy points in 3 of the last 4 games. Elite matchup against the Heat.",
    "url": ""
   },
   {
@@ -124,7 +124,7 @@
    "proj": 34.16,
    "type": "Core",
    "status": "",
-   "blurb": "Sees a boost with Keyonte George out. Has topped 40 fantasy points in 3 of the last 4 games. Elite matchup against the Heat.",
+   "blurb": "Sees a boost with Keyonte George and Lauri Markkanen out. Has topped 40 fantasy points in 3 of the last 4 games. Elite matchup against the Heat.",
    "url": ""
   },
   {
@@ -276,7 +276,7 @@
    "proj": 33.46,
    "type": "Core",
    "status": "",
-   "blurb": "Sees a boost with Keyonte George out. Has topped 40 fantasy points in 3 of the last 4 games. Elite matchup against the Heat.",
+   "blurb": "Sees a boost with Keyonte George and Lauri Markkanen out. Has topped 40 fantasy points in 3 of the last 4 games. Elite matchup against the Heat.",
    "url": ""
   },
   {
@@ -677,7 +677,7 @@
   },
   {
    "player": "Lauri Markkanen",
-   "team": "UTA",
+   "team": "",
    "status": "Q",
    "note": "Has averaged 33 fantasy points with a usage rate of 23% this season. With Keyonte George out, Ace Bailey, Darryn Peterson, and Isaiah Collier should dominate usage. If Markkanen is out, more usage will open up, and more minutes will be available in the frontcourt.",
    "time": "11:30 AM"
@@ -737,6 +737,13 @@
    "status": "Q",
    "note": "His absence would open up minutes and usage in Milwaukee's frontcourt.",
    "time": "1:00 PM"
+  },
+  {
+   "player": "Lauri Markkanen",
+   "team": "",
+   "status": "O",
+   "note": "With Markkanen and Keyonte George out, the Jazz are now my favorite team to target on the slate.",
+   "time": "1:45 PM"
   }
  ],
  "teams": [
@@ -4236,7 +4243,7 @@
    "PG": 6,
    "SG": 6,
    "SF": 6,
-   "PF": 6,
+   "PF": 5,
    "C": 5
   },
   "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
