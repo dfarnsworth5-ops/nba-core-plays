@@ -4,7 +4,7 @@
  "slate": "6 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-10",
- "updated": "2026-11-10T15:46:26-07:00",
+ "updated": "2026-11-10T16:49:49-07:00",
  "positions": [
   "PG",
   "SG",
@@ -405,7 +405,7 @@
   {
    "player": "Tyler Herro",
    "team": "MIL",
-   "status": "Q",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 10
@@ -413,7 +413,7 @@
   {
    "player": "Josh Hart",
    "team": "NYK",
-   "status": "D",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 9
@@ -433,14 +433,6 @@
    "note": "Back",
    "updated": "",
    "impact": 6
-  },
-  {
-   "player": "Kel'el Ware",
-   "team": "MIL",
-   "status": "Q",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 5
   },
   {
    "player": "Adem Bona",
@@ -667,7 +659,7 @@
   },
   {
    "player": "Tyler Herro",
-   "team": "MIL",
+   "team": "",
    "status": "Q",
    "note": "Leads the team in usage (27%), so his absence would make the Bucks a lot more appealing. Jaime Jaquez, Brayden Burries, and Ryan Rollins would see the biggest boosts.",
    "time": "11:30 AM"
@@ -748,6 +740,20 @@
    "status": "A",
    "note": "Murray will play tonight.",
    "time": "3:50 PM"
+  },
+  {
+   "player": "Tyler Herro",
+   "team": "",
+   "status": "O",
+   "note": "Herro has been ruled out. Ryan Rollins will likely draw the spot start, and the other four starters should see an uptick in usage.",
+   "time": "6:00 PM"
+  },
+  {
+   "player": "Kel'el Ware",
+   "team": "",
+   "status": "A",
+   "note": "Ware will play tonight.",
+   "time": "6:00 PM"
   }
  ],
  "teams": [
