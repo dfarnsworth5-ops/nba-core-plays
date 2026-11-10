@@ -4,7 +4,7 @@
  "slate": "6 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-10",
- "updated": "2026-11-10T11:49:58-07:00",
+ "updated": "2026-11-10T12:37:49-07:00",
  "positions": [
   "PG",
   "SG",
@@ -698,7 +698,7 @@
   },
   {
    "player": "Josh Hart",
-   "team": "NYK",
+   "team": "",
    "status": "Q",
    "note": "Doesn't have the highest usage rate, but his absence would open up peripheral stat production and more minutes for Landry Shamet, Miles McBride, and Jordan Clarkson.",
    "time": "11:30 AM"
@@ -744,6 +744,13 @@
    "status": "O",
    "note": "With Markkanen and Keyonte George out, the Jazz are now my favorite team to target on the slate.",
    "time": "1:45 PM"
+  },
+  {
+   "player": "Josh Hart",
+   "team": "",
+   "status": "D",
+   "note": "Hart is now doubtful. If he's out, Landry Shamet will likely draw the spot start.",
+   "time": "2:40 PM"
   }
  ],
  "teams": [
@@ -4234,15 +4241,15 @@
  "preview": {
   "locked": {
    "PG": 6,
-   "SG": 6,
-   "SF": 6,
+   "SG": 5,
+   "SF": 5,
    "PF": 6,
    "C": 6
   },
   "lockedFd": {
    "PG": 6,
    "SG": 6,
-   "SF": 6,
+   "SF": 5,
    "PF": 5,
    "C": 5
   },
