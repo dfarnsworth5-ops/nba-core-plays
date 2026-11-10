@@ -4,7 +4,7 @@
  "slate": "6 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-10",
- "updated": "2026-11-10T13:49:58-07:00",
+ "updated": "2026-11-10T15:46:26-07:00",
  "positions": [
   "PG",
   "SG",
@@ -321,7 +321,7 @@
    "proj": 26.61,
    "type": "",
    "status": "",
-   "blurb": "Boost with Keyonte George out. Would see an even bigger boost if Lauri Markkanen is also out.",
+   "blurb": "Affordable and should see a usage boost with Keyonte George and Lauri Markkanen out.",
    "url": ""
   },
   {
@@ -4238,8 +4238,8 @@
  "preview": {
   "locked": {
    "PG": 6,
-   "SG": 5,
-   "SF": 5,
+   "SG": 6,
+   "SF": 6,
    "PF": 6,
    "C": 6
   },
