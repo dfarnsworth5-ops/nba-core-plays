@@ -4,7 +4,7 @@
  "slate": "6 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-10",
- "updated": "2026-11-10T16:49:49-07:00",
+ "updated": "2026-11-10T16:51:12-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1578,6 +1578,13 @@
    "team": "",
    "status": "A",
    "note": "Ware will play tonight.",
+   "time": "6:00 PM"
+  },
+  {
+   "player": "Josh Hart",
+   "team": "",
+   "status": "O",
+   "note": "Hart is officially out.",
    "time": "6:00 PM"
   }
  ],
