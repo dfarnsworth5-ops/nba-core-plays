@@ -4,7 +4,7 @@
  "slate": "6 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-10",
- "updated": "2026-11-10T11:22:52-07:00",
+ "updated": "2026-11-10T11:49:58-07:00",
  "positions": [
   "PG",
   "SG",
@@ -109,7 +109,7 @@
    "proj": 34.16,
    "type": "Core",
    "status": "",
-   "blurb": "Sees a boost with Keyonte George out. Has topped 40 fantasy points in 3 of the last 4 games. Elite matchup against the Heat.",
+   "blurb": "Sees a boost with Keyonte George and Lauri Markkanen out. Has topped 40 fantasy points in 3 of the last 4 games. Elite matchup against the Heat.",
    "url": ""
   },
   {
@@ -214,7 +214,7 @@
    "proj": 34.16,
    "type": "Core",
    "status": "",
-   "blurb": "Sees a boost with Keyonte George out. Has topped 40 fantasy points in 3 of the last 4 games. Elite matchup against the Heat.",
+   "blurb": "Sees a boost with Keyonte George and Lauri Markkanen out. Has topped 40 fantasy points in 3 of the last 4 games. Elite matchup against the Heat.",
    "url": ""
   },
   {
@@ -424,7 +424,7 @@
    "proj": 16.19,
    "type": "",
    "status": "",
-   "blurb": "Usage boost with Keyonte George out. Could see a minute boost if Lauri Markkanen is also out.",
+   "blurb": "Should see more minutes with Keyonte George and Lauri Markkanen both out.",
    "url": ""
   },
   {
@@ -551,15 +551,15 @@
    "pos": "PF",
    "dkPos": "PF",
    "fdPos": "PF",
-   "player": "Lauri Markkanen",
-   "team": "UTA",
-   "opp": "MIA",
-   "dk": 7500,
+   "player": "Kyle Kuzma",
+   "team": "MIL",
+   "opp": "NYK",
+   "dk": 4600,
    "fd": 0,
-   "proj": 36.62,
+   "proj": 22.49,
    "type": "",
-   "status": "Q",
-   "blurb": "Great tournament play if active. Keyonte George is out, and the Jazz are playing in a fast-paced game against the Heat.",
+   "status": "",
+   "blurb": "Projected for 26 minutes tonight. Would see a boost if Tyler Herro is out.",
    "url": ""
   },
   {
@@ -816,7 +816,7 @@
    "proj": 33.46,
    "type": "Core",
    "status": "",
-   "blurb": "Sees a boost with Keyonte George out. Has topped 40 fantasy points in 3 of the last 4 games. Elite matchup against the Heat.",
+   "blurb": "Sees a boost with Keyonte George and Lauri Markkanen out. Has topped 40 fantasy points in 3 of the last 4 games. Elite matchup against the Heat.",
    "url": ""
   },
   {
@@ -972,12 +972,12 @@
   {
    "pos": "SF",
    "dkPos": "SF",
-   "fdPos": "PF/SF",
+   "fdPos": "#N/A",
    "player": "Lauri Markkanen",
    "team": "UTA",
    "opp": "MIA",
    "dk": 0,
-   "fd": 6800,
+   "fd": 0,
    "proj": 35.12,
    "type": "",
    "status": "Q",
@@ -1087,21 +1087,6 @@
    "type": "",
    "status": "Q",
    "blurb": "Have to monitor his availability, but he makes for a nice lineup filler if active. The price point has come down a bit.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF/SF",
-   "player": "Lauri Markkanen",
-   "team": "UTA",
-   "opp": "MIA",
-   "dk": 0,
-   "fd": 6800,
-   "proj": 35.12,
-   "type": "",
-   "status": "Q",
-   "blurb": "Great tournament play if active. Keyonte George is out, and the Jazz are playing in a fast-paced game against the Heat.",
    "url": ""
   },
   {
@@ -1562,7 +1547,7 @@
   },
   {
    "player": "Lauri Markkanen",
-   "team": "UTA",
+   "team": "",
    "status": "Q",
    "note": "Has averaged 33 fantasy points with a usage rate of 23% this season. With Keyonte George out, Ace Bailey, Darryn Peterson, and Isaiah Collier should dominate usage. If Markkanen is out, more usage will open up, and more minutes will be available in the frontcourt.",
    "time": "11:30 AM"
@@ -1622,6 +1607,13 @@
    "status": "Q",
    "note": "His absence would open up minutes and usage in Milwaukee's frontcourt.",
    "time": "1:00 PM"
+  },
+  {
+   "player": "Lauri Markkanen",
+   "team": "",
+   "status": "O",
+   "note": "With Markkanen and Keyonte George out, the Jazz are now my favorite team to target on the slate.",
+   "time": "1:45 PM"
   }
  ],
  "teams": [
