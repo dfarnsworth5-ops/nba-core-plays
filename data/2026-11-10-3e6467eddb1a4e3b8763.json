@@ -4,7 +4,7 @@
  "slate": "6 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-10",
- "updated": "2026-11-10T11:49:58-07:00",
+ "updated": "2026-11-10T12:37:49-07:00",
  "positions": [
   "PG",
   "SG",
@@ -296,21 +296,6 @@
    "pos": "SG",
    "dkPos": "SG/SF",
    "fdPos": "SG",
-   "player": "Josh Hart",
-   "team": "NYK",
-   "opp": "MIL",
-   "dk": 5900,
-   "fd": 0,
-   "proj": 30.08,
-   "type": "",
-   "status": "Q",
-   "blurb": "Have to monitor his availability, but he makes for a nice lineup filler if active. The price point has come down a bit.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG/SF",
-   "fdPos": "SG",
    "player": "Klay Thompson",
    "team": "MIA",
    "opp": "UTA",
@@ -365,21 +350,6 @@
    "type": "",
    "status": "",
    "blurb": "Even with Paolo Banchero and Jalen Suggs out, the upside hasn't been there. I would only use him in cash games.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SG/SF",
-   "fdPos": "SF",
-   "player": "Josh Hart",
-   "team": "NYK",
-   "opp": "MIL",
-   "dk": 5900,
-   "fd": 0,
-   "proj": 30.08,
-   "type": "",
-   "status": "Q",
-   "blurb": "Have to monitor his availability, but he makes for a nice lineup filler if active. The price point has come down a bit.",
    "url": ""
   },
   {
@@ -957,21 +927,6 @@
   {
    "pos": "SF",
    "dkPos": "SF",
-   "fdPos": "SF/PF",
-   "player": "Josh Hart",
-   "team": "NYK",
-   "opp": "MIL",
-   "dk": 0,
-   "fd": 5400,
-   "proj": 29.62,
-   "type": "",
-   "status": "Q",
-   "blurb": "Have to monitor his availability, but he makes for a nice lineup filler if active. The price point has come down a bit.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
    "fdPos": "#N/A",
    "player": "Lauri Markkanen",
    "team": "UTA",
@@ -1077,21 +1032,6 @@
   {
    "pos": "PF",
    "dkPos": "PF",
-   "fdPos": "SF/PF",
-   "player": "Josh Hart",
-   "team": "NYK",
-   "opp": "MIL",
-   "dk": 0,
-   "fd": 5400,
-   "proj": 29.62,
-   "type": "",
-   "status": "Q",
-   "blurb": "Have to monitor his availability, but he makes for a nice lineup filler if active. The price point has come down a bit.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
    "fdPos": "PF/SF",
    "player": "OG Anunoby",
    "team": "NYK",
@@ -1147,6 +1087,21 @@
    "type": "",
    "status": "",
    "blurb": "Projected for 26 minutes against the Magic. Will have a bigger role if Domantas Sabonis is out.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF/SF",
+   "player": "Jayson Tatum",
+   "team": "BOS",
+   "opp": "PHI",
+   "dk": 0,
+   "fd": 10100,
+   "proj": 45.15,
+   "type": "",
+   "status": "",
+   "blurb": "Usage rate has been elite with Jaylen Brown gone. Has topped 60 fantasy points in 3 of the last 8 games.",
    "url": ""
   },
   {
@@ -1568,7 +1523,7 @@
   },
   {
    "player": "Josh Hart",
-   "team": "NYK",
+   "team": "",
    "status": "Q",
    "note": "Doesn't have the highest usage rate, but his absence would open up peripheral stat production and more minutes for Landry Shamet, Miles McBride, and Jordan Clarkson.",
    "time": "11:30 AM"
@@ -1614,6 +1569,13 @@
    "status": "O",
    "note": "With Markkanen and Keyonte George out, the Jazz are now my favorite team to target on the slate.",
    "time": "1:45 PM"
+  },
+  {
+   "player": "Josh Hart",
+   "team": "",
+   "status": "D",
+   "note": "Hart is now doubtful. If he's out, Landry Shamet will likely draw the spot start.",
+   "time": "2:40 PM"
   }
  ],
  "teams": [
