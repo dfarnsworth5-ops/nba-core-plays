@@ -4,7 +4,7 @@
  "slate": "6 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-10",
- "updated": "2026-11-10T11:03:08-07:00",
+ "updated": "2026-11-10T11:08:37-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1608,6 +1608,20 @@
    "status": "Q",
    "note": "He's a high usage player off the bench. His absence wouldn't give a major boost to any one player.",
    "time": "11:30 AM"
+  },
+  {
+   "player": "Tristan da Silva",
+   "team": "ORL",
+   "status": "Q",
+   "note": "With Paolo Banchero and Jalen Suggs already out, even more minutes would open up if da Silva can't suit up.",
+   "time": "1:00 PM"
+  },
+  {
+   "player": "Kel'el Ware",
+   "team": "MIL",
+   "status": "Q",
+   "note": "His absence would open up minutes and usage in Milwaukee's frontcourt.",
+   "time": "1:00 PM"
   }
  ],
  "teams": [
