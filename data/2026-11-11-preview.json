@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-11",
- "updated": "2026-11-11T11:48:58-07:00",
+ "updated": "2026-11-11T12:19:37-07:00",
  "positions": [
   "PG",
   "SG",
@@ -543,6 +543,14 @@
    "impact": 9
   },
   {
+   "player": "Myles Turner",
+   "team": "MIL",
+   "status": "O",
+   "note": "Rest",
+   "updated": "",
+   "impact": 8
+  },
+  {
    "player": "Tristan da Silva",
    "team": "ORL",
    "status": "Q",
@@ -585,7 +593,7 @@
   {
    "player": "Quentin Grimes",
    "team": "LAL",
-   "status": "Q",
+   "status": "O",
    "note": "Finger",
    "updated": "",
    "impact": 5
@@ -609,7 +617,7 @@
   {
    "player": "Will Richard",
    "team": "GSW",
-   "status": "Q",
+   "status": "P",
    "note": "Thumb",
    "updated": "",
    "impact": 4
@@ -1032,7 +1040,7 @@
   },
   {
    "player": "Quentin Grimes",
-   "team": "LAL",
+   "team": "",
    "status": "Q",
    "note": "His absence would open up 20+ minutes and usage in the second unit.",
    "time": "11:05 AM"
@@ -1106,6 +1114,20 @@
    "status": "Q",
    "note": "KAT is now questionable. If he's out, the starters would all see an uptick in usage. Andre Drummond would become close to a lock in all formats.",
    "time": "1:50 PM"
+  },
+  {
+   "player": "Myles Turner",
+   "team": "",
+   "status": "O",
+   "note": "Turner has been ruled out. This is a sizable boost for both Kel'el Ware and Kyle Kuzma.",
+   "time": "2:15 PM"
+  },
+  {
+   "player": "Quentin Grimes",
+   "team": "",
+   "status": "O",
+   "note": "Grimes has been ruled out, which opens up some minutes in the second unit.",
+   "time": "2:15 PM"
   }
  ],
  "teams": [
