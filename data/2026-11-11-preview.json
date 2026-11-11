@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-11",
- "updated": "2026-11-11T10:55:03-07:00",
+ "updated": "2026-11-11T10:55:59-07:00",
  "positions": [
   "PG",
   "SG",
@@ -919,6 +919,13 @@
    "status": "O",
    "note": "Hasn't had a major role this season, but his absence opens up 15-20 minutes in the second unit.",
    "time": "12:00 PM"
+  },
+  {
+   "player": "Paul George",
+   "team": "",
+   "status": "O",
+   "note": "George has been ruled out. Jayson Tatum should dominate usage, while Payton Pritchard, Jordan Walsh, and Sam Hauser should also benefit.",
+   "time": "12:55 PM"
   }
  ],
  "teams": [
