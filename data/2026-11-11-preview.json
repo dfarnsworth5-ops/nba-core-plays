@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-11",
- "updated": "2026-11-11T15:23:45-07:00",
+ "updated": "2026-11-11T15:28:18-07:00",
  "positions": [
   "PG",
   "SG",
@@ -320,7 +320,7 @@
    "proj": 36.5,
    "type": "",
    "status": "",
-   "blurb": "Kawhi Leonard and Scottie Barnes are both out. Immanuel Quickley and Collin Murray-Boyles are both questionable.",
+   "blurb": "Kawhi Leonard and Scottie Barnes are both out. Should have a massive usage rate.",
    "url": ""
   },
   {
@@ -350,7 +350,7 @@
    "proj": 36.5,
    "type": "",
    "status": "",
-   "blurb": "Kawhi Leonard and Scottie Barnes are both out. Immanuel Quickley and Collin Murray-Boyles are both questionable.",
+   "blurb": "Kawhi Leonard and Scottie Barnes are both out. Should have a massive usage rate.",
    "url": ""
   },
   {
@@ -371,6 +371,21 @@
   {
    "pos": "PF",
    "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Danny Wolf",
+   "team": "BKN",
+   "opp": "NOP",
+   "dk": 0,
+   "fd": 3800,
+   "proj": 6.55,
+   "type": "",
+   "status": "",
+   "blurb": "Only $3,800 on FanDuel and projected for 28 minutes with Nolan Traore out.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
    "fdPos": "PF/C",
    "player": "Anthony Davis",
    "team": "WAS",
@@ -381,21 +396,6 @@
    "type": "",
    "status": "",
    "blurb": "After a stretch of bad games, he has scored 65 and 50 fantasy points over the last 2 games.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "Pascal Siakam",
-   "team": "IND",
-   "opp": "WAS",
-   "dk": 0,
-   "fd": 7800,
-   "proj": 39.16,
-   "type": "",
-   "status": "",
-   "blurb": "Continues to benefit with Tyrese Haliburton out. Scored 59 fantasy points in his last game.",
    "url": ""
   },
   {
@@ -4639,7 +4639,7 @@
    "C": 6
   },
   "lockedFd": {
-   "PG": 5,
+   "PG": 6,
    "SG": 6,
    "SF": 6,
    "PF": 6,
