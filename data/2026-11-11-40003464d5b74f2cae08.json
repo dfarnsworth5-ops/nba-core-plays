@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-11",
- "updated": "2026-11-11T15:23:45-07:00",
+ "updated": "2026-11-11T15:28:18-07:00",
  "positions": [
   "PG",
   "SG",
@@ -770,7 +770,7 @@
    "proj": 33.24,
    "type": "",
    "status": "",
-   "blurb": "Kawhi Leonard and Scottie Barnes are both out. Quickley should see an uptick in usage if active.",
+   "blurb": "Kawhi Leonard and Scottie Barnes are both out. Quickley should see an uptick in usage.",
    "url": ""
   },
   {
@@ -815,7 +815,7 @@
    "proj": 20.4,
    "type": "",
    "status": "",
-   "blurb": "Projected for 26 minutes with Mikel Brown out. Even bigger boost if Nolan Traore is also out.",
+   "blurb": "Projected for 26 minutes with Mikel Brown out. Usage boost with Nolan Traore out.",
    "url": ""
   },
   {
@@ -834,6 +834,21 @@
    "url": ""
   },
   {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG/SG",
+   "player": "Derrick White",
+   "team": "BOS",
+   "opp": "TOR",
+   "dk": 0,
+   "fd": 6200,
+   "proj": 31.01,
+   "type": "",
+   "status": "",
+   "blurb": "Affordable on FanDuel and sees a nice boost with Paul George out.",
+   "url": ""
+  },
+  {
    "pos": "SG",
    "dkPos": "SG",
    "fdPos": "SG/SF",
@@ -845,7 +860,7 @@
    "proj": 36.5,
    "type": "",
    "status": "",
-   "blurb": "Kawhi Leonard and Scottie Barnes are both out. Immanuel Quickley and Collin Murray-Boyles are both questionable.",
+   "blurb": "Kawhi Leonard and Scottie Barnes are both out. Should have a massive usage rate.",
    "url": ""
   },
   {
@@ -875,7 +890,22 @@
    "proj": 20.4,
    "type": "",
    "status": "",
-   "blurb": "Projected for 26 minutes with Mikel Brown out. Even bigger boost if Nolan Traore is also out.",
+   "blurb": "Projected for 26 minutes with Mikel Brown out. Usage boost with Nolan Traore out.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Collin Sexton",
+   "team": "LAL",
+   "opp": "MIL",
+   "dk": 0,
+   "fd": 4000,
+   "proj": 14.11,
+   "type": "",
+   "status": "",
+   "blurb": "Only $4,000 on FanDuel and is projected for 24 minutes.",
    "url": ""
   },
   {
@@ -939,21 +969,6 @@
    "url": ""
   },
   {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SF/SG",
-   "player": "Mikal Bridges",
-   "team": "NYK",
-   "opp": "CLE",
-   "dk": 0,
-   "fd": 4600,
-   "proj": 23.64,
-   "type": "",
-   "status": "",
-   "blurb": "Never a fun click, but he's cheap and should see minutes in the 30s tonight.",
-   "url": ""
-  },
-  {
    "pos": "SF",
    "dkPos": "SF",
    "fdPos": "SG/SF",
@@ -965,7 +980,7 @@
    "proj": 36.5,
    "type": "",
    "status": "",
-   "blurb": "Kawhi Leonard and Scottie Barnes are both out. Immanuel Quickley and Collin Murray-Boyles are both questionable.",
+   "blurb": "Kawhi Leonard and Scottie Barnes are both out. Should have a massive usage rate.",
    "url": ""
   },
   {
@@ -1076,6 +1091,21 @@
   {
    "pos": "PF",
    "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Danny Wolf",
+   "team": "BKN",
+   "opp": "NOP",
+   "dk": 0,
+   "fd": 3800,
+   "proj": 6.55,
+   "type": "",
+   "status": "",
+   "blurb": "Only $3,800 on FanDuel and projected for 28 minutes with Nolan Traore out.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
    "fdPos": "PF/C",
    "player": "Anthony Davis",
    "team": "WAS",
@@ -1146,21 +1176,6 @@
    "type": "",
    "status": "",
    "blurb": "Has been consistent this season and is a solid lineup filler.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "SF/PF",
-   "player": "Josh Hart",
-   "team": "NYK",
-   "opp": "CLE",
-   "dk": 0,
-   "fd": 5400,
-   "proj": 27.88,
-   "type": "",
-   "status": "",
-   "blurb": "Taken off the injury report after missing last night's game. Cheap price point on FanDuel.",
    "url": ""
   },
   {
