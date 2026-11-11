@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-11",
- "updated": "2026-11-11T08:59:29-07:00",
+ "updated": "2026-11-11T09:35:26-07:00",
  "positions": [
   "PG",
   "SG",
@@ -625,7 +625,106 @@
    "impact": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "player": "Tyler Herro",
+   "team": "MIL",
+   "status": "Q",
+   "note": "Missed last night's game. Ryan Rollins drew the spot start.",
+   "time": "11:05 AM"
+  },
+  {
+   "player": "Scottie Barnes",
+   "team": "",
+   "status": "O",
+   "note": "With Barnes and Kawhi Leonard out, Immanuel Quickley and RJ Barrett. There are more minutes for Jamal Shead, Ja'Kobe Walter, Collin Murray-Boyles, and Jakob Poeltl.",
+   "time": "11:05 AM"
+  },
+  {
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "status": "Q",
+   "note": "Scottie Barnes and Kawhi Leonard are already out, even more minutes and usage would open up if Quickley is out. Jamal Shead would draw the spot start.",
+   "time": "11:05 AM"
+  },
+  {
+   "player": "Josh Hart",
+   "team": "NYK",
+   "status": "Q",
+   "note": "Missed last night's game. Landry Shamet drew the spot start and played 28 minutes.",
+   "time": "11:05 AM"
+  },
+  {
+   "player": "Collin Murray-Boyles",
+   "team": "TOR",
+   "status": "Q",
+   "note": "The Raptors are already shorthanded, so CMB being out would open up even more minutes and usage.",
+   "time": "11:05 AM"
+  },
+  {
+   "player": "Norman Powell",
+   "team": "CHI",
+   "status": "Q",
+   "note": "He plays around 30 minutes a night with high usage, so the Bulls become more interesting if he's out again.",
+   "time": "11:05 AM"
+  },
+  {
+   "player": "Devin Vassell",
+   "team": "SAS",
+   "status": "Q",
+   "note": "If he's out, we'd likely see a spot start from Julian Champagnie.",
+   "time": "11:05 AM"
+  },
+  {
+   "player": "Nolan Traore",
+   "team": "BKN",
+   "status": "Q",
+   "note": "Plays around 25 minutes with high usage. Egor Demin would benefit in his absence.",
+   "time": "11:05 AM"
+  },
+  {
+   "player": "Jaylon Tyson",
+   "team": "CLE",
+   "status": "Q",
+   "note": "If he's out, Meleek Thomas and Mario Hezonja would see more usage with the second unit.",
+   "time": "11:05 AM"
+  },
+  {
+   "player": "T.J. McConnell",
+   "team": "IND",
+   "status": "Q",
+   "note": "Has only played 17 minutes total this season, so we know what to expect if he's out.",
+   "time": "11:05 AM"
+  },
+  {
+   "player": "Quentin Grimes",
+   "team": "LAL",
+   "status": "Q",
+   "note": "His absence would open up 20+ minutes and usage in the second unit.",
+   "time": "11:05 AM"
+  },
+  {
+   "player": "Mitchell Robinson",
+   "team": "",
+   "status": "D",
+   "note": "With Robinson doubtful, Neemias Queta should start and have a path to 26-30 minutes.",
+   "time": "11:05 AM"
+  },
+  {
+   "player": "Sam Merrill",
+   "team": "",
+   "status": "O",
+   "note": "With Merrill out, Meleek Thomas and Mario Hezonja should see more minutes off the bench.",
+   "time": "11:05 AM"
+  },
+  {
+   "player": "Isaiah Stewart",
+   "team": "MEM",
+   "status": "Q",
+   "note": "His absence could make Zach Edey's minute floor a tad safer.",
+   "time": "11:05 AM"
+  }
+ ],
  "teams": [
   [
    "Aaron Gordon",
