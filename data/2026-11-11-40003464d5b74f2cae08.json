@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-11",
- "updated": "2026-11-11T15:28:18-07:00",
+ "updated": "2026-11-11T15:42:24-07:00",
  "positions": [
   "PG",
   "SG",
@@ -2033,6 +2033,13 @@
    "status": "A",
    "note": "CMB will play tonight.",
    "time": "5:20 PM"
+  },
+  {
+   "player": "Karl-Anthony Towns",
+   "team": "",
+   "status": "A",
+   "note": "KAT will play tonight.",
+   "time": "5:45 PM"
   }
  ],
  "teams": [
