@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-11",
- "updated": "2026-11-11T10:33:26-07:00",
+ "updated": "2026-11-11T10:55:03-07:00",
  "positions": [
   "PG",
   "SG",
@@ -506,7 +506,7 @@
   {
    "player": "Trayce Jackson-Davis",
    "team": "TOR",
-   "status": "Q",
+   "status": "O",
    "note": "Illness",
    "updated": "",
    "impact": 3
