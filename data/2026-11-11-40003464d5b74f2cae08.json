@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-11",
- "updated": "2026-11-11T10:55:59-07:00",
+ "updated": "2026-11-11T11:00:10-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1375,6 +1375,13 @@
    "team": "",
    "status": "O",
    "note": "George has been ruled out. Jayson Tatum should dominate usage, while Payton Pritchard, Jordan Walsh, and Sam Hauser should also benefit.",
+   "time": "12:55 PM"
+  },
+  {
+   "player": "Mitchell Robinson",
+   "team": "",
+   "status": "P",
+   "note": "Robinson is now expected to play. I'm not as interested in Neemias Queta.",
    "time": "12:55 PM"
   }
  ],
