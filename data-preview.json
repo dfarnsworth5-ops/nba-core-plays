@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-11",
- "updated": "2026-11-11T09:35:26-07:00",
+ "updated": "2026-11-11T10:33:26-07:00",
  "positions": [
   "PG",
   "SG",
@@ -125,7 +125,158 @@
    "fd": "L"
   }
  ],
- "plays": [],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Jeremiah Fears",
+   "team": "NOP",
+   "opp": "BKN",
+   "dk": 6600,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Big boost with Trey Murphy likely out. Has topped 40 fantasy points in 2 of the last 3 games.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Andrew Nembhard",
+   "team": "IND",
+   "opp": "WAS",
+   "dk": 6900,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Has averaged 35 fantasy points with Tyrese Haliburton out of the lineup this season. Favorable matchup at home against the Wizards.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Jeremiah Fears",
+   "team": "NOP",
+   "opp": "BKN",
+   "dk": 6600,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Big boost with Trey Murphy likely out. Has topped 40 fantasy points in 2 of the last 3 games.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
+   "player": "RJ Barrett",
+   "team": "TOR",
+   "opp": "BOS",
+   "dk": 8000,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Kawhi Leonard and Scottie Barnes are both out. Immanuel Quickley and Collin Murray-Boyles are both questionable.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Michael Porter",
+   "team": "BKN",
+   "opp": "NOP",
+   "dk": 7500,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Nice matchup against the Pelicans. Should have an elite usage rate, especially with Mikel Brown out.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "AJ Dybantsa",
+   "team": "WAS",
+   "opp": "IND",
+   "dk": 6600,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Has topped 30 fantasy points in 4 of the last 5 games, despite not shooting the ball well. Excellent matchup against the Pacers.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Julius Randle",
+   "team": "BKN",
+   "opp": "NOP",
+   "dk": 7700,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Has scored at least 38 fantasy points in 3 of the last 5 games. Nice matchup against the Pelicans. Could see a usage boost with Mikel Brown out.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Anthony Davis",
+   "team": "WAS",
+   "opp": "IND",
+   "dk": 8900,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "After a stretch of bad games, he has scored 65 and 50 fantasy points over the last 2 games.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Jakob Poeltl",
+   "team": "TOR",
+   "opp": "BOS",
+   "dk": 5200,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Has been starting with Kawhi Leonard and Scottie Barnes out. Has scored 38 and 44 fantasy points in the last 2 games.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Nikola Jokic",
+   "team": "DEN",
+   "opp": "MEM",
+   "dk": 11500,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "High floor/ceiling combo and draws an elite matchup against the Grizzlies. Only issue is the price point.",
+   "url": ""
+  }
+ ],
  "playsFd": [],
  "injuries": [
   {
@@ -165,6 +316,14 @@
    "team": "TOR",
    "status": "Q",
    "note": "Hamstring",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Trey Murphy",
+   "team": "NOP",
+   "status": "D",
+   "note": "Knee",
    "updated": "",
    "impact": 10
   },
@@ -265,6 +424,14 @@
    "impact": 5
   },
   {
+   "player": "Mikel Brown",
+   "team": "BKN",
+   "status": "O",
+   "note": "Illness",
+   "updated": "",
+   "impact": 5
+  },
+  {
    "player": "Mitchell Robinson",
    "team": "BOS",
    "status": "D",
@@ -301,6 +468,14 @@
    "team": "MEM",
    "status": "Q",
    "note": "Knee",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Bennedict Mathurin",
+   "team": "NOP",
+   "status": "O",
+   "note": "Thumb",
    "updated": "",
    "impact": 4
   },
@@ -723,6 +898,27 @@
    "status": "Q",
    "note": "His absence could make Zach Edey's minute floor a tad safer.",
    "time": "11:05 AM"
+  },
+  {
+   "player": "Trey Murphy",
+   "team": "",
+   "status": "D",
+   "note": "Murphy has been downgraded to doubtful. Jeremiah Fears should see an uptick in minutes and usage.",
+   "time": "12:00 PM"
+  },
+  {
+   "player": "Mikel Brown",
+   "team": "",
+   "status": "O",
+   "note": "Brown's absence opens up a lot of usage for Brooklyn. They become even more interesting if Nolan Traore is also out.",
+   "time": "12:00 PM"
+  },
+  {
+   "player": "Bennedict Mathurin",
+   "team": "",
+   "status": "O",
+   "note": "Hasn't had a major role this season, but his absence opens up 15-20 minutes in the second unit.",
+   "time": "12:00 PM"
   }
  ],
  "teams": [
@@ -4218,11 +4414,11 @@
  ],
  "preview": {
   "locked": {
-   "PG": 0,
-   "SG": 0,
-   "SF": 0,
-   "PF": 0,
-   "C": 0
+   "PG": 6,
+   "SG": 6,
+   "SF": 6,
+   "PF": 6,
+   "C": 6
   },
   "lockedFd": {
    "PG": 0,
