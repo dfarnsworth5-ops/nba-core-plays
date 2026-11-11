@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-11",
- "updated": "2026-11-11T12:19:37-07:00",
+ "updated": "2026-11-11T12:39:24-07:00",
  "positions": [
   "PG",
   "SG",
@@ -608,6 +608,21 @@
   },
   {
    "pos": "C",
+   "dkPos": "PF/C",
+   "fdPos": "C",
+   "player": "Kel'el Ware",
+   "team": "MIL",
+   "opp": "LAL",
+   "dk": 4800,
+   "fd": 0,
+   "proj": 15.83,
+   "type": "Core",
+   "status": "",
+   "blurb": "Solid per-minute producer. Likely to start tonight with Myles Turner out.",
+   "url": ""
+  },
+  {
+   "pos": "C",
    "dkPos": "C",
    "fdPos": "C",
    "player": "Jakob Poeltl",
@@ -709,21 +724,6 @@
    "type": "",
    "status": "",
    "blurb": "Always viable in tournaments. Has 40+ fantasy point upside at low projected ownership.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Zach Edey",
-   "team": "MEM",
-   "opp": "DEN",
-   "dk": 5000,
-   "fd": 0,
-   "proj": 23.14,
-   "type": "",
-   "status": "",
-   "blurb": "Good per-minute producer. Could see more minutes in this matchup if Isaiah Stewart is out.",
    "url": ""
   }
  ],
@@ -971,6 +971,21 @@
   {
    "pos": "SF",
    "dkPos": "SF",
+   "fdPos": "SG/SF",
+   "player": "RJ Barrett",
+   "team": "TOR",
+   "opp": "BOS",
+   "dk": 0,
+   "fd": 7200,
+   "proj": 36.5,
+   "type": "",
+   "status": "",
+   "blurb": "Kawhi Leonard and Scottie Barnes are both out. Immanuel Quickley and Collin Murray-Boyles are both questionable.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
    "fdPos": "SF",
    "player": "Michael Porter",
    "team": "BKN",
@@ -996,21 +1011,6 @@
    "type": "",
    "status": "",
    "blurb": "Has topped 30 fantasy points in 4 of the last 5 games, despite not shooting the ball well. Excellent matchup against the Pacers.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "SG/SF",
-   "player": "RJ Barrett",
-   "team": "TOR",
-   "opp": "BOS",
-   "dk": 0,
-   "fd": 7200,
-   "proj": 36.5,
-   "type": "",
-   "status": "",
-   "blurb": "Kawhi Leonard and Scottie Barnes are both out. Immanuel Quickley and Collin Murray-Boyles are both questionable.",
    "url": ""
   },
   {
@@ -1211,16 +1211,16 @@
   {
    "pos": "C",
    "dkPos": "C",
-   "fdPos": "PF/C",
-   "player": "Anthony Davis",
-   "team": "WAS",
-   "opp": "IND",
+   "fdPos": "C",
+   "player": "Kel'el Ware",
+   "team": "MIL",
+   "opp": "LAL",
    "dk": 0,
-   "fd": 9300,
-   "proj": 46.03,
-   "type": "",
+   "fd": 4100,
+   "proj": 15.9,
+   "type": "Core",
    "status": "",
-   "blurb": "After a stretch of bad games, he has scored 65 and 50 fantasy points over the last 2 games.",
+   "blurb": "Solid per-minute producer. Likely to start tonight with Myles Turner out.",
    "url": ""
   },
   {
@@ -1236,6 +1236,21 @@
    "type": "Core",
    "status": "",
    "blurb": "Has been starting with Kawhi Leonard and Scottie Barnes out. Has scored 38 and 44 fantasy points in the last 2 games.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "PF/C",
+   "player": "Anthony Davis",
+   "team": "WAS",
+   "opp": "IND",
+   "dk": 0,
+   "fd": 9300,
+   "proj": 46.03,
+   "type": "",
+   "status": "",
+   "blurb": "After a stretch of bad games, he has scored 65 and 50 fantasy points over the last 2 games.",
    "url": ""
   },
   {
@@ -1311,21 +1326,6 @@
    "type": "",
    "status": "",
    "blurb": "Always viable in tournaments. Has 40+ fantasy point upside at low projected ownership.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Zach Edey",
-   "team": "MEM",
-   "opp": "DEN",
-   "dk": 0,
-   "fd": 5000,
-   "proj": 23.68,
-   "type": "",
-   "status": "",
-   "blurb": "Good per-minute producer. Could see more minutes in this matchup if Isaiah Stewart is out.",
    "url": ""
   }
  ],
