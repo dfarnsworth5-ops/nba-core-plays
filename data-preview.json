@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-11",
- "updated": "2026-11-11T12:39:24-07:00",
+ "updated": "2026-11-11T13:54:47-07:00",
  "positions": [
   "PG",
   "SG",
@@ -449,7 +449,7 @@
   {
    "player": "Keyonte George",
    "team": "UTA",
-   "status": "D",
+   "status": "Q",
    "note": "Ankle",
    "updated": "",
    "impact": 10
@@ -495,12 +495,12 @@
    "impact": 10
   },
   {
-   "player": "Anthony Black",
-   "team": "ORL",
-   "status": "Q",
+   "player": "Myles Turner",
+   "team": "MIL",
+   "status": "O",
    "note": "Rest",
    "updated": "",
-   "impact": 9
+   "impact": 10
   },
   {
    "player": "Collin Murray-Boyles",
@@ -515,14 +515,6 @@
    "team": "CHI",
    "status": "Q",
    "note": "Back",
-   "updated": "",
-   "impact": 9
-  },
-  {
-   "player": "Devin Vassell",
-   "team": "SAS",
-   "status": "Q",
-   "note": "Groin",
    "updated": "",
    "impact": 9
   },
@@ -543,10 +535,10 @@
    "impact": 9
   },
   {
-   "player": "Myles Turner",
-   "team": "MIL",
-   "status": "O",
-   "note": "Rest",
+   "player": "Devin Vassell",
+   "team": "SAS",
+   "status": "Q",
+   "note": "Groin",
    "updated": "",
    "impact": 8
   },
@@ -563,6 +555,14 @@
    "team": "OKC",
    "status": "D",
    "note": "Back",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Jamal Cain",
+   "team": "ORL",
+   "status": "Q",
+   "note": "Shoulder",
    "updated": "",
    "impact": 6
   },
@@ -713,7 +713,7 @@
   {
    "player": "Tobe Awaka",
    "team": "CHI",
-   "status": "Q",
+   "status": "O",
    "note": "Back",
    "updated": "",
    "impact": 2
