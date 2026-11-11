@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-11",
- "updated": "2026-11-11T11:00:10-07:00",
+ "updated": "2026-11-11T11:17:05-07:00",
  "positions": [
   "PG",
   "SG",
@@ -527,7 +527,7 @@
    "fd": 0,
    "proj": 0,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Has topped 50 fantasy points in back-to-back games. Tougher matchup tonight against Cleveland's frontcourt.",
    "url": ""
   },
@@ -662,7 +662,7 @@
    "fd": 0,
    "proj": 0,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Higher minute floor with Mitchell Robinson likely out. Decent matchup against the Raptors.",
    "url": ""
   },
@@ -723,7 +723,7 @@
    "proj": 0,
    "type": "",
    "status": "",
-   "blurb": "Good per-minute producer. Could see more minutes in this matchup, and if Isaiah Stewart is out.",
+   "blurb": "Good per-minute producer. Could see more minutes in this matchup if Isaiah Stewart is out.",
    "url": ""
   }
  ],
@@ -778,12 +778,20 @@
    "impact": 10
   },
   {
-   "player": "Josh Hart",
+   "player": "Paul George",
+   "team": "BOS",
+   "status": "O",
+   "note": "Illness",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Karl-Anthony Towns",
    "team": "NYK",
    "status": "Q",
-   "note": "Ankle",
+   "note": "Calf",
    "updated": "",
-   "impact": 9
+   "impact": 10
   },
   {
    "player": "Anthony Black",
@@ -880,14 +888,6 @@
    "note": "Illness",
    "updated": "",
    "impact": 5
-  },
-  {
-   "player": "Mitchell Robinson",
-   "team": "BOS",
-   "status": "D",
-   "note": "Rest",
-   "updated": "",
-   "impact": 4
   },
   {
    "player": "Robert Williams III",
@@ -1330,7 +1330,7 @@
   },
   {
    "player": "Mitchell Robinson",
-   "team": "",
+   "team": "BOS",
    "status": "D",
    "note": "With Robinson doubtful, Neemias Queta should start and have a path to 26-30 minutes.",
    "time": "11:05 AM"
