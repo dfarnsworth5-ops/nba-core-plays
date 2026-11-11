@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-11",
- "updated": "2026-11-11T13:54:47-07:00",
+ "updated": "2026-11-11T15:23:45-07:00",
  "positions": [
   "PG",
   "SG",
@@ -183,7 +183,7 @@
    "proj": 38.15,
    "type": "",
    "status": "",
-   "blurb": "Kawhi Leonard and Scottie Barnes are both out. Immanuel Quickley and Collin Murray-Boyles are both questionable.",
+   "blurb": "Kawhi Leonard and Scottie Barnes are both out. Should have a massive usage rate.",
    "url": ""
   },
   {
@@ -463,14 +463,6 @@
    "impact": 10
   },
   {
-   "player": "Immanuel Quickley",
-   "team": "TOR",
-   "status": "Q",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 10
-  },
-  {
    "player": "Trey Murphy",
    "team": "NOP",
    "status": "D",
@@ -503,14 +495,6 @@
    "impact": 10
   },
   {
-   "player": "Collin Murray-Boyles",
-   "team": "TOR",
-   "status": "Q",
-   "note": "Illness",
-   "updated": "",
-   "impact": 9
-  },
-  {
    "player": "Norman Powell",
    "team": "CHI",
    "status": "Q",
@@ -521,7 +505,7 @@
   {
    "player": "Nolan Traore",
    "team": "BKN",
-   "status": "Q",
+   "status": "O",
    "note": "Calf",
    "updated": "",
    "impact": 9
@@ -531,6 +515,14 @@
    "team": "CHI",
    "status": "Q",
    "note": "Hip",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Ajay Mitchell",
+   "team": "OKC",
+   "status": "O",
+   "note": "Ankle",
    "updated": "",
    "impact": 9
   },
@@ -553,7 +545,7 @@
   {
    "player": "Jaylin Williams",
    "team": "OKC",
-   "status": "D",
+   "status": "O",
    "note": "Back",
    "updated": "",
    "impact": 6
@@ -605,14 +597,6 @@
    "note": "Illness",
    "updated": "",
    "impact": 5
-  },
-  {
-   "player": "Robert Williams III",
-   "team": "POR",
-   "status": "D",
-   "note": "Rest",
-   "updated": "",
-   "impact": 4
   },
   {
    "player": "Will Richard",
@@ -721,7 +705,7 @@
   {
    "player": "Chris Youngblood",
    "team": "POR",
-   "status": "Q",
+   "status": "O",
    "note": "Foot",
    "updated": "",
    "impact": 2
@@ -1019,7 +1003,7 @@
   },
   {
    "player": "Nolan Traore",
-   "team": "BKN",
+   "team": "",
    "status": "Q",
    "note": "Plays around 25 minutes with high usage. Egor Demin would benefit in his absence.",
    "time": "11:05 AM"
@@ -1128,6 +1112,27 @@
    "status": "O",
    "note": "Grimes has been ruled out, which opens up some minutes in the second unit.",
    "time": "2:15 PM"
+  },
+  {
+   "player": "Nolan Traore",
+   "team": "",
+   "status": "O",
+   "note": "Traore has been ruled out. With Mikel Brown also out, Brooklyn is an intriguing team to target.",
+   "time": "5:20 PM"
+  },
+  {
+   "player": "Immanuel Quickley",
+   "team": "",
+   "status": "A",
+   "note": "Quickley will play tonight.",
+   "time": "5:20 PM"
+  },
+  {
+   "player": "Collin Murray-Boyles",
+   "team": "",
+   "status": "A",
+   "note": "CMB will play tonight.",
+   "time": "5:20 PM"
   }
  ],
  "teams": [
@@ -4634,7 +4639,7 @@
    "C": 6
   },
   "lockedFd": {
-   "PG": 6,
+   "PG": 5,
    "SG": 6,
    "SF": 6,
    "PF": 6,
