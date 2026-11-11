@@ -4,7 +4,7 @@
  "slate": "6 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-10",
- "updated": "2026-11-10T17:09:28-07:00",
+ "updated": "2026-11-10T17:13:39-07:00",
  "positions": [
   "PG",
   "SG",
@@ -702,6 +702,21 @@
   {
    "pos": "PG",
    "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Ryan Rollins",
+   "team": "MIL",
+   "opp": "NYK",
+   "dk": 0,
+   "fd": 5000,
+   "proj": 21.59,
+   "type": "",
+   "status": "",
+   "blurb": "Sizable boost with Herro out.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
    "fdPos": "PG/SG",
    "player": "Anthony Black",
    "team": "ORL",
@@ -762,6 +777,21 @@
   {
    "pos": "PG",
    "dkPos": "PG",
+   "fdPos": "SG/PG",
+   "player": "Brayden Burries",
+   "team": "MIL",
+   "opp": "NYK",
+   "dk": 0,
+   "fd": 5200,
+   "proj": 24.08,
+   "type": "",
+   "status": "",
+   "blurb": "Sizable boost with Herro out.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
    "fdPos": "PG",
    "player": "Devin Booker",
    "team": "PHO",
@@ -772,36 +802,6 @@
    "type": "",
    "status": "",
    "blurb": "Always seems to project well, but he has been held under 40 fantasy points in 5 of the last 7 games.",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG/SG",
-   "player": "Kris Dunn",
-   "team": "LAC",
-   "opp": "PHO",
-   "dk": 0,
-   "fd": 5000,
-   "proj": 24.8,
-   "type": "",
-   "status": "",
-   "blurb": "Affordable on FanDuel and has topped 20 fantasy points in 5 straight games.",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Jase Richardson",
-   "team": "ORL",
-   "opp": "SAC",
-   "dk": 0,
-   "fd": 4000,
-   "proj": 20.36,
-   "type": "",
-   "status": "",
-   "blurb": "Cheap and has played at least 26 minutes in 5 straight games. Nice matchup against the Kings.",
    "url": ""
   },
   {
@@ -882,6 +882,21 @@
   {
    "pos": "SG",
    "dkPos": "SG",
+   "fdPos": "SG/PG",
+   "player": "Brayden Burries",
+   "team": "MIL",
+   "opp": "NYK",
+   "dk": 0,
+   "fd": 5200,
+   "proj": 24.08,
+   "type": "",
+   "status": "",
+   "blurb": "Sizable boost with Herro out.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
    "fdPos": "PG/SG",
    "player": "Kris Dunn",
    "team": "LAC",
@@ -907,21 +922,6 @@
    "type": "",
    "status": "",
    "blurb": "Has really struggled this season, but his price is all the way down to $5,100 on FanDuel.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG/SF",
-   "player": "Pelle Larsson",
-   "team": "MIA",
-   "opp": "UTA",
-   "dk": 0,
-   "fd": 4400,
-   "proj": 21.31,
-   "type": "",
-   "status": "",
-   "blurb": "Interesting pivot in tournaments off of the more popular Klay Thompson.",
    "url": ""
   },
   {
@@ -1011,7 +1011,7 @@
    "proj": 23.36,
    "type": "",
    "status": "",
-   "blurb": "Has scored at least 23 fantasy points in 5 of the last 6 games. Would see a boost if Tyler Herro is out.",
+   "blurb": "Has scored at least 23 fantasy points in 5 of the last 6 games. Boost with Herro out.",
    "url": ""
   },
   {
@@ -1102,6 +1102,21 @@
    "type": "",
    "status": "",
    "blurb": "Usage rate has been elite with Jaylen Brown gone. Has topped 60 fantasy points in 3 of the last 8 games.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "SF/PF",
+   "player": "Kyle Kuzma",
+   "team": "MIL",
+   "opp": "NYK",
+   "dk": 0,
+   "fd": 4700,
+   "proj": 21.81,
+   "type": "",
+   "status": "",
+   "blurb": "Sizable boost with Herro out.",
    "url": ""
   },
   {
@@ -1198,15 +1213,15 @@
    "pos": "C",
    "dkPos": "C",
    "fdPos": "C",
-   "player": "Oso Ighodaro",
-   "team": "PHO",
-   "opp": "LAC",
+   "player": "Myles Turner",
+   "team": "MIL",
+   "opp": "NYK",
    "dk": 0,
-   "fd": 4000,
-   "proj": 21.96,
+   "fd": 4600,
+   "proj": 23.11,
    "type": "",
    "status": "",
-   "blurb": "Has a low floor, but we've seen him put up 30+ fantasy points at low ownership.",
+   "blurb": "Cheap on FanDuel, could see a small boost with Herro out.",
    "url": ""
   }
  ],
