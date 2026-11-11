@@ -4,7 +4,7 @@
  "slate": "10 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-11",
- "updated": "2026-11-11T08:35:55-07:00",
+ "updated": "2026-11-11T08:59:29-07:00",
  "positions": [
   "PG",
   "SG",
@@ -21,7 +21,7 @@
    "min": 1140,
    "fav": "NYK",
    "spread": -4.5,
-   "total": 221.5,
+   "total": 222.5,
    "dk": "M",
    "fd": "M"
   },
@@ -43,7 +43,7 @@
    "min": 1140,
    "fav": "IND",
    "spread": -3.5,
-   "total": 225.5,
+   "total": 227.5,
    "dk": "M",
    "fd": "M"
   },
@@ -53,7 +53,7 @@
    "time": "8:00 PM",
    "min": 1200,
    "fav": "NOP",
-   "spread": -5.5,
+   "spread": -4.5,
    "total": 228.5,
    "dk": "M",
    "fd": "M"
@@ -65,7 +65,7 @@
    "min": 1200,
    "fav": "DEN",
    "spread": -4.5,
-   "total": 227.5,
+   "total": 230.5,
    "dk": "M",
    "fd": "M"
   },
@@ -86,8 +86,8 @@
    "time": "8:00 PM",
    "min": 1200,
    "fav": "LAL",
-   "spread": -11.5,
-   "total": 232.5,
+   "spread": -13.5,
+   "total": 230.5,
    "dk": "M",
    "fd": "M"
   },
@@ -97,8 +97,8 @@
    "time": "9:00 PM",
    "min": 1260,
    "fav": "ORL",
-   "spread": -4.5,
-   "total": 217.5,
+   "spread": -3.5,
+   "total": 215.5,
    "dk": "",
    "fd": "L"
   },
@@ -109,7 +109,7 @@
    "min": 1290,
    "fav": "HOU",
    "spread": -6.5,
-   "total": 223.5,
+   "total": 220.5,
    "dk": "L",
    "fd": "L"
   },
@@ -118,9 +118,9 @@
    "home": "Portland Trail Blazers",
    "time": "10:00 PM",
    "min": 1320,
-   "fav": "POR",
-   "spread": 0,
-   "total": 0,
+   "fav": "OKC",
+   "spread": -1.5,
+   "total": 225.5,
    "dk": "L",
    "fd": "L"
   }
