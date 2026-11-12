@@ -4,7 +4,7 @@
  "slate": "4 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-12",
- "updated": "2026-11-12T11:30:50-07:00",
+ "updated": "2026-11-12T12:01:21-07:00",
  "positions": [
   "PG",
   "SG",
@@ -102,7 +102,7 @@
    "proj": 33.16,
    "type": "",
    "status": "",
-   "blurb": "6% usage rate over the last 3 games with Kawhi Leonard and Scottie Barnes out. Good buy low opportunity.",
+   "blurb": "6% usage rate over the last 3 games with Kawhi Leonard and Scottie Barnes out. Good buy-low opportunity.",
    "url": ""
   },
   {
@@ -327,7 +327,7 @@
    "proj": 34.05,
    "type": "",
    "status": "",
-   "blurb": "He can fill pu the stat sheet and has seen a usage boost with Anthony Edwards out. Good price point against the Mavericks.",
+   "blurb": "He can fill up the stat sheet and has seen a usage boost with Anthony Edwards out. Good price point against the Mavericks.",
    "url": ""
   },
   {
@@ -447,7 +447,7 @@
    "proj": 34.05,
    "type": "",
    "status": "",
-   "blurb": "He can fill pu the stat sheet and has seen a usage boost with Anthony Edwards out. Good price point against the Mavericks.",
+   "blurb": "He can fill up the stat sheet and has seen a usage boost with Anthony Edwards out. Good price point against the Mavericks.",
    "url": ""
   },
   {
@@ -674,7 +674,7 @@
    "proj": 31.84,
    "type": "",
    "status": "",
-   "blurb": "6% usage rate over the last 3 games with Kawhi Leonard and Scottie Barnes out. Good buy low opportunity.",
+   "blurb": "6% usage rate over the last 3 games with Kawhi Leonard and Scottie Barnes out. Good buy-low opportunity.",
    "url": ""
   },
   {
@@ -1019,7 +1019,7 @@
    "proj": 33.98,
    "type": "",
    "status": "",
-   "blurb": "He can fill pu the stat sheet and has seen a usage boost with Anthony Edwards out. Good price point against the Mavericks.",
+   "blurb": "He can fill up the stat sheet and has seen a usage boost with Anthony Edwards out. Good price point against the Mavericks.",
    "url": ""
   },
   {
@@ -1252,7 +1252,7 @@
   {
    "player": "Scottie Barnes",
    "team": "TOR",
-   "status": "D",
+   "status": "O",
    "note": "Groin",
    "updated": "",
    "impact": 10
@@ -1268,7 +1268,7 @@
   {
    "player": "LeBron James",
    "team": "PHI",
-   "status": "Q",
+   "status": "O",
    "note": "Rest",
    "updated": "",
    "impact": 10
@@ -1300,7 +1300,7 @@
   {
    "player": "Trayce Jackson-Davis",
    "team": "TOR",
-   "status": "Q",
+   "status": "O",
    "note": "Illness",
    "updated": "",
    "impact": 3
@@ -1459,7 +1459,7 @@
   },
   {
    "player": "LeBron James",
-   "team": "PHI",
+   "team": "",
    "status": "Q",
    "note": "If James is out, more minutes would open for Dean Wade, Kentavious Caldwell-Pope, and Anfernee Simons. Jaylen Brown, Tyrese Maxey, and Joel Embiid would see usage boosts.",
    "time": "12:00 PM"
@@ -1487,14 +1487,14 @@
   },
   {
    "player": "Trayce Jackson-Davis",
-   "team": "TOR",
+   "team": "",
    "status": "Q",
    "note": "Doesn't have a major role, but his absence would open up 10-12 minutes in the frontcourt.",
    "time": "12:00 PM"
   },
   {
    "player": "LeBron James",
-   "team": "PHI",
+   "team": "",
    "status": "O",
    "note": "James has been ruled out. Dean Wade makes for a nice value, while Joel Embiid (if active), Jaylen Brown, and Tyrese Maxey will dominate usage.",
    "time": "1:10 PM"
@@ -1508,7 +1508,7 @@
   },
   {
    "player": "Trayce Jackson-Davis",
-   "team": "TOR",
+   "team": "",
    "status": "O",
    "note": "TJD is officially out.",
    "time": "1:10 PM"
