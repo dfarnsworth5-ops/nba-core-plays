@@ -4,7 +4,7 @@
  "slate": "4 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-12",
- "updated": "2026-11-12T14:43:15-07:00",
+ "updated": "2026-11-12T16:54:22-07:00",
  "positions": [
   "PG",
   "SG",
@@ -551,7 +551,7 @@
    "fd": 0,
    "proj": 42.94,
    "type": "Core",
-   "status": "Q",
+   "status": "",
    "blurb": "Feels underpriced and now LeBron James is out. Arguably the best spend on the slate if active.",
    "url": ""
   },
@@ -1138,7 +1138,7 @@
    "fd": 7900,
    "proj": 42.06,
    "type": "Core",
-   "status": "Q",
+   "status": "",
    "blurb": "Feels underpriced and now LeBron James is out. Arguably the best spend on the slate if active.",
    "url": ""
   },
@@ -1254,14 +1254,6 @@
    "team": "TOR",
    "status": "O",
    "note": "Groin",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Joel Embiid",
-   "team": "PHI",
-   "status": "Q",
-   "note": "Rest",
    "updated": "",
    "impact": 10
   },
@@ -1512,6 +1504,13 @@
    "status": "O",
    "note": "TJD is officially out.",
    "time": "1:10 PM"
+  },
+  {
+   "player": "Joel Embiid",
+   "team": "PHI",
+   "status": "A",
+   "note": "Embiid will play tonight.",
+   "time": "6:50 PM"
   }
  ],
  "teams": [
