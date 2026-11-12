@@ -4,7 +4,7 @@
  "slate": "4 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-12",
- "updated": "2026-11-12T10:00:14-07:00",
+ "updated": "2026-11-12T11:30:50-07:00",
  "positions": [
   "PG",
   "SG",
@@ -59,8 +59,310 @@
    "fd": "M"
   }
  ],
- "plays": [],
- "playsFd": [],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Daniss Jenkins",
+   "team": "DET",
+   "opp": "WAS",
+   "dk": 5000,
+   "fd": 0,
+   "proj": 28.29,
+   "type": "Core",
+   "status": "",
+   "blurb": "Has earned a bigger role after scoring 49 fantasy points in back-to-back games. We have him projected for 30 minutes against the Wizards.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "LaMelo Ball",
+   "team": "MIN",
+   "opp": "DAL",
+   "dk": 8200,
+   "fd": 0,
+   "proj": 41.61,
+   "type": "",
+   "status": "",
+   "blurb": "In the last 5 games, he has topped 37 fantasy points four times and has seen a usage rate of at least 33% four times.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
+   "player": "Grayson Allen",
+   "team": "CHA",
+   "opp": "PHO",
+   "dk": 5900,
+   "fd": 0,
+   "proj": 32.37,
+   "type": "Core",
+   "status": "",
+   "blurb": "Likely to start and see minutes in the 30s with Dennis Schroder and Brandon Miller both out.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Daniss Jenkins",
+   "team": "DET",
+   "opp": "WAS",
+   "dk": 5000,
+   "fd": 0,
+   "proj": 28.29,
+   "type": "Core",
+   "status": "",
+   "blurb": "Has earned a bigger role after scoring 49 fantasy points in back-to-back games. We have him projected for 30 minutes against the Wizards.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SG/SF",
+   "fdPos": "SF",
+   "player": "Grayson Allen",
+   "team": "CHA",
+   "opp": "PHO",
+   "dk": 5900,
+   "fd": 0,
+   "proj": 32.37,
+   "type": "Core",
+   "status": "",
+   "blurb": "Likely to start and see minutes in the 30s with Dennis Schroder and Brandon Miller both out.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF/PF",
+   "fdPos": "SF",
+   "player": "Jaden McDaniels",
+   "team": "MIN",
+   "opp": "DAL",
+   "dk": 6800,
+   "fd": 0,
+   "proj": 34.05,
+   "type": "",
+   "status": "",
+   "blurb": "He can fill pu the stat sheet and has seen a usage boost with Anthony Edwards out. Good price point against the Mavericks.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF/C",
+   "fdPos": "PF",
+   "player": "Naz Reid",
+   "team": "CHA",
+   "opp": "PHO",
+   "dk": 7500,
+   "fd": 0,
+   "proj": 39.19,
+   "type": "",
+   "status": "",
+   "blurb": "Has always been a good per-minute producer and now has a chance to start and see minutes in the 30s.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "SF/PF",
+   "fdPos": "PF",
+   "player": "Jaden McDaniels",
+   "team": "MIN",
+   "opp": "DAL",
+   "dk": 6800,
+   "fd": 0,
+   "proj": 34.05,
+   "type": "",
+   "status": "",
+   "blurb": "He can fill pu the stat sheet and has seen a usage boost with Anthony Edwards out. Good price point against the Mavericks.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Joel Embiid",
+   "team": "PHI",
+   "opp": "TOR",
+   "dk": 8300,
+   "fd": 0,
+   "proj": 42.94,
+   "type": "Core",
+   "status": "Q",
+   "blurb": "Feels underpriced and now LeBron James is out. Arguably the best spend on the slate if active.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Jakob Poeltl",
+   "team": "TOR",
+   "opp": "PHI",
+   "dk": 5500,
+   "fd": 0,
+   "proj": 31.17,
+   "type": "",
+   "status": "",
+   "blurb": "Has averaged 31 minutes and 33 fantasy points over the last 3 games.",
+   "url": ""
+  }
+ ],
+ "playsFd": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG/SG",
+   "player": "Daniss Jenkins",
+   "team": "DET",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 5200,
+   "proj": 27.56,
+   "type": "Core",
+   "status": "",
+   "blurb": "Has earned a bigger role after scoring 49 fantasy points in back-to-back games. We have him projected for 30 minutes against the Wizards.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "opp": "PHI",
+   "dk": 0,
+   "fd": 6300,
+   "proj": 31.84,
+   "type": "",
+   "status": "",
+   "blurb": "6% usage rate over the last 3 games with Kawhi Leonard and Scottie Barnes out. Good buy low opportunity.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Grayson Allen",
+   "team": "CHA",
+   "opp": "PHO",
+   "dk": 0,
+   "fd": 5500,
+   "proj": 30.66,
+   "type": "Core",
+   "status": "",
+   "blurb": "Likely to start and see minutes in the 30s with Dennis Schroder and Brandon Miller both out.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "PG/SG",
+   "player": "Daniss Jenkins",
+   "team": "DET",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 5200,
+   "proj": 27.56,
+   "type": "Core",
+   "status": "",
+   "blurb": "Has earned a bigger role after scoring 49 fantasy points in back-to-back games. We have him projected for 30 minutes against the Wizards.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF/SG",
+   "player": "Ausar Thompson",
+   "team": "DET",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 6200,
+   "proj": 33,
+   "type": "",
+   "status": "",
+   "blurb": "The Pistons have a tighter rotation with Jalen Duren and Isaiah Joe out. They also have a nice matchup against the Wizards, who are playing on the second half of a back-to-back.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SG/SF",
+   "player": "Kevin Huerter",
+   "team": "DET",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 4200,
+   "proj": 24.37,
+   "type": "",
+   "status": "",
+   "blurb": "The Pistons have a tighter rotation with Jalen Duren and Isaiah Joe out. They also have a nice matchup against the Wizards, who are playing on the second half of a back-to-back.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Jaden McDaniels",
+   "team": "MIN",
+   "opp": "DAL",
+   "dk": 0,
+   "fd": 6500,
+   "proj": 33.98,
+   "type": "",
+   "status": "",
+   "blurb": "He can fill pu the stat sheet and has seen a usage boost with Anthony Edwards out. Good price point against the Mavericks.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF/C",
+   "player": "John Collins",
+   "team": "DET",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 4600,
+   "proj": 28.88,
+   "type": "",
+   "status": "",
+   "blurb": "Projects well at this price point and is coming off a nice game, but he has been held under 21 fantasy points in 6 of the last 7 games.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Joel Embiid",
+   "team": "PHI",
+   "opp": "TOR",
+   "dk": 0,
+   "fd": 7900,
+   "proj": 42.06,
+   "type": "Core",
+   "status": "Q",
+   "blurb": "Feels underpriced and now LeBron James is out. Arguably the best spend on the slate if active.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Jakob Poeltl",
+   "team": "TOR",
+   "opp": "PHI",
+   "dk": 0,
+   "fd": 5300,
+   "proj": 31.46,
+   "type": "",
+   "status": "",
+   "blurb": "Has averaged 31 minutes and 33 fantasy points over the last 3 games.",
+   "url": ""
+  }
+ ],
  "injuries": [
   {
    "player": "Scottie Barnes",
@@ -255,7 +557,78 @@
    "impact": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "player": "Scottie Barnes",
+   "team": "",
+   "status": "D",
+   "note": "With Barnes and Kawhi Leonard out the last few games, Immanuel Quickley, RJ Barrett, Jakob Poeltl, and Jamal Shead have all seen a usage boost of at least 3%.",
+   "time": "12:00 PM"
+  },
+  {
+   "player": "Joel Embiid",
+   "team": "PHI",
+   "status": "Q",
+   "note": "If Embiid is out, Dean Wade and Kentavious Caldwell-Pope would be candidates to start. Jaylen Brown, LeBron James, and Tyrese Maxey would all see a boost in usage.",
+   "time": "12:00 PM"
+  },
+  {
+   "player": "LeBron James",
+   "team": "PHI",
+   "status": "Q",
+   "note": "If James is out, more minutes would open for Dean Wade, Kentavious Caldwell-Pope, and Anfernee Simons. Jaylen Brown, Tyrese Maxey, and Joel Embiid would see usage boosts.",
+   "time": "12:00 PM"
+  },
+  {
+   "player": "Brandon Miller",
+   "team": "",
+   "status": "O",
+   "note": "Miller has one of the highest usage rates in basketball, so everyone on the Hornets should see an uptick in usage. Grayson Allen will likely slide into the starting lineup.",
+   "time": "12:00 PM"
+  },
+  {
+   "player": "Kon Knueppel",
+   "team": "",
+   "status": "O",
+   "note": "Has only played 6 minutes this season, so his absence doesn't change much.",
+   "time": "12:00 PM"
+  },
+  {
+   "player": "Dennis Schroder",
+   "team": "",
+   "status": "O",
+   "note": "Coby White should draw another start. With Schroder and Brandon Miller both out, there's a ton of usage to go around in this offense.",
+   "time": "12:00 PM"
+  },
+  {
+   "player": "Trayce Jackson-Davis",
+   "team": "TOR",
+   "status": "Q",
+   "note": "Doesn't have a major role, but his absence would open up 10-12 minutes in the frontcourt.",
+   "time": "12:00 PM"
+  },
+  {
+   "player": "LeBron James",
+   "team": "PHI",
+   "status": "O",
+   "note": "James has been ruled out. Dean Wade makes for a nice value, while Joel Embiid (if active), Jaylen Brown, and Tyrese Maxey will dominate usage.",
+   "time": "1:10 PM"
+  },
+  {
+   "player": "Scottie Barnes",
+   "team": "",
+   "status": "O",
+   "note": "This was expected. Barnes is officially out.",
+   "time": "1:10 PM"
+  },
+  {
+   "player": "Trayce Jackson-Davis",
+   "team": "TOR",
+   "status": "O",
+   "note": "TJD is officially out.",
+   "time": "1:10 PM"
+  }
+ ],
  "teams": [
   [
    "Aaron Gordon",
@@ -3740,6 +4113,426 @@
   [
    "Egor Demin",
    "BKN"
+  ],
+  [
+   "Tyrese Maxey",
+   "PHI"
+  ],
+  [
+   "VJ Edgecombe",
+   "PHI"
+  ],
+  [
+   "Jaylen Brown",
+   "PHI"
+  ],
+  [
+   "LeBron James",
+   "PHI"
+  ],
+  [
+   "Joel Embiid",
+   "PHI"
+  ],
+  [
+   "Anfernee Simons",
+   "PHI"
+  ],
+  [
+   "Dean Wade",
+   "PHI"
+  ],
+  [
+   "Kentavious Caldwell-Pope",
+   "PHI"
+  ],
+  [
+   "Jabari Walker",
+   "PHI"
+  ],
+  [
+   "Labaron Philon",
+   "PHI"
+  ],
+  [
+   "Justin Edwards",
+   "PHI"
+  ],
+  [
+   "Rayan Rupert",
+   "PHI"
+  ],
+  [
+   "Immanuel Quickley",
+   "TOR"
+  ],
+  [
+   "Ja'Kobe Walter",
+   "TOR"
+  ],
+  [
+   "RJ Barrett",
+   "TOR"
+  ],
+  [
+   "Collin Murray-Boyles",
+   "TOR"
+  ],
+  [
+   "Jakob Poeltl",
+   "TOR"
+  ],
+  [
+   "Jamal Shead",
+   "TOR"
+  ],
+  [
+   "Allen Graves",
+   "TOR"
+  ],
+  [
+   "Jamison Battle",
+   "TOR"
+  ],
+  [
+   "Alijah Martin",
+   "TOR"
+  ],
+  [
+   "Kyle Anderson",
+   "TOR"
+  ],
+  [
+   "Jaden Bradley",
+   "TOR"
+  ],
+  [
+   "Trayce Jackson-Davis",
+   "TOR"
+  ],
+  [
+   "Malachi Smith",
+   "TOR"
+  ],
+  [
+   "Kevin McCullar",
+   "TOR"
+  ],
+  [
+   "Trae Young",
+   "WAS"
+  ],
+  [
+   "Kyshawn George",
+   "WAS"
+  ],
+  [
+   "AJ Dybantsa",
+   "WAS"
+  ],
+  [
+   "Anthony Davis",
+   "WAS"
+  ],
+  [
+   "Alexandre Sarr",
+   "WAS"
+  ],
+  [
+   "Bilal Coulibaly",
+   "WAS"
+  ],
+  [
+   "Tre Johnson",
+   "WAS"
+  ],
+  [
+   "Deandre Ayton",
+   "WAS"
+  ],
+  [
+   "Carlton Carrington",
+   "WAS"
+  ],
+  [
+   "Will Riley",
+   "WAS"
+  ],
+  [
+   "Tre Mann",
+   "WAS"
+  ],
+  [
+   "Anthony Gill",
+   "WAS"
+  ],
+  [
+   "Khris Middleton",
+   "WAS"
+  ],
+  [
+   "Cade Cunningham",
+   "DET"
+  ],
+  [
+   "Daniss Jenkins",
+   "DET"
+  ],
+  [
+   "Duncan Robinson",
+   "DET"
+  ],
+  [
+   "Ausar Thompson",
+   "DET"
+  ],
+  [
+   "John Collins",
+   "DET"
+  ],
+  [
+   "Paul Reed",
+   "DET"
+  ],
+  [
+   "Kevin Huerter",
+   "DET"
+  ],
+  [
+   "Ronald Holland II",
+   "DET"
+  ],
+  [
+   "Javonte Green",
+   "DET"
+  ],
+  [
+   "Tolu Smith",
+   "DET"
+  ],
+  [
+   "Isaac Jones",
+   "DET"
+  ],
+  [
+   "Elijah Harkless",
+   "DET"
+  ],
+  [
+   "Taurean Prince",
+   "DET"
+  ],
+  [
+   "LaMelo Ball",
+   "MIN"
+  ],
+  [
+   "Ayo Dosunmu",
+   "MIN"
+  ],
+  [
+   "Jonathan Kuminga",
+   "MIN"
+  ],
+  [
+   "Jaden McDaniels",
+   "MIN"
+  ],
+  [
+   "Rudy Gobert",
+   "MIN"
+  ],
+  [
+   "Trey Lyles",
+   "MIN"
+  ],
+  [
+   "Terrence Shannon",
+   "MIN"
+  ],
+  [
+   "Bones Hyland",
+   "MIN"
+  ],
+  [
+   "Joan Beringer",
+   "MIN"
+  ],
+  [
+   "Jaylen Clark",
+   "MIN"
+  ],
+  [
+   "Rocco Zikarsky",
+   "MIN"
+  ],
+  [
+   "Cody Williams",
+   "MIN"
+  ],
+  [
+   "Isaiah Evans",
+   "MIN"
+  ],
+  [
+   "Kyrie Irving",
+   "DAL"
+  ],
+  [
+   "Caleb Martin",
+   "DAL"
+  ],
+  [
+   "Cooper Flagg",
+   "DAL"
+  ],
+  [
+   "PJ Washington",
+   "DAL"
+  ],
+  [
+   "Daniel Gafford",
+   "DAL"
+  ],
+  [
+   "Naji Marshall",
+   "DAL"
+  ],
+  [
+   "Morez Johnson",
+   "DAL"
+  ],
+  [
+   "Santi Aldama",
+   "DAL"
+  ],
+  [
+   "Walter Clayton",
+   "DAL"
+  ],
+  [
+   "Zaccharie Risacher",
+   "DAL"
+  ],
+  [
+   "Max Christie",
+   "DAL"
+  ],
+  [
+   "Marcus Sasser",
+   "DAL"
+  ],
+  [
+   "Moussa Cisse",
+   "DAL"
+  ],
+  [
+   "Jett Howard",
+   "DAL"
+  ],
+  [
+   "Tobi Lawal",
+   "DAL"
+  ],
+  [
+   "Devin Booker",
+   "PHO"
+  ],
+  [
+   "Jalen Green",
+   "PHO"
+  ],
+  [
+   "Dillon Brooks",
+   "PHO"
+  ],
+  [
+   "Miles Bridges",
+   "PHO"
+  ],
+  [
+   "Oso Ighodaro",
+   "PHO"
+  ],
+  [
+   "Collin Gillespie",
+   "PHO"
+  ],
+  [
+   "Khaman Maluach",
+   "PHO"
+  ],
+  [
+   "Jordan Goodwin",
+   "PHO"
+  ],
+  [
+   "Ryan Dunn",
+   "PHO"
+  ],
+  [
+   "Luke Kennard",
+   "PHO"
+  ],
+  [
+   "Koa Peat",
+   "PHO"
+  ],
+  [
+   "Rasheer Fleming",
+   "PHO"
+  ],
+  [
+   "Jamaree Bouyea",
+   "PHO"
+  ],
+  [
+   "Coby White",
+   "CHA"
+  ],
+  [
+   "Grayson Allen",
+   "CHA"
+  ],
+  [
+   "Sion James",
+   "CHA"
+  ],
+  [
+   "Naz Reid",
+   "CHA"
+  ],
+  [
+   "Moussa Diabate",
+   "CHA"
+  ],
+  [
+   "Ryan Kalkbrenner",
+   "CHA"
+  ],
+  [
+   "Royce O'Neale",
+   "CHA"
+  ],
+  [
+   "Christian Anderson",
+   "CHA"
+  ],
+  [
+   "Tidjane Salaun",
+   "CHA"
+  ],
+  [
+   "Grant Williams",
+   "CHA"
+  ],
+  [
+   "Liam McNeeley",
+   "CHA"
+  ],
+  [
+   "PJ Hall",
+   "CHA"
   ]
  ],
  "b2b": [
@@ -3748,18 +4541,18 @@
  ],
  "preview": {
   "locked": {
-   "PG": 0,
-   "SG": 0,
-   "SF": 0,
-   "PF": 0,
-   "C": 0
+   "PG": 6,
+   "SG": 6,
+   "SF": 6,
+   "PF": 6,
+   "C": 5
   },
   "lockedFd": {
-   "PG": 0,
-   "SG": 0,
-   "SF": 0,
-   "PF": 0,
-   "C": 0
+   "PG": 6,
+   "SG": 6,
+   "SF": 6,
+   "PF": 6,
+   "C": 6
   },
   "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
   "ctaLabel": "Unlock every Core Play with RG MVP",
