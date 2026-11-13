@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-13",
- "updated": "2026-11-13T11:14:24-07:00",
+ "updated": "2026-11-13T11:32:55-07:00",
  "positions": [
   "PG",
   "SG",
@@ -2000,6 +2000,13 @@
    "status": "O",
    "note": "McGowens is out as well.",
    "time": "1:10 PM"
+  },
+  {
+   "player": "Pelle Larsson",
+   "team": "",
+   "status": "D",
+   "note": "Larsson is now doubtful. Andrew Wiggins and Tim Hardaway should be in line for bigger roles.",
+   "time": "1:30 PM"
   }
  ],
  "teams": [
