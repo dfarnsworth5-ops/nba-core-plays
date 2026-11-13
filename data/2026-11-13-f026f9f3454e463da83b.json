@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-13",
- "updated": "2026-11-13T08:42:41-07:00",
+ "updated": "2026-11-13T09:21:11-07:00",
  "positions": [
   "PG",
   "SG",
@@ -125,7 +125,7 @@
    "dk": 6800,
    "fd": 0,
    "proj": 32.79,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Has averaged 1.05 DK / 1.03 FD points per minute. Sees a 3% usage boost with Trey Murphy off the floor.",
    "url": ""
@@ -245,7 +245,7 @@
    "dk": 8100,
    "fd": 0,
    "proj": 44.28,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Very cheap price point for a player who has 40+ fantasy points in 5 of the last 6 games. Pace-up matchup against the Heat.",
    "url": ""
@@ -605,7 +605,7 @@
    "dk": 5700,
    "fd": 0,
    "proj": 33.83,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Boost with Evan Mobley out. Projected for 31 minutes tonight against the Heat.",
    "url": ""
@@ -727,7 +727,7 @@
    "dk": 0,
    "fd": 6000,
    "proj": 32.07,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Has averaged 1.05 DK / 1.03 FD points per minute. Sees a 3% usage boost with Trey Murphy off the floor.",
    "url": ""
@@ -847,7 +847,7 @@
    "dk": 0,
    "fd": 8200,
    "proj": 42.57,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Very cheap price point for a player who has 40+ fantasy points in 5 of the last 6 games. Pace-up matchup against the Heat.",
    "url": ""
@@ -1087,7 +1087,7 @@
    "dk": 0,
    "fd": 5800,
    "proj": 34.08,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Boost with Evan Mobley out. Projected for 31 minutes tonight against the Heat.",
    "url": ""
@@ -1207,7 +1207,7 @@
    "dk": 0,
    "fd": 5800,
    "proj": 34.08,
-   "type": "",
+   "type": "Core",
    "status": "",
    "blurb": "Boost with Evan Mobley out. Projected for 31 minutes tonight against the Heat.",
    "url": ""
