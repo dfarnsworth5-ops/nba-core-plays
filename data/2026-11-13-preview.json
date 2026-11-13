@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-13",
- "updated": "2026-11-13T06:58:17-07:00",
+ "updated": "2026-11-13T07:26:44-07:00",
  "positions": [
   "PG",
   "SG",
@@ -630,7 +630,127 @@
    "impact": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "player": "Jalen Suggs",
+   "team": "ORL",
+   "status": "Q",
+   "note": "Hasn't played since October 25th, so he'll likely be on a minutes limit if active. When he's back, he'll cut into the minutes of Anthony Black and Jase Richardson.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Evan Mobley",
+   "team": "",
+   "status": "O",
+   "note": "Jarrett Allen should see a slight uptick on the glass. Jaylon Tyson, Meleek Thomas and Mario Hezonja should all see more minutes.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Lauri Markkanen",
+   "team": "",
+   "status": "O",
+   "note": "Set to miss a month of action. Josh Green will likely start in his place, with Keyonte George, Ace Bailey, and Darryn Peterson soaking up more usage.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Trey Murphy",
+   "team": "",
+   "status": "D",
+   "note": "Jeremiah Fears sees the biggest playing time and FP/min. boosts. Potentially more minutes for Herb Jones as well.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Caleb Wilson",
+   "team": "",
+   "status": "O",
+   "note": "Set to miss 4-6 weeks. Josh Giddey and Matas Buzelis will have to carry the load on offense. Isaac Okoro will likely slide into the starting lineup.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Zach Edey",
+   "team": "",
+   "status": "O",
+   "note": "With Quentin Post also out, Isaiah Stewart and Taylor Hendricks are in line for bigger minutes. Cameron Boozer could see a slight uptick in rebounding.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Pelle Larsson",
+   "team": "MIA",
+   "status": "Q",
+   "note": "His absence would open up around 30 minutes on the wing. Andrew Wiggins and Tim Hardaway would be in line for bigger roles.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Klay Thompson",
+   "team": "MIA",
+   "status": "Q",
+   "note": "His absence would open up around 30 minutes on the wing. Andrew Wiggins and Tim Hardaway would be in line for bigger roles.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Norman Powell",
+   "team": "CHI",
+   "status": "Q",
+   "note": "Has missed the last 2 games. With Caleb Wilson also out, the Bulls will be really shorthanded if Powell is out again. Tre Jones and Isaac Okoro would be the biggest beneficiaries of his absence.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Aaron Nesmith",
+   "team": "IND",
+   "status": "Q",
+   "note": "Low usage player, but his absence would open up around 30 minutes on the wing. Quenton Jackson and Jarace Walker would see an uptick in minutes.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Kingston Flemings",
+   "team": "ATL",
+   "status": "Q",
+   "note": "CJ McCollum would slide back into the starting lineup if Flemings is ruled out.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Yves Missi",
+   "team": "",
+   "status": "D",
+   "note": "Hasn't played in a few weeks. Karlo Matkovic should continue to start.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Tristan da Silva",
+   "team": "ORL",
+   "status": "Q",
+   "note": "Has missed the last 2 games. Goga Bitadze and Jase Richardson will benefit if he's out again.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Jamal Cain",
+   "team": "ORL",
+   "status": "Q",
+   "note": "His absence would open up 20-25 minutes on the wing. Orlando is already shorthanded.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Marcus Smart",
+   "team": "",
+   "status": "O",
+   "note": "Suspended after throwing a punch. Bogdan Bogdanovic, Bruce Thornton and Reed Sheppard should see more minutes.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Bennedict Mathurin",
+   "team": "",
+   "status": "D",
+   "note": "Hasn't had a major role this season, but some minutes will open up for the likes of Jordan Poole and Herbert Jones.",
+   "time": "7:00 AM"
+  },
+  {
+   "player": "Sam Merrill",
+   "team": "",
+   "status": "O",
+   "note": "Craig Porter, Meleek Thomas and Tyrese Proctor should see a few extra minutes, especially with Evan Mobley also out.",
+   "time": "7:00 AM"
+  }
+ ],
  "teams": [
   [
    "Aaron Gordon",
