@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-13",
- "updated": "2026-11-13T11:11:19-07:00",
+ "updated": "2026-11-13T11:14:24-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1972,6 +1972,34 @@
    "status": "Q",
    "note": "Went through shootaround.",
    "time": "12:50 PM"
+  },
+  {
+   "player": "Trey Murphy",
+   "team": "",
+   "status": "O",
+   "note": "Wasn't expected to play. He's been officially ruled out.",
+   "time": "1:10 PM"
+  },
+  {
+   "player": "Dejounte Murray",
+   "team": "",
+   "status": "D",
+   "note": "Murray is now doubtful, which makes the Pelicans even more appealing now. Everyone sees a boost, but Jeremiah Fears and Saddiq Bey will likely benefit the most.",
+   "time": "1:10 PM"
+  },
+  {
+   "player": "Yves Missi",
+   "team": "",
+   "status": "O",
+   "note": "Wasn't expected to play. He's been officially ruled out.",
+   "time": "1:10 PM"
+  },
+  {
+   "player": "Bryce McGowens",
+   "team": "",
+   "status": "O",
+   "note": "McGowens is out as well.",
+   "time": "1:10 PM"
   }
  ],
  "teams": [
