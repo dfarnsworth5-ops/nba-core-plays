@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-13",
- "updated": "2026-11-13T11:32:55-07:00",
+ "updated": "2026-11-13T13:04:46-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1402,16 +1402,8 @@
   {
    "player": "Pelle Larsson",
    "team": "MIA",
-   "status": "Q",
+   "status": "D",
    "note": "Illness",
-   "updated": "",
-   "impact": 8
-  },
-  {
-   "player": "Klay Thompson",
-   "team": "MIA",
-   "status": "Q",
-   "note": "Ankle",
    "updated": "",
    "impact": 8
   },
@@ -1877,7 +1869,7 @@
   },
   {
    "player": "Pelle Larsson",
-   "team": "MIA",
+   "team": "",
    "status": "Q",
    "note": "His absence would open up around 30 minutes on the wing. Andrew Wiggins and Tim Hardaway would be in line for bigger roles.",
    "time": "7:00 AM"
