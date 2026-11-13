@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-13",
- "updated": "2026-11-13T08:16:14-07:00",
+ "updated": "2026-11-13T08:42:41-07:00",
  "positions": [
   "PG",
   "SG",
@@ -266,7 +266,158 @@
    "url": ""
   }
  ],
- "playsFd": [],
+ "playsFd": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Jeremiah Fears",
+   "team": "NOP",
+   "opp": "MEM",
+   "dk": 0,
+   "fd": 6000,
+   "proj": 32.07,
+   "type": "",
+   "status": "",
+   "blurb": "Has averaged 1.05 DK / 1.03 FD points per minute. Sees a 3% usage boost with Trey Murphy off the floor.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Josh Giddey",
+   "team": "CHI",
+   "opp": "ATL",
+   "dk": 0,
+   "fd": 6300,
+   "proj": 37.87,
+   "type": "",
+   "status": "",
+   "blurb": "Extremely volatile, but the Bulls are without Caleb Wilson and potentially Norman Powell. Giddey should see 30+ minutes if the game is close and sees a 10% usage boost with Wilson off the floor.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Donovan Mitchell",
+   "team": "CLE",
+   "opp": "MIA",
+   "dk": 0,
+   "fd": 8200,
+   "proj": 42.57,
+   "type": "",
+   "status": "",
+   "blurb": "Very cheap price point for a player who has 40+ fantasy points in 5 of the last 6 games. Pace-up matchup against the Heat.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG",
+   "player": "Desmond Bane",
+   "team": "ORL",
+   "opp": "MIL",
+   "dk": 0,
+   "fd": 5800,
+   "proj": 30.98,
+   "type": "",
+   "status": "",
+   "blurb": "Usually not on my radar, but he's affordable on FanDuel and facing one of the worst defenses in the NBA.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Jaylon Tyson",
+   "team": "CLE",
+   "opp": "MIA",
+   "dk": 0,
+   "fd": 3900,
+   "proj": 21.28,
+   "type": "",
+   "status": "",
+   "blurb": "Should see 26-30 minutes with Evan Mobley and Sam Merrill out. Pace-up matchup against the Heat.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SF",
+   "player": "Matas Buzelis",
+   "team": "CHI",
+   "opp": "ATL",
+   "dk": 0,
+   "fd": 5100,
+   "proj": 31.15,
+   "type": "",
+   "status": "",
+   "blurb": "Should be a focal point offensively with Caleb Wilson out. Price will likely go up from here.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "C/PF",
+   "player": "Jarrett Allen",
+   "team": "CLE",
+   "opp": "MIA",
+   "dk": 0,
+   "fd": 5800,
+   "proj": 34.08,
+   "type": "",
+   "status": "",
+   "blurb": "Boost with Evan Mobley out. Projected for 31 minutes tonight against the Heat.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Jalen Johnson",
+   "team": "ATL",
+   "opp": "CHI",
+   "dk": 0,
+   "fd": 9100,
+   "proj": 49.5,
+   "type": "",
+   "status": "",
+   "blurb": "Offers a high floor and ceiling in a matchup on the slate. Feels like a triple-double is incoming.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C/PF",
+   "player": "Jarrett Allen",
+   "team": "CLE",
+   "opp": "MIA",
+   "dk": 0,
+   "fd": 5800,
+   "proj": 34.08,
+   "type": "",
+   "status": "",
+   "blurb": "Boost with Evan Mobley out. Projected for 31 minutes tonight against the Heat.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Jalen Smith",
+   "team": "CHI",
+   "opp": "ATL",
+   "dk": 0,
+   "fd": 5300,
+   "proj": 31.67,
+   "type": "",
+   "status": "",
+   "blurb": "Has topped 35 fantasy points in back-to-back games. Boost with Caleb Wilson out.",
+   "url": ""
+  }
+ ],
  "injuries": [
   {
    "player": "Jalen Suggs",
@@ -4810,6 +4961,10 @@
   [
    "Isaiah Stewart",
    "MEM"
+  ],
+  [
+   "Jalen Suggs",
+   "ORL"
   ]
  ],
  "b2b": [],
@@ -4822,11 +4977,11 @@
    "C": 6
   },
   "lockedFd": {
-   "PG": 0,
-   "SG": 0,
-   "SF": 0,
-   "PF": 0,
-   "C": 0
+   "PG": 6,
+   "SG": 6,
+   "SF": 6,
+   "PF": 6,
+   "C": 6
   },
   "ctaUrl": "https://rotogrinders.com/products/999/purchase?term=monthly&promo=mvparticle",
   "ctaLabel": "Unlock every Core Play with RG MVP",
