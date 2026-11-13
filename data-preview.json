@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-13",
- "updated": "2026-11-13T10:53:29-07:00",
+ "updated": "2026-11-13T11:11:19-07:00",
  "positions": [
   "PG",
   "SG",
@@ -452,9 +452,17 @@
    "impact": 10
   },
   {
-   "player": "Trey Murphy",
+   "player": "Dejounte Murray",
    "team": "NOP",
    "status": "D",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Trey Murphy",
+   "team": "NOP",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 9
@@ -542,7 +550,7 @@
   {
    "player": "Yves Missi",
    "team": "NOP",
-   "status": "D",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 7
@@ -590,10 +598,10 @@
   {
    "player": "Bennedict Mathurin",
    "team": "NOP",
-   "status": "D",
+   "status": "Q",
    "note": "Thumb",
    "updated": "",
-   "impact": 4
+   "impact": 5
   },
   {
    "player": "Sam Merrill",
@@ -630,7 +638,7 @@
   {
    "player": "Bryce McGowens",
    "team": "NOP",
-   "status": "D",
+   "status": "O",
    "note": "Elbow",
    "updated": "",
    "impact": 2
