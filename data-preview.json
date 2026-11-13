@@ -4,7 +4,7 @@
  "slate": "9 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-13",
- "updated": "2026-11-13T13:04:46-07:00",
+ "updated": "2026-11-13T15:31:14-07:00",
  "positions": [
   "PG",
   "SG",
@@ -454,7 +454,7 @@
   {
    "player": "Dejounte Murray",
    "team": "NOP",
-   "status": "D",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 10
@@ -534,7 +534,7 @@
   {
    "player": "Precious Achiuwa",
    "team": "SAC",
-   "status": "Q",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 8
@@ -546,22 +546,6 @@
    "note": "Knee",
    "updated": "",
    "impact": 7
-  },
-  {
-   "player": "Tristan da Silva",
-   "team": "ORL",
-   "status": "Q",
-   "note": "Calf",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Jamal Cain",
-   "team": "ORL",
-   "status": "Q",
-   "note": "Shoulder",
-   "updated": "",
-   "impact": 6
   },
   {
    "player": "Brandon Williams",
@@ -1099,6 +1083,41 @@
    "status": "D",
    "note": "Larsson is now doubtful. Andrew Wiggins and Tim Hardaway should be in line for bigger roles.",
    "time": "1:30 PM"
+  },
+  {
+   "player": "Jamal Cain",
+   "team": "",
+   "status": "A",
+   "note": "Cain will play.",
+   "time": "5:25 PM"
+  },
+  {
+   "player": "Jalen Suggs",
+   "team": "",
+   "status": "A",
+   "note": "Suggs will play.",
+   "time": "5:25 PM"
+  },
+  {
+   "player": "Tristan da Silva",
+   "team": "",
+   "status": "A",
+   "note": "Da Silva will play.",
+   "time": "5:25 PM"
+  },
+  {
+   "player": "De'Aaron Fox",
+   "team": "",
+   "status": "Q",
+   "note": "For the FanDuel slate, Fox is questionable. Dylan Harper, Stephon Castle, and Julian Champagnie will benefit if he's out.",
+   "time": "5:25 PM"
+  },
+  {
+   "player": "Devin Vassell",
+   "team": "",
+   "status": "Q",
+   "note": "For the FanDuel slate, Vassell is questionable. Dylan Harper, Stephon Castle, and Julian Champagnie will benefit if he's out.",
+   "time": "5:25 PM"
   }
  ],
  "teams": [
