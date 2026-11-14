@@ -4,7 +4,7 @@
  "slate": "5 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-14",
- "updated": "2026-11-14T11:53:04-07:00",
+ "updated": "2026-11-14T13:37:24-07:00",
  "positions": [
   "PG",
   "SG",
@@ -73,6 +73,21 @@
  "plays": [
   {
    "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Cam Spencer",
+   "team": "MEM",
+   "opp": "BKN",
+   "dk": 4600,
+   "fd": 0,
+   "proj": 19.42,
+   "type": "Core",
+   "status": "",
+   "blurb": "Should start with Jerome and Pippen out; 1.2 FP/minute in such minutes this season",
+   "url": ""
+  },
+  {
+   "pos": "PG",
    "dkPos": "PG",
    "fdPos": "PG",
    "player": "Cade Cunningham",
@@ -87,18 +102,18 @@
    "url": ""
   },
   {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Jeremiah Fears",
-   "team": "NOP",
-   "opp": "DEN",
-   "dk": 7000,
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Cam Spencer",
+   "team": "MEM",
+   "opp": "BKN",
+   "dk": 4600,
    "fd": 0,
-   "proj": 34.89,
-   "type": "",
+   "proj": 19.42,
+   "type": "Core",
    "status": "",
-   "blurb": "Team-best 3.3% usage boost up to 29% with Murphy and Murray out; Zion could also sit",
+   "blurb": "Should start with Jerome and Pippen out; 1.2 FP/minute in such minutes this season",
    "url": ""
   },
   {
@@ -114,21 +129,6 @@
    "type": "Core",
    "status": "",
    "blurb": "Started and played 28 minutes last night with Mobley out; potential mass rest for CLE tonight",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG/SF",
-   "fdPos": "SG",
-   "player": "Christian Braun",
-   "team": "DEN",
-   "opp": "NOP",
-   "dk": 4900,
-   "fd": 0,
-   "proj": 24.81,
-   "type": "",
-   "status": "",
-   "blurb": "Not a particularly fun play (0.78 FP/minute), but SG/SF eligibile in an elite matchup",
    "url": ""
   },
   {
@@ -226,6 +226,21 @@
   {
    "pos": "PG",
    "dkPos": "PG",
+   "fdPos": "SG/PG",
+   "player": "Cam Spencer",
+   "team": "MEM",
+   "opp": "BKN",
+   "dk": 0,
+   "fd": 4300,
+   "proj": 18.83,
+   "type": "Core",
+   "status": "",
+   "blurb": "Should start with Jerome and Pippen out; 1.2 FP/minute in such minutes this season",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
    "fdPos": "PG",
    "player": "Josh Giddey",
    "team": "CHI",
@@ -239,18 +254,18 @@
    "url": ""
   },
   {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Jeremiah Fears",
-   "team": "NOP",
-   "opp": "DEN",
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG/PG",
+   "player": "Cam Spencer",
+   "team": "MEM",
+   "opp": "BKN",
    "dk": 0,
-   "fd": 6600,
-   "proj": 34.05,
-   "type": "",
+   "fd": 4300,
+   "proj": 18.83,
+   "type": "Core",
    "status": "",
-   "blurb": "Team-best 3.3% usage boost up to 29% with Murphy and Murray out; Zion could also sit",
+   "blurb": "Should start with Jerome and Pippen out; 1.2 FP/minute in such minutes this season",
    "url": ""
   },
   {
@@ -266,21 +281,6 @@
    "type": "",
    "status": "",
    "blurb": "First career triple-double in the last game; FD scoring system suits him well (3 pts for blocks/steals)",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "PG/SG",
-   "player": "Ty Jerome",
-   "team": "MEM",
-   "opp": "BKN",
-   "dk": 0,
-   "fd": 7400,
-   "proj": 36.22,
-   "type": "",
-   "status": "",
-   "blurb": "Still averaging north of 25 points per game while leading Memphis in usage (32%)",
    "url": ""
   },
   {
@@ -378,7 +378,7 @@
   {
    "player": "Evan Mobley",
    "team": "CLE",
-   "status": "Q",
+   "status": "O",
    "note": "Toe",
    "updated": "",
    "impact": 10
@@ -396,6 +396,38 @@
    "team": "CHI",
    "status": "Q",
    "note": "Rest",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Jarrett Allen",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Rest",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "James Harden",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Calf",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Donovan Mitchell",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Rest",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Ty Jerome",
+   "team": "MEM",
+   "status": "O",
+   "note": "Hip",
    "updated": "",
    "impact": 10
   },
@@ -424,10 +456,26 @@
    "impact": 9
   },
   {
+   "player": "Zach Edey",
+   "team": "MEM",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 9
+  },
+  {
    "player": "Pelle Larsson",
    "team": "MIA",
    "status": "D",
    "note": "Illness",
+   "updated": "",
+   "impact": 8
+  },
+  {
+   "player": "Peyton Watson",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Rest",
    "updated": "",
    "impact": 8
   },
@@ -440,9 +488,17 @@
    "impact": 7
   },
   {
+   "player": "Jerami Grant",
+   "team": "MEM",
+   "status": "Q",
+   "note": "Head",
+   "updated": "",
+   "impact": 7
+  },
+  {
    "player": "Sam Merrill",
    "team": "CLE",
-   "status": "D",
+   "status": "O",
    "note": "Elbow",
    "updated": "",
    "impact": 4
@@ -458,7 +514,7 @@
   {
    "player": "Quinten Post",
    "team": "MEM",
-   "status": "D",
+   "status": "O",
    "note": "Concussion",
    "updated": "",
    "impact": 3
@@ -490,7 +546,7 @@
   {
    "player": "Scotty Pippen",
    "team": "MEM",
-   "status": "D",
+   "status": "O",
    "note": "Back",
    "updated": "",
    "impact": 2
@@ -571,7 +627,7 @@
  "news": [
   {
    "player": "Evan Mobley",
-   "team": "CLE",
+   "team": "",
    "status": "O",
    "note": "Usage boosts for Mitchell, Harden, and Allen; Tyson likely starts if Mobley is out",
    "time": "1:21 PM"
@@ -631,6 +687,48 @@
    "status": "O",
    "note": "Tyson, Hezonja, and Thomas continue to see solid minutes",
    "time": "1:21 PM"
+  },
+  {
+   "player": "Ty Jerome",
+   "team": "",
+   "status": "O",
+   "note": "Cam Spencer runs point with Jerome and Pippen out",
+   "time": "3:33 PM"
+  },
+  {
+   "player": "Scotty Pippen",
+   "team": "",
+   "status": "O",
+   "note": "Cam Spencer runs point with Jerome and Pippen out",
+   "time": "3:33 PM"
+  },
+  {
+   "player": "Zach Edey",
+   "team": "MEM",
+   "status": "Q",
+   "note": "Stewart would start again if Edey is out",
+   "time": "3:33 PM"
+  },
+  {
+   "player": "Jerami Grant",
+   "team": "MEM",
+   "status": "Q",
+   "note": "Wells and Jackson could be in line for more minutes",
+   "time": "3:33 PM"
+  },
+  {
+   "player": "Norman Powell",
+   "team": "CHI",
+   "status": "Q",
+   "note": "Usage boost for Buzelis, minutes boost for Jones if Powell is out",
+   "time": "3:33 PM"
+  },
+  {
+   "player": "Nic Claxton",
+   "team": "CHI",
+   "status": "Q",
+   "note": "CHI would be extremely thin at C if Smith and Claxton are both out",
+   "time": "3:33 PM"
   }
  ],
  "teams": [
