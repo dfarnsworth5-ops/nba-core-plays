@@ -4,7 +4,7 @@
  "slate": "5 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-14",
- "updated": "2026-11-14T13:37:24-07:00",
+ "updated": "2026-11-14T15:42:04-07:00",
  "positions": [
   "PG",
   "SG",
@@ -729,6 +729,13 @@
    "status": "Q",
    "note": "CHI would be extremely thin at C if Smith and Claxton are both out",
    "time": "3:33 PM"
+  },
+  {
+   "player": "Yves Missi",
+   "team": "",
+   "status": "A",
+   "note": "Will return and play on a minutes limit",
+   "time": "5:41 PM"
   }
  ],
  "teams": [
