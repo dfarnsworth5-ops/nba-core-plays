@@ -4,7 +4,7 @@
  "slate": "5 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-14",
- "updated": "2026-11-14T09:57:32-07:00",
+ "updated": "2026-11-14T11:23:32-07:00",
  "positions": [
   "PG",
   "SG",
@@ -142,7 +142,7 @@
    "fd": 0,
    "proj": 22.24,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Rookie ranks second on the team in usage (28%) in a bench role",
    "url": ""
   },
@@ -307,7 +307,7 @@
    "fd": 0,
    "proj": 22.24,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Rookie ranks second on the team in usage (28%) in a bench role",
    "url": ""
   },
@@ -427,7 +427,7 @@
    "fd": 0,
    "proj": 28.43,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Team-best 5.5% usage boost with Wilson sidelined",
    "url": ""
   },
@@ -849,7 +849,7 @@
    "fd": 5600,
    "proj": 27.41,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Team-best 5.5% usage boost with Wilson sidelined",
    "url": ""
   },
@@ -864,7 +864,7 @@
    "fd": 4100,
    "proj": 21.66,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "30+ minutes in 3 of the last 4 games; still only $4,100",
    "url": ""
   },
@@ -1074,7 +1074,7 @@
    "fd": 7300,
    "proj": 35.71,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "2.2% usage boost with Murphy, Murray, and Missi off the floor",
    "url": ""
   },
@@ -1292,8 +1292,8 @@
    "impact": 10
   },
   {
-   "player": "Zion Williamson",
-   "team": "NOP",
+   "player": "Norman Powell",
+   "team": "CHI",
    "status": "Q",
    "note": "Rest",
    "updated": "",
@@ -1302,7 +1302,7 @@
   {
    "player": "Trey Murphy",
    "team": "NOP",
-   "status": "D",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 9
@@ -1326,32 +1326,16 @@
   {
    "player": "Pelle Larsson",
    "team": "MIA",
-   "status": "Q",
-   "note": "Illness",
-   "updated": "",
-   "impact": 8
-  },
-  {
-   "player": "Klay Thompson",
-   "team": "MIA",
-   "status": "Q",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 8
-  },
-  {
-   "player": "Yves Missi",
-   "team": "NOP",
    "status": "D",
-   "note": "Knee",
+   "note": "Illness",
    "updated": "",
-   "impact": 7
+   "impact": 8
   },
   {
-   "player": "Mikel Brown",
-   "team": "BKN",
+   "player": "Nicolas Claxton",
+   "team": "CHI",
    "status": "Q",
-   "note": "Illness",
+   "note": "Rest",
    "updated": "",
    "impact": 7
   },
@@ -1366,7 +1350,7 @@
   {
    "player": "Trendon Watford",
    "team": "NOP",
-   "status": "D",
+   "status": "O",
    "note": "Ankle",
    "updated": "",
    "impact": 3
@@ -1382,7 +1366,7 @@
   {
    "player": "Max Christie",
    "team": "DAL",
-   "status": "Q",
+   "status": "D",
    "note": "Ankle",
    "updated": "",
    "impact": 3
@@ -1390,7 +1374,7 @@
   {
    "player": "Bryce McGowens",
    "team": "NOP",
-   "status": "D",
+   "status": "O",
    "note": "Elbow",
    "updated": "",
    "impact": 2
@@ -1398,15 +1382,7 @@
   {
    "player": "Tobe Awaka",
    "team": "CHI",
-   "status": "D",
-   "note": "Back",
-   "updated": "",
-   "impact": 2
-  },
-  {
-   "player": "Dailyn Swain",
-   "team": "CHI",
-   "status": "Q",
+   "status": "O",
    "note": "Back",
    "updated": "",
    "impact": 2
@@ -1496,9 +1472,9 @@
   {
    "player": "Evan Mobley",
    "team": "CLE",
-   "status": "Q",
+   "status": "O",
    "note": "Usage boosts for Mitchell, Harden, and Allen; Tyson likely starts if Mobley is out",
-   "time": "10:58 AM"
+   "time": "1:21 PM"
   },
   {
    "player": "Zion Williamson",
@@ -1517,9 +1493,44 @@
   {
    "player": "Mikel Brown",
    "team": "BKN",
-   "status": "Q",
+   "status": "P",
    "note": "Minutes for Traore and Demin would be more secure with Brown out",
-   "time": "10:58 AM"
+   "time": "1:21 PM"
+  },
+  {
+   "player": "Donovan Mitchell",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Big boost if he plays and Harden doesn't",
+   "time": "1:21 PM"
+  },
+  {
+   "player": "James Harden",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Big boost if he plays and Mitchell doesn't",
+   "time": "1:21 PM"
+  },
+  {
+   "player": "Peyton Watson",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Tyson, Hezonja, and Thomas continue to see solid minutes",
+   "time": "1:21 PM"
+  },
+  {
+   "player": "Jarrett Allen",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Thomas Bryant likely starts if Allen is out",
+   "time": "1:21 PM"
+  },
+  {
+   "player": "Sam Merrill",
+   "team": "",
+   "status": "O",
+   "note": "Tyson, Hezonja, and Thomas continue to see solid minutes",
+   "time": "1:21 PM"
   }
  ],
  "teams": [
