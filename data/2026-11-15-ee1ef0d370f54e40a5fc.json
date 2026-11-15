@@ -4,7 +4,7 @@
  "slate": "9 games · 1:00 PM ET lock",
  "note": "",
  "iso": "2026-11-15",
- "updated": "2026-11-15T09:06:34-07:00",
+ "updated": "2026-11-15T11:30:06-07:00",
  "positions": [
   "PG",
   "SG",
@@ -141,7 +141,7 @@
    "fd": 0,
    "proj": 26.63,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Not likely to start, but getting cheaper and contributing a solid 1.03 FP/minute",
    "url": ""
   },
@@ -276,7 +276,7 @@
    "fd": 0,
    "proj": 26.63,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Not likely to start, but getting cheaper and contributing a solid 1.03 FP/minute",
    "url": ""
   },
@@ -803,7 +803,7 @@
    "fd": 4800,
    "proj": 25.79,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Not likely to start, but getting cheaper and contributing a solid 0.98 FP/minute",
    "url": ""
   },
@@ -939,7 +939,7 @@
    "proj": 30.18,
    "type": "",
    "status": "",
-   "blurb": "Second behind Wemby among Spurs in usage (25%)",
+   "blurb": "2nd behind Wemby among Spurs in usage (25%)",
    "url": ""
   },
   {
@@ -969,7 +969,7 @@
    "proj": 36.88,
    "type": "",
    "status": "",
-   "blurb": "Still playing heavy minutes most nights; 1.09 FP/minute on the season with VanVleet and Smart off the floor",
+   "blurb": "Still playing heavy minutes most games; 1.09 FP/minute on the season with VanVleet and Smart off the floor",
    "url": ""
   },
   {
@@ -1354,7 +1354,7 @@
   {
    "player": "Andrew Nembhard",
    "team": "IND",
-   "status": "Q",
+   "status": "O",
    "note": "Hip",
    "updated": "",
    "impact": 10
@@ -1416,14 +1416,6 @@
    "impact": 8
   },
   {
-   "player": "Aaron Nesmith",
-   "team": "IND",
-   "status": "Q",
-   "note": "Hand",
-   "updated": "",
-   "impact": 8
-  },
-  {
    "player": "Ajay Mitchell",
    "team": "OKC",
    "status": "Q",
@@ -1444,6 +1436,14 @@
    "team": "CHA",
    "status": "O",
    "note": "Hamstring",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Ryan Rollins",
+   "team": "MIL",
+   "status": "Q",
+   "note": "Illness",
    "updated": "",
    "impact": 6
   },
@@ -1855,9 +1855,9 @@
   {
    "player": "Daniel Gafford",
    "team": "DAL",
-   "status": "Q",
+   "status": "P",
    "note": "Johnson and Aldama could see boosted minutes",
-   "time": "11:05 AM"
+   "time": "1:28 PM"
   },
   {
    "player": "Ajay Mitchell",
@@ -1865,6 +1865,20 @@
    "status": "Q",
    "note": "McCain and Stirtz likely have bigger roles if Mitchell sits",
    "time": "11:05 AM"
+  },
+  {
+   "player": "Ryan Rollins",
+   "team": "MIL",
+   "status": "Q",
+   "note": "Absence would open up around 25 backcourt minutes; Jakucionis likely picks up more time",
+   "time": "1:28 PM"
+  },
+  {
+   "player": "De'Aaron Fox",
+   "team": "SAS",
+   "status": "Q",
+   "note": "Castle and Harper dominate the backcourt if Fox is out",
+   "time": "1:28 PM"
   }
  ],
  "teams": [
