@@ -4,7 +4,7 @@
  "slate": "9 games · 1:00 PM ET lock",
  "note": "",
  "iso": "2026-11-15",
- "updated": "2026-11-15T08:51:21-07:00",
+ "updated": "2026-11-15T08:56:05-07:00",
  "positions": [
   "PG",
   "SG",
@@ -322,7 +322,7 @@
    "proj": 34.76,
    "type": "",
    "status": "",
-   "blurb": "The Bucks are allowing the 3rd-most made 3-pointers per game (14.8), which bodes well for NAW",
+   "blurb": "The Bucks have allowed the 3rd-most made 3-pointers per game (14.8), which bodes well for NAW",
    "url": ""
   },
   {
@@ -352,7 +352,7 @@
    "proj": 31.27,
    "type": "",
    "status": "",
-   "blurb": "Third among Wizards in usage (24%) alongside 1.03 FP/minute average",
+   "blurb": "3rd among Wizards in usage (24%) alongside a 1.03 FP/minute average",
    "url": ""
   },
   {
@@ -382,7 +382,7 @@
    "proj": 37.92,
    "type": "",
    "status": "",
-   "blurb": "Still playing heavy minutes most nights; 1.12 FP/minute on the season with VanVleet and Smart off the floor",
+   "blurb": "Still playing heavy minutes most games; 1.12 FP/minute on the season with VanVleet and Smart off the floor",
    "url": ""
   },
   {
@@ -652,7 +652,7 @@
    "proj": 23.45,
    "type": "",
    "status": "",
-   "blurb": "Boston's center rotation is crowded, but Queta is a decent GPP pivot if Turner is chalk",
+   "blurb": "Boston's center rotation is crowded, but Queta is a decent tournament pivot if Turner is chalk",
    "url": ""
   },
   {
@@ -1816,7 +1816,57 @@
    "impact": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "player": "Kyrie Irving",
+   "team": "DAL",
+   "status": "Sat Dec 30 1899 10:52:00 GMT-0700 (Mountain Standard Time)",
+   "note": "Walter Clayton could become a strong value option; Naji Marshall a candidate to start",
+   "time": "Q"
+  },
+  {
+   "player": "Scottie Barnes",
+   "team": "TOR",
+   "status": "Sat Dec 30 1899 10:52:00 GMT-0700 (Mountain Standard Time)",
+   "note": "Barrett and Quickley would continue to pace the offense if Barnes remains out",
+   "time": "Q"
+  },
+  {
+   "player": "Kingston Flemings",
+   "team": "",
+   "status": "Sat Dec 30 1899 10:52:00 GMT-0700 (Mountain Standard Time)",
+   "note": "McCollum is projected to start",
+   "time": "O"
+  },
+  {
+   "player": "Alexandre Sarr",
+   "team": "WAS",
+   "status": "Sat Dec 30 1899 10:52:00 GMT-0700 (Mountain Standard Time)",
+   "note": "Coulibaly and Ayton would be candidates to start if Sarr is out",
+   "time": "Q"
+  },
+  {
+   "player": "Keegan Murray",
+   "team": "SAC",
+   "status": "Sat Dec 30 1899 10:52:00 GMT-0700 (Mountain Standard Time)",
+   "note": "Achiuwa likely returns to the starting unit if Murray is out",
+   "time": "Q"
+  },
+  {
+   "player": "Daniel Gafford",
+   "team": "DAL",
+   "status": "Sat Dec 30 1899 10:52:00 GMT-0700 (Mountain Standard Time)",
+   "note": "Johnson and Aldama could see boosted minutes",
+   "time": "Q"
+  },
+  {
+   "player": "Ajay Mitchell",
+   "team": "OKC",
+   "status": "Sat Dec 30 1899 10:52:00 GMT-0700 (Mountain Standard Time)",
+   "note": "McCain and Stirtz likely have bigger roles if Mitchell sits",
+   "time": "Q"
+  }
+ ],
  "teams": [
   [
    "Aaron Gordon",
