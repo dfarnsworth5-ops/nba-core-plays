@@ -4,7 +4,7 @@
  "slate": "9 games · 1:00 PM ET lock",
  "note": "",
  "iso": "2026-11-15",
- "updated": "2026-11-15T08:56:05-07:00",
+ "updated": "2026-11-15T08:57:37-07:00",
  "positions": [
   "PG",
   "SG",
@@ -900,16 +900,16 @@
   {
    "pos": "SG",
    "dkPos": "SG",
-   "fdPos": "PG",
-   "player": "Ryan Rollins",
-   "team": "MIL",
-   "opp": "ATL",
+   "fdPos": "SG",
+   "player": "Nickeil Alexander-Walker",
+   "team": "ATL",
+   "opp": "MIL",
    "dk": 0,
-   "fd": 4800,
-   "proj": 25.79,
+   "fd": 6900,
+   "proj": 33.67,
    "type": "",
    "status": "",
-   "blurb": "Not likely to start, but getting cheaper and contributing a solid 0.98 FP/minute",
+   "blurb": "The Bucks have allowed the 3rd-most made 3-pointers per game (14.8), which bodes well for NAW",
    "url": ""
   },
   {
