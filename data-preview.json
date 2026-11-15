@@ -4,7 +4,7 @@
  "slate": "9 games · 1:00 PM ET lock",
  "note": "",
  "iso": "2026-11-15",
- "updated": "2026-11-15T08:57:37-07:00",
+ "updated": "2026-11-15T09:06:10-07:00",
  "positions": [
   "PG",
   "SG",
@@ -920,51 +920,51 @@
   {
    "player": "Kyrie Irving",
    "team": "DAL",
-   "status": "Sat Dec 30 1899 10:52:00 GMT-0700 (Mountain Standard Time)",
+   "status": "Q",
    "note": "Walter Clayton could become a strong value option; Naji Marshall a candidate to start",
-   "time": "Q"
+   "time": "11:05 AM"
   },
   {
    "player": "Scottie Barnes",
    "team": "TOR",
-   "status": "Sat Dec 30 1899 10:52:00 GMT-0700 (Mountain Standard Time)",
+   "status": "Q",
    "note": "Barrett and Quickley would continue to pace the offense if Barnes remains out",
-   "time": "Q"
+   "time": "12:05 PM"
   },
   {
    "player": "Kingston Flemings",
    "team": "",
-   "status": "Sat Dec 30 1899 10:52:00 GMT-0700 (Mountain Standard Time)",
+   "status": "O",
    "note": "McCollum is projected to start",
-   "time": "O"
+   "time": "1:05 PM"
   },
   {
    "player": "Alexandre Sarr",
    "team": "WAS",
-   "status": "Sat Dec 30 1899 10:52:00 GMT-0700 (Mountain Standard Time)",
+   "status": "Q",
    "note": "Coulibaly and Ayton would be candidates to start if Sarr is out",
-   "time": "Q"
+   "time": "2:05 PM"
   },
   {
    "player": "Keegan Murray",
    "team": "SAC",
-   "status": "Sat Dec 30 1899 10:52:00 GMT-0700 (Mountain Standard Time)",
+   "status": "Q",
    "note": "Achiuwa likely returns to the starting unit if Murray is out",
-   "time": "Q"
+   "time": "3:05 PM"
   },
   {
    "player": "Daniel Gafford",
    "team": "DAL",
-   "status": "Sat Dec 30 1899 10:52:00 GMT-0700 (Mountain Standard Time)",
+   "status": "Q",
    "note": "Johnson and Aldama could see boosted minutes",
-   "time": "Q"
+   "time": "4:05 PM"
   },
   {
    "player": "Ajay Mitchell",
    "team": "OKC",
-   "status": "Sat Dec 30 1899 10:52:00 GMT-0700 (Mountain Standard Time)",
+   "status": "Q",
    "note": "McCain and Stirtz likely have bigger roles if Mitchell sits",
-   "time": "Q"
+   "time": "5:05 PM"
   }
  ],
  "teams": [
