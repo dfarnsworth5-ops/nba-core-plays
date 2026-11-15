@@ -4,7 +4,7 @@
  "slate": "9 games · 1:00 PM ET lock",
  "note": "",
  "iso": "2026-11-15",
- "updated": "2026-11-15T11:31:27-07:00",
+ "updated": "2026-11-15T12:34:10-07:00",
  "positions": [
   "PG",
   "SG",
@@ -500,10 +500,10 @@
    "impact": 9
   },
   {
-   "player": "Daniel Gafford",
-   "team": "DAL",
+   "player": "De'Aaron Fox",
+   "team": "SAS",
    "status": "Q",
-   "note": "Stinger",
+   "note": "Hip",
    "updated": "",
    "impact": 9
   },
@@ -572,6 +572,14 @@
    "impact": 5
   },
   {
+   "player": "Santi Aldama",
+   "team": "DAL",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 4
+  },
+  {
    "player": "Jaylin Williams",
    "team": "OKC",
    "status": "O",
@@ -590,7 +598,7 @@
   {
    "player": "Max Christie",
    "team": "DAL",
-   "status": "Q",
+   "status": "D",
    "note": "Ankle",
    "updated": "",
    "impact": 3
@@ -941,16 +949,16 @@
   {
    "player": "Alexandre Sarr",
    "team": "WAS",
-   "status": "Q",
-   "note": "Coulibaly and Ayton would be candidates to start if Sarr is out",
-   "time": "11:05 AM"
+   "status": "A",
+   "note": "Will start, as usual",
+   "time": "2:33 PM"
   },
   {
    "player": "Keegan Murray",
    "team": "SAC",
-   "status": "Q",
-   "note": "Achiuwa likely returns to the starting unit if Murray is out",
-   "time": "11:05 AM"
+   "status": "A",
+   "note": "Will play his usual starting role",
+   "time": "2:33 PM"
   },
   {
    "player": "Daniel Gafford",
