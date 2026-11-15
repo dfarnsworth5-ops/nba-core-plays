@@ -4,7 +4,7 @@
  "slate": "9 games · 1:00 PM ET lock",
  "note": "",
  "iso": "2026-11-15",
- "updated": "2026-11-15T12:34:10-07:00",
+ "updated": "2026-11-15T14:29:40-07:00",
  "positions": [
   "PG",
   "SG",
@@ -810,15 +810,15 @@
   {
    "pos": "PG",
    "dkPos": "PG",
-   "fdPos": "PG",
+   "fdPos": "#N/A",
    "player": "De'Aaron Fox",
    "team": "SAS",
    "opp": "UTA",
    "dk": 0,
-   "fd": 5700,
+   "fd": 0,
    "proj": 28.6,
    "type": "",
-   "status": "Q",
+   "status": "O",
    "blurb": "Down to $5,700, excellent matchup vs. Utah team ranked 25th in defensive rating",
    "url": ""
   },
@@ -998,7 +998,7 @@
    "fd": 4700,
    "proj": 26.41,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Working his way back from injury, but got all the way up to 39 minutes in the last game",
    "url": ""
   },
@@ -1118,7 +1118,7 @@
    "fd": 4700,
    "proj": 26.41,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Working his way back from injury, but got all the way up to 39 minutes in the last game",
    "url": ""
   },
@@ -1384,25 +1384,9 @@
    "impact": 9
   },
   {
-   "player": "Alexandre Sarr",
-   "team": "WAS",
-   "status": "Q",
-   "note": "Illness",
-   "updated": "",
-   "impact": 9
-  },
-  {
-   "player": "Keegan Murray",
-   "team": "SAC",
-   "status": "Q",
-   "note": "Illness",
-   "updated": "",
-   "impact": 9
-  },
-  {
    "player": "De'Aaron Fox",
    "team": "SAS",
-   "status": "Q",
+   "status": "O",
    "note": "Hip",
    "updated": "",
    "impact": 9
@@ -1464,14 +1448,6 @@
    "impact": 5
   },
   {
-   "player": "Collin Sexton",
-   "team": "LAL",
-   "status": "Q",
-   "note": "Laceration",
-   "updated": "",
-   "impact": 5
-  },
-  {
    "player": "Santi Aldama",
    "team": "DAL",
    "status": "Q",
@@ -1508,14 +1484,6 @@
    "team": "HOU",
    "status": "O",
    "note": "Ankle",
-   "updated": "",
-   "impact": 3
-  },
-  {
-   "player": "Carlton Carrington",
-   "team": "WAS",
-   "status": "Q",
-   "note": "Chest",
    "updated": "",
    "impact": 3
   },
@@ -1806,31 +1774,15 @@
    "note": "Illness",
    "updated": "",
    "impact": 1
-  },
-  {
-   "player": "Bronny James",
-   "team": "LAL",
-   "status": "Q",
-   "note": "Illness",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Adou Thiero",
-   "team": "LAL",
-   "status": "Q",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 1
   }
  ],
  "news": [
   {
    "player": "Kyrie Irving",
    "team": "DAL",
-   "status": "Q",
-   "note": "Walter Clayton could become a strong value option; Naji Marshall a candidate to start",
-   "time": "11:05 AM"
+   "status": "O",
+   "note": "Walter Clayton is a decent value option; Naji Marshall a candidate to start",
+   "time": "4:05 PM"
   },
   {
    "player": "Scottie Barnes",
@@ -1883,7 +1835,7 @@
   },
   {
    "player": "De'Aaron Fox",
-   "team": "SAS",
+   "team": "",
    "status": "Q",
    "note": "Castle and Harper dominate the backcourt if Fox is out",
    "time": "1:28 PM"
