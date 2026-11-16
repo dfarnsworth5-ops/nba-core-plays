@@ -1,10 +1,10 @@
 {
  "title": "NBA Core Plays",
- "date": "Sunday, November 15th",
- "slate": "9 games · 1:00 PM ET lock",
+ "date": "Monday, November 16th",
+ "slate": "8 games · 7:00 PM ET lock",
  "note": "",
- "iso": "2026-11-15",
- "updated": "2026-11-15T14:29:40-07:00",
+ "iso": "2026-11-16",
+ "updated": "2026-11-16T09:14:16-07:00",
  "positions": [
   "PG",
   "SG",
@@ -15,102 +15,91 @@
  "tz": "ET",
  "games": [
   {
-   "away": "Indiana Pacers",
-   "home": "Philadelphia 76ers",
-   "time": "1:00 PM",
-   "min": 780,
-   "fav": "PHI",
-   "spread": -7.5,
-   "total": 224.5,
-   "dk": "",
-   "fd": ""
-  },
-  {
-   "away": "Los Angeles Lakers",
-   "home": "Phoenix Suns",
-   "time": "4:00 PM",
-   "min": 960,
-   "fav": "LAL",
-   "spread": -2.5,
-   "total": 227.5,
-   "dk": "",
-   "fd": ""
-  },
-  {
-   "away": "Charlotte Hornets",
-   "home": "Los Angeles Clippers",
-   "time": "4:30 PM",
-   "min": 990,
-   "fav": "LAC",
-   "spread": -1.5,
-   "total": 214.5,
-   "dk": "",
-   "fd": ""
-  },
-  {
-   "away": "San Antonio Spurs",
-   "home": "Utah Jazz",
-   "time": "5:00 PM",
-   "min": 1020,
-   "fav": "SAS",
-   "spread": -16.5,
-   "total": 224.5,
-   "dk": "",
-   "fd": "M"
-  },
-  {
-   "away": "Dallas Mavericks",
-   "home": "Boston Celtics",
-   "time": "6:00 PM",
-   "min": 1080,
-   "fav": "BOS",
-   "spread": -13.5,
-   "total": 218.5,
+   "away": "Memphis Grizzlies",
+   "home": "Washington Wizards",
+   "time": "7:00 PM",
+   "min": 1140,
+   "fav": "MEM",
+   "spread": -3.5,
+   "total": 229.5,
    "dk": "M",
    "fd": "M"
   },
   {
-   "away": "New York Knicks",
-   "home": "Toronto Raptors",
-   "time": "6:00 PM",
-   "min": 1080,
-   "fav": "NYK",
-   "spread": -4.5,
-   "total": 216.5,
+   "away": "Chicago Bulls",
+   "home": "Cleveland Cavaliers",
+   "time": "7:00 PM",
+   "min": 1140,
+   "fav": "CLE",
+   "spread": -9.5,
+   "total": 241.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Orlando Magic",
+   "home": "Boston Celtics",
+   "time": "7:00 PM",
+   "min": 1140,
+   "fav": "BOS",
+   "spread": -8.5,
+   "total": 212.5,
    "dk": "M",
    "fd": "M"
   },
   {
    "away": "Houston Rockets",
-   "home": "Washington Wizards",
-   "time": "7:00 PM",
-   "min": 1140,
+   "home": "Miami Heat",
+   "time": "7:30 PM",
+   "min": 1170,
    "fav": "HOU",
-   "spread": -9.5,
-   "total": 222.5,
+   "spread": -2.5,
+   "total": 230.5,
    "dk": "M",
    "fd": "M"
   },
   {
-   "away": "Atlanta Hawks",
-   "home": "Milwaukee Bucks",
+   "away": "Philadelphia 76ers",
+   "home": "Brooklyn Nets",
+   "time": "7:30 PM",
+   "min": 1170,
+   "fav": "PHI",
+   "spread": -5.5,
+   "total": 224.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Golden State Warriors",
+   "home": "New Orleans Pelicans",
    "time": "8:00 PM",
    "min": 1200,
-   "fav": "ATL",
-   "spread": -7.5,
-   "total": 233.5,
+   "fav": "GSW",
+   "spread": -3.5,
+   "total": 224.5,
    "dk": "M",
    "fd": "M"
   },
   {
-   "away": "Oklahoma City Thunder",
-   "home": "Sacramento Kings",
+   "away": "Portland Trail Blazers",
+   "home": "Minnesota Timberwolves",
+   "time": "8:00 PM",
+   "min": 1200,
+   "fav": "MIN",
+   "spread": -2.5,
+   "total": 227.5,
+   "dk": "M",
+   "fd": "M"
+  },
+  {
+   "away": "Phoenix Suns",
+   "home": "Denver Nuggets",
    "time": "9:00 PM",
    "min": 1260,
-   "fav": "OKC",
-   "spread": -10.5,
-   "total": 222.5,
-   "dk": "M",
+   "fav": "DEN",
+   "spread": -9.5,
+   "total": 229.5,
+   "dk": "",
    "fd": "M"
   }
  ],
@@ -119,150 +108,150 @@
    "pos": "PG",
    "dkPos": "PG/SG",
    "fdPos": "PG",
-   "player": "CJ McCollum",
-   "team": "ATL",
-   "opp": "MIL",
-   "dk": 5500,
+   "player": "Cam Spencer",
+   "team": "MEM",
+   "opp": "WAS",
+   "dk": 5100,
    "fd": 0,
-   "proj": 30.84,
+   "proj": 33.23,
    "type": "Core",
    "status": "",
-   "blurb": "Projected to start with a path to 30ish minutes with Flemings sidelined; elite matchup vs. MIL",
+   "blurb": "Started and played 33 minutes with Jerome and Pippen out on Saturday; 1.17 FP/minute with both off",
    "url": ""
   },
   {
    "pos": "PG",
-   "dkPos": "PG/SG",
+   "dkPos": "PG",
    "fdPos": "PG",
-   "player": "Ryan Rollins",
-   "team": "MIL",
-   "opp": "ATL",
+   "player": "James Harden",
+   "team": "CLE",
+   "opp": "CHI",
+   "dk": 7200,
+   "fd": 0,
+   "proj": 39.42,
+   "type": "",
+   "status": "",
+   "blurb": "1.5% usage boost without Mobley this season; elite matchup vs. CHI",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Cam Spencer",
+   "team": "MEM",
+   "opp": "WAS",
    "dk": 5100,
    "fd": 0,
-   "proj": 26.63,
+   "proj": 33.23,
+   "type": "Core",
+   "status": "",
+   "blurb": "Started and played 33 minutes with Jerome and Pippen out on Saturday; 1.17 FP/minute with both off",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
+   "player": "Norman Powell",
+   "team": "CHI",
+   "opp": "CLE",
+   "dk": 6100,
+   "fd": 0,
+   "proj": 33.23,
    "type": "",
-   "status": "Q",
-   "blurb": "Not likely to start, but getting cheaper and contributing a solid 1.03 FP/minute",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG",
-   "player": "Reed Sheppard",
-   "team": "HOU",
-   "opp": "WAS",
-   "dk": 4500,
-   "fd": 0,
-   "proj": 27.09,
-   "type": "Core",
    "status": "",
-   "blurb": "$4,500 and projected to start with FVV and Smart out; 1.04 FP/minute with those 2 off the court",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "PG/SG",
-   "fdPos": "SG",
-   "player": "CJ McCollum",
-   "team": "ATL",
-   "opp": "MIL",
-   "dk": 5500,
-   "fd": 0,
-   "proj": 30.84,
-   "type": "Core",
-   "status": "",
-   "blurb": "Projected to start with a path to 30ish minutes with Flemings sidelined; elite matchup vs. MIL",
+   "blurb": "40+ fantasy points in back-to-back games with Wilson out",
    "url": ""
   },
   {
    "pos": "SF",
    "dkPos": "SF/PF",
    "fdPos": "SF",
-   "player": "Tari Eason",
-   "team": "HOU",
-   "opp": "WAS",
-   "dk": 5300,
+   "player": "Yaxel Lendeborg",
+   "team": "GSW",
+   "opp": "NOP",
+   "dk": 7700,
    "fd": 0,
-   "proj": 26.73,
-   "type": "",
+   "proj": 44.68,
+   "type": "Core",
    "status": "",
-   "blurb": "2.2% usage boost with VanVleet and Smart off the floor; projected for 27 minutes in an elite matchup",
+   "blurb": "Stuffing the stat sheet (27.9% usage, 1.27 FP/minute) without Steph this season",
    "url": ""
   },
   {
    "pos": "SF",
-   "dkPos": "SF",
+   "dkPos": "SG/SF",
    "fdPos": "SF",
-   "player": "Kevin Durant",
-   "team": "HOU",
-   "opp": "WAS",
-   "dk": 7500,
+   "player": "Norman Powell",
+   "team": "CHI",
+   "opp": "CLE",
+   "dk": 6100,
    "fd": 0,
-   "proj": 37.92,
+   "proj": 33.23,
    "type": "",
    "status": "",
-   "blurb": "Still playing heavy minutes most games; 1.12 FP/minute on the season with VanVleet and Smart off the floor",
+   "blurb": "40+ fantasy points in back-to-back games with Wilson out",
    "url": ""
   },
   {
    "pos": "PF",
-   "dkPos": "PF/C",
+   "dkPos": "SF/PF",
    "fdPos": "PF",
-   "player": "Alperen Sengun",
-   "team": "HOU",
-   "opp": "WAS",
-   "dk": 9400,
+   "player": "Yaxel Lendeborg",
+   "team": "GSW",
+   "opp": "NOP",
+   "dk": 7700,
    "fd": 0,
-   "proj": 47.47,
-   "type": "",
+   "proj": 44.68,
+   "type": "Core",
    "status": "",
-   "blurb": "Hasn't gotten a big boost with FVV off the floor, but 50+ DK points in 3 straight games",
+   "blurb": "Stuffing the stat sheet (27.9% usage, 1.27 FP/minute) without Steph this season",
    "url": ""
   },
   {
    "pos": "PF",
-   "dkPos": "PF",
+   "dkPos": "SF/PF",
    "fdPos": "PF",
-   "player": "Kyle Kuzma",
-   "team": "MIL",
-   "opp": "ATL",
-   "dk": 5100,
+   "player": "Saddiq Bey",
+   "team": "NOP",
+   "opp": "GSW",
+   "dk": 6400,
    "fd": 0,
-   "proj": 27.19,
+   "proj": 34.13,
    "type": "",
    "status": "",
-   "blurb": "Wide range of outcomes, but forward rotation thins out a little with Dieng sidelined",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "PF/C",
-   "fdPos": "C",
-   "player": "Alperen Sengun",
-   "team": "HOU",
-   "opp": "WAS",
-   "dk": 9400,
-   "fd": 0,
-   "proj": 47.47,
-   "type": "",
-   "status": "",
-   "blurb": "Hasn't gotten a big boost with FVV off the floor, but 50+ DK points in 3 straight games",
+   "blurb": "34+ minutes in back-to-back starts with Murphy and Murray sidelined",
    "url": ""
   },
   {
    "pos": "C",
    "dkPos": "C",
    "fdPos": "C",
-   "player": "Myles Turner",
-   "team": "MIL",
-   "opp": "ATL",
-   "dk": 4800,
+   "player": "Jarrett Allen",
+   "team": "CLE",
+   "opp": "CHI",
+   "dk": 5600,
    "fd": 0,
-   "proj": 27.15,
+   "proj": 31.38,
    "type": "",
    "status": "",
-   "blurb": "Wide range of outcomes tied to shaky shooting, but $4,800 salary is hard to ignore",
+   "blurb": "Historically gets a nice boost without Mobley; 1.13 FP/minute in such minutes this year",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Joel Embiid",
+   "team": "PHI",
+   "opp": "BKN",
+   "dk": 8300,
+   "fd": 0,
+   "proj": 35.86,
+   "type": "",
+   "status": "Q",
+   "blurb": "Should be fresh after taking yesterday off; robust 1.43 FPPM average without LeBron",
    "url": ""
   }
  ],
@@ -271,265 +260,265 @@
    "pos": "PG",
    "dkPos": "PG",
    "fdPos": "SG/PG",
-   "player": "Reed Sheppard",
-   "team": "HOU",
+   "player": "Cam Spencer",
+   "team": "MEM",
    "opp": "WAS",
    "dk": 0,
-   "fd": 4500,
-   "proj": 27.25,
+   "fd": 5100,
+   "proj": 31.86,
    "type": "Core",
    "status": "",
-   "blurb": "$4,500 and projected to start with FVV and Smart out; 1.02 FP/minute with those 2 off the court",
+   "blurb": "Started and played 33 minutes with Jerome and Pippen out on Saturday; 1.11 FP/minute with both off",
    "url": ""
   },
   {
    "pos": "PG",
    "dkPos": "PG",
-   "fdPos": "SG/PG",
-   "player": "CJ McCollum",
-   "team": "ATL",
-   "opp": "MIL",
+   "fdPos": "PG",
+   "player": "Josh Giddey",
+   "team": "CHI",
+   "opp": "CLE",
    "dk": 0,
-   "fd": 5300,
-   "proj": 30.26,
-   "type": "Core",
+   "fd": 6900,
+   "proj": 36.99,
+   "type": "",
    "status": "",
-   "blurb": "Projected to start with a path to 30ish minutes with Flemings sidelined; elite matchup vs. MIL",
+   "blurb": "Healthy 3.9% usage boost with Wilson out of the lineup",
    "url": ""
   },
   {
    "pos": "SG",
    "dkPos": "SG",
    "fdPos": "SG/PG",
-   "player": "Reed Sheppard",
-   "team": "HOU",
+   "player": "Cam Spencer",
+   "team": "MEM",
    "opp": "WAS",
    "dk": 0,
-   "fd": 4500,
-   "proj": 27.25,
+   "fd": 5100,
+   "proj": 31.86,
    "type": "Core",
    "status": "",
-   "blurb": "$4,500 and projected to start with FVV and Smart out; 1.04 FP/minute with those 2 off the court",
+   "blurb": "Started and played 33 minutes with Jerome and Pippen out on Saturday; 1.11 FP/minute with both off",
    "url": ""
   },
   {
    "pos": "SG",
    "dkPos": "SG",
-   "fdPos": "SG/PG",
-   "player": "CJ McCollum",
-   "team": "ATL",
-   "opp": "MIL",
+   "fdPos": "SG",
+   "player": "Donovan Mitchell",
+   "team": "CLE",
+   "opp": "CHI",
    "dk": 0,
-   "fd": 5300,
-   "proj": 30.26,
-   "type": "Core",
+   "fd": 8300,
+   "proj": 43.07,
+   "type": "",
    "status": "",
-   "blurb": "Projected to start with a path to 30ish minutes with Flemings sidelined; elite matchup vs. MIL",
+   "blurb": "Elite numbers this season (33% usage, 1.39 FP/minute) with Mobley off the court",
    "url": ""
   },
   {
    "pos": "SF",
    "dkPos": "SF",
    "fdPos": "SF",
-   "player": "Kevin Durant",
-   "team": "HOU",
-   "opp": "WAS",
+   "player": "Saddiq Bey",
+   "team": "NOP",
+   "opp": "GSW",
    "dk": 0,
-   "fd": 7100,
-   "proj": 36.88,
+   "fd": 5800,
+   "proj": 33.3,
    "type": "",
    "status": "",
-   "blurb": "Still playing heavy minutes most games; 1.09 FP/minute on the season with VanVleet and Smart off the floor",
+   "blurb": "34+ minutes in back-to-back starts with Murphy and Murray sidelined",
    "url": ""
   },
   {
    "pos": "SF",
    "dkPos": "SF",
-   "fdPos": "SF/SG",
-   "player": "Dyson Daniels",
-   "team": "ATL",
-   "opp": "MIL",
-   "dk": 0,
-   "fd": 7200,
-   "proj": 35.59,
-   "type": "",
-   "status": "",
-   "blurb": "Solid spot to rack up steals against a Milwaukee team ranked among the league leaders in turnovers",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "Jalen Johnson",
-   "team": "ATL",
-   "opp": "MIL",
-   "dk": 0,
-   "fd": 9500,
-   "proj": 46.77,
-   "type": "",
-   "status": "",
-   "blurb": "Milwaukee is 28th in defense, allowing 120 points per 100 possessions; 1.27 FP/minute for Johnson",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF/C",
-   "player": "Anthony Davis",
+   "fdPos": "SF",
+   "player": "AJ Dybantsa",
    "team": "WAS",
-   "opp": "HOU",
+   "opp": "MEM",
    "dk": 0,
-   "fd": 9600,
-   "proj": 45.11,
+   "fd": 5800,
+   "proj": 32.97,
    "type": "",
    "status": "",
-   "blurb": "Looks rejuvenated with the Wiz (1.35 FP/minute); 2% usage boost with Sarr (Q) off the floor",
+   "blurb": "Struggling from the field (40% FGs, 24% 3P%), but the minutes are there",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF/SF",
+   "player": "Yaxel Lendeborg",
+   "team": "GSW",
+   "opp": "NOP",
+   "dk": 0,
+   "fd": 8000,
+   "proj": 43.65,
+   "type": "Core",
+   "status": "",
+   "blurb": "Stuffing the stat sheet (27.9% usage, 1.21 FP/minute) without Steph this season",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "C/PF",
+   "player": "Jarrett Allen",
+   "team": "CLE",
+   "opp": "CHI",
+   "dk": 0,
+   "fd": 6100,
+   "proj": 31.94,
+   "type": "",
+   "status": "",
+   "blurb": "Historically gets a nice boost without Mobley; 1.17 FP/minute in such minutes this year",
    "url": ""
   },
   {
    "pos": "C",
    "dkPos": "C",
    "fdPos": "C",
-   "player": "Alperen Sengun",
-   "team": "HOU",
-   "opp": "WAS",
+   "player": "Joel Embiid",
+   "team": "PHI",
+   "opp": "BKN",
    "dk": 0,
-   "fd": 9800,
-   "proj": 46.61,
-   "type": "",
+   "fd": 7800,
+   "proj": 35.12,
+   "type": "Core",
    "status": "",
-   "blurb": "Hasn't gotten a big boost with FVV off the floor, but 50+ FD points in 3 straight games",
+   "blurb": "Should be fresh after taking yesterday off; robust 1.43 FPPM average without LeBron; just $7,800",
    "url": ""
   },
   {
    "pos": "C",
    "dkPos": "C",
-   "fdPos": "C",
-   "player": "Myles Turner",
-   "team": "MIL",
-   "opp": "ATL",
+   "fdPos": "C/PF",
+   "player": "Jarrett Allen",
+   "team": "CLE",
+   "opp": "CHI",
    "dk": 0,
-   "fd": 4700,
-   "proj": 28.02,
+   "fd": 6100,
+   "proj": 31.94,
    "type": "",
    "status": "",
-   "blurb": "Wide range of outcomes tied to shaky shooting, but $4,700 salary is hard to ignore",
+   "blurb": "Historically gets a nice boost without Mobley; 1.17 FP/minute in such minutes this year",
    "url": ""
   }
  ],
  "injuries": [
   {
-   "player": "Kyrie Irving",
-   "team": "DAL",
+   "player": "Paul George",
+   "team": "BOS",
    "status": "Q",
    "note": "Rest",
    "updated": "",
    "impact": 10
   },
   {
-   "player": "Fred VanVleet",
-   "team": "HOU",
-   "status": "O",
-   "note": "Rest",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Scottie Barnes",
-   "team": "TOR",
-   "status": "Q",
-   "note": "Groin",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Joel Embiid",
+   "player": "LeBron James",
    "team": "PHI",
-   "status": "O",
+   "status": "D",
    "note": "Rest",
    "updated": "",
    "impact": 10
   },
   {
-   "player": "Andrew Nembhard",
-   "team": "IND",
+   "player": "Evan Mobley",
+   "team": "CLE",
+   "status": "O",
+   "note": "Toe",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Stephen Curry",
+   "team": "GSW",
+   "status": "O",
+   "note": "Oblique",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Ty Jerome",
+   "team": "MEM",
    "status": "O",
    "note": "Hip",
    "updated": "",
    "impact": 10
   },
   {
-   "player": "Kingston Flemings",
-   "team": "ATL",
+   "player": "Dejounte Murray",
+   "team": "NOP",
    "status": "O",
-   "note": "Back",
+   "note": "Trade Talks",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Jalen Smith",
+   "team": "CHI",
+   "status": "Q",
+   "note": "Finger",
    "updated": "",
    "impact": 9
   },
   {
-   "player": "Austin Reaves",
-   "team": "LAL",
+   "player": "Caleb Wilson",
+   "team": "CHI",
    "status": "O",
-   "note": "Heel",
+   "note": "Hand",
    "updated": "",
    "impact": 9
   },
   {
-   "player": "Jaxson Hayes",
-   "team": "UTA",
+   "player": "Zach Edey",
+   "team": "MEM",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 9
+  },
+  {
+   "player": "Trey Murphy",
+   "team": "NOP",
    "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 9
   },
   {
-   "player": "De'Aaron Fox",
-   "team": "SAS",
-   "status": "O",
-   "note": "Hip",
-   "updated": "",
-   "impact": 9
-  },
-  {
-   "player": "Kon Knueppel",
-   "team": "CHA",
-   "status": "O",
-   "note": "Hamstring",
+   "player": "Peyton Watson",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Abdominal",
    "updated": "",
    "impact": 8
   },
   {
-   "player": "Ajay Mitchell",
-   "team": "OKC",
+   "player": "Isaiah Stewart",
+   "team": "MEM",
    "status": "Q",
-   "note": "Ankle",
-   "updated": "",
-   "impact": 8
-  },
-  {
-   "player": "Precious Achiuwa",
-   "team": "SAC",
-   "status": "Q",
-   "note": "Ankle",
+   "note": "Illness",
    "updated": "",
    "impact": 7
   },
   {
-   "player": "Dennis Schroder",
-   "team": "CHA",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 6
-  },
-  {
-   "player": "Ryan Rollins",
-   "team": "MIL",
+   "player": "Pelle Larsson",
+   "team": "MIA",
    "status": "Q",
    "note": "Illness",
    "updated": "",
-   "impact": 6
+   "impact": 7
+  },
+  {
+   "player": "Jaylon Tyson",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 7
   },
   {
    "player": "Marcus Smart",
@@ -540,28 +529,28 @@
    "impact": 5
   },
   {
-   "player": "Ousmane Dieng",
-   "team": "MIL",
+   "player": "Brandon Williams",
+   "team": "GSW",
    "status": "O",
-   "note": "Finger",
+   "note": "Hamstring",
    "updated": "",
    "impact": 5
   },
   {
-   "player": "Santi Aldama",
-   "team": "DAL",
+   "player": "Bennedict Mathurin",
+   "team": "NOP",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 5
+  },
+  {
+   "player": "Gui Santos",
+   "team": "GSW",
    "status": "Q",
    "note": "Ankle",
    "updated": "",
-   "impact": 4
-  },
-  {
-   "player": "Jaylin Williams",
-   "team": "OKC",
-   "status": "O",
-   "note": "Back",
-   "updated": "",
-   "impact": 4
+   "impact": 5
   },
   {
    "player": "Tre Johnson",
@@ -572,12 +561,28 @@
    "impact": 4
   },
   {
-   "player": "Max Christie",
-   "team": "DAL",
+   "player": "Steven Adams",
+   "team": "HOU",
    "status": "D",
-   "note": "Ankle",
+   "note": "Rest",
    "updated": "",
-   "impact": 3
+   "impact": 4
+  },
+  {
+   "player": "Sam Merrill",
+   "team": "CLE",
+   "status": "O",
+   "note": "Elbow",
+   "updated": "",
+   "impact": 4
+  },
+  {
+   "player": "Jaylen Clark",
+   "team": "MIN",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 4
   },
   {
    "player": "Clint Capela",
@@ -588,146 +593,90 @@
    "impact": 3
   },
   {
-   "player": "Dereck Lively II",
-   "team": "DAL",
+   "player": "Gregory Jackson II",
+   "team": "MEM",
    "status": "O",
    "note": "Foot",
    "updated": "",
-   "impact": 1
+   "impact": 3
   },
   {
-   "player": "Tarik Biberovic",
-   "team": "DAL",
-   "status": "O",
-   "note": "Heel",
+   "player": "Quinten Post",
+   "team": "MEM",
+   "status": "Q",
+   "note": "Head",
    "updated": "",
-   "impact": 1
+   "impact": 3
   },
   {
-   "player": "Sergio de Larrea",
-   "team": "DAL",
+   "player": "Trendon Watford",
+   "team": "NOP",
    "status": "O",
-   "note": "Knee",
+   "note": "Ankle",
    "updated": "",
-   "impact": 1
+   "impact": 3
   },
   {
-   "player": "Mouhamed Gueye",
-   "team": "ATL",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Keshon Gilbert",
-   "team": "ATL",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Asa Newell",
-   "team": "ATL",
-   "status": "O",
-   "note": "Toe",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Henri Veesaar",
-   "team": "ATL",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Tyrese Haliburton",
-   "team": "IND",
-   "status": "O",
-   "note": "Hamstring",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Johnny Furphy",
-   "team": "IND",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Ben Sheppard",
-   "team": "IND",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Brandon Ingram",
-   "team": "LAC",
-   "status": "O",
-   "note": "Achilles",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Yanic Konan Niederhauser",
-   "team": "LAC",
+   "player": "Chris Youngblood",
+   "team": "POR",
    "status": "O",
    "note": "Foot",
    "updated": "",
-   "impact": 1
+   "impact": 3
   },
   {
-   "player": "Bradley Beal",
-   "team": "LAC",
+   "player": "Tobe Awaka",
+   "team": "CHI",
    "status": "O",
-   "note": "Knee",
+   "note": "Back",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Scotty Pippen",
+   "team": "MEM",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Bryce McGowens",
+   "team": "NOP",
+   "status": "O",
+   "note": "Elbow",
+   "updated": "",
+   "impact": 2
+  },
+  {
+   "player": "Tristan Vukcevic",
+   "team": "WAS",
+   "status": "O",
+   "note": "Hip",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Jordan Miller",
-   "team": "LAC",
+   "player": "Reece Beekman",
+   "team": "WAS",
    "status": "O",
    "note": "Shoulder",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Thomas Sorber",
-   "team": "OKC",
+   "player": "Justin Champagnie",
+   "team": "WAS",
+   "status": "O",
+   "note": "Foot",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jamir Watkins",
+   "team": "WAS",
    "status": "O",
    "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Cason Wallace",
-   "team": "OKC",
-   "status": "O",
-   "note": "Shoulder",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Chet Holmgren",
-   "team": "OKC",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Jalen Williams",
-   "team": "OKC",
-   "status": "O",
-   "note": "Leg",
    "updated": "",
    "impact": 1
   },
@@ -764,181 +713,159 @@
    "impact": 1
   },
   {
-   "player": "Maxime Raynaud",
-   "team": "SAC",
+   "player": "Nae'Qwan Tomlin",
+   "team": "CLE",
+   "status": "O",
+   "note": "Back",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Julian Strawther",
+   "team": "DEN",
    "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Ben Simmons",
-   "team": "SAC",
+   "player": "Moses Moody",
+   "team": "GSW",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Jimmy Butler",
+   "team": "GSW",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Anthony Edwards",
+   "team": "MIN",
+   "status": "O",
+   "note": "Knee",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Donte DiVincenzo",
+   "team": "MIN",
    "status": "O",
    "note": "Achilles",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Tobias Harris",
-   "team": "SAS",
+   "player": "Noah Penda",
+   "team": "ORL",
    "status": "O",
-   "note": "Calf",
+   "note": "Hamstring",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Jayden Quaintance",
-   "team": "SAS",
+   "player": "Jonathan Isaac",
+   "team": "ORL",
    "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 1
   },
   {
-   "player": "Kawhi Leonard",
-   "team": "TOR",
+   "player": "Paolo Banchero",
+   "team": "ORL",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Izaiyah Nelson",
+   "team": "ORL",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Vit Krejci",
+   "team": "POR",
+   "status": "O",
+   "note": "Ankle",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Ja Morant",
+   "team": "POR",
+   "status": "O",
+   "note": "Hamstring",
+   "updated": "",
+   "impact": 1
+  },
+  {
+   "player": "Shaedon Sharpe",
+   "team": "POR",
    "status": "O",
    "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Nate Bittle",
-   "team": "TOR",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Lauri Markkanen",
-   "team": "UTA",
-   "status": "O",
-   "note": "Hand",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Jusuf Nurkic",
-   "team": "UTA",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Jaren Jackson",
-   "team": "UTA",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Tristan Vukcevic",
-   "team": "WAS",
-   "status": "O",
-   "note": "Hip",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Reece Beekman",
-   "team": "WAS",
-   "status": "O",
-   "note": "Shoulder",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Justin Champagnie",
-   "team": "WAS",
-   "status": "O",
-   "note": "Foot",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Jamir Watkins",
-   "team": "WAS",
-   "status": "O",
-   "note": "Knee",
-   "updated": "",
-   "impact": 1
-  },
-  {
-   "player": "Cameron Carr",
-   "team": "LAL",
-   "status": "O",
-   "note": "Illness",
    "updated": "",
    "impact": 1
   }
  ],
  "news": [
   {
-   "player": "Kyrie Irving",
-   "team": "DAL",
-   "status": "O",
-   "note": "Walter Clayton is a decent value option; Naji Marshall a candidate to start",
-   "time": "4:05 PM"
-  },
-  {
-   "player": "Scottie Barnes",
-   "team": "TOR",
+   "player": "Paul George",
+   "team": "BOS",
    "status": "Q",
-   "note": "Barrett and Quickley would continue to pace the offense if Barnes remains out",
-   "time": "11:05 AM"
+   "note": "White (+3.9%) gets a notable usage boost with PG off the floor",
+   "time": "11:11 AM"
   },
   {
-   "player": "Kingston Flemings",
+   "player": "LeBron James",
    "team": "",
    "status": "O",
-   "note": "McCollum is projected to start",
-   "time": "11:05 AM"
+   "note": "Major usage bumps for Embiid, Brown, and Edgecombe; Wade likely starts",
+   "time": "11:11 AM"
   },
   {
-   "player": "Alexandre Sarr",
-   "team": "WAS",
-   "status": "A",
-   "note": "Will start, as usual",
-   "time": "2:33 PM"
-  },
-  {
-   "player": "Keegan Murray",
-   "team": "SAC",
-   "status": "A",
-   "note": "Will play his usual starting role",
-   "time": "2:33 PM"
-  },
-  {
-   "player": "Daniel Gafford",
-   "team": "DAL",
-   "status": "P",
-   "note": "Should start and play 20ish minutes, as usual",
-   "time": "1:28 PM"
-  },
-  {
-   "player": "Ajay Mitchell",
-   "team": "OKC",
-   "status": "Q",
-   "note": "McCain and Stirtz likely have bigger roles if Mitchell sits",
-   "time": "11:05 AM"
-  },
-  {
-   "player": "Ryan Rollins",
-   "team": "MIL",
-   "status": "Q",
-   "note": "Absence would open up around 25 backcourt minutes; Jakucionis likely picks up more time",
-   "time": "1:28 PM"
-  },
-  {
-   "player": "De'Aaron Fox",
+   "player": "Evan Mobley",
    "team": "",
+   "status": "O",
+   "note": "Tyson should continue to start...if he plays through Q tag",
+   "time": "11:11 AM"
+  },
+  {
+   "player": "Jalen Smith",
+   "team": "CHI",
    "status": "Q",
-   "note": "Castle and Harper dominate the backcourt if Fox is out",
-   "time": "1:28 PM"
+   "note": "Claxton could start if Smith is out",
+   "time": "11:11 AM"
+  },
+  {
+   "player": "Ty Jerome",
+   "team": "",
+   "status": "O",
+   "note": "Cam Spencer should start with Small playing a big backup role",
+   "time": "11:11 AM"
+  },
+  {
+   "player": "Zach Edey",
+   "team": "MEM",
+   "status": "Q",
+   "note": "Stewart would be in line for another start at center with Post already out",
+   "time": "11:11 AM"
+  },
+  {
+   "player": "Peyton Watson",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Meleek Thomas could slide back into starting unit if Watson is out",
+   "time": "11:11 AM"
   }
  ],
  "teams": [
@@ -4853,10 +4780,18 @@
   [
    "Jalen Suggs",
    "ORL"
+  ],
+  [
+   "Javon Small",
+   "MEM"
   ]
  ],
  "b2b": [
-  "DAL"
+  "BOS",
+  "HOU",
+  "PHI",
+  "PHO",
+  "WAS"
  ],
  "preview": {
   "locked": {
