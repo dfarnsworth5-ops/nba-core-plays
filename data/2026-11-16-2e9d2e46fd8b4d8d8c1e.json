@@ -4,7 +4,7 @@
  "slate": "8 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-16",
- "updated": "2026-11-16T11:51:35-07:00",
+ "updated": "2026-11-16T15:15:05-07:00",
  "positions": [
   "PG",
   "SG",
@@ -655,7 +655,7 @@
    "fd": 0,
    "proj": 26.86,
    "type": "",
-   "status": "Q",
+   "status": "",
    "blurb": "Extremely low floor thanks to his lack of scoring, but it's hard to find a better matchup",
    "url": ""
   },
@@ -663,15 +663,15 @@
    "pos": "C",
    "dkPos": "C",
    "fdPos": "C",
-   "player": "Neemias Queta",
+   "player": "Mitchell Robinson",
    "team": "BOS",
    "opp": "ORL",
-   "dk": 4800,
+   "dk": 3900,
    "fd": 0,
-   "proj": 25.17,
+   "proj": 15.2,
    "type": "",
    "status": "Q",
-   "blurb": "BOS tends to split the center minutes, but Queta is productive when out there (1.04 FP/minute)",
+   "blurb": "Cheapie who should see an uptick in minutes with Queta out",
    "url": ""
   },
   {
@@ -1265,15 +1265,15 @@
    "pos": "C",
    "dkPos": "C",
    "fdPos": "C",
-   "player": "Neemias Queta",
+   "player": "Mitchell Robinson",
    "team": "BOS",
    "opp": "ORL",
    "dk": 0,
-   "fd": 4900,
-   "proj": 25.64,
+   "fd": 4000,
+   "proj": 15.91,
    "type": "",
-   "status": "Q",
-   "blurb": "BOS tends to split the center minutes, but Queta is productive when out there (1.06 FP/minute)",
+   "status": "",
+   "blurb": "Cheapie who should see an uptick in minutes with Queta out",
    "url": ""
   },
   {
@@ -1549,6 +1549,14 @@
    "impact": 3
   },
   {
+   "player": "Ryan Dunn",
+   "team": "PHO",
+   "status": "Q",
+   "note": "Thumb",
+   "updated": "",
+   "impact": 3
+  },
+  {
    "player": "Tobe Awaka",
    "team": "CHI",
    "status": "O",
@@ -1815,9 +1823,9 @@
   {
    "player": "Neemias Queta",
    "team": "BOS",
-   "status": "Q",
-   "note": "Robinson and Garza would fill the center minutes",
-   "time": "1:15 PM"
+   "status": "O",
+   "note": "Robinson and Garza fill the center minutes",
+   "time": "5:06 PM"
   },
   {
    "player": "Joel Embiid",
