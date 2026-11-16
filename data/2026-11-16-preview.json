@@ -4,7 +4,7 @@
  "slate": "8 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-16",
- "updated": "2026-11-16T11:51:35-07:00",
+ "updated": "2026-11-16T15:15:05-07:00",
  "positions": [
   "PG",
   "SG",
@@ -649,6 +649,14 @@
    "impact": 3
   },
   {
+   "player": "Ryan Dunn",
+   "team": "PHO",
+   "status": "Q",
+   "note": "Thumb",
+   "updated": "",
+   "impact": 3
+  },
+  {
    "player": "Tobe Awaka",
    "team": "CHI",
    "status": "O",
@@ -915,9 +923,9 @@
   {
    "player": "Neemias Queta",
    "team": "BOS",
-   "status": "Q",
-   "note": "Robinson and Garza would fill the center minutes",
-   "time": "1:15 PM"
+   "status": "O",
+   "note": "Robinson and Garza fill the center minutes",
+   "time": "5:06 PM"
   },
   {
    "player": "Joel Embiid",
