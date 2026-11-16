@@ -4,7 +4,7 @@
  "slate": "8 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-16",
- "updated": "2026-11-16T09:30:46-07:00",
+ "updated": "2026-11-16T10:46:55-07:00",
  "positions": [
   "PG",
   "SG",
@@ -866,6 +866,20 @@
    "status": "Q",
    "note": "Meleek Thomas could slide back into starting unit if Watson is out",
    "time": "11:11 AM"
+  },
+  {
+   "player": "Pelle Larsson",
+   "team": "MIA",
+   "status": "D",
+   "note": "Not major news, MIA can fill his minutes with several players (Gardner likely starts again)",
+   "time": "12:30 PM"
+  },
+  {
+   "player": "Jaylon Tyson",
+   "team": "CLE",
+   "status": "D",
+   "note": "Thomas and Hezonja are candidates to start with Mobley already out",
+   "time": "12:30 PM"
   }
  ],
  "teams": [
