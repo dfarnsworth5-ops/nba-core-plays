@@ -4,7 +4,7 @@
  "slate": "8 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-16",
- "updated": "2026-11-16T11:19:39-07:00",
+ "updated": "2026-11-16T11:51:35-07:00",
  "positions": [
   "PG",
   "SG",
@@ -387,7 +387,7 @@
    "fd": 7800,
    "proj": 35.12,
    "type": "Core",
-   "status": "",
+   "status": "Q",
    "blurb": "Should be fresh after taking yesterday off; robust 1.43 FPPM average without LeBron; just $7,800",
    "url": ""
   },
@@ -409,17 +409,9 @@
  ],
  "injuries": [
   {
-   "player": "Paul George",
-   "team": "BOS",
-   "status": "Q",
-   "note": "Rest",
-   "updated": "",
-   "impact": 10
-  },
-  {
    "player": "LeBron James",
    "team": "PHI",
-   "status": "D",
+   "status": "O",
    "note": "Rest",
    "updated": "",
    "impact": 10
@@ -457,6 +449,22 @@
    "impact": 10
   },
   {
+   "player": "Joel Embiid",
+   "team": "PHI",
+   "status": "Q",
+   "note": "Rest",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Amen Thompson",
+   "team": "HOU",
+   "status": "Q",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "Jalen Smith",
    "team": "CHI",
    "status": "Q",
@@ -489,6 +497,14 @@
    "impact": 9
   },
   {
+   "player": "Neemias Queta",
+   "team": "BOS",
+   "status": "Q",
+   "note": "Rest",
+   "updated": "",
+   "impact": 9
+  },
+  {
    "player": "Peyton Watson",
    "team": "CLE",
    "status": "Q",
@@ -499,7 +515,7 @@
   {
    "player": "Isaiah Stewart",
    "team": "MEM",
-   "status": "Q",
+   "status": "O",
    "note": "Illness",
    "updated": "",
    "impact": 7
@@ -507,7 +523,7 @@
   {
    "player": "Pelle Larsson",
    "team": "MIA",
-   "status": "Q",
+   "status": "D",
    "note": "Illness",
    "updated": "",
    "impact": 7
@@ -515,7 +531,7 @@
   {
    "player": "Jaylon Tyson",
    "team": "CLE",
-   "status": "Q",
+   "status": "D",
    "note": "Ankle",
    "updated": "",
    "impact": 7
@@ -563,7 +579,7 @@
   {
    "player": "Steven Adams",
    "team": "HOU",
-   "status": "D",
+   "status": "O",
    "note": "Rest",
    "updated": "",
    "impact": 4
@@ -621,6 +637,14 @@
    "team": "POR",
    "status": "O",
    "note": "Foot",
+   "updated": "",
+   "impact": 3
+  },
+  {
+   "player": "Nikola Jovic",
+   "team": "MIA",
+   "status": "Q",
+   "note": "Illness",
    "updated": "",
    "impact": 3
   },
@@ -821,9 +845,9 @@
   {
    "player": "Paul George",
    "team": "BOS",
-   "status": "Q",
-   "note": "White (+3.9%) gets a notable usage boost with PG off the floor",
-   "time": "11:11 AM"
+   "status": "A",
+   "note": "Off the injury report",
+   "time": "1:51 PM"
   },
   {
    "player": "LeBron James",
@@ -869,14 +893,14 @@
   },
   {
    "player": "Pelle Larsson",
-   "team": "MIA",
+   "team": "",
    "status": "D",
    "note": "Not major news, MIA can fill his minutes with several players (Gardner likely starts again)",
    "time": "12:30 PM"
   },
   {
    "player": "Jaylon Tyson",
-   "team": "CLE",
+   "team": "",
    "status": "D",
    "note": "Thomas and Hezonja are candidates to start with Mobley already out",
    "time": "12:30 PM"
@@ -911,7 +935,7 @@
   },
   {
    "player": "Isaiah Stewart",
-   "team": "MEM",
+   "team": "",
    "status": "O",
    "note": "Edey and Post are Q; Hendricks and Prosper could be in line for big roles",
    "time": "1:15 PM"
