@@ -4,7 +4,7 @@
  "slate": "8 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-16",
- "updated": "2026-11-16T10:46:55-07:00",
+ "updated": "2026-11-16T11:19:39-07:00",
  "positions": [
   "PG",
   "SG",
@@ -828,9 +828,9 @@
   {
    "player": "LeBron James",
    "team": "",
-   "status": "D",
+   "status": "O",
    "note": "Major usage bumps for Embiid, Brown, and Edgecombe; Wade likely starts",
-   "time": "11:11 AM"
+   "time": "1:15 PM"
   },
   {
    "player": "Evan Mobley",
@@ -880,6 +880,41 @@
    "status": "D",
    "note": "Thomas and Hezonja are candidates to start with Mobley already out",
    "time": "12:30 PM"
+  },
+  {
+   "player": "Amen Thompson",
+   "team": "HOU",
+   "status": "Q",
+   "note": "Eason, Sheppard, and Bogdanovic would help fill his minutes",
+   "time": "1:15 PM"
+  },
+  {
+   "player": "Neemias Queta",
+   "team": "BOS",
+   "status": "Q",
+   "note": "Robinson and Garza would fill the center minutes",
+   "time": "1:15 PM"
+  },
+  {
+   "player": "Joel Embiid",
+   "team": "PHI",
+   "status": "Q",
+   "note": "Maxey, Brown, and Edgecombe will handle most of the usage with LeBon out",
+   "time": "1:15 PM"
+  },
+  {
+   "player": "Tre Johnson",
+   "team": "WAS",
+   "status": "Q",
+   "note": "Coulibaly, Riley, and Middleton can handle backup minutes",
+   "time": "1:15 PM"
+  },
+  {
+   "player": "Isaiah Stewart",
+   "team": "MEM",
+   "status": "O",
+   "note": "Edey and Post are Q; Hendricks and Prosper could be in line for big roles",
+   "time": "1:15 PM"
   }
  ],
  "teams": [
