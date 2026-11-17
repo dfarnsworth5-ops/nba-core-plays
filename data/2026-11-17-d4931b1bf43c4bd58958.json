@@ -4,7 +4,7 @@
  "slate": "5 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-17",
- "updated": "2026-11-17T11:15:11-07:00",
+ "updated": "2026-11-17T14:39:34-07:00",
  "positions": [
   "PG",
   "SG",
@@ -118,6 +118,21 @@
   },
   {
    "pos": "PG",
+   "dkPos": "PG/SG",
+   "fdPos": "PG",
+   "player": "Bones Hyland",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 4200,
+   "fd": 0,
+   "proj": 19.31,
+   "type": "",
+   "status": "",
+   "blurb": "Should have a bigger role with Anthony Edwards, Jaylen Clark, and Jonathan Kuminga all out.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
    "dkPos": "PG",
    "fdPos": "PG",
    "player": "Darius Garland",
@@ -142,7 +157,7 @@
    "fd": 0,
    "proj": 43.56,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Has topped 45 fantasy points in 4 straight games. Sees a small boost with Ja Morant out.",
    "url": ""
   },
@@ -159,21 +174,6 @@
    "type": "",
    "status": "",
    "blurb": "Has scored over 37 fantasy points in 5 of the last 6 games. Boost with Lauri Markkanen out.",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG/SF",
-   "fdPos": "PG",
-   "player": "Scottie Barnes",
-   "team": "TOR",
-   "opp": "NYK",
-   "dk": 8600,
-   "fd": 0,
-   "proj": 41.48,
-   "type": "",
-   "status": "Q",
-   "blurb": "Has topped 55 fantasy points in 3 of the last 5 games. Not the best game environment, but Kawhi Leonard is still out.",
    "url": ""
   },
   {
@@ -204,6 +204,36 @@
    "type": "Core",
    "status": "",
    "blurb": "Already projected as a strong value play with Anthony Edwards and Jaylen Clark out. Big minute boost if Jonathan Kuminga is out.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Bones Hyland",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 4200,
+   "fd": 0,
+   "proj": 19.31,
+   "type": "",
+   "status": "",
+   "blurb": "Should have a bigger role with Anthony Edwards, Jaylen Clark, and Jonathan Kuminga all out.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Ayo Dosunmu",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 7000,
+   "fd": 0,
+   "proj": 32.42,
+   "type": "",
+   "status": "",
+   "blurb": "Should have a massive usage rate with Jonathan Kuminga and Anthony Edwards out.",
    "url": ""
   },
   {
@@ -268,21 +298,6 @@
   },
   {
    "pos": "SG",
-   "dkPos": "SG/SF",
-   "fdPos": "SG",
-   "player": "Kevin Huerter",
-   "team": "DET",
-   "opp": "SAS",
-   "dk": 4700,
-   "fd": 0,
-   "proj": 23.61,
-   "type": "",
-   "status": "",
-   "blurb": "Duncan Robinson, Ron Holland, and Isaiah Joe all expected out. Projected for 31 minutes against the Spurs.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
    "dkPos": "PG/SG",
    "fdPos": "SG",
    "player": "Collin Sexton",
@@ -294,21 +309,6 @@
    "type": "",
    "status": "",
    "blurb": "Has always been a good per-minute producer. Projected for 24 minutes with Austin Reaves out.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "PG/SG",
-   "fdPos": "SG",
-   "player": "Ayo Dosunmu",
-   "team": "MIN",
-   "opp": "POR",
-   "dk": 7000,
-   "fd": 0,
-   "proj": 32.42,
-   "type": "",
-   "status": "",
-   "blurb": "Has scored at least 35 fantasy points in 6 of the last 8 games, but his price has caught up to his production.",
    "url": ""
   },
   {
@@ -337,8 +337,23 @@
    "fd": 0,
    "proj": 43.56,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Has topped 45 fantasy points in 4 straight games. Sees a small boost with Ja Morant out.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF/PF",
+   "fdPos": "SF",
+   "player": "Jaden McDaniels",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 7200,
+   "fd": 0,
+   "proj": 31.94,
+   "type": "",
+   "status": "",
+   "blurb": "Boost with Jonathan Kuminga and Anthony Edwards both out.",
    "url": ""
   },
   {
@@ -403,21 +418,6 @@
   },
   {
    "pos": "SF",
-   "dkPos": "PG/SF",
-   "fdPos": "SF",
-   "player": "Dylan Harper",
-   "team": "SAS",
-   "opp": "DET",
-   "dk": 7400,
-   "fd": 0,
-   "proj": 32.94,
-   "type": "",
-   "status": "",
-   "blurb": "Price is getting expensive, but he has topped 49 fantasy points in 2 of the last 3 games.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
    "dkPos": "SF/PF",
    "fdPos": "SF",
    "player": "Max Strus",
@@ -459,6 +459,36 @@
    "type": "",
    "status": "",
    "blurb": "Good per-minute producer and projected for 34 minutes tonight with the Pistons shorthanded.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "SF/PF",
+   "fdPos": "PF",
+   "player": "Jaden McDaniels",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 7200,
+   "fd": 0,
+   "proj": 31.94,
+   "type": "",
+   "status": "",
+   "blurb": "Boost with Jonathan Kuminga and Anthony Edwards both out.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF/C",
+   "fdPos": "PF",
+   "player": "Trey Lyles",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 3500,
+   "fd": 0,
+   "proj": 13.57,
+   "type": "",
+   "status": "",
+   "blurb": "Should have a bigger role with Anthony Edwards, Jaylen Clark, and Jonathan Kuminga all out.",
    "url": ""
   },
   {
@@ -519,36 +549,6 @@
    "type": "",
    "status": "",
    "blurb": "His volatility makes him a better tournament target than cash game play. Has 50+ fantasy point upside.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "Ace Bailey",
-   "team": "UTA",
-   "opp": "LAC",
-   "dk": 6300,
-   "fd": 0,
-   "proj": 27.36,
-   "type": "",
-   "status": "",
-   "blurb": "Playing big minutes right now with Lauri Markkanen out. Low pOWN% on a small slate.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "OG Anunoby",
-   "team": "NYK",
-   "opp": "TOR",
-   "dk": 6700,
-   "fd": 0,
-   "proj": 31.59,
-   "type": "",
-   "status": "",
-   "blurb": "Projects fairly well, but he's been held under 35 fantasy points in 10 of the last 11 games.",
    "url": ""
   },
   {
@@ -613,17 +613,17 @@
   },
   {
    "pos": "C",
-   "dkPos": "C",
+   "dkPos": "PF/C",
    "fdPos": "C",
-   "player": "Donovan Clingan",
-   "team": "POR",
-   "opp": "MIN",
-   "dk": 6700,
+   "player": "Trey Lyles",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 3500,
    "fd": 0,
-   "proj": 32.36,
+   "proj": 13.57,
    "type": "",
    "status": "",
-   "blurb": "Will become a much more enticing play if Robert Williams is ruled out.",
+   "blurb": "Should have a bigger role with Anthony Edwards, Jaylen Clark, and Jonathan Kuminga all out.",
    "url": ""
   },
   {
@@ -1119,7 +1119,7 @@
    "fd": 8900,
    "proj": 41.46,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Has topped 45 fantasy points in 4 straight games. Sees a small boost with Ja Morant out.",
    "url": ""
   },
@@ -1285,6 +1285,14 @@
    "impact": 10
   },
   {
+   "player": "Deni Avdija",
+   "team": "POR",
+   "status": "Q",
+   "note": "Foot",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "Kon Knueppel",
    "team": "CHA",
    "status": "O",
@@ -1309,20 +1317,20 @@
    "impact": 9
   },
   {
+   "player": "Jonathan Kuminga",
+   "team": "MIN",
+   "status": "O",
+   "note": "Shoulder",
+   "updated": "",
+   "impact": 9
+  },
+  {
    "player": "Dennis Schroder",
    "team": "CHA",
    "status": "O",
    "note": "Hamstring",
    "updated": "",
    "impact": 6
-  },
-  {
-   "player": "Robert Williams III",
-   "team": "POR",
-   "status": "Q",
-   "note": "Rest",
-   "updated": "",
-   "impact": 5
   },
   {
    "player": "Ron Holland",
@@ -1343,7 +1351,7 @@
   {
    "player": "Chris Youngblood",
    "team": "POR",
-   "status": "D",
+   "status": "O",
    "note": "Foot",
    "updated": "",
    "impact": 3
@@ -1359,7 +1367,7 @@
   {
    "player": "Isaiah Joe",
    "team": "DET",
-   "status": "D",
+   "status": "O",
    "note": "Hip",
    "updated": "",
    "impact": 2
@@ -1499,6 +1507,14 @@
    "note": "Knee",
    "updated": "",
    "impact": 1
+  },
+  {
+   "player": "Zyon Pullin",
+   "team": "MIN",
+   "status": "O",
+   "note": "Quad",
+   "updated": "",
+   "impact": 1
   }
  ],
  "news": [
@@ -1574,7 +1590,7 @@
   },
   {
    "player": "Jonathan Kuminga",
-   "team": "MIN",
+   "team": "",
    "status": "Q",
    "note": "All starters would benefit. Terrence Shannon and Bones Hyland would likely see the biggest uptick in minutes.",
    "time": "10:00 AM"
@@ -1585,6 +1601,27 @@
    "status": "Q",
    "note": "Barnes is now questionable. If he's out, all of the starters will see a boost.",
    "time": "12:50 PM"
+  },
+  {
+   "player": "Robert Williams",
+   "team": "POR",
+   "status": "A",
+   "note": "Williams was taken off the injury report.",
+   "time": "4:30 PM"
+  },
+  {
+   "player": "Jonathan Kuminga",
+   "team": "",
+   "status": "O",
+   "note": "Terrence Shannon could draw the spot start. More usage is available for all of the starters.",
+   "time": "4:30 PM"
+  },
+  {
+   "player": "Deni Avdija",
+   "team": "POR",
+   "status": "Q",
+   "note": "Avdija is now questionable. If he's out, the Blazers become a lot more appealing for DFS.",
+   "time": "4:30 PM"
   }
  ],
  "teams": [
