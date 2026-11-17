@@ -4,7 +4,7 @@
  "slate": "5 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-17",
- "updated": "2026-11-17T14:39:34-07:00",
+ "updated": "2026-11-17T14:44:12-07:00",
  "positions": [
   "PG",
   "SG",
@@ -271,16 +271,16 @@
   {
    "pos": "SG",
    "dkPos": "SG",
-   "fdPos": "SG",
-   "player": "Darryn Peterson",
-   "team": "UTA",
-   "opp": "LAC",
+   "fdPos": "SG/PG",
+   "player": "Ayo Dosunmu",
+   "team": "MIN",
+   "opp": "POR",
    "dk": 0,
-   "fd": 6600,
-   "proj": 34.43,
+   "fd": 6700,
+   "proj": 31.93,
    "type": "",
    "status": "",
-   "blurb": "Has scored over 37 fantasy points in 5 of the last 6 games. Boost with Lauri Markkanen out.",
+   "blurb": "Should have a massive usage rate with Jonathan Kuminga and Anthony Edwards out.",
    "url": ""
   },
   {
@@ -316,6 +316,21 @@
   {
    "pos": "PF",
    "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Jaden McDaniels",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 0,
+   "fd": 6600,
+   "proj": 32.17,
+   "type": "",
+   "status": "",
+   "blurb": "Boost with Jonathan Kuminga and Anthony Edwards both out.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
    "fdPos": "SF/PF",
    "player": "Derrick Jones",
    "team": "LAC",
@@ -326,21 +341,6 @@
    "type": "",
    "status": "",
    "blurb": "Has topped 20 fantasy points in 4 of the last 5 games. Elite matchup against the Jazz.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "SF/PF",
-   "player": "Jake LaRavia",
-   "team": "LAL",
-   "opp": "CHA",
-   "dk": 0,
-   "fd": 4000,
-   "proj": 22.15,
-   "type": "",
-   "status": "",
-   "blurb": "Not a high-usage player, but he's cheap and projected for 30 minutes with Austin Reaves out.",
    "url": ""
   },
   {
