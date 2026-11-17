@@ -4,7 +4,7 @@
  "slate": "5 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-17",
- "updated": "2026-11-17T11:15:11-07:00",
+ "updated": "2026-11-17T14:39:34-07:00",
  "positions": [
   "PG",
   "SG",
@@ -120,15 +120,15 @@
    "pos": "SG",
    "dkPos": "PG/SG",
    "fdPos": "SG",
-   "player": "Darryn Peterson",
-   "team": "UTA",
-   "opp": "LAC",
-   "dk": 7300,
+   "player": "Bones Hyland",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 4200,
    "fd": 0,
-   "proj": 35.45,
+   "proj": 19.31,
    "type": "",
    "status": "",
-   "blurb": "Has scored over 37 fantasy points in 5 of the last 6 games. Boost with Lauri Markkanen out.",
+   "blurb": "Should have a bigger role with Anthony Edwards, Jaylen Clark, and Jonathan Kuminga all out.",
    "url": ""
   },
   {
@@ -157,7 +157,7 @@
    "fd": 0,
    "proj": 43.56,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Has topped 45 fantasy points in 4 straight games. Sees a small boost with Ja Morant out.",
    "url": ""
   },
@@ -400,6 +400,14 @@
    "impact": 10
   },
   {
+   "player": "Deni Avdija",
+   "team": "POR",
+   "status": "Q",
+   "note": "Foot",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "Kon Knueppel",
    "team": "CHA",
    "status": "O",
@@ -424,20 +432,20 @@
    "impact": 9
   },
   {
+   "player": "Jonathan Kuminga",
+   "team": "MIN",
+   "status": "O",
+   "note": "Shoulder",
+   "updated": "",
+   "impact": 9
+  },
+  {
    "player": "Dennis Schroder",
    "team": "CHA",
    "status": "O",
    "note": "Hamstring",
    "updated": "",
    "impact": 6
-  },
-  {
-   "player": "Robert Williams III",
-   "team": "POR",
-   "status": "Q",
-   "note": "Rest",
-   "updated": "",
-   "impact": 5
   },
   {
    "player": "Ron Holland",
@@ -458,7 +466,7 @@
   {
    "player": "Chris Youngblood",
    "team": "POR",
-   "status": "D",
+   "status": "O",
    "note": "Foot",
    "updated": "",
    "impact": 3
@@ -474,7 +482,7 @@
   {
    "player": "Isaiah Joe",
    "team": "DET",
-   "status": "D",
+   "status": "O",
    "note": "Hip",
    "updated": "",
    "impact": 2
@@ -614,6 +622,14 @@
    "note": "Knee",
    "updated": "",
    "impact": 1
+  },
+  {
+   "player": "Zyon Pullin",
+   "team": "MIN",
+   "status": "O",
+   "note": "Quad",
+   "updated": "",
+   "impact": 1
   }
  ],
  "news": [
@@ -689,7 +705,7 @@
   },
   {
    "player": "Jonathan Kuminga",
-   "team": "MIN",
+   "team": "",
    "status": "Q",
    "note": "All starters would benefit. Terrence Shannon and Bones Hyland would likely see the biggest uptick in minutes.",
    "time": "10:00 AM"
@@ -700,6 +716,27 @@
    "status": "Q",
    "note": "Barnes is now questionable. If he's out, all of the starters will see a boost.",
    "time": "12:50 PM"
+  },
+  {
+   "player": "Robert Williams",
+   "team": "POR",
+   "status": "A",
+   "note": "Williams was taken off the injury report.",
+   "time": "4:30 PM"
+  },
+  {
+   "player": "Jonathan Kuminga",
+   "team": "",
+   "status": "O",
+   "note": "Terrence Shannon could draw the spot start. More usage is available for all of the starters.",
+   "time": "4:30 PM"
+  },
+  {
+   "player": "Deni Avdija",
+   "team": "POR",
+   "status": "Q",
+   "note": "Avdija is now questionable. If he's out, the Blazers become a lot more appealing for DFS.",
+   "time": "4:30 PM"
   }
  ],
  "teams": [
