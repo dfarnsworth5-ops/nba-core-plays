@@ -4,7 +4,7 @@
  "slate": "5 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-17",
- "updated": "2026-11-17T09:03:29-07:00",
+ "updated": "2026-11-17T10:39:48-07:00",
  "positions": [
   "PG",
   "SG",
@@ -70,7 +70,158 @@
    "fd": "M"
   }
  ],
- "plays": [],
+ "plays": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Luka Doncic",
+   "team": "LAL",
+   "opp": "CHA",
+   "dk": 12200,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Plenty of value on the slate. Has averaged 67 fantasy points in 2 games without Austin Reaves this season.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Cade Cunningham",
+   "team": "DET",
+   "opp": "SAS",
+   "dk": 10000,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Tough matchup against the Spurs, but he should dominate usage and play a ton of minutes with Jalen Duren, Duncan Robinson, Ron Holland, and Isaiah Joe all expected out.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
+   "player": "Terrence Shannon",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 4100,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Already projected as a strong value play with Anthony Edwards and Jaylen Clark out. Big minute boost if Jonathan Kuminga is out.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "PG/SG",
+   "fdPos": "SG",
+   "player": "Darryn Peterson",
+   "team": "UTA",
+   "opp": "LAC",
+   "dk": 7300,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Has scored over 37 fantasy points in 5 of the last 6 games. Boost with Lauri Markkanen out.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SG/SF",
+   "fdPos": "SF",
+   "player": "Terrence Shannon",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 4100,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Already projected as a strong value play with Anthony Edwards and Jaylen Clark out. Big minute boost if Jonathan Kuminga is out.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "PG/SF",
+   "fdPos": "SF",
+   "player": "Deni Avdija",
+   "team": "POR",
+   "opp": "MIN",
+   "dk": 9000,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Has topped 45 fantasy points in 4 straight games. Sees a small boost with Ja Morant out.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF/C",
+   "fdPos": "PF",
+   "player": "Sandro Mamukelashvili",
+   "team": "LAL",
+   "opp": "CHA",
+   "dk": 5000,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Has a path to start and play around 30 minutes with Walker Kessler out.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "SF/PF",
+   "fdPos": "PF",
+   "player": "Ausar Thompson",
+   "team": "DET",
+   "opp": "SAS",
+   "dk": 6500,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Good per-minute producer and projected for 34 minutes tonight with the Pistons shorthanded.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
+   "player": "Mo Bamba",
+   "team": "UTA",
+   "opp": "LAC",
+   "dk": 5300,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Should draw the start with Jaxson Hayes out. Has averaged 1.15 DK / 1.23 FD points per minute.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "PF/C",
+   "fdPos": "C",
+   "player": "Sandro Mamukelashvili",
+   "team": "LAL",
+   "opp": "CHA",
+   "dk": 5000,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Has a path to start and play around 30 minutes with Walker Kessler out.",
+   "url": ""
+  }
+ ],
  "playsFd": [],
  "injuries": [
   {
@@ -311,56 +462,77 @@
    "player": "Austin Reaves",
    "team": "",
    "status": "O",
-   "note": "",
+   "note": "Boost for all of the starters. Quentin Grimes should draw the spot start and sees the biggest usage boost with Reaves off the floor.",
    "time": "10:00 AM"
   },
   {
    "player": "Walker Kessler",
    "team": "",
    "status": "O",
-   "note": "",
+   "note": "Sandro Mamukelashvili will likely draw the spot start at center. He makes for a strong value play on this slate.",
    "time": "10:00 AM"
   },
   {
    "player": "Kon Knueppel",
    "team": "",
    "status": "O",
-   "note": "",
+   "note": "Has only played 6 minutes all season, so we know what to expect with him out again.",
    "time": "10:00 AM"
   },
   {
    "player": "Duncan Robinson",
    "team": "",
    "status": "O",
-   "note": "",
+   "note": "Daniss Jenkins should start again, with a few extra minutes to go around for Kevin Huerter and Ausar Thompson.",
    "time": "10:00 AM"
   },
   {
    "player": "Jaxson Hayes",
    "team": "",
    "status": "O",
-   "note": "",
+   "note": "Mo Bamba is expected to draw the spot start at center.",
    "time": "10:00 AM"
   },
   {
    "player": "Dennis Schroder",
    "team": "",
    "status": "O",
-   "note": "",
+   "note": "Coby White will continue to start at point guard.",
    "time": "10:00 AM"
   },
   {
-   "player": "Robert Williams III",
-   "team": "",
+   "player": "Robert Williams",
+   "team": "POR",
    "status": "Q",
-   "note": "",
+   "note": "If he's out, we can feel better about Donovan Clingan.",
    "time": "10:00 AM"
   },
   {
    "player": "Ron Holland",
    "team": "",
    "status": "O",
-   "note": "",
+   "note": "His absence opens up 15-20 minutes on the wing.",
+   "time": "10:00 AM"
+  },
+  {
+   "player": "Jaylen Clark",
+   "team": "",
+   "status": "O",
+   "note": "His absence opens up around 20 minutes in the second unit.",
+   "time": "10:00 AM"
+  },
+  {
+   "player": "Isaiah Joe",
+   "team": "",
+   "status": "D",
+   "note": "With Robinson and Holland also out, there are a ton of minutes available for the guards and wings.",
+   "time": "10:00 AM"
+  },
+  {
+   "player": "Jonathan Kuminga",
+   "team": "MIN",
+   "status": "Q",
+   "note": "All starters would benefit. Terrence Shannon and Bones Hyland would likely see the biggest uptick in minutes.",
    "time": "10:00 AM"
   }
  ],
@@ -4288,11 +4460,11 @@
  ],
  "preview": {
   "locked": {
-   "PG": 0,
-   "SG": 0,
-   "SF": 0,
-   "PF": 0,
-   "C": 0
+   "PG": 6,
+   "SG": 6,
+   "SF": 6,
+   "PF": 6,
+   "C": 5
   },
   "lockedFd": {
    "PG": 0,
