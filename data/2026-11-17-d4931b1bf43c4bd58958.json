@@ -4,7 +4,7 @@
  "slate": "5 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-17",
- "updated": "2026-11-17T10:52:12-07:00",
+ "updated": "2026-11-17T11:15:11-07:00",
  "positions": [
   "PG",
   "SG",
@@ -172,7 +172,7 @@
    "fd": 0,
    "proj": 41.48,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Has topped 55 fantasy points in 3 of the last 5 games. Not the best game environment, but Kawhi Leonard is still out.",
    "url": ""
   },
@@ -383,7 +383,7 @@
    "proj": 35.72,
    "type": "",
    "status": "",
-   "blurb": "REVENGE GAME against the Knicks. Continues to have an elite usage rate with Kawhi Leoanrd out.",
+   "blurb": "REVENGE GAME against the Knicks. Continues to have an elite usage rate with Kawhi Leonard out.",
    "url": ""
   },
   {
@@ -397,7 +397,7 @@
    "fd": 0,
    "proj": 41.48,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Has topped 55 fantasy points in 3 of the last 5 games. Not the best game environment, but Kawhi Leonard is still out.",
    "url": ""
   },
@@ -518,7 +518,7 @@
    "proj": 33.61,
    "type": "",
    "status": "",
-   "blurb": "His volatility makes him a better GPP target than cash game play. Has 50+ fantasy point upside.",
+   "blurb": "His volatility makes him a better tournament target than cash game play. Has 50+ fantasy point upside.",
    "url": ""
   },
   {
@@ -533,7 +533,7 @@
    "proj": 27.36,
    "type": "",
    "status": "",
-   "blurb": "Playing big minutes right now with Lauri Markkanen out. Low pOWN on a small slate.",
+   "blurb": "Playing big minutes right now with Lauri Markkanen out. Low pOWN% on a small slate.",
    "url": ""
   },
   {
@@ -970,7 +970,7 @@
    "proj": 26.7,
    "type": "",
    "status": "",
-   "blurb": "Playing big minutes right now with Lauri Markkanen out. Low pOWN on a small slate.",
+   "blurb": "Playing big minutes right now with Lauri Markkanen out. Low pOWN% on a small slate.",
    "url": ""
   },
   {
@@ -1015,7 +1015,7 @@
    "proj": 22.15,
    "type": "",
    "status": "",
-   "blurb": "Not a high usage player, but he's cheap and projected for 30 minutes with Austin Reaves out.",
+   "blurb": "Not a high-usage player, but he's cheap and projected for 30 minutes with Austin Reaves out.",
    "url": ""
   },
   {
@@ -1045,7 +1045,7 @@
    "proj": 22.15,
    "type": "",
    "status": "",
-   "blurb": "Not a high usage player, but he's cheap and projected for 30 minutes with Austin Reaves out.",
+   "blurb": "Not a high-usage player, but he's cheap and projected for 30 minutes with Austin Reaves out.",
    "url": ""
   },
   {
@@ -1273,6 +1273,14 @@
    "team": "LAL",
    "status": "O",
    "note": "Leg",
+   "updated": "",
+   "impact": 10
+  },
+  {
+   "player": "Scottie Barnes",
+   "team": "TOR",
+   "status": "Q",
+   "note": "Illness",
    "updated": "",
    "impact": 10
   },
