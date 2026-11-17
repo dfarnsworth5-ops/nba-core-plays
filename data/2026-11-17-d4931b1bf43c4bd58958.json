@@ -4,7 +4,7 @@
  "slate": "5 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-17",
- "updated": "2026-11-17T14:39:34-07:00",
+ "updated": "2026-11-17T14:44:12-07:00",
  "positions": [
   "PG",
   "SG",
@@ -692,6 +692,36 @@
    "pos": "PG",
    "dkPos": "PG",
    "fdPos": "PG",
+   "player": "Bones Hyland",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 0,
+   "fd": 4000,
+   "proj": 18.97,
+   "type": "",
+   "status": "",
+   "blurb": "Should have a bigger role with Anthony Edwards, Jaylen Clark, and Jonathan Kuminga all out.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "SG/PG",
+   "player": "Ayo Dosunmu",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 0,
+   "fd": 6700,
+   "proj": 31.93,
+   "type": "",
+   "status": "",
+   "blurb": "Should have a massive usage rate with Jonathan Kuminga and Anthony Edwards out.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
    "player": "Darius Garland",
    "team": "LAC",
    "opp": "UTA",
@@ -716,21 +746,6 @@
    "type": "",
    "status": "",
    "blurb": "Tough matchup against the Spurs, but he should dominate usage and play a ton of minutes with Jalen Duren, Duncan Robinson, Ron Holland, and Isaiah Joe all expected out.",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "SG/PG",
-   "player": "Stephon Castle",
-   "team": "SAS",
-   "opp": "DET",
-   "dk": 0,
-   "fd": 6600,
-   "proj": 33.63,
-   "type": "",
-   "status": "",
-   "blurb": "This isn't my favorite game environment, but he has scored 45 and 51 fantasy points over the last 2 games.",
    "url": ""
   },
   {
@@ -764,21 +779,6 @@
    "url": ""
   },
   {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "SG/PG",
-   "player": "Ayo Dosunmu",
-   "team": "MIN",
-   "opp": "POR",
-   "dk": 0,
-   "fd": 6700,
-   "proj": 31.93,
-   "type": "",
-   "status": "",
-   "blurb": "Has scored at least 35 fantasy points in 6 of the last 8 games, but his price has caught up to his production.",
-   "url": ""
-  },
-  {
    "pos": "SG",
    "dkPos": "SG",
    "fdPos": "SF/SG",
@@ -791,6 +791,21 @@
    "type": "",
    "status": "",
    "blurb": "Good per-minute producer and projected for 34 minutes tonight with the Pistons shorthanded.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG/PG",
+   "player": "Ayo Dosunmu",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 0,
+   "fd": 6700,
+   "proj": 31.93,
+   "type": "",
+   "status": "",
+   "blurb": "Should have a massive usage rate with Jonathan Kuminga and Anthony Edwards out.",
    "url": ""
   },
   {
@@ -866,21 +881,6 @@
    "type": "",
    "status": "",
    "blurb": "Duncan Robinson, Ron Holland, and Isaiah Joe all expected out. Projected for 31 minutes against the Spurs.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SF/SG",
-   "player": "Ace Bailey",
-   "team": "UTA",
-   "opp": "LAC",
-   "dk": 0,
-   "fd": 5100,
-   "proj": 26.7,
-   "type": "",
-   "status": "",
-   "blurb": "Playing big minutes right now with Lauri Markkanen out. Low pOWN on a small slate.",
    "url": ""
   },
   {
@@ -1021,6 +1021,21 @@
   {
    "pos": "PF",
    "dkPos": "PF",
+   "fdPos": "PF",
+   "player": "Jaden McDaniels",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 0,
+   "fd": 6600,
+   "proj": 32.17,
+   "type": "",
+   "status": "",
+   "blurb": "Boost with Jonathan Kuminga and Anthony Edwards both out.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
    "fdPos": "SF/PF",
    "player": "Derrick Jones",
    "team": "LAC",
@@ -1091,21 +1106,6 @@
    "type": "",
    "status": "",
    "blurb": "Price point has come down on FanDuel. Has topped 25 fantasy points in 5 of the last 6 games.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "Jaden McDaniels",
-   "team": "MIN",
-   "opp": "POR",
-   "dk": 0,
-   "fd": 6600,
-   "proj": 32.17,
-   "type": "",
-   "status": "",
-   "blurb": "Continues to see a higher usage rate with Anthony Edwards out. Can fill up the stat sheet.",
    "url": ""
   },
   {
@@ -1232,21 +1232,6 @@
    "pos": "C",
    "dkPos": "C",
    "fdPos": "C",
-   "player": "Donovan Clingan",
-   "team": "POR",
-   "opp": "MIN",
-   "dk": 0,
-   "fd": 6900,
-   "proj": 33.02,
-   "type": "",
-   "status": "",
-   "blurb": "Will become a much more enticing play if Robert Williams is ruled out.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
    "player": "Brook Lopez",
    "team": "LAC",
    "opp": "UTA",
@@ -1256,6 +1241,21 @@
    "type": "",
    "status": "",
    "blurb": "Hard to click his name at this price, but he has scored 29 or more fantasy points in 4 of the last 5 games.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "PF/C",
+   "player": "Trey Lyles",
+   "team": "MIN",
+   "opp": "POR",
+   "dk": 0,
+   "fd": 3800,
+   "proj": 13.59,
+   "type": "",
+   "status": "",
+   "blurb": "Should have a bigger role with Anthony Edwards, Jaylen Clark, and Jonathan Kuminga all out.",
    "url": ""
   }
  ],
