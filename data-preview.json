@@ -4,7 +4,7 @@
  "slate": "5 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-17",
- "updated": "2026-11-16T22:05:09-07:00",
+ "updated": "2026-11-17T09:03:29-07:00",
  "positions": [
   "PG",
   "SG",
@@ -306,7 +306,64 @@
    "impact": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "player": "Austin Reaves",
+   "team": "",
+   "status": "O",
+   "note": "",
+   "time": "10:00 AM"
+  },
+  {
+   "player": "Walker Kessler",
+   "team": "",
+   "status": "O",
+   "note": "",
+   "time": "10:00 AM"
+  },
+  {
+   "player": "Kon Knueppel",
+   "team": "",
+   "status": "O",
+   "note": "",
+   "time": "10:00 AM"
+  },
+  {
+   "player": "Duncan Robinson",
+   "team": "",
+   "status": "O",
+   "note": "",
+   "time": "10:00 AM"
+  },
+  {
+   "player": "Jaxson Hayes",
+   "team": "",
+   "status": "O",
+   "note": "",
+   "time": "10:00 AM"
+  },
+  {
+   "player": "Dennis Schroder",
+   "team": "",
+   "status": "O",
+   "note": "",
+   "time": "10:00 AM"
+  },
+  {
+   "player": "Robert Williams III",
+   "team": "",
+   "status": "Q",
+   "note": "",
+   "time": "10:00 AM"
+  },
+  {
+   "player": "Ron Holland",
+   "team": "",
+   "status": "O",
+   "note": "",
+   "time": "10:00 AM"
+  }
+ ],
  "teams": [
   [
    "Aaron Gordon",
