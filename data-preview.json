@@ -4,7 +4,7 @@
  "slate": "5 games · 7:30 PM ET lock",
  "note": "",
  "iso": "2026-11-17",
- "updated": "2026-11-17T14:44:12-07:00",
+ "updated": "2026-11-17T16:11:43-07:00",
  "positions": [
   "PG",
   "SG",
@@ -392,14 +392,6 @@
    "impact": 10
   },
   {
-   "player": "Scottie Barnes",
-   "team": "TOR",
-   "status": "Q",
-   "note": "Illness",
-   "updated": "",
-   "impact": 10
-  },
-  {
    "player": "Deni Avdija",
    "team": "POR",
    "status": "Q",
@@ -737,6 +729,13 @@
    "status": "Q",
    "note": "Avdija is now questionable. If he's out, the Blazers become a lot more appealing for DFS.",
    "time": "4:30 PM"
+  },
+  {
+   "player": "Scottie Barnes",
+   "team": "",
+   "status": "A",
+   "note": "Barnes will play tonight.",
+   "time": "6:10 PM"
   }
  ],
  "teams": [
