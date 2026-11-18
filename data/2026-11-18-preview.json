@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-18",
- "updated": "2026-11-18T10:37:38-07:00",
+ "updated": "2026-11-18T10:58:49-07:00",
  "positions": [
   "PG",
   "SG",
@@ -150,6 +150,21 @@
  "plays": [
   {
    "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 6800,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. RJ Barrett is questionable. Quickley should dominate usage.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
    "dkPos": "PG/SG",
    "fdPos": "PG",
    "player": "Daniss Jenkins",
@@ -164,48 +179,33 @@
    "url": ""
   },
   {
-   "pos": "PG",
-   "dkPos": "PG/SG",
-   "fdPos": "PG",
-   "player": "Javon Small",
-   "team": "MEM",
-   "opp": "CLE",
-   "dk": 4600,
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
+   "player": "Norman Powell",
+   "team": "CHI",
+   "opp": "BKN",
+   "dk": 6200,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Has topped 30 minutes and 38 fantasy points in 3 straight games. Nice matchup against the Nets.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
+   "player": "RJ Barrett",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 8100,
    "fd": 0,
    "proj": 0,
    "type": "",
    "status": "",
-   "blurb": "Big role with Ty Jerome out. Has scored 37 and 32 fantasy points in the last 2 games.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG/SF",
-   "fdPos": "SG",
-   "player": "Norman Powell",
-   "team": "CHI",
-   "opp": "BKN",
-   "dk": 6200,
-   "fd": 0,
-   "proj": 0,
-   "type": "Core",
-   "status": "",
-   "blurb": "Has topped 30 minutes and 38 fantasy points in 3 straight games. Nice matchup against the Nets.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG/SF",
-   "fdPos": "SG",
-   "player": "Cam Spencer",
-   "team": "MEM",
-   "opp": "CLE",
-   "dk": 5600,
-   "fd": 0,
-   "proj": 0,
-   "type": "Core",
-   "status": "",
-   "blurb": "WIll draw another start with Ty Jerome out. Has scored 33 and 34 fantasy points in the last 2 games.",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. Should dominate usage if active.",
    "url": ""
   },
   {
@@ -227,15 +227,15 @@
    "pos": "SF",
    "dkPos": "SG/SF",
    "fdPos": "SF",
-   "player": "Cam Spencer",
-   "team": "MEM",
-   "opp": "CLE",
-   "dk": 5600,
+   "player": "RJ Barrett",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 8100,
    "fd": 0,
    "proj": 0,
-   "type": "Core",
+   "type": "",
    "status": "",
-   "blurb": "WIll draw another start with Ty Jerome out. Has scored 33 and 34 fantasy points in the last 2 games.",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. Should dominate usage if active.",
    "url": ""
   },
   {
@@ -303,6 +303,21 @@
   {
    "pos": "PG",
    "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 6300,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. RJ Barrett is questionable. Quickley should dominate usage.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
+   "dkPos": "PG",
    "fdPos": "PG/SG",
    "player": "Daniss Jenkins",
    "team": "DET",
@@ -313,21 +328,6 @@
    "type": "",
    "status": "",
    "blurb": "Playing big minutes with Duncan Robinson out. Has scored over 40 fantasy points in 3 of the last 5 games.",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Javon Small",
-   "team": "MEM",
-   "opp": "CLE",
-   "dk": 0,
-   "fd": 4600,
-   "proj": 0,
-   "type": "",
-   "status": "",
-   "blurb": "Big role with Ty Jerome out. Has scored 37 and 32 fantasy points in the last 2 games.",
    "url": ""
   },
   {
@@ -348,16 +348,16 @@
   {
    "pos": "SG",
    "dkPos": "SG",
-   "fdPos": "PG/SG",
-   "player": "Daniss Jenkins",
-   "team": "DET",
-   "opp": "NOP",
+   "fdPos": "SG/SF",
+   "player": "RJ Barrett",
+   "team": "TOR",
+   "opp": "WAS",
    "dk": 0,
-   "fd": 5900,
+   "fd": 6900,
    "proj": 0,
    "type": "",
    "status": "",
-   "blurb": "Playing big minutes with Duncan Robinson out. Has scored over 40 fantasy points in 3 of the last 5 games.",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. Should dominate usage if active.",
    "url": ""
   },
   {
@@ -408,16 +408,16 @@
   {
    "pos": "PF",
    "dkPos": "PF",
-   "fdPos": "C/PF",
-   "player": "Jarrett Allen",
-   "team": "CLE",
-   "opp": "MEM",
+   "fdPos": "PF/C",
+   "player": "Collin Murray-Boyles",
+   "team": "TOR",
+   "opp": "WAS",
    "dk": 0,
-   "fd": 6700,
+   "fd": 5600,
    "proj": 0,
    "type": "",
    "status": "",
-   "blurb": "Has averaged 40 fantasy points per game with Evan Mobley out the last two seasons.",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. RJ Barrett is questionable. Should see a boost in usage and minutes.",
    "url": ""
   },
   {
@@ -438,16 +438,16 @@
   {
    "pos": "C",
    "dkPos": "C",
-   "fdPos": "C/PF",
-   "player": "Jarrett Allen",
-   "team": "CLE",
-   "opp": "MEM",
+   "fdPos": "PF/C",
+   "player": "Collin Murray-Boyles",
+   "team": "TOR",
+   "opp": "WAS",
    "dk": 0,
-   "fd": 6700,
+   "fd": 5600,
    "proj": 0,
    "type": "",
    "status": "",
-   "blurb": "Has averaged 40 fantasy points per game with Evan Mobley out the last two seasons.",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. RJ Barrett is questionable. Should see a boost in usage and minutes.",
    "url": ""
   }
  ],
@@ -1208,6 +1208,20 @@
    "status": "O",
    "note": "Williams is out again. With Curry also out, there's a lot of minutes open in this backcourt.",
    "time": "12:30 PM"
+  },
+  {
+   "player": "Scottie Barnes",
+   "team": "",
+   "status": "O",
+   "note": "Barnes has been ruled out. All starters see a boost, while Jamal Shead should see the biggest uptick in minutes.",
+   "time": "12:50 PM"
+  },
+  {
+   "player": "RJ Barrett",
+   "team": "",
+   "status": "Q",
+   "note": "If he's out, we can stack the Raptors. If he's active, he should dominate usage.",
+   "time": "12:50 PM"
   }
  ],
  "teams": [
@@ -5136,7 +5150,7 @@
  ],
  "preview": {
   "locked": {
-   "PG": 6,
+   "PG": 5,
    "SG": 6,
    "SF": 6,
    "PF": 6,
