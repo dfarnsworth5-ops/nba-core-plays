@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-18",
- "updated": "2026-11-18T10:37:38-07:00",
+ "updated": "2026-11-18T10:58:49-07:00",
  "positions": [
   "PG",
   "SG",
@@ -150,6 +150,21 @@
  "plays": [
   {
    "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 6800,
+   "fd": 0,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. RJ Barrett is questionable. Quickley should dominate usage.",
+   "url": ""
+  },
+  {
+   "pos": "PG",
    "dkPos": "PG/SG",
    "fdPos": "PG",
    "player": "Daniss Jenkins",
@@ -191,21 +206,6 @@
    "type": "",
    "status": "",
    "blurb": "Doesn't project extremely well, but he has topped 40 fantasy points in 5 straight games and has an elite matchup against the Bucks.",
-   "url": ""
-  },
-  {
-   "pos": "PG",
-   "dkPos": "PG/SF",
-   "fdPos": "PG",
-   "player": "Scottie Barnes",
-   "team": "TOR",
-   "opp": "WAS",
-   "dk": 8600,
-   "fd": 0,
-   "proj": 0,
-   "type": "",
-   "status": "",
-   "blurb": "Has played well with Kawhi Leonard out. Has scored over 55 fantasy points in 3 of the last 6 games.",
    "url": ""
   },
   {
@@ -254,21 +254,6 @@
    "url": ""
   },
   {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Immanuel Quickley",
-   "team": "TOR",
-   "opp": "WAS",
-   "dk": 6800,
-   "fd": 0,
-   "proj": 0,
-   "type": "",
-   "status": "",
-   "blurb": "Offers a high floor with Kawhi Leonard out at a decent price point. He's a better lineup filler than lineup starter.",
-   "url": ""
-  },
-  {
    "pos": "SG",
    "dkPos": "SG/SF",
    "fdPos": "SG",
@@ -287,13 +272,28 @@
    "pos": "SG",
    "dkPos": "SG/SF",
    "fdPos": "SG",
+   "player": "RJ Barrett",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 8100,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. Should dominate usage if active.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
    "player": "Cam Spencer",
    "team": "MEM",
    "opp": "CLE",
    "dk": 5600,
    "fd": 0,
    "proj": 0,
-   "type": "Core",
+   "type": "",
    "status": "",
    "blurb": "WIll draw another start with Ty Jerome out. Has scored 33 and 34 fantasy points in the last 2 games.",
    "url": ""
@@ -374,21 +374,6 @@
    "url": ""
   },
   {
-   "pos": "SG",
-   "dkPos": "PG/SG",
-   "fdPos": "SG",
-   "player": "VJ Edgecombe",
-   "team": "PHI",
-   "opp": "ORL",
-   "dk": 6400,
-   "fd": 0,
-   "proj": 0,
-   "type": "",
-   "status": "",
-   "blurb": "Clear path to minutes in the mid to high 30s with Jaylen Brown out.",
-   "url": ""
-  },
-  {
    "pos": "SF",
    "dkPos": "SG/SF",
    "fdPos": "SF",
@@ -407,13 +392,28 @@
    "pos": "SF",
    "dkPos": "SG/SF",
    "fdPos": "SF",
+   "player": "RJ Barrett",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 8100,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. Should dominate usage if active.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SG/SF",
+   "fdPos": "SF",
    "player": "Cam Spencer",
    "team": "MEM",
    "opp": "CLE",
    "dk": 5600,
    "fd": 0,
    "proj": 0,
-   "type": "Core",
+   "type": "",
    "status": "",
    "blurb": "WIll draw another start with Ty Jerome out. Has scored 33 and 34 fantasy points in the last 2 games.",
    "url": ""
@@ -450,21 +450,6 @@
   },
   {
    "pos": "SF",
-   "dkPos": "PG/SF",
-   "fdPos": "SF",
-   "player": "Scottie Barnes",
-   "team": "TOR",
-   "opp": "WAS",
-   "dk": 8600,
-   "fd": 0,
-   "proj": 0,
-   "type": "",
-   "status": "",
-   "blurb": "Has played well with Kawhi Leonard out. Has scored over 55 fantasy points in 3 of the last 6 games.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
    "dkPos": "#N/A",
    "fdPos": "SF",
    "player": "Michael Porter Jr.",
@@ -495,17 +480,17 @@
   },
   {
    "pos": "SF",
-   "dkPos": "SF",
+   "dkPos": "SF/PF",
    "fdPos": "SF",
-   "player": "Kevin Durant",
-   "team": "HOU",
-   "opp": "IND",
-   "dk": 7700,
+   "player": "Saddiq Bey",
+   "team": "NOP",
+   "opp": "DET",
+   "dk": 6500,
    "fd": 0,
    "proj": 0,
    "type": "",
    "status": "",
-   "blurb": "Affordable and would see a sizable boost if Amen Thompson is out again.",
+   "blurb": "Should draw another start with Trey Murphy and Dejounte Murray out again.",
    "url": ""
   },
   {
@@ -536,6 +521,21 @@
    "type": "",
    "status": "",
    "blurb": "This is Wagner's world, and we are all just living in it. He has topped 54 fantasy points in 5 of the last 6 games.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF/C",
+   "fdPos": "PF",
+   "player": "Collin Murray-Boyles",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 5700,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. RJ Barrett is questionable. Should see a boost in usage and minutes.",
    "url": ""
   },
   {
@@ -614,21 +614,6 @@
    "url": ""
   },
   {
-   "pos": "PF",
-   "dkPos": "SF/PF",
-   "fdPos": "PF",
-   "player": "Saddiq Bey",
-   "team": "NOP",
-   "opp": "DET",
-   "dk": 6500,
-   "fd": 0,
-   "proj": 0,
-   "type": "",
-   "status": "",
-   "blurb": "Should draw another start with Trey Murphy and Dejounte Murray out again.",
-   "url": ""
-  },
-  {
    "pos": "C",
    "dkPos": "C",
    "fdPos": "C",
@@ -671,6 +656,21 @@
    "type": "",
    "status": "",
    "blurb": "Good per-minute producer. Has a path to 30 minutes if all goes well, and he has an elite matchup.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "PF/C",
+   "fdPos": "C",
+   "player": "Collin Murray-Boyles",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 5700,
+   "fd": 0,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. RJ Barrett is questionable. Should see a boost in usage and minutes.",
    "url": ""
   },
   {
@@ -732,24 +732,24 @@
    "status": "",
    "blurb": "Coming off his worst game of the season. Good bounce-back spot against the Bucks.",
    "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "PF/C",
-   "fdPos": "C",
-   "player": "John Collins",
-   "team": "DET",
-   "opp": "NOP",
-   "dk": 5200,
-   "fd": 0,
-   "proj": 0,
-   "type": "",
-   "status": "",
-   "blurb": "The floor is a concern, but he's starting and has 30+ fantasy points in his range of outcomes.",
-   "url": ""
   }
  ],
  "playsFd": [
+  {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Immanuel Quickley",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 6300,
+   "proj": 0,
+   "type": "Core",
+   "status": "",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. RJ Barrett is questionable. Quickley should dominate usage.",
+   "url": ""
+  },
   {
    "pos": "PG",
    "dkPos": "PG",
@@ -856,21 +856,6 @@
    "url": ""
   },
   {
-   "pos": "PG",
-   "dkPos": "PG",
-   "fdPos": "PG",
-   "player": "Nolan Traore",
-   "team": "BKN",
-   "opp": "CHI",
-   "dk": 0,
-   "fd": 4500,
-   "proj": 0,
-   "type": "",
-   "status": "",
-   "blurb": "Only $4,500 on FanDuel and should see 25 minutes in an elite matchup against the Bulls.",
-   "url": ""
-  },
-  {
    "pos": "SG",
    "dkPos": "SG",
    "fdPos": "SG",
@@ -883,6 +868,36 @@
    "type": "Core",
    "status": "",
    "blurb": "Has topped 30 minutes and 38 fantasy points in 3 straight games. Nice matchup against the Nets.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG/SF",
+   "player": "RJ Barrett",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 6900,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. Should dominate usage if active.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG/SF",
+   "player": "Ja'Kobe Walter",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 4400,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. RJ Barrett is questionable.",
    "url": ""
   },
   {
@@ -961,36 +976,6 @@
    "url": ""
   },
   {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG/SF",
-   "player": "Ja'Kobe Walter",
-   "team": "TOR",
-   "opp": "WAS",
-   "dk": 0,
-   "fd": 4400,
-   "proj": 0,
-   "type": "",
-   "status": "",
-   "blurb": "Affordable and projected for 31 minutes tonight against the Wizards.",
-   "url": ""
-  },
-  {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG/SF",
-   "player": "Kevin Huerter",
-   "team": "DET",
-   "opp": "NOP",
-   "dk": 0,
-   "fd": 4900,
-   "proj": 0,
-   "type": "",
-   "status": "",
-   "blurb": "Playing a ton of minutes with Detroit missing some wing players. Nice matchup against the Pelicans.",
-   "url": ""
-  },
-  {
    "pos": "SF",
    "dkPos": "SF",
    "fdPos": "SF",
@@ -1018,6 +1003,21 @@
    "type": "",
    "status": "",
    "blurb": "Usage is high with Kawhi Leonard out. Good price point on FanDuel.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SG/SF",
+   "player": "Ja'Kobe Walter",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 4400,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. RJ Barrett is questionable.",
    "url": ""
   },
   {
@@ -1084,21 +1084,6 @@
    "pos": "SF",
    "dkPos": "SF",
    "fdPos": "SG/SF",
-   "player": "Ja'Kobe Walter",
-   "team": "TOR",
-   "opp": "WAS",
-   "dk": 0,
-   "fd": 4400,
-   "proj": 0,
-   "type": "",
-   "status": "",
-   "blurb": "Affordable and projected for 31 minutes tonight against the Wizards.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "SG/SF",
    "player": "Kevin Huerter",
    "team": "DET",
    "opp": "NOP",
@@ -1128,6 +1113,21 @@
   {
    "pos": "PF",
    "dkPos": "PF",
+   "fdPos": "PF/C",
+   "player": "Collin Murray-Boyles",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 5600,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. RJ Barrett is questionable. Should see a boost in usage and minutes.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
    "fdPos": "C/PF",
    "player": "Jarrett Allen",
    "team": "CLE",
@@ -1138,21 +1138,6 @@
    "type": "",
    "status": "",
    "blurb": "Has averaged 40 fantasy points per game with Evan Mobley out the last two seasons.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF",
-   "player": "Scottie Barnes",
-   "team": "TOR",
-   "opp": "WAS",
-   "dk": 0,
-   "fd": 9200,
-   "proj": 0,
-   "type": "",
-   "status": "",
-   "blurb": "Has played well with Kawhi Leonard out. Has scored over 55 fantasy points in 3 of the last 6 games.",
    "url": ""
   },
   {
@@ -1248,6 +1233,21 @@
   {
    "pos": "C",
    "dkPos": "C",
+   "fdPos": "PF/C",
+   "player": "Collin Murray-Boyles",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 5600,
+   "proj": 0,
+   "type": "",
+   "status": "",
+   "blurb": "Scottie Barnes and Kawhi Leonard are out. RJ Barrett is questionable. Should see a boost in usage and minutes.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
    "fdPos": "C/PF",
    "player": "Jarrett Allen",
    "team": "CLE",
@@ -1318,21 +1318,6 @@
    "type": "",
    "status": "",
    "blurb": "Has shown the ability to score 35+ fantasy points in limited minutes.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "PF/C",
-   "player": "John Collins",
-   "team": "DET",
-   "opp": "NOP",
-   "dk": 0,
-   "fd": 4700,
-   "proj": 0,
-   "type": "",
-   "status": "",
-   "blurb": "The floor is a concern, but he's starting and has 30+ fantasy points in his range of outcomes.",
    "url": ""
   },
   {
@@ -2108,6 +2093,20 @@
    "status": "O",
    "note": "Williams is out again. With Curry also out, there's a lot of minutes open in this backcourt.",
    "time": "12:30 PM"
+  },
+  {
+   "player": "Scottie Barnes",
+   "team": "",
+   "status": "O",
+   "note": "Barnes has been ruled out. All starters see a boost, while Jamal Shead should see the biggest uptick in minutes.",
+   "time": "12:50 PM"
+  },
+  {
+   "player": "RJ Barrett",
+   "team": "",
+   "status": "Q",
+   "note": "If he's out, we can stack the Raptors. If he's active, he should dominate usage.",
+   "time": "12:50 PM"
   }
  ],
  "teams": [
