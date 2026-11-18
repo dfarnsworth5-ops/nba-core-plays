@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-18",
- "updated": "2026-11-18T11:12:31-07:00",
+ "updated": "2026-11-18T11:30:55-07:00",
  "positions": [
   "PG",
   "SG",
@@ -662,6 +662,21 @@
    "pos": "C",
    "dkPos": "C",
    "fdPos": "C",
+   "player": "Jakob Poeltl",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 5300,
+   "fd": 0,
+   "proj": 31.24,
+   "type": "",
+   "status": "",
+   "blurb": "Will likely slide into the starting lineup with Scottie Barnes out.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
+   "fdPos": "C",
    "player": "Day'Ron Sharpe",
    "team": "BKN",
    "opp": "CHI",
@@ -731,21 +746,6 @@
    "type": "",
    "status": "",
    "blurb": "Excellent matchup against the Pacers. Would see a boost if Amen Thompson is out again.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Bam Adebayo",
-   "team": "MIA",
-   "opp": "MIL",
-   "dk": 7900,
-   "fd": 0,
-   "proj": 37.72,
-   "type": "",
-   "status": "",
-   "blurb": "Coming off his worst game of the season. Good bounce-back spot against the Bucks.",
    "url": ""
   }
  ],
@@ -1248,6 +1248,21 @@
   {
    "pos": "C",
    "dkPos": "C",
+   "fdPos": "C",
+   "player": "Jakob Poeltl",
+   "team": "TOR",
+   "opp": "WAS",
+   "dk": 0,
+   "fd": 4600,
+   "proj": 31.74,
+   "type": "",
+   "status": "",
+   "blurb": "Will likely slide into the starting lineup with Scottie Barnes out.",
+   "url": ""
+  },
+  {
+   "pos": "C",
+   "dkPos": "C",
    "fdPos": "PF/C",
    "player": "Collin Murray-Boyles",
    "team": "TOR",
@@ -1333,21 +1348,6 @@
    "type": "",
    "status": "",
    "blurb": "Has shown the ability to score 35+ fantasy points in limited minutes.",
-   "url": ""
-  },
-  {
-   "pos": "C",
-   "dkPos": "C",
-   "fdPos": "C",
-   "player": "Alperen Sengun",
-   "team": "HOU",
-   "opp": "IND",
-   "dk": 0,
-   "fd": 10000,
-   "proj": 45.31,
-   "type": "",
-   "status": "",
-   "blurb": "Excellent matchup against the Pacers. Would see a boost if Amen Thompson is out again.",
    "url": ""
   }
  ],
