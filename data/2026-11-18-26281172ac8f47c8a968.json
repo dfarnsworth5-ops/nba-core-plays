@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-18",
- "updated": "2026-11-18T14:17:19-07:00",
+ "updated": "2026-11-18T15:43:02-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1475,7 +1475,7 @@
   {
    "player": "Andrew Nembhard",
    "team": "IND",
-   "status": "Q",
+   "status": "O",
    "note": "Hip",
    "updated": "",
    "impact": 9
@@ -1505,14 +1505,6 @@
    "impact": 8
   },
   {
-   "player": "De'Andre Hunter",
-   "team": "SAC",
-   "status": "Q",
-   "note": "Hip",
-   "updated": "",
-   "impact": 8
-  },
-  {
    "player": "Jaylon Tyson",
    "team": "CLE",
    "status": "O",
@@ -1525,14 +1517,6 @@
    "team": "GSW",
    "status": "Q",
    "note": "Back",
-   "updated": "",
-   "impact": 7
-  },
-  {
-   "player": "Precious Achiuwa",
-   "team": "SAC",
-   "status": "Q",
-   "note": "Leg",
    "updated": "",
    "impact": 7
   },
@@ -2066,7 +2050,7 @@
   },
   {
    "player": "Andrew Nembhard",
-   "team": "IND",
+   "team": "",
    "status": "Q",
    "note": "With Tyrese Haliburton out, Nembhard's absence would open up a ton of minutes in the backcourt and usage in the offense.",
    "time": "11:15 AM"
@@ -2217,6 +2201,13 @@
    "status": "O",
    "note": "Pistons will be extremely shorthanded once again.",
    "time": "2:05 PM"
+  },
+  {
+   "player": "Andrew Nembhard",
+   "team": "",
+   "status": "O",
+   "note": "Nembhard has been ruled out. Quenton Jackson will likely start. All starters should see a boost.",
+   "time": "5:45 PM"
   }
  ],
  "teams": [
