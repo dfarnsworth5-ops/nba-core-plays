@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-18",
- "updated": "2026-11-18T11:06:48-07:00",
+ "updated": "2026-11-18T11:10:24-07:00",
  "positions": [
   "PG",
   "SG",
@@ -254,6 +254,21 @@
    "url": ""
   },
   {
+   "pos": "PG",
+   "dkPos": "PG",
+   "fdPos": "PG",
+   "player": "Josh Giddey",
+   "team": "CHI",
+   "opp": "BKN",
+   "dk": 7400,
+   "fd": 0,
+   "proj": 36.99,
+   "type": "",
+   "status": "",
+   "blurb": "Has been extremely volatile, but he sees a big usage boost with Caleb WIlson off the floor.",
+   "url": ""
+  },
+  {
    "pos": "SG",
    "dkPos": "SG/SF",
    "fdPos": "SG",
@@ -295,7 +310,7 @@
    "proj": 30.5,
    "type": "",
    "status": "",
-   "blurb": "WIll draw another start with Ty Jerome out. Has scored 33 and 34 fantasy points in the last 2 games.",
+   "blurb": "Will draw another start with Ty Jerome out. Has scored 33 and 34 fantasy points in the last 2 games.",
    "url": ""
   },
   {
@@ -415,7 +430,7 @@
    "proj": 30.5,
    "type": "",
    "status": "",
-   "blurb": "WIll draw another start with Ty Jerome out. Has scored 33 and 34 fantasy points in the last 2 games.",
+   "blurb": "Will draw another start with Ty Jerome out. Has scored 33 and 34 fantasy points in the last 2 games.",
    "url": ""
   },
   {
