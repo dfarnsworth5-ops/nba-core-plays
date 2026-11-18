@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-18",
- "updated": "2026-11-18T12:08:02-07:00",
+ "updated": "2026-11-18T14:17:19-07:00",
  "positions": [
   "PG",
   "SG",
@@ -455,16 +455,8 @@
   {
    "player": "Austin Reaves",
    "team": "LAL",
-   "status": "Q",
+   "status": "O",
    "note": "Heel",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Walker Kessler",
-   "team": "LAL",
-   "status": "Q",
-   "note": "Leg",
    "updated": "",
    "impact": 10
   },
@@ -533,6 +525,14 @@
    "impact": 10
   },
   {
+   "player": "Cade Cunningham",
+   "team": "DET",
+   "status": "Q",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "Duncan Robinson",
    "team": "DET",
    "status": "O",
@@ -543,7 +543,7 @@
   {
    "player": "Jaxson Hayes",
    "team": "UTA",
-   "status": "D",
+   "status": "Q",
    "note": "Knee",
    "updated": "",
    "impact": 9
@@ -653,9 +653,17 @@
    "impact": 6
   },
   {
-   "player": "Ron Holland",
+   "player": "Isaiah Joe",
    "team": "DET",
    "status": "Q",
+   "note": "Hip",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Ron Holland",
+   "team": "DET",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 5
@@ -711,7 +719,7 @@
   {
    "player": "Taurean Prince",
    "team": "DET",
-   "status": "Q",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 3
@@ -747,14 +755,6 @@
    "note": "Ankle",
    "updated": "",
    "impact": 3
-  },
-  {
-   "player": "Isaiah Joe",
-   "team": "DET",
-   "status": "D",
-   "note": "Hip",
-   "updated": "",
-   "impact": 2
   },
   {
    "player": "Clint Capela",
