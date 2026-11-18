@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-18",
- "updated": "2026-11-18T11:12:31-07:00",
+ "updated": "2026-11-18T11:30:55-07:00",
  "positions": [
   "PG",
   "SG",
@@ -438,16 +438,16 @@
   {
    "pos": "C",
    "dkPos": "C",
-   "fdPos": "PF/C",
-   "player": "Collin Murray-Boyles",
+   "fdPos": "C",
+   "player": "Jakob Poeltl",
    "team": "TOR",
    "opp": "WAS",
    "dk": 0,
-   "fd": 5600,
-   "proj": 31.42,
+   "fd": 4600,
+   "proj": 31.74,
    "type": "",
    "status": "",
-   "blurb": "Scottie Barnes and Kawhi Leonard are out. RJ Barrett is questionable. Should see a boost in usage and minutes.",
+   "blurb": "Will likely slide into the starting lineup with Scottie Barnes out.",
    "url": ""
   }
  ],
