@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-18",
- "updated": "2026-11-18T10:36:46-07:00",
+ "updated": "2026-11-18T10:37:38-07:00",
  "positions": [
   "PG",
   "SG",
@@ -2101,6 +2101,13 @@
    "status": "Q",
    "note": "Meleek Thomas and Mario Hezonja will see a boost if Merrill is out.",
    "time": "11:15 AM"
+  },
+  {
+   "player": "Brandon Williams",
+   "team": "",
+   "status": "O",
+   "note": "Williams is out again. With Curry also out, there's a lot of minutes open in this backcourt.",
+   "time": "12:30 PM"
   }
  ],
  "teams": [
