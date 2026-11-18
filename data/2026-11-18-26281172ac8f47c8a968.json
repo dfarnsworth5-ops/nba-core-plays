@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-18",
- "updated": "2026-11-18T11:52:54-07:00",
+ "updated": "2026-11-18T12:08:02-07:00",
  "positions": [
   "PG",
   "SG",
@@ -2168,6 +2168,55 @@
    "status": "O",
    "note": "Gardner has been ruled out, which opens up around 20 minutes in the second unit.",
    "time": "1:00 PM"
+  },
+  {
+   "player": "Ryan Rollins",
+   "team": "",
+   "status": "O",
+   "note": "Rollins has been ruled out. Tyler Herro makes for a nice tournament play.",
+   "time": "2:05 PM"
+  },
+  {
+   "player": "Peyton Watson",
+   "team": "",
+   "status": "D",
+   "note": "Meleek Thomas and Mario Hezonja should benefit in his absence.",
+   "time": "2:05 PM"
+  },
+  {
+   "player": "Jaylon Tyson",
+   "team": "",
+   "status": "O",
+   "note": "Meleek Thomas and Mario Hezonja should benefit in his absence.",
+   "time": "2:05 PM"
+  },
+  {
+   "player": "Cade Cunningham",
+   "team": "",
+   "status": "Q",
+   "note": "If he's out, Daniss Jenkins becomes the top play on the slate, and the rest of the starters would see a major boost.",
+   "time": "2:05 PM"
+  },
+  {
+   "player": "Isaiah Joe",
+   "team": "",
+   "status": "Q",
+   "note": "The Pistons are already shorthanded on the wing. His absence would open up even more minutes.",
+   "time": "2:05 PM"
+  },
+  {
+   "player": "Ron Holland",
+   "team": "",
+   "status": "O",
+   "note": "Pistons will be extremely shorthanded once again.",
+   "time": "2:05 PM"
+  },
+  {
+   "player": "Taurean Prince",
+   "team": "",
+   "status": "O",
+   "note": "Pistons will be extremely shorthanded once again.",
+   "time": "2:05 PM"
   }
  ],
  "teams": [
