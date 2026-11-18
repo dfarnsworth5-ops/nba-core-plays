@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-18",
- "updated": "2026-11-18T12:08:02-07:00",
+ "updated": "2026-11-18T14:17:19-07:00",
  "positions": [
   "PG",
   "SG",
@@ -219,7 +219,7 @@
    "fd": 0,
    "proj": 51.75,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Has topped 55 fantasy points in 4 of the last 7 games. The Pistons are shorthanded at the moment.",
    "url": ""
   },
@@ -302,6 +302,21 @@
    "pos": "SG",
    "dkPos": "SG/SF",
    "fdPos": "SG",
+   "player": "Kevin Huerter",
+   "team": "DET",
+   "opp": "NOP",
+   "dk": 4900,
+   "fd": 0,
+   "proj": 25.41,
+   "type": "",
+   "status": "",
+   "blurb": "Projected for 34 minutes with the Pistons being so shorthanded.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG/SF",
+   "fdPos": "SG",
    "player": "Cam Spencer",
    "team": "MEM",
    "opp": "CLE",
@@ -374,21 +389,6 @@
    "url": ""
   },
   {
-   "pos": "SG",
-   "dkPos": "SG/SF",
-   "fdPos": "SG",
-   "player": "Kevin Huerter",
-   "team": "DET",
-   "opp": "NOP",
-   "dk": 4900,
-   "fd": 0,
-   "proj": 25.41,
-   "type": "",
-   "status": "",
-   "blurb": "Playing a ton of minutes with Detroit missing some wing players. Nice matchup against the Pelicans.",
-   "url": ""
-  },
-  {
    "pos": "SF",
    "dkPos": "SG/SF",
    "fdPos": "SF",
@@ -416,6 +416,21 @@
    "type": "",
    "status": "Q",
    "blurb": "Scottie Barnes and Kawhi Leonard are out. Should dominate usage if active.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SG/SF",
+   "fdPos": "SF",
+   "player": "Kevin Huerter",
+   "team": "DET",
+   "opp": "NOP",
+   "dk": 4900,
+   "fd": 0,
+   "proj": 25.41,
+   "type": "",
+   "status": "",
+   "blurb": "Projected for 34 minutes with the Pistons being so shorthanded.",
    "url": ""
   },
   {
@@ -452,6 +467,21 @@
    "pos": "SF",
    "dkPos": "SF/PF",
    "fdPos": "SF",
+   "player": "Mario Hezonja",
+   "team": "CLE",
+   "opp": "MEM",
+   "dk": 4500,
+   "fd": 0,
+   "proj": 16.68,
+   "type": "",
+   "status": "",
+   "blurb": "Projected for 27 minutes with the Cavaliers being shorthanded.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF/PF",
+   "fdPos": "SF",
    "player": "Yaxel Lendeborg",
    "team": "GSW",
    "opp": "DAL",
@@ -461,21 +491,6 @@
    "type": "",
    "status": "",
    "blurb": "Has scored over 40 fantasy points in 5 of the last 6 games. Sees a major boost with Stephen Curry out.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SG/SF",
-   "fdPos": "SF",
-   "player": "Michael Porter",
-   "team": "BKN",
-   "opp": "CHI",
-   "dk": 7400,
-   "fd": 0,
-   "proj": 40.25,
-   "type": "",
-   "status": "",
-   "blurb": "Projects well, but he hasn't shown a high ceiling this season. More of a lineup filler on this slate.",
    "url": ""
   },
   {
@@ -491,21 +506,6 @@
    "type": "",
    "status": "",
    "blurb": "The floor is always a concern, but he has topped 50 fantasy points in 2 of the last 3 games.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF/PF",
-   "fdPos": "SF",
-   "player": "Saddiq Bey",
-   "team": "NOP",
-   "opp": "DET",
-   "dk": 6500,
-   "fd": 0,
-   "proj": 33.39,
-   "type": "",
-   "status": "",
-   "blurb": "Should draw another start with Trey Murphy and Dejounte Murray out again.",
    "url": ""
   },
   {
@@ -536,6 +536,21 @@
    "type": "",
    "status": "",
    "blurb": "This is Wagner's world, and we are all just living in it. He has topped 54 fantasy points in 5 of the last 6 games.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "SF/PF",
+   "fdPos": "PF",
+   "player": "Mario Hezonja",
+   "team": "CLE",
+   "opp": "MEM",
+   "dk": 4500,
+   "fd": 0,
+   "proj": 16.68,
+   "type": "",
+   "status": "",
+   "blurb": "Projected for 27 minutes with the Cavaliers being shorthanded.",
    "url": ""
   },
   {
@@ -581,21 +596,6 @@
    "type": "",
    "status": "",
    "blurb": "Put up 51 fantasy points in the last game. Sees a usage boost with Ty Jerome out.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF/C",
-   "fdPos": "PF",
-   "player": "Alperen Sengun",
-   "team": "HOU",
-   "opp": "IND",
-   "dk": 9500,
-   "fd": 0,
-   "proj": 46.1,
-   "type": "",
-   "status": "",
-   "blurb": "Excellent matchup against the Pacers. Would see a boost if Amen Thompson is out again.",
    "url": ""
   },
   {
@@ -836,7 +836,7 @@
    "fd": 10200,
    "proj": 49.62,
    "type": "",
-   "status": "",
+   "status": "Q",
    "blurb": "Has topped 55 fantasy points in 4 of the last 7 games. The Pistons are shorthanded at the moment.",
    "url": ""
   },
@@ -898,6 +898,21 @@
    "type": "",
    "status": "Q",
    "blurb": "Scottie Barnes and Kawhi Leonard are out. Should dominate usage if active.",
+   "url": ""
+  },
+  {
+   "pos": "SG",
+   "dkPos": "SG",
+   "fdPos": "SG/SF",
+   "player": "Kevin Huerter",
+   "team": "DET",
+   "opp": "NOP",
+   "dk": 0,
+   "fd": 4900,
+   "proj": 25.3,
+   "type": "",
+   "status": "",
+   "blurb": "Projected for 34 minutes with the Pistons being so shorthanded.",
    "url": ""
   },
   {
@@ -976,21 +991,6 @@
    "url": ""
   },
   {
-   "pos": "SG",
-   "dkPos": "SG",
-   "fdPos": "SG",
-   "player": "Desmond Bane",
-   "team": "ORL",
-   "opp": "PHI",
-   "dk": 0,
-   "fd": 6300,
-   "proj": 32.94,
-   "type": "",
-   "status": "",
-   "blurb": "Always feels a tad underpriced on FanDuel. Hasn't shown much of a ceiling this season.",
-   "url": ""
-  },
-  {
    "pos": "SF",
    "dkPos": "SF",
    "fdPos": "SF",
@@ -1018,6 +1018,36 @@
    "type": "",
    "status": "Q",
    "blurb": "Usage is high with Kawhi Leonard out. Good price point on FanDuel.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "PF/SF",
+   "player": "Mario Hezonja",
+   "team": "CLE",
+   "opp": "MEM",
+   "dk": 0,
+   "fd": 4000,
+   "proj": 16.36,
+   "type": "",
+   "status": "",
+   "blurb": "Projected for 27 minutes with the Cavaliers being shorthanded.",
+   "url": ""
+  },
+  {
+   "pos": "SF",
+   "dkPos": "SF",
+   "fdPos": "SG/SF",
+   "player": "Kevin Huerter",
+   "team": "DET",
+   "opp": "NOP",
+   "dk": 0,
+   "fd": 4900,
+   "proj": 25.3,
+   "type": "",
+   "status": "",
+   "blurb": "Projected for 34 minutes with the Pistons being so shorthanded.",
    "url": ""
   },
   {
@@ -1081,36 +1111,6 @@
    "url": ""
   },
   {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "SF",
-   "player": "Kevin Durant",
-   "team": "HOU",
-   "opp": "IND",
-   "dk": 0,
-   "fd": 7300,
-   "proj": 36.33,
-   "type": "",
-   "status": "",
-   "blurb": "Affordable and would see a sizable boost if Amen Thompson is out again.",
-   "url": ""
-  },
-  {
-   "pos": "SF",
-   "dkPos": "SF",
-   "fdPos": "SG/SF",
-   "player": "Kevin Huerter",
-   "team": "DET",
-   "opp": "NOP",
-   "dk": 0,
-   "fd": 4900,
-   "proj": 25.3,
-   "type": "",
-   "status": "",
-   "blurb": "Playing a ton of minutes with Detroit missing some wing players. Nice matchup against the Pelicans.",
-   "url": ""
-  },
-  {
    "pos": "PF",
    "dkPos": "PF",
    "fdPos": "PF",
@@ -1138,6 +1138,21 @@
    "type": "",
    "status": "",
    "blurb": "Scottie Barnes and Kawhi Leonard are out. RJ Barrett is questionable. Should see a boost in usage and minutes.",
+   "url": ""
+  },
+  {
+   "pos": "PF",
+   "dkPos": "PF",
+   "fdPos": "PF/SF",
+   "player": "Mario Hezonja",
+   "team": "CLE",
+   "opp": "MEM",
+   "dk": 0,
+   "fd": 4000,
+   "proj": 16.36,
+   "type": "",
+   "status": "",
+   "blurb": "Projected for 27 minutes with the Cavaliers being shorthanded.",
    "url": ""
   },
   {
@@ -1213,21 +1228,6 @@
    "type": "",
    "status": "",
    "blurb": "Put up 51 fantasy points in the last game. Sees a usage boost with Ty Jerome out.",
-   "url": ""
-  },
-  {
-   "pos": "PF",
-   "dkPos": "PF",
-   "fdPos": "PF/C",
-   "player": "John Collins",
-   "team": "DET",
-   "opp": "NOP",
-   "dk": 0,
-   "fd": 4700,
-   "proj": 25.81,
-   "type": "",
-   "status": "",
-   "blurb": "The floor is a concern, but he's starting and has 30+ fantasy points in his range of outcomes.",
    "url": ""
   },
   {
@@ -1355,16 +1355,8 @@
   {
    "player": "Austin Reaves",
    "team": "LAL",
-   "status": "Q",
+   "status": "O",
    "note": "Heel",
-   "updated": "",
-   "impact": 10
-  },
-  {
-   "player": "Walker Kessler",
-   "team": "LAL",
-   "status": "Q",
-   "note": "Leg",
    "updated": "",
    "impact": 10
   },
@@ -1433,6 +1425,14 @@
    "impact": 10
   },
   {
+   "player": "Cade Cunningham",
+   "team": "DET",
+   "status": "Q",
+   "note": "Knee",
+   "updated": "",
+   "impact": 10
+  },
+  {
    "player": "Duncan Robinson",
    "team": "DET",
    "status": "O",
@@ -1443,7 +1443,7 @@
   {
    "player": "Jaxson Hayes",
    "team": "UTA",
-   "status": "D",
+   "status": "Q",
    "note": "Knee",
    "updated": "",
    "impact": 9
@@ -1553,9 +1553,17 @@
    "impact": 6
   },
   {
-   "player": "Ron Holland",
+   "player": "Isaiah Joe",
    "team": "DET",
    "status": "Q",
+   "note": "Hip",
+   "updated": "",
+   "impact": 6
+  },
+  {
+   "player": "Ron Holland",
+   "team": "DET",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 5
@@ -1611,7 +1619,7 @@
   {
    "player": "Taurean Prince",
    "team": "DET",
-   "status": "Q",
+   "status": "O",
    "note": "Knee",
    "updated": "",
    "impact": 3
@@ -1647,14 +1655,6 @@
    "note": "Ankle",
    "updated": "",
    "impact": 3
-  },
-  {
-   "player": "Isaiah Joe",
-   "team": "DET",
-   "status": "D",
-   "note": "Hip",
-   "updated": "",
-   "impact": 2
   },
   {
    "player": "Clint Capela",
