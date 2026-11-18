@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-18",
- "updated": "2026-11-18T09:04:26-07:00",
+ "updated": "2026-11-18T09:31:37-07:00",
  "positions": [
   "PG",
   "SG",
@@ -121,8 +121,8 @@
    "fav": "BOS",
    "spread": -2.5,
    "total": 220.5,
-   "dk": "",
-   "fd": ""
+   "dk": "L",
+   "fd": "L"
   },
   {
    "away": "Phoenix Suns",
@@ -132,8 +132,8 @@
    "fav": "PHO",
    "spread": -6.5,
    "total": 225.5,
-   "dk": "",
-   "fd": ""
+   "dk": "L",
+   "fd": "L"
   },
   {
    "away": "Utah Jazz",
@@ -143,8 +143,8 @@
    "fav": "LAL",
    "spread": -10.5,
    "total": 228.5,
-   "dk": "",
-   "fd": ""
+   "dk": "L",
+   "fd": "L"
   }
  ],
  "plays": [],
@@ -759,7 +759,148 @@
    "impact": 1
   }
  ],
- "news": [],
+ "news": [
+  {
+   "player": "Amen Thompson",
+   "team": "HOU",
+   "status": "Q",
+   "note": "Tari Eason started with Thompson out on Monday. Kevin Durant, Fred VanVleet, Reed Sheppard, and Alperen Sengun would also see a boost if he's out again.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Dejounte Murray",
+   "team": "",
+   "status": "O",
+   "note": "He's been out for a few games. Jeremiah Fears will continue to start and play big minutes.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Ty Jerome",
+   "team": "",
+   "status": "O",
+   "note": "Cam Spencer will continue to start, while Javon Small will have a much bigger role off the bench.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Evan Mobley",
+   "team": "",
+   "status": "O",
+   "note": "The Cavaliers will likely play small with Tyrese Proctor drawing a spot start. Mobley's absence also gives a boost to Jarrett Allen.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Jaylen Brown",
+   "team": "",
+   "status": "O",
+   "note": "Spot start for Dean Wade. Joel Embiid and Tyrese Maxey see the biggest usage boosts with Brown out.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Stephen Curry",
+   "team": "",
+   "status": "O",
+   "note": "Big boost to all of the starters. L.J. Cryer will likely draw another spot start.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Duncan Robinson",
+   "team": "",
+   "status": "O",
+   "note": "Daniss Jenkins and Kevin Huerter will continue to play big minutes with Robinson out.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Trey Murphy",
+   "team": "",
+   "status": "O",
+   "note": "Saddiq Bey will likely draw another spot start. Usage boosts for Zion Williamson and Jeremiah Fears.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "C.J. McCollum",
+   "team": "",
+   "status": "O",
+   "note": "More minutes are open in the second unit. Aaron Wiggins is likely the biggest beneficiary.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Kingston Flemings",
+   "team": "",
+   "status": "O",
+   "note": "Lu Dort will likely draw the spot start. Lot of minutes to go around with McCollum also out.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Andrew Nembhard",
+   "team": "IND",
+   "status": "Q",
+   "note": "With Tyrese Haliburton out, Nembhard's absence would open up a ton of minutes in the backcourt and usage in the offense.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Draymond Green",
+   "team": "GSW",
+   "status": "Q",
+   "note": "If he's out, we can expect small boosts for De'Anthony Melton, Al Horford, and Georges Niang.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Caleb Wilson",
+   "team": "",
+   "status": "O",
+   "note": "Matas Buzelis and Jalen Smith should both see an uptick in usage and FP/min. production.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Peyton Watson",
+   "team": "CLE",
+   "status": "Q",
+   "note": "Meleek Thomas and Mario Hezonja will see a boost if Watson is out.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Jaylon Tyson",
+   "team": "",
+   "status": "D",
+   "note": "Meleek Thomas and Mario Hezonja will see a boost if Tyson is out.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Al Horford",
+   "team": "",
+   "status": "Q",
+   "note": "His absence would open up 15-20 minutes in the frontcourt.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Ron Holland",
+   "team": "",
+   "status": "Q",
+   "note": "Duncan Robinson and Daniss Jenkins would see a small uptick in minutes.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Myron Gardner",
+   "team": "",
+   "status": "Q",
+   "note": "His absence would open up 20 minutes in the second unit.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Isaiah Stewart",
+   "team": "",
+   "status": "O",
+   "note": "Safer minute floor for Zach Edey.",
+   "time": "11:15 AM"
+  },
+  {
+   "player": "Sam Merrill",
+   "team": "",
+   "status": "Q",
+   "note": "Meleek Thomas and Mario Hezonja will see a boost if Merrill is out.",
+   "time": "11:15 AM"
+  }
+ ],
  "teams": [
   [
    "Aaron Gordon",
