@@ -4,7 +4,7 @@
  "slate": "12 games · 7:00 PM ET lock",
  "note": "",
  "iso": "2026-11-18",
- "updated": "2026-11-18T10:58:49-07:00",
+ "updated": "2026-11-18T11:04:10-07:00",
  "positions": [
   "PG",
   "SG",
@@ -1222,6 +1222,20 @@
    "status": "Q",
    "note": "If he's out, we can stack the Raptors. If he's active, he should dominate usage.",
    "time": "12:50 PM"
+  },
+  {
+   "player": "Dean Wade",
+   "team": "",
+   "status": "Q",
+   "note": "Wade is questionable. If he's out, Kentavious Caldwell-Pope or Jabari Walker would likely start.",
+   "time": "1:00 PM"
+  },
+  {
+   "player": "Myron Gardner",
+   "team": "",
+   "status": "O",
+   "note": "Gardner has been ruled out, which opens up around 20 minutes in the second unit.",
+   "time": "1:00 PM"
   }
  ],
  "teams": [
